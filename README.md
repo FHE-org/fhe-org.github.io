@@ -15,5 +15,5 @@
 
 <p align="center">If you want to learn more about FHE, make sure to:</p>
 
-<p align="center">Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/RESOURCES.md">resources page</a> | Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/USE-CASES.md">use cases page</a> | Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a> | Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
+<p align="center">Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/RESOURCES.md">resources page</a> | Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/FHE-USE-CASES.md">use cases page</a> | Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a> | Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
 </>
