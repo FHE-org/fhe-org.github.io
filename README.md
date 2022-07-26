@@ -12,9 +12,9 @@
 <h1 align="center">Welcome!</h1>
   
 <p align="center">
-We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques. If you want to learn more about FHE, make sure to check the [resources page](/resources.md) and signup to our <a href="https://fheorg.substack.com/" target="_blank">newsletter</a>!
+We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques. If you want to learn more about FHE, make sure to check the [resources page](/FHE-org/fhe-org/blob/main/resources.md) and signup to our <a href="https://fheorg.substack.com/" target="_blank">newsletter</a>!
 </p>
 
 <p align="center">
-Visit the official FHE.org <a href="https://fhe.org">website</a> and join the community on <a href="https://discord.gg/fvZ48443zD" target="_blank">Discord</a>
+Visit the official FHE.org <a href="https://fhe.org">website</a> and join the community on <a href="https://discord.gg/fvZ48443zD" target="_blank">Discord</a>.
 </p>
