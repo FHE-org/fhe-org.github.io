@@ -21,7 +21,6 @@ A curated list of resources about Fully Homomorphic Encryption.
 
 ## FHE Engineering
 - <a href="https://fhe.org/talks/Single-Trace-Side-Channel-Attack-on-SEAL-Homomorphic-Encryption-Library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by Furkan Aydin - 28.04.2022
-
 - <a href="https://fhe.org/talks/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a> by Muhammad Haris - 25.02.2022
 - <a href="https://fhe.org/talks/fhe-at-the-speed-of-light">FHE at the speed of light</a> by Florent Michel - 21.12.2021
 - <a href="https://fhe.org/talks/why-we-need-revolutionary-hardware-for-fhe">Why we need revolutionnary hardware for FHE</a> by Rosario Cammarota - 23.11.2021
@@ -31,14 +30,11 @@ A curated list of resources about Fully Homomorphic Encryption.
 
 ## Tutorials
 - <a href="https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40">Encrypted search using Fully Homomorphic Encryption</a> - 03.11.2021
-
 - <a href="https://medium.com/p/f2bcfd614131/">Concrete Boolean and Conway's Game of Life</a> - 30.09.2021
-
 - <a href="/talks/running-numpy-programs-homomorphically-by-rand-hindi-ayoub-benaissa-and-samuel-tap" target="">Homomorphic Machine Learning using Numpy & Concrete</a> - 26.08.2021
 
 ## Non-technical Content
 - <a href="https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation">Data governance is in desperate need of innovation</a> by Jeremy Bradley and Lorrayne Porciuncula - 22.12.2021
-
 - <a href="https://www.zama.ai/post/homomorphic-encryption-101">Homomorphic Encryption 101</a> by Dr Marc Joye - 01.12.2021
 - <a href="https://6min.zama.ai/" target="_blank">6-minute introduction to end to end encryption</a> and try out an FHE demo for yourself - 15.09.2021
 - <a href="https://www.zama.ai/post/people-should-not-care-about-privacy" target="_blank">People shouldn't care about privacy</a> by Dr Rand Hindi - 26.08.2021
