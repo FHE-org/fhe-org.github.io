@@ -12,7 +12,7 @@
 <h1 align="center">Welcome!</h1>
   
 <p align="center">
-We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques. If you want to learn more about FHE, make sure to check the [resources page](/FHE-org/fhe-org/blob/main/resources.md) and signup to our <a href="https://fheorg.substack.com/" target="_blank">newsletter</a>!
+We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques. If you want to learn more about FHE, make sure to check the <a href="https://github.com/FHE-org/fhe-org/blob/main/resources.md">resources page</a> and signup to our <a href="https://fheorg.substack.com/" target="_blank">newsletter</a>!
 </p>
 
 <p align="center">
