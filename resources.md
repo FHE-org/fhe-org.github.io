@@ -36,4 +36,4 @@
 - <a href="https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation">Data governance is in desperate need of innovation</a> by Jeremy Bradley and Lorrayne Porciuncula - 22.12.2021
 - <a href="https://www.zama.ai/post/homomorphic-encryption-101">Homomorphic Encryption 101</a> by Dr Marc Joye - 01.12.2021
 - <a href="https://6min.zama.ai/" target="_blank">6-minute introduction to end to end encryption</a> and try out an FHE demo for yourself - 15.09.2021
-- <a href="https://www.zama.ai/post/people-should-not-care-about-privacy" target="_blank">People shouldn't care about privacy</a> by Dr Rand Hindi - 26.08.2021
+- <a href="https://www.zama.ai/post/people-should-not-care-about-privacy" target="_blank">People shouldn't care about privacy</a> by Dr Rand Hindi - 26.08.2021 
