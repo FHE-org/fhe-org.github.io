@@ -5,7 +5,9 @@
 <a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
 </p>
 
-![BLUE-FULL](https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png)
+<p align="center">
+<img width="800" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"> 
+</p>
 
 <h1 align="center">Welcome!</h1>
   
