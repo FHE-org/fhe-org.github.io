@@ -16,5 +16,5 @@ We are a community of researchers and developers interested in advancing homomor
 </p>
 
 <p align="center">
-Visit the official <a href="https://fhe.org">FHE.org website</a> and join the community on <a href="https://discord.gg/fvZ48443zD" target="_blank">Discord</a>
+Visit the official FHE.org <a href="https://fhe.org">website</a> and join the community on <a href="https://discord.gg/fvZ48443zD" target="_blank">Discord</a>
 </p>
