@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.fhe.org"><img src="https://img.shields.io/badge/Visit-Website-%231231EA"></a>
+<a href="https://fhe.org"><img src="https://img.shields.io/badge/Visit-Website-%231231EA"></a>
 <a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
 <a href="https://twitter.com/fhe_org"><img src="https://img.shields.io/badge/Follow-on%20Twitter-%2300acee"></a>
 <a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
