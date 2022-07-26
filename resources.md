@@ -12,7 +12,6 @@ A curated list of resources about Fully Homomorphic Encryption.
 ## FHE Cryptography Theory
 - <a href="https://fhe.org/talks/homomorphic-large-precision-integers-using-concrete" target="_blank">Homomorphic Large Precision Integers Using Concrete
 </a> by Jean-Baptiste Orfila (Zama) - 07.07.2022
-
 - <a href="https://courses.openmined.org/courses/foundations-of-private-computation" target="_blank">Foundations of Private Computation</a> by Open Mined
 - <a href="https://fhe.org/talks/verifiable-computation-over-encrypted-data" target="_blank">Verifiable Computation over Encrypted Data: SNARKs and more</a> by Anca Nitulescu - 29.03.2022
 - <a href="https://fhe.org/talks/hybrid-homomorphic-encryption-by-orel-cosseron-and-clement-hoffmann" target="_blank">An overview of Hybrid Homomorphic Encryption</a> by Orel Cosseron and Clément Hoffman - 20.01.2022
