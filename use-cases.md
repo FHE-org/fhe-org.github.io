@@ -1,4 +1,4 @@
-# FHE.org - Use cases
+# FHE.org - Use cases <a href="https://fhe.org"><img src="https://img.shields.io/badge/Visit-Website-%231231EA"></a>
 > A curated list of use cases and application of Fully Homomorphic Encryption.
 
 ## Use cases and applications
