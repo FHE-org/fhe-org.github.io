@@ -1,5 +1,5 @@
 # FHE.org/resources <a href="https://fhe.org"><img src="https://img.shields.io/badge/Visit-Website-%231231EA"></a>
-A curated list of resources about Fully Homomorphic Encryption.
+> A curated list of resources about Fully Homomorphic Encryption.
 
 ## FHE Libraries
 - <a href="https://github.com/zama-ai/concrete">Concrete</a> - Rust FHE library that implements Zama's variant of TFHE.
