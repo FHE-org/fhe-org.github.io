@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<img width="800" align="center" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"> 
+<img width="400" align="center" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"> 
 <br/>
 </p>
 
