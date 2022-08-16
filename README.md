@@ -14,54 +14,57 @@
 
 <p>If you want to learn more about FHE, make sure to:</p>
 
-<p>Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/RESOURCES.md">resources page</a> | Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/FHE-USE-CASES.md">use cases page</a> | Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a> | Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a></p>
+- Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/RESOURCES.md">resources page</a>
+- Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/FHE-USE-CASES.md">use cases page</a>
+- Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a>
+- Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
 
 # <img src="https://user-images.githubusercontent.com/5758427/184885295-314a606b-4cfd-49d8-bf44-8e19ea5c666d.png" width="30px"> Previous events
 
 ###### 07.07.2022
-Homomorphic Large Precision Integers Using Concrete by Jean-Baptiste Orfila
+- Homomorphic Large Precision Integers Using Concrete by Jean-Baptiste Orfila
 
 ###### 29.05.2022
-FHE.org conference 2022 by The FHE.org team
+- FHE.org conference 2022 by The FHE.org team
 
 ###### 28.04.2022
-Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library by Furkan Aydin
+- Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library by Furkan Aydin
 
 ###### 29.03.2022
-Verifiable Computation over Encrypted Data: SNARKs and more by Anca Nitulescu
+- Verifiable Computation over Encrypted Data: SNARKs and more by Anca Nitulescu
 
 ###### 25.02.2022
-Single-server private information retrieval using homomorphic encryption by Muhammad Haris
+- Single-server private information retrieval using homomorphic encryption by Muhammad Haris
 
 ###### 20.01.2022
-An overview of Hybrid Homomorphic Encryption by Orel Cosseron and Clément Hoffmann
+- An overview of Hybrid Homomorphic Encryption by Orel Cosseron and Clément Hoffmann
 
 ###### 21.12.2021
-FHE at the speed of light by Florent Michel
+- FHE at the speed of light by Florent Michel
 
 ###### 23.11.2021
-Why we need revolutionary hardware for FHE by Rosario Cammarota
+- Why we need revolutionary hardware for FHE by Rosario Cammarota
 
 ###### 30.09.2021
-Private Set Intersection via somewhat homomorphic encyrption by Ilia Iliashenko
+- Private Set Intersection via somewhat homomorphic encyrption by Ilia Iliashenko
 
 ###### 30.09.2021
-Running Numpy programs homomorphically by Rand Hindi, Ayoub Benaissa and Samuel Tap
+- Running Numpy programs homomorphically by Rand Hindi, Ayoub Benaissa and Samuel Tap
 
 ###### 26.08.2021
-Google's C++ to FHE Transpiler by Shruthi Gorantala and Rob Springer
+- Google's C++ to FHE Transpiler by Shruthi Gorantala and Rob Springer
 
 ###### 20.05.2021
-FHE development tools by Alexander Viand
+- FHE development tools by Alexander Viand
 
 ###### 15.04.2021
-TFHE deep dive by Ilaria Chillotti
+- TFHE deep dive by Ilaria Chillotti
 
 ###### 27.01.2021
-Introduction to MPC by Yehuda Lindell
+- Introduction to MPC by Yehuda Lindell
 
 ###### 04.11.2020
-Introduction to FHE by Pascal Paillier
+- Introduction to FHE by Pascal Paillier
 
 <!-- Footer link badges -->
 <hr/>
