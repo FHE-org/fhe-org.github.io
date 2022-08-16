@@ -1,21 +1,14 @@
 <!-- Header links -->
-<p align="center">
-  <a href="">Resources</a>
-  <a href="">Conferences</p>
-  <a href="">Discord</a>
-  <a href="">Newsletter</a>
-</p>
+<h3 align="center">
+  <a href="">Resources</a> | <a href="">Conferences</a> | <a href="">Discord</a> | <a href="">Newsletter</a>
+</h3>
 
 <p align="center">
 <img width="800" align="center" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"> 
-<a href="https://fhe.org"><img src="https://img.shields.io/badge/Visit-Website-%231231EA"></a>
-<a href="https://zamafhe.substack.com"><img src="https://img.shields.io/badge/Subscribe-to%20Newsletter-blue"></a>
-<a href="https://twitter.com/fhe_org"><img src="https://img.shields.io/badge/Follow-on%20Twitter-%2300acee"></a>
-<a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
-<a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
+<br/>
 </p>
 
-# Welcome
+# 👋 Welcome
   
 <p>We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques.</p>
 
@@ -69,3 +62,12 @@ Introduction to MPC by Yehuda Lindell
 
 ###### 04.11.2020
 Introduction to FHE by Pascal Paillier
+
+<!-- Footer link badges -->
+<hr/>
+<p align="center">
+<a href="https://zamafhe.substack.com"><img src="https://img.shields.io/badge/Subscribe-to%20Newsletter-blue"></a>
+<a href="https://twitter.com/fhe_org"><img src="https://img.shields.io/badge/Follow-on%20Twitter-%2300acee"></a>
+<a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
+<a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
+</p>
