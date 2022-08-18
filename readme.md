@@ -20,7 +20,7 @@
 - Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a>
 - Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
 
-Note that we welcome any contributinos to these pages above, simply open a PR on Github to add your links: https://github.com/fhe-org
+Note that we welcome any contributinos to these pages above, simply open a PR on the <a href="https://github.com/fhe-org">Github repo</a> to add your links.
 
 # <img src="https://user-images.githubusercontent.com/5758427/185471545-dd2e486f-cbdc-41eb-befa-9480a603b5ed.png" width="30px"> Next events
 Back on september
