@@ -1,4 +1,4 @@
-{% include header.html %}
+{% include header.md %}
 
 
 #### The call for presentations is now closed. See the full program and accepted posters here.
