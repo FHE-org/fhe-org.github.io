@@ -1,7 +1,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  color: red;
-  text-align: left;
-  background-color: blue;
+  color: red !important;
+  text-align: left !important;
+  background-color: red !important;
 }
