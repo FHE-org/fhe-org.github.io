@@ -9,7 +9,7 @@
 
 # 👋 Welcome
   
-<p>We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques.</p>
+<p>We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.</p>
 
 <p>If you want to learn more about FHE, make sure to:</p>
 
