@@ -72,7 +72,7 @@ Back on september
 ###### 04.11.2020
 - Introduction to FHE by Pascal Paillier
 
-<!-- Footer link badges -->
+<!-- Footer links -->
 <hr/>
 <p align="center">
 <a href="https://zamafhe.substack.com"><img src="https://img.shields.io/badge/Subscribe-to%20Newsletter-blue"></a>
@@ -80,3 +80,4 @@ Back on september
 <a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
 <a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
 </p>
+<!-- /Footer links -->
