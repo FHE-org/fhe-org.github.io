@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 
 # FHE resources
 > A curated list of resources about Fully Homomorphic Encryption.
