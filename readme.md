@@ -18,6 +18,9 @@
 - Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a>
 - Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
 
+# <img src="https://user-images.githubusercontent.com/5758427/185471545-dd2e486f-cbdc-41eb-befa-9480a603b5ed.png" width="30px"> Next events
+Back on september
+
 # <img src="https://user-images.githubusercontent.com/5758427/184885295-314a606b-4cfd-49d8-bf44-8e19ea5c666d.png" width="30px"> Previous events
 
 ###### 07.07.2022
