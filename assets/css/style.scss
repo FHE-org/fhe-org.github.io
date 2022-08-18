@@ -1,8 +1,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  color: $header-heading-color;
-  text-align: center;
+  color: red;
+  text-align: left;
   background-color: blue;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 }
