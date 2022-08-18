@@ -1,5 +1,5 @@
 
-# FHE.org/resources <a href="https://fhe.org"><img src="https://img.shields.io/badge/Visit-Website-%231231EA"></a>
+# FHE resources
 > A curated list of resources about Fully Homomorphic Encryption.
 
 ## FHE Libraries
