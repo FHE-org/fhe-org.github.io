@@ -26,3 +26,13 @@
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow. - 26.04.2022
 
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library. - 10.03.2022
+
+<!-- Footer links -->
+<hr/>
+<p align="center">
+<a href="https://zamafhe.substack.com"><img src="https://img.shields.io/badge/Subscribe-to%20Newsletter-blue"></a>
+<a href="https://twitter.com/fhe_org"><img src="https://img.shields.io/badge/Follow-on%20Twitter-%2300acee"></a>
+<a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
+<a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
+</p>
+<!-- /Footer links -->
