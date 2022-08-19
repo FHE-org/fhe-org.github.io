@@ -7,13 +7,13 @@
 <!-- /Header links -->
 <!-- header conference 2022 links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/conferences/conference-2022/index"><b>Index</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2022/index">Index</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2022/call-for-presentations">Call for presentations</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2022/committees">Committees</a>
   —
-  <a href="https://easychair.org/conferences/?conf=fheorg2022" target="_blank">Submissions</a>
+  <a href="https://easychair.org/conferences/?conf=fheorg2022" target="_blank"><b>Submissions</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2022/program">Program</a>
   —
