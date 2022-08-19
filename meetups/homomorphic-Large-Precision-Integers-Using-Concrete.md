@@ -1,3 +1,11 @@
+<!-- Header links -->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/fhe-resources">Resources</a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences">Conferences</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
+</p>
+<hr/>
+<!-- /Header links -->
+
 # Homomorphic Large Precision Integers Using Concrete
 #### by Jean-Baptiste Orfila 07.07.2022
 #### <a href="https://www.youtube.com/watch?v=50zE42Lzbd8">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1aJCfhIpAk8unQ8BKof3C3cHlVzse1qpD/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
