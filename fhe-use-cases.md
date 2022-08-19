@@ -16,7 +16,7 @@
 
 - <a href="https://github.com/ldsec/lattigo-polls-demo" target="_blank">lattigo-polls</a> — Web-application for scheduling meetings using <a href="https://github.com/tuneinsight/lattigo">lattigo</a>. - 07.06.2022
 
-- <a href="https://github.com/Georeactor/encrypted-geofence">Spiral wiki</a> — Read Wikipedia privately using homomorphic encryption. - 24.05.2022
+- <a href="https://spiralwiki.com/">Spiral wiki</a> — Read Wikipedia privately using homomorphic encryption. - 24.05.2022
 
 - <a href="https://github.com/Georeactor/encrypted-geofence">crypto-geofence</a> — Geo-fencing demo application based on Paillier scheme. - 10.04.2019
 
