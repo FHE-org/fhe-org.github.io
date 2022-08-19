@@ -5,13 +5,28 @@
 </p>
 <hr/>
 <!-- /Header links -->
+<!-- header conference 2022 links -->
+<p align="center">
+  <b><a href="https://fhe-org.github.io/conferences/conference-2022/index">Index</a></b>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/call-for-presentations">Call for presentations</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/committees">Committees</a>
+  —
+  <a href="https://easychair.org/conferences/?conf=fheorg2022" target="_blank">Submissions</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/program">Program</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/contact">Contact</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/resources"><b>Resources</b></a>
+</p>
+<!-- /header conference 2022 links -->
 
 > **Warning** 
 > 2022 edition is over, you can find the resources from the conference <a href="https://fhe-org.github.io/conferences/conference-2022/resources">here</a>.
 
-Home — Call for presentations — Committees — Submissions — Program — Contact — Resources
-
-# FHE.org 2022
+# FHE.org conference 2022
 The 1st Annual FHE.org Conference on Fully Homomorphic Encryption. It is affiliated with EUROCRYPT 2022 and will be held in Trondheim (Norway) on May 29, 2022.
 
 # Important dates
@@ -21,9 +36,9 @@ The 1st Annual FHE.org Conference on Fully Homomorphic Encryption. It is affilia
 
 # Sponsors
 FHE.org 2022 gratefully acknowledges the financial support of:
-- Omnia
-- Optalysys
-- Zama
+- <img src="https://user-images.githubusercontent.com/5758427/185637692-ee0f87e2-71d1-45a9-b640-df1916bf8ec3.png" width="20px"> Omnia
+- <img src="https://user-images.githubusercontent.com/5758427/185637890-8d0673ff-c839-47c5-967d-4b0577cd334d.png" width="20px"> Optalysys
+- <img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="20px"> Zama
 
 # Latest updates
 - 10.06.2022: We just posted the resources from the 2022 conference here.
