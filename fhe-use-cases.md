@@ -14,8 +14,6 @@
 
 - <a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741" target="_blank">Titanic ML from disaster</a> — Building a predictive model over encrypted data with <a href="https://github.com/microsoft/SEAL">Concrete-ML</a>. - 07.07.2022
 
-- <a href="https://github.com/ldsec/lattigo-polls-demo">lattigo-polls</a> — Web-application for scheduling meetings using <a href="https://github.com/tuneinsight/lattigo">lattigo</a>. - 07.06.2022
-
 - <a href="https://github.com/ldsec/lattigo-polls-demo" target="_blank">lattigo-polls</a> — Web-application for scheduling meetings using <a href="https://github.com/tuneinsight/lattigo">lattigo</a>. - 07.06.2022
 
 - <a href="https://github.com/Georeactor/encrypted-geofence">Spiral wiki</a> — Read Wikipedia privately using homomorphic encryption. - 24.05.2022
