@@ -20,8 +20,8 @@
 Note that <b>we welcome any contribution to the pages above</b>, simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your links.
 
 # <img src="https://user-images.githubusercontent.com/5758427/185471545-dd2e486f-cbdc-41eb-befa-9480a603b5ed.png" width="30px"> Next events
-> **Note**
-> We'll be back to our regular schedule in September
+> **Note**:
+> we'll be back to our regular schedule in September
 
 # <img src="https://user-images.githubusercontent.com/5758427/184885295-314a606b-4cfd-49d8-bf44-8e19ea5c666d.png" width="30px"> Previous events
 
