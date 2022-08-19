@@ -6,7 +6,7 @@
 <hr/>
 <!-- /Header links -->
 
-# FHE resources <a href="https://github.com/fhe-org/fhe-org"><img src="https://img.shields.io/badge/Submit-resource-%231231EA"></a>
+# FHE resources <a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/fhe-resources.md"><img src="https://img.shields.io/badge/Submit-resource-%231231EA"></a>
 > A curated list of resources about Fully Homomorphic Encryption.
 
 ## FHE Libraries
