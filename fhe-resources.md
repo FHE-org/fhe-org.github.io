@@ -18,21 +18,21 @@
 
 
 ## FHE Cryptography Theory
-- <a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete" target="_blank">Homomorphic Large Precision Integers Using Concrete
+- <a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete">Homomorphic Large Precision Integers Using Concrete
 </a> by Jean-Baptiste Orfila (Zama) - 07.07.2022
-- <a href="https://courses.openmined.org/courses/foundations-of-private-computation" target="_blank">Foundations of Private Computation</a> by Open Mined
-- <a href="https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more" target="_blank">Verifiable Computation over Encrypted Data: SNARKs and more</a> by Anca Nitulescu - 29.03.2022
-- <a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption" target="_blank">An overview of Hybrid Homomorphic Encryption</a> by Orel Cosseron and Clément Hoffman - 20.01.2022
-- <a href="https://fhe-org.github.io/meetups/tfhe-deep-dive" target="_blank">TFHE deep dive</a> by Dr Ilaria Chillotti - 15.04.2021
-- <a href="https://fhe-org.github.io/meetups/introduction-to-fhe" target="_blank">Introduction to homomorphic encryption</a> by Pascal Paillier - 04.11.2020
+- <a href="https://courses.openmined.org/courses/foundations-of-private-computation">Foundations of Private Computation</a> by Open Mined
+- <a href="https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more">Verifiable Computation over Encrypted Data: SNARKs and more</a> by Anca Nitulescu - 29.03.2022
+- <a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption">An overview of Hybrid Homomorphic Encryption</a> by Orel Cosseron and Clément Hoffman - 20.01.2022
+- <a href="https://fhe-org.github.io/meetups/tfhe-deep-dive">TFHE deep dive</a> by Dr Ilaria Chillotti - 15.04.2021
+- <a href="https://fhe-org.github.io/meetups/introduction-to-fhe">Introduction to homomorphic encryption</a> by Pascal Paillier - 04.11.2020
 
 ## FHE Engineering
 - <a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by Furkan Aydin - 28.04.2022
 - <a href="https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a> by Muhammad Haris - 25.02.2022
 - <a href="https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light">FHE at the speed of light</a> by Florent Michel - 21.12.2021
 - <a href="https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe">Why we need revolutionnary hardware for FHE</a> by Rosario Cammarota - 23.11.2021
-- <a href="https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler" target="_blank">Google's C++ to FHE compiler</a> by Shruthi Gorantala and Rob Springer - 26.08.2021
-- <a href="https://fhe-org.github.io/meetups/fhe-development-tools" target="_blank">Developer Tools & Compilers</a> by Alexander Viand - 20.05.2021
+- <a href="https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler">Google's C++ to FHE compiler</a> by Shruthi Gorantala and Rob Springer - 26.08.2021
+- <a href="https://fhe-org.github.io/meetups/fhe-development-tools">Developer Tools & Compilers</a> by Alexander Viand - 20.05.2021
 - <a href="https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption">Private set intersection via somewhat homomorphic encryption</a> by Ilia Iliashenko - 15.04.2021
 
 ## Tutorials
@@ -43,8 +43,8 @@
 ## Non-technical Content
 - <a href="https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation">Data governance is in desperate need of innovation</a> by Jeremy Bradley and Lorrayne Porciuncula - 22.12.2021
 - <a href="https://www.zama.ai/post/homomorphic-encryption-101">Homomorphic Encryption 101</a> by Dr Marc Joye - 01.12.2021
-- <a href="https://6min.zama.ai/" target="_blank">6-minute introduction to end to end encryption</a> and try out an FHE demo for yourself - 15.09.2021
-- <a href="https://www.zama.ai/post/people-should-not-care-about-privacy" target="_blank">People shouldn't care about privacy</a> by Dr Rand Hindi - 26.08.2021 
+- <a href="https://6min.zama.ai/">6-minute introduction to end to end encryption</a> and try out an FHE demo for yourself - 15.09.2021
+- <a href="https://www.zama.ai/post/people-should-not-care-about-privacy">People shouldn't care about privacy</a> by Dr Rand Hindi - 26.08.2021 
 
 <!-- Footer links -->
 <hr/>
