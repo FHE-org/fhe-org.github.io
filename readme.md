@@ -1,7 +1,8 @@
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>Conferences</summary>
 <br>
-Well, you asked for it!
+Conference 2022
+Conference 2023
 </details>
 
 <!-- Header links -->
