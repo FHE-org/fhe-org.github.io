@@ -1,4 +1,5 @@
 # Homomorphic Large Precision Integers Using Concrete
+#### by Jean-Baptiste Orfila 07.07.2022
 #### <a href="https://www.youtube.com/watch?v=50zE42Lzbd8">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1aJCfhIpAk8unQ8BKof3C3cHlVzse1qpD/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 ![Meetup event cover (1)](https://user-images.githubusercontent.com/5758427/185574017-2b6f1c7c-11df-4408-87b5-2b22f5d3eebe.jpg)
 
