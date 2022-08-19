@@ -12,8 +12,8 @@
 
 <p>If you want to learn more about FHE, make sure to:</p>
 
-- Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/RESOURCES.md">resources page</a>
-- Check the <a href="https://github.com/FHE-org/fhe-org/blob/main/FHE-USE-CASES.md">use cases page</a>
+- Check the <a href="https://fhe-org.github.io/fhe-resources">resources page</a>
+- Check the <a href="https://fhe-org.github.io/fhe-use-cases">use cases page</a>
 - Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a>
 - Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
 
