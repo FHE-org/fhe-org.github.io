@@ -11,7 +11,6 @@
 
 #### <a href="https://www.youtube.com/watch?v=m0TlhZc0BwM">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1-FmKpWs9mspHTYdLPj39W1G67ZYlynhm/view">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-
 # Abstract
 In this talk we will consider the setting in which an untrusted server stores a collection of encrypted data and is asked to compute a function over it and prove the result is correct. This problem is addressed by verifiable and private delegation of computation, a notion that is close to both the active areas of fully homomorphic encryption and verifiable computation.
 
