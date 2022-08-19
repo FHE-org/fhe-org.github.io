@@ -29,7 +29,7 @@ Note that <b>we welcome any contribution to the pages above</b>, simply open a P
 - <a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete">Homomorphic Large Precision Integers Using Concrete</a> by Jean-Baptiste Orfila
 
 ###### 29.05.2022
-- <a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption">FHE.org conference 2022</a> by The FHE.org team
+- <a href="https://fhe-org.github.io/conferences/conference-2022/resources">FHE.org conference 2022</a> by The FHE.org team
 
 ###### 28.04.2022
 - <a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by Furkan Aydin
