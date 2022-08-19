@@ -6,7 +6,7 @@
 <hr/>
 <!-- /Header links -->
 
-# 👋 Welcome
+# Welcome
   
 <p>We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.</p>
 
