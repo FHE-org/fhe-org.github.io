@@ -24,5 +24,4 @@
 <!-- /header conference 2022 links -->
 
 # FHE.org conference 2022
-
-## Submissions are done via easycher, head over here: https://easychair.org/account/signin?l=xVfkfNP2eDaQ5HMcmxwpd5
+Submissions are done via easychair here: https://easychair.org/account/signin?l=xVfkfNP2eDaQ5HMcmxwpd5
