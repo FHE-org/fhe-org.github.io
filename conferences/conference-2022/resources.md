@@ -23,9 +23,9 @@
 </p>
 <!-- /header conference 2022 links -->
 
-<img src="https://res.cloudinary.com/djp21wtxm/image/upload/v1655286102/i1000x300-g-PaR7fNbUTf_gzhe0u.png" width="100%"/>
+# FHE.org conference 2022 - Resources from the conference
 
-# Presentations
+## Presentations
 
 - <a href="https://drive.google.com/file/d/1YhHaX_0ZxPcI6_dsFWc8e1RpP55PQ2T8/view?usp=sharing">FINAL: Faster FHE instantiated with NTRU and LWE</a> -  Charlotte Bonte (Intel Labs), Ilia Iliashenko (CipherMode Labs &
   KU Leuven), Jeongeun Park (KU Leuven), Hilder V. L. Pereira (KU Leuven), and Nigel P. Smart (KU Leuven & Zama)
@@ -53,7 +53,7 @@
 - <a href="https://youtu.be/b24WJyS0dmg">Fully Homomorphic Encryption: Definitional issues and open problems</a> - Daniele Micciancio (UCSD)
 
 
-# Posters
+## Posters
 
 - <a href="https://drive.google.com/file/d/1OhjLTgJlLLiKJMhfhS3lIf_LncSL4cn9/view?usp=sharing">Fast, easy, and accessible FHE with Concrete and specialized accelerators</a> - Florent Michel (Optalysys), Thomas De Cnudde (Zama), and Agnès Leroy (Zama)
 - <a href="https://drive.google.com/file/d/1bfP_t4u7zwNOY4m9irauaskJzSda4Q0F/view?usp=sharing">An efficient and precise min/argmin FHE operator</a> - Martin Zuber (CEA) and Olive Chakraborty (CEA)
