@@ -10,7 +10,6 @@
 #### by Anca Nitulescu - 29.03.2022
 
 #### <a href="https://www.youtube.com/watch?v=m0TlhZc0BwM">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1-FmKpWs9mspHTYdLPj39W1G67ZYlynhm/view">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-![Meetup event cover (2)](https://user-images.githubusercontent.com/5758427/185587761-08b7c02f-fda0-40fa-a67f-6db16c659210.jpg)
 
 
 # Abstract
