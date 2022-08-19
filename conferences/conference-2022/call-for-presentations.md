@@ -1,6 +1,32 @@
-#### The call for presentations is now closed. See the full program and accepted posters here.
+<!-- Header links -->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/fhe-resources">Resources</a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences">Conferences</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
+</p>
+<hr/>
+<!-- /Header links -->
+<!-- header conference 2022 links -->
+<p align="center">
+  <a href="https://fhe-org.github.io/conferences/conference-2022/index">Index</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/call-for-presentations"><b>Call for presentations</b></a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/committees">Committees</a>
+  —
+  <a href="https://easychair.org/conferences/?conf=fheorg2022" target="_blank">Submissions</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/program">Program</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/contact">Contact</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2022/resources">Resources</a>
+</p>
+<!-- /header conference 2022 links -->
 
 # FHE.org 2022 — Call for Presentations
+> **Warning**
+> The call for presentations is now closed.
+
 The 1st Annual FHE.org Conference on Fully Homomorphic Encryption. It is affiliated with EUROCRYPT 2022 and will be held in Trondheim (Norway) on May 29, 2022.
 
 # Motivation and scope
