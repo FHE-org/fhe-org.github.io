@@ -20,8 +20,7 @@
 Note that <b>we welcome any contribution to the pages above</b>, simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your links.
 
 # Next events
-> **Note**:
-> we'll be back to our regular schedule in September
+We'll be back to our regular schedule in September
 
 # Previous events
 
