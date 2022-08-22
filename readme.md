@@ -14,8 +14,8 @@
 
 - Check out the <a href="https://fhe-org.github.io/fhe-resources">resources page</a>
 - Check out the <a href="https://fhe-org.github.io/fhe-use-cases">use cases page</a>
-- Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a>
 - Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
+- Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a>
 
 Note that <b>we welcome any contribution to the pages above</b>, simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your links.
 
