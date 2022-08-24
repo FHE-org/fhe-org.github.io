@@ -28,12 +28,14 @@
 ## General chair
 - **Benjamin Curtis** *Zama, France*
 
+## Local chair
+- **Takuya Suzuki** *Waseda University, Japan*
+
 ## Program co-chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
 - **Mehdi Tibouchi** *NTT, Japan*
 
 ## Organization committee
-- **Jeremy Bradley** *Zama, France*
 - **Ilaria Chillotti** *Zama, France*
 - **Martin Hullin** *Internet Jurisdiction, Netherland*
 - **Qian Lou** *Samsung Electronics America, USA*
