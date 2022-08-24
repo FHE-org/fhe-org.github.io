@@ -8,9 +8,8 @@
 
 # Welcome
   
-<p>We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.</p>
-
-<p>If you want to learn more about FHE, make sure to:</p>
+We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
+If you want to learn more about FHE, make sure to:
 
 - Check out the <a href="https://fhe-org.github.io/fhe-resources">resources page</a>
 - Check out the <a href="https://fhe-org.github.io/fhe-use-cases">use cases page</a>
@@ -25,16 +24,16 @@ We'll be back to our regular schedule in September
 # Previous events
 
 ###### 07.07.2022
-- <a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete">Homomorphic Large Precision Integers Using Concrete</a> by Jean-Baptiste Orfila
+- [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila
 
 ###### 29.05.2022
-- <a href="https://fhe-org.github.io/conferences/conference-2022/resources">FHE.org conference 2022</a> by The FHE.org team
+- [FHE.org conference 2022](https://fhe-org.github.io/conferences/conference-2022/resources) by FHE.org
 
 ###### 28.04.2022
-- <a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by Furkan Aydin
+- [Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library](https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library) by Furkan Aydin
 
 ###### 29.03.2022
-- <a href="https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more">Verifiable Computation over Encrypted Data: SNARKs and more</a> by Anca Nitulescu
+- [Verifiable Computation over Encrypted Data: SNARKs and more]([https://fhe-org.github.io/conferences/conference-2022/resources](https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more)) by Anca Nitulescu
 
 ###### 25.02.2022
 - <a href="https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a> by Muhammad Haris
