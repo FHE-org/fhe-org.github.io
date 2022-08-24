@@ -28,7 +28,7 @@
 # General chair
 - **Benjamin Curtis** *Zama, France*
 
-# Co-chairs
+# Program co-chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
 - **Mehdi Tibouchi** *NTT, Japan*
 
