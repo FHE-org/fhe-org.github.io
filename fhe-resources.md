@@ -27,18 +27,18 @@
 - [Introduction to homomorphic encryption](https://fhe-org.github.io/meetups/introduction-to-fhe) by Pascal Paillier - 04.11.2020
 
 ## FHE Engineering
-- <a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by Furkan Aydin - 28.04.2022
-- <a href="https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a> by Muhammad Haris - 25.02.2022
-- <a href="https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light">FHE at the speed of light</a> by Florent Michel - 21.12.2021
-- <a href="https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe">Why we need revolutionnary hardware for FHE</a> by Rosario Cammarota - 23.11.2021
-- <a href="https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler">Google's C++ to FHE compiler</a> by Shruthi Gorantala and Rob Springer - 26.08.2021
-- <a href="https://fhe-org.github.io/meetups/fhe-development-tools">Developer Tools & Compilers</a> by Alexander Viand - 20.05.2021
-- <a href="https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption">Private set intersection via somewhat homomorphic encryption</a> by Ilia Iliashenko - 15.04.2021
+- [Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library](https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library) by Furkan Aydin - 28.04.2022
+- [Single-server private information retrieval using homomorphic encryption](https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption) by Muhammad Haris - 25.02.2022
+- [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by Florent Michel - 21.12.2021
+- [Why we need revolutionnary hardware for FHE](https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe) by Rosario Cammarota - 23.11.2021
+- [Google's C++ to FHE compiler](https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler) by Shruthi Gorantala and Rob Springer - 26.08.2021
+- [Developer Tools & Compilers](https://fhe-org.github.io/meetups/fhe-development-tools) by Alexander Viand - 20.05.2021
+- [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption) by Ilia Iliashenko - 15.04.2021
 
 ## Tutorials
-- <a href="https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40">Encrypted search using Fully Homomorphic Encryption</a> - 03.11.2021
-- <a href="https://medium.com/p/f2bcfd614131/">Concrete Boolean and Conway's Game of Life</a> - 30.09.2021
-- <a href="https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically" target="">Homomorphic Machine Learning using Numpy & Concrete</a> - 26.08.2021
+- [Encrypted search using Fully Homomorphic Encryption](https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40)  - 03.11.2021
+- [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) - 30.09.2021
+- [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) - 26.08.2021
 
 ## Non-technical Content
 - <a href="https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation">Data governance is in desperate need of innovation</a> by Jeremy Bradley and Lorrayne Porciuncula - 22.12.2021
