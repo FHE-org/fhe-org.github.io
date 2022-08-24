@@ -19,6 +19,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
 </p>
+<hr/>
 <!-- /header conference 2023 links -->
 
 # FHE.org conference 2023
