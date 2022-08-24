@@ -24,7 +24,7 @@ Authors are invited to submit proposals for presentation (PDF format) using the 
 The final program will consist of both invited talks and contributed talks. It will also feature a poster session and demos. There are no published proceedings at FHE.org. This means that both invited and contributed talks may appear at another conference that has proceedings. Authors of accepted abstracts can choose to have a link to a preprint on the conference webpage.
 
 # Important dates (tentative)
-- Submission deadline: November 19, 2022
-- Individual reviews: November 20, 2022 -- January 10, 2023
-- Discussion phase: January 11-24, 2023
-- Notification: January 25, 2023
+- **Submission deadline:** November 19, 2022
+- **Individual reviews:** November 20, 2022 -- January 10, 2023
+- **Discussion phase:** January 11-24, 2023
+- **Notification:** January 25, 2023
