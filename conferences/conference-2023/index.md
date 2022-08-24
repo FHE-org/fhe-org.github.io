@@ -26,7 +26,9 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption. It is co-loca
 
 # Important dates
 **Conference date:** March 26, 2023
+
 **Notification of acceptance:** January 25, 2023
+
 **Submission deadline:** November 19, 2022 (firm deadline)
 
 # Sponsors
