@@ -36,37 +36,37 @@ We'll be back to our regular schedule in September
 - [Verifiable Computation over Encrypted Data: SNARKs and more]([https://fhe-org.github.io/conferences/conference-2022/resources](https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more)) by Anca Nitulescu
 
 ###### 25.02.2022
-- <a href="https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a> by Muhammad Haris
+- [Single-server private information retrieval using homomorphic encryption](https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption) by Muhammad Haris
 
 ###### 20.01.2022
-- <a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption">An overview of Hybrid Homomorphic Encryption</a> by Orel Cosseron and Clément Hoffmann
+- [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption) by Orel Cosseron and Clément Hoffmann
 
 ###### 21.12.2021
-- <a href="https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light">FHE at the speed of light</a> by Florent Michel
+- [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by Florent Michel
 
 ###### 23.11.2021
-- <a href="https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe">Why we need revolutionary hardware for FHE</a> by Rosario Cammarota
+- [Why we need revolutionary hardware for FHE](https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe) by Rosario Cammarota
 
 ###### 30.09.2021
-- <a href="https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption">Private Set Intersection via somewhat homomorphic encyrption</a> by Ilia Iliashenko
+- [Private Set Intersection via somewhat homomorphic encyrption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption) by Ilia Iliashenko
 
 ###### 30.09.2021
-- <a href="https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically">Running Numpy programs homomorphically</a> by Rand Hindi, Ayoub Benaissa and Samuel Tap
+- [Running Numpy programs homomorphically](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) by Rand Hindi, Ayoub Benaissa and Samuel Tap
 
 ###### 26.08.2021
-- <a href="https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler">Google's C++ to FHE Transpiler</a> by Shruthi Gorantala and Rob Springer
+- [Google's C++ to FHE Transpiler](https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler) by Shruthi Gorantala and Rob Springer
 
 ###### 20.05.2021
-- <a href="https://fhe-org.github.io/meetups/fhe-development-tools">FHE development tools</a> by Alexander Viand
+- [FHE development tools](https://fhe-org.github.io/meetups/fhe-development-tools) by Alexander Viand
 
 ###### 15.04.2021
-- <a href="https://fhe-org.github.io/meetups/tfhe-deep-dive">TFHE deep dive</a> by Ilaria Chillotti
+- [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) by Ilaria Chillotti
 
 ###### 27.01.2021
-- <a href="https://fhe-org.github.io/meetups/introduction-to-mpc">Introduction to MPC</a> by Yehuda Lindell
+- [Introduction to MPC](https://fhe-org.github.io/meetups/introduction-to-mpc) by Yehuda Lindell
 
 ###### 04.11.2020
-- <a href="https://fhe-org.github.io/meetups/introduction-to-fhe">Introduction to FHE</a> by Pascal Paillier
+- [Introduction to FHE](https://fhe-org.github.io/meetups/introduction-to-fhe) by Pascal Paillier
 
 <!-- Footer links -->
 <hr/>
