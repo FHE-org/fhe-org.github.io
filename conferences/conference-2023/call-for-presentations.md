@@ -1,3 +1,27 @@
+<!-- Header links -->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/fhe-resources">Resources</a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/index"><b>Conference 2023</b></a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
+</p>
+<hr/>
+<!-- /Header links -->
+<!-- header conference 2023 links -->
+<p align="center">
+  <a href="https://fhe-org.github.io/conferences/conference-2023/index">Index</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2023/call-for-presentations"><b>Call for presentations</b></a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2023/committees">Committees</a>
+  —
+  <a href="#" target="_blank"><strike>Submissions</strike></a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
+</p>
+<!-- /header conference 2023 links -->
+
+
 # FHE.org 2023 — Call for Presentations
 
 The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption. It is co-located with Real World Crypto 2023 and will be held in Tokyo (Japan) on March 26, 2023.
