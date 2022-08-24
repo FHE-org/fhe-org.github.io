@@ -19,13 +19,12 @@
 
 
 ## FHE Cryptography Theory
-- <a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete">Homomorphic Large Precision Integers Using Concrete
-</a> by Jean-Baptiste Orfila (Zama) - 07.07.2022
-- <a href="https://courses.openmined.org/courses/foundations-of-private-computation">Foundations of Private Computation</a> by Open Mined
-- <a href="https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more">Verifiable Computation over Encrypted Data: SNARKs and more</a> by Anca Nitulescu - 29.03.2022
-- <a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption">An overview of Hybrid Homomorphic Encryption</a> by Orel Cosseron and Clément Hoffman - 20.01.2022
-- <a href="https://fhe-org.github.io/meetups/tfhe-deep-dive">TFHE deep dive</a> by Dr Ilaria Chillotti - 15.04.2021
-- <a href="https://fhe-org.github.io/meetups/introduction-to-fhe">Introduction to homomorphic encryption</a> by Pascal Paillier - 04.11.2020
+- [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila (Zama) - 07.07.2022
+- [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) by Open Mined
+- [Verifiable Computation over Encrypted Data: SNARKs and more](https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more) by Anca Nitulescu - 29.03.2022
+- [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption) by Orel Cosseron and Clément Hoffman - 20.01.2022
+- [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) by Ilaria Chillotti - 15.04.2021
+- [Introduction to homomorphic encryption](https://fhe-org.github.io/meetups/introduction-to-fhe) by Pascal Paillier - 04.11.2020
 
 ## FHE Engineering
 - <a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by Furkan Aydin - 28.04.2022
