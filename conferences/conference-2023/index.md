@@ -25,15 +25,15 @@
 # FHE.org conference 2023
 The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption. It is co-located with [Real World Crypto 2023](https://rwc.iacr.org/2023/) and will be held in Tokyo (Japan) on March 26, 2023.
 
-# Important dates
+## Important dates
 - **Conference date:** March 26, 2023
 - **Notification of acceptance:** January 25, 2023
 - **Submission deadline:** November 19, 2022 (firm deadline)
 
-# Sponsors
+## Sponsors
 To be announced.
 
-# Latest updates
+## Latest updates
 **24.08.2022:** Announcement of the 2nd annual FHE.org conference on Fully Homomorphic Encryption
 
 ---
