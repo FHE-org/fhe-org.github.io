@@ -33,7 +33,7 @@
 
 ## Program co-chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
-- **Mehdi Tibouchi** *NTT, Japan*
+- **Mehdi Tibouchi** *NTT research, Japan*
 
 ## Organization committee
 - **Ilaria Chillotti** *Zama, France*
