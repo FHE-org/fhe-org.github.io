@@ -7,14 +7,15 @@
 <!-- /Header links -->
 
 # FHE resources <a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/fhe-resources.md"><img src="https://img.shields.io/badge/Submit-resource-%231231EA"></a>
+
 > A curated list of resources about Fully Homomorphic Encryption.
 
 ## FHE Libraries
-- <a href="https://github.com/zama-ai/concrete">Concrete</a> - Rust FHE library that implements Zama's variant of TFHE.
-- <a href="https://github.com/HomEnc/HElib">HElib</a> - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.
-- <a href="https://github.com/ldsec/lattigo">Lattigo</a> - lattice-based multiparty homomorphic encryption library in Go.
-- <a href="https://palisade-crypto.org/software-library/">PALISADE</a> - C++ FHE library that supports all the major FHE protocols.
-- <a href="https://github.com/microsoft/SEAL">SEAL</a> - C++ FHE library implementing BFV and CKKS schemes.
+- [Concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
+- [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.
+- [Lattigo](https://github.com/ldsec/lattigo) - lattice-based multiparty homomorphic encryption library in Go.
+- [PALISADE](https://palisade-crypto.org/software-library/) - C++ FHE library that supports all the major FHE protocols.
+- [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.
 
 
 ## FHE Cryptography Theory
