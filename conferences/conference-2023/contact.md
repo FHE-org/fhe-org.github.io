@@ -25,9 +25,14 @@
 # FHE.org 2022 — Contact
 ## General chair
 - **Benjamin Curtis** *Zama, Paris*
-> Email: ben.curtis@zama.ai
+> ben.curtis@zama.ai
 
+## Program chair
+- **Jung Hee Cheon** *Seoul National University, South Korea*
+> hcheon@snu.ac.kr
+- **Mehdi Tibouchi** *NTT research, Japan*
+> tibouchi.mehdi@lab.ntt.co.jp
 
 ## Publicity chair
 - **Jeremy Bradley**
-> Email: jeremy@zama.ai*
+> jeremy@zama.ai*
