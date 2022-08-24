@@ -25,14 +25,14 @@
 
 # FHE.org conference 2023 — Committees
 
-# General chair
+## General chair
 - **Benjamin Curtis** *Zama, France*
 
-# Program co-chairs
+## Program co-chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
 - **Mehdi Tibouchi** *NTT, Japan*
 
-# Organization committee
+## Organization committee
 - **Jeremy Bradley** *Zama, France*
 - **Ilaria Chillotti** *Zama, France*
 - **Martin Hullin** *Internet Jurisdiction, Netherland*
@@ -42,6 +42,6 @@
 - **Yoga Rahulamathavan** *Loughborough University London, UK*
 - **Jérémy Zaccherini** *Zama, France*
 
-# Program committee
+## Program committee
 - To be announced.
 
