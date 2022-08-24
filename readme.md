@@ -68,6 +68,11 @@ We'll be back to our regular schedule in September
 ###### 04.11.2020
 - [Introduction to FHE](https://fhe-org.github.io/meetups/introduction-to-fhe) by Pascal Paillier
 
+# Contribute
+Contributions from the community are welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+
 <!-- Footer links -->
 <hr/>
 <p align="center">
