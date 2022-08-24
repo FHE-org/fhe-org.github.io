@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution Guidelines <img src="https://img.shields.io/github/contributors/fhe-org/fhe-org">  <img src="https://img.shields.io/github/last-commit/fhe-org/fhe-org">
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
