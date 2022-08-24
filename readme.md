@@ -11,10 +11,10 @@
 We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
 If you want to learn more about FHE, make sure to:
 
-- Check out the <a href="https://fhe-org.github.io/fhe-resources">resources page</a>
-- Check out the <a href="https://fhe-org.github.io/fhe-use-cases">use cases page</a>
-- Join the community on <a href="https://discord.fhe.org" target="_blank">Discord</a>
-- Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a>
+- Check out the [resources page](https://fhe-org.github.io/fhe-resources)
+- Check out the [use cases page](https://fhe-org.github.io/fhe-use-cases)
+- Join the community on [Discord](https://discord.fhe.org)
+- Subscribe to the FHE.org [newsletter](https://fheorg.substack.com/)
 
 Note that <b>we welcome any contribution to the pages above</b>, simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your links.
 
