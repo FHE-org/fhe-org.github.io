@@ -23,12 +23,11 @@
 <!-- /header conference 2023 links -->
 
 # FHE.org 2022 — Contact
-
-# General chair
+## General chair
 - **Benjamin Curtis** *Zama, Paris*
 > Email: ben.curtis@zama.ai
 
 
-# Publicity chair
+## Publicity chair
 - **Jeremy Bradley**
 > Email: jeremy@zama.ai*
