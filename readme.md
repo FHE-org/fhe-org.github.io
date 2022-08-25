@@ -33,7 +33,7 @@ We'll be back to our regular schedule in September.
 - [Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library](https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library) by Furkan Aydin
 
 ###### 29.03.2022
-- [Verifiable Computation over Encrypted Data: SNARKs and more]([https://fhe-org.github.io/conferences/conference-2022/resources](https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more)) by Anca Nitulescu
+- [Verifiable Computation over Encrypted Data: SNARKs and more](https://fhe-org.github.io/conferences/conference-2022/resources) by Anca Nitulescu
 
 ###### 25.02.2022
 - [Single-server private information retrieval using homomorphic encryption](https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption) by Muhammad Haris
