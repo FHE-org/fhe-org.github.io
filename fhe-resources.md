@@ -44,14 +44,4 @@
 - [Data governance is in desperate need of innovation](https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation) by Jeremy Bradley and Lorrayne Porciuncula - 22.12.2021
 - [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) by Marc Joye - 01.12.2021
 - [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai) - 15.09.2021
-- [People shouldn't care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - by  Rand Hindi - 26.08.2021 
-
-<!-- Footer links -->
-<hr/>
-<p align="center">
-<a href="https://zamafhe.substack.com"><img src="https://img.shields.io/badge/Subscribe-to%20Newsletter-blue"></a>
-<a href="https://twitter.com/fhe_org"><img src="https://img.shields.io/badge/Follow-on%20Twitter-%2300acee"></a>
-<a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
-<a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
-</p>
-<!-- /Footer links -->
+- [People shouldn't care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - by  Rand Hindi - 26.08.2021
