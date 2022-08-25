@@ -6,7 +6,7 @@
 <hr/>
 <!-- /Header links -->
 
-# FHE use cases <a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/fhe-use-cases.md"><img src="https://img.shields.io/badge/Submit-use%20case-%231231EA"></a>
+# FHE use cases [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/fhe-use-cases.md)
 > A curated list of use cases and application of Fully Homomorphic Encryption.
 
 ## Use cases and applications
