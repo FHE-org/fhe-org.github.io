@@ -20,6 +20,10 @@
 
 ## FHE Cryptography Theory
 - [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila (Zama) - 07.07.2022
+- [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) by Ilaria Chillotti - 02.06.2022
+- [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by Ilaria Chillotti - 18.05.2022
+- [TFHE deep-dive - part 2 - Encodings and linear leveled operations](https://www.zama.ai/post/tfhe-deep-dive-part-2) by Ilaria Chillotti - 11.05.2022
+- [TFHE deep-dive - part 1- Ciphertext types](https://www.zama.ai/post/tfhe-deep-dive-part-1) by Ilaria Chillotti - 04.05.2022
 - [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) by Open Mined
 - [Verifiable Computation over Encrypted Data: SNARKs and more](https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more) by Anca Nitulescu - 29.03.2022
 - [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption) by Orel Cosseron and Clément Hoffman - 20.01.2022
@@ -36,6 +40,7 @@
 - [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption) by Ilia Iliashenko - 15.04.2021
 
 ## Tutorials
+- [Encrypted Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) in Rust with the [Concrete](https://github.com/zama-ai/concrete) library - 18.08.2022
 - [Encrypted search using Fully Homomorphic Encryption](https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40)  - 03.11.2021
 - [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) - 30.09.2021
 - [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) - 26.08.2021
