@@ -24,7 +24,7 @@
 
 # FHE.org 2022 — Contact
 ## General chair
-- **Benjamin Curtis** *Zama, Paris*
+- **Benjamin Curtis** *Zama, France*
 > ben.curtis@zama.ai
 
 ## Program chairs
