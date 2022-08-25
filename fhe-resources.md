@@ -14,6 +14,7 @@
 - [Concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
 - [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.
 - [Lattigo](https://github.com/ldsec/lattigo) - lattice-based multiparty homomorphic encryption library in Go.
+- [OpenFHE](https://github.com/openfheorg/openfhe-development) - OpenFHE is an open-source FHE library that includes efficient implementations of common FHE schemes.
 - [PALISADE](https://palisade-crypto.org/software-library/) - C++ FHE library that supports all the major FHE protocols.
 - [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.
 
