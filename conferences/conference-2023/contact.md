@@ -27,7 +27,7 @@
 - **Benjamin Curtis** *Zama, Paris*
 > ben.curtis@zama.ai
 
-## Program chair
+## Program chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
 > hcheon@snu.ac.kr
 - **Mehdi Tibouchi** *NTT research, Japan*
