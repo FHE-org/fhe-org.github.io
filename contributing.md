@@ -1,3 +1,11 @@
+<!-- Main header navigation -->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/fhe-resources">Resources</a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
+</p>
+<hr/>
+<!-- /Main header navigation -->
+
 # Contribution Guidelines <img src="https://img.shields.io/github/contributors/fhe-org/fhe-org">  <img src="https://img.shields.io/github/last-commit/fhe-org/fhe-org">
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
@@ -13,13 +21,3 @@ We accept and encourage any contribution to the community. If you want to be a p
 
 For any other questions, we encourage you to ask the community moderators on Discord [here](https://discord.fhe.org).
 
-
-<!-- Footer links -->
-<hr/>
-<p align="center">
-<a href="https://fheorg.substack.com"><img src="https://img.shields.io/badge/Subscribe-to%20Newsletter-blue"></a>
-<a href="https://twitter.com/fhe_org"><img src="https://img.shields.io/badge/Follow-on%20Twitter-%2300acee"></a>
-<a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
-<a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
-</p>
-<!-- /Footer links -->
