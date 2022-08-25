@@ -7,7 +7,7 @@
 <!-- /Main header navigation -->
 
 # FHE use cases [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/fhe-use-cases.md)
-> A curated list of use cases and application of Fully Homomorphic Encryption.
+A curated list of use cases and application of Fully Homomorphic Encryption.
 
 ## Use cases and applications
 - [Encrypted Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) in Rust with the [Concrete](https://github.com/zama-ai/concrete) library - 18.08.2022.
