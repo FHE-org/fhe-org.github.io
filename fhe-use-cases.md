@@ -10,6 +10,8 @@
 > A curated list of use cases and application of Fully Homomorphic Encryption.
 
 ## Use cases and applications
+- <a href="https://github.com/zama-ai/concrete" target="_blank">Concrete</a> — Encrypted Conway's Game of Life in Rust with <a href="https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2" target="_blank">Concrete</a> library. - 18.08.2022.
+
 - <a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741" target="_blank">Morfix.io</a> — BWeb-based UI to play around with the Microsoft <a href="https://fhe.org/talks/homomorphic-large-precision-integers-using-concrete" target="_blank">SEAL</a> library. - 22.07.2022.
 
 - <a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741" target="_blank">Titanic ML from disaster</a> — Building a predictive model over encrypted data with <a href="https://github.com/microsoft/SEAL">Concrete-ML</a>. - 07.07.2022
