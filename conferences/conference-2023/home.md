@@ -7,7 +7,7 @@
 <!-- /Header links -->
 <!-- header conference 2023 links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/conferences/conference-2023/index"><b>Index</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2023/home"><b>Home</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/call-for-presentations">Call for presentations</a>
   —
