@@ -72,13 +72,3 @@ We'll be back to our regular schedule in September.
 Contributions from the community are welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-
-<!-- Footer links -->
-<hr/>
-<p align="center">
-<a href="https://fheorg.substack.com"><img src="https://img.shields.io/badge/Subscribe-to%20Newsletter-blue"></a>
-<a href="https://twitter.com/fhe_org"><img src="https://img.shields.io/badge/Follow-on%20Twitter-%2300acee"></a>
-<a href="https://discord.fhe.org"><img src="https://img.shields.io/badge/Join-Discord%20server-%237289da"></a>
-<a href="https://www.meetup.com/fhe-org"><img src="https://img.shields.io/badge/Register-on%20Meetup-%23e51937"></a>
-</p>
-<!-- /Footer links -->
