@@ -1,10 +1,10 @@
-<!-- Header links -->
+<!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/fhe-resources">Resources</a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/index">Conference 2023</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/fhe-resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
 </p>
 <hr/>
-<!-- /Header links -->
+<!-- /Main header navigation -->
 
 # FHE Development Tools
 #### by Alexander Viand - 20.05.2021
