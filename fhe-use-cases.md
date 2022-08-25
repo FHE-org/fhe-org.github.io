@@ -12,19 +12,19 @@
 ## Use cases and applications
 - [Encrypted Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) in Rust with the [Concrete](https://github.com/zama-ai/concrete) library - 18.08.2022.
 
-- <a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741" target="_blank">Morfix.io</a> — BWeb-based UI to play around with the Microsoft <a href="https://fhe.org/talks/homomorphic-large-precision-integers-using-concrete" target="_blank">SEAL</a> library. - 22.07.2022.
+- [Morfix.io](https://morfix.io) — BWeb-based UI to play around with the Microsoft [Seal](https://github.com/microsoft/SEAL) library - 22.07.2022
 
-- <a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741" target="_blank">Titanic ML from disaster</a> — Building a predictive model over encrypted data with <a href="https://github.com/microsoft/SEAL">Concrete-ML</a>. - 07.07.2022
+- [Titanic ML from disaster](https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741) — Building a predictive model over encrypted data with [Concrete-ML](https://github.com/zama-ai/concrete-ml) - 07.07.2022
 
-- <a href="https://github.com/ldsec/lattigo-polls-demo" target="_blank">lattigo-polls</a> — Web-application for scheduling meetings using <a href="https://github.com/tuneinsight/lattigo">lattigo</a>. - 07.06.2022
+- [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) — Web-application for scheduling meetings using [lattigo](https://github.com/tuneinsight/lattigo) - 07.06.2022
 
-- <a href="https://spiralwiki.com/">Spiral wiki</a> — Read Wikipedia privately using homomorphic encryption. - 24.05.2022
+- [Spiral wiki](https://spiralwiki.com) — Read Wikipedia privately using homomorphic encryption - 24.05.2022
 
-- <a href="https://github.com/Georeactor/encrypted-geofence">crypto-geofence</a> — Geo-fencing demo application based on Paillier scheme. - 10.04.2019
+- [crypto-geofence](https://github.com/Georeactor/encrypted-geofence) - Geo-fencing demo application based on Paillier scheme - 10.04.2019
 
-- [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL). - 08.07.2021
+- [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](https://github.com/microsoft/SEAL) - 08.07.2021
 
-- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow. - 26.04.2022
+- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow - 26.04.2022
 
-- [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library. - 10.03.2022
+- [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](https://github.com/microsoft/SEAL) library - 10.03.2022
 
