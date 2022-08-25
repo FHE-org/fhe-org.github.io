@@ -35,6 +35,9 @@
 - **Jung Hee Cheon** *Seoul National University, South Korea*
 - **Mehdi Tibouchi** *NTT research, Japan*
 
+## Program committee
+- To be announced.
+
 ## Organization committee
 - **Ilaria Chillotti** *Zama, France*
 - **Martin Hullin** *Internet Jurisdiction, Netherland*
@@ -44,6 +47,4 @@
 - **Yoga Rahulamathavan** *Loughborough University London, UK*
 - **Jérémy Zaccherini** *Zama, France*
 
-## Program committee
-- To be announced.
 
