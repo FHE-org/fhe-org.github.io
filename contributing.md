@@ -4,6 +4,9 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ---
 
+{% include navigation.html %}
+
+
 FHE.org is as place for researchers, developers and anyone interested in advancing homomorphic encryption and other secure computation techniques.
 
 We accept and encourage any contribution to the community. If you want to be a part of the organizing committee, you can reach us on Discord [here](https://discord.fhe.org) and if you want to contribute to this website by adding resources, you can simply open a Pull request. Then the FHE.org team will review and accept your changes if releavant for our community.
