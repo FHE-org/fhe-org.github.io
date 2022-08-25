@@ -22,5 +22,5 @@
 <hr/>
 <!-- /Header conference 2023 links -->
 
-# FHE.org conference 2023: Program
+# FHE.org conference 2023 - Program
 To be announced
