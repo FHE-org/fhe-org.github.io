@@ -29,7 +29,7 @@
 
 ## Program chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
-> hcheon@snu.ac.kr
+> jhcheon@snu.ac.kr
 - **Mehdi Tibouchi** *NTT research, Japan*
 > tibouchi.mehdi@lab.ntt.co.jp
 
