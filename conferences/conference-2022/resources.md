@@ -78,17 +78,17 @@
 - NTRU-nium: Secure fully homomorphic encryption from NTRU with small modulus - Kamil Kluczniak (CISPA)
 - The Swiss army knife of TFHE functional bootstrapping - Pierre-Emmanuel Clet (CEA), Martin Zuber (CEA), Aymen Boudguiga
   (CEA), Renaud Sirdey (CEA), and Cédric Gouy-Pailler (CEA)
-- <a href="https://drive.google.com/file/d/1Zgepr1hqLXkVKdEzAmIl3FEeiDlvzc30/view?usp=sharing">Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference</a></b> - Pedro G. M. R. Alves (Zama), Jheyne N. Ortiz (Unicamp), and Diego
+- <a href="https://drive.google.com/file/d/1Zgepr1hqLXkVKdEzAmIl3FEeiDlvzc30/view?usp=sharing">Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference</a> - Pedro G. M. R. Alves (Zama), Jheyne N. Ortiz (Unicamp), and Diego
   F. Aranha (Aarhus University)
 - Secure machine learning by means of homomorphic encryption and verifiable computing - Abbass Madi (CEA), Oana Stan (CEA), and Renaud Sirdey
   (CEA)
-- <a href="https://drive.google.com/file/d/1WMBjjM416BXGoiLf16gPn6q5aLt4zZqi/view?usp=sharing">Faster evaluation of AES using TFHE</a></b> - Roy Stracovsky (University of Waterloo), Rasoul Akhavan Mahdavi
+- <a href="https://drive.google.com/file/d/1WMBjjM416BXGoiLf16gPn6q5aLt4zZqi/view?usp=sharing">Faster evaluation of AES using TFHE</a> - Roy Stracovsky (University of Waterloo), Rasoul Akhavan Mahdavi
   (University of Waterloo), and Florian Kerschbaum (University of
   Waterloo)
-- <a href="https://drive.google.com/file/d/1TGHQLgu-NwDbNaHDAT7WnLlW8CoxWUJv/view?usp=sharing">Finding and evaluating parameters for BGV</a></b> - Johannes Mono (Ruhr University Bochum), Chiara Marcolla
+- <a href="https://drive.google.com/file/d/1TGHQLgu-NwDbNaHDAT7WnLlW8CoxWUJv/view?usp=sharing">Finding and evaluating parameters for BGV</a> - Johannes Mono (Ruhr University Bochum), Chiara Marcolla
   (Technology Innovation Institute), Georg 
   Land (Ruhr University Bochum & DFKI GmbH), Tim Güneysu (Ruhr
   University Bochum & DFKI GmbH), and Najwa Aaraj (Technology
   Innovation Institute)  
-- <a href="https://drive.google.com/file/d/1EWx522pe9DOLYmlLV0QtbyoLCiJOWnKs/view?usp=sharing">Hitchhiker's guide to a practical automated TFHE parameter setup for custom applications</a></b> - Jakub Klemsa (Eurecom)
+- <a href="https://drive.google.com/file/d/1EWx522pe9DOLYmlLV0QtbyoLCiJOWnKs/view?usp=sharing">Hitchhiker's guide to a practical automated TFHE parameter setup for custom applications</a> - Jakub Klemsa (Eurecom)
 <br/>
