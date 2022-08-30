@@ -6,7 +6,7 @@
 <hr/>
 <!-- /Main header navigation -->
 
-# Welcome
+# Welcome [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/fhe-resources.md)
   
 We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
 If you want to learn more about FHE, make sure to:
