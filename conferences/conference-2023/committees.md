@@ -33,7 +33,7 @@
 
 ## Program co-chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
-- **Mehdi Tibouchi** *NTT research, Japan*
+- **Mehdi Tibouchi** *NTT Social Informatics Laboratories, Japan*
 
 ## Program committee
 - To be announced.
