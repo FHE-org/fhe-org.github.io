@@ -30,9 +30,9 @@
 ## Program chairs
 - **Jung Hee Cheon** *Seoul National University, South Korea*
 > jhcheon@snu.ac.kr
-- **Mehdi Tibouchi** *NTT research, Japan*
-> tibouchi.mehdi@lab.ntt.co.jp
+- **Mehdi Tibouchi** *NTT Social Informatics Laboratories, Japan*
+> mehdi.tibouchi@normalesup.org
 
 ## Publicity chair
-- **Jeremy Bradley**
+- **Jeremy Bradley** *Zama, France*
 > jeremy@zama.ai*
