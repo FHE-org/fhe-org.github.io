@@ -32,7 +32,7 @@
 - **Takuya Suzuki** *Waseda University, Japan*
 
 ## Program co-chairs
-- **Jung Hee Cheon** *Seoul National University, South Korea*
+- **Jung Hee Cheon** *Seoul National University and CryptoLab, South Korea*
 - **Mehdi Tibouchi** *NTT Social Informatics Laboratories, Japan*
 
 ## Program committee
