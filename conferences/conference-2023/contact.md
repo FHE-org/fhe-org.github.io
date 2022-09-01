@@ -28,7 +28,7 @@
 > ben.curtis@zama.ai
 
 ## Program chairs
-- **Jung Hee Cheon** *Seoul National University, South Korea*
+- **Jung Hee Cheon** *Seoul National University and CryptoLab, South Korea*
 > jhcheon@snu.ac.kr
 - **Mehdi Tibouchi** *NTT Social Informatics Laboratories, Japan*
 > mehdi.tibouchi@normalesup.org
