@@ -13,7 +13,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/committees"><b>Committees</b></a>
   —
-  <a href="#" target="_blank">Submissions</a>
+  <a href="https://easychair.org/conferences/?conf=fheorg2023" target="_blank">Submissions</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
   —
