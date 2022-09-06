@@ -43,6 +43,8 @@ The program committee is seeking original contributions on all aspects of fully 
 - Formal modeling and formal proofs for encrypted computing
 - Validation and certification of fully homomorphic encryption
 
+Since FHE.org 2023 is associated to Real World Crypto 2023, practice-oriented talks/posters are particularly encouraged.
+
 ## Call for contributed talks, posters, and demos
 Authors are invited to submit proposals for presentation (PDF format) using the submission form. Submissions must be written in English and should be in the form of an extended abstract of 2 to 4 pages (not including references). Authors can also submit proposals for posters or demos; this should be clearly indicated in the submission. All submissions will be refereed by the program committee. Submission implies the willingness of at least one of the authors to register and present the contribution.
 
