@@ -52,6 +52,5 @@ The final program will consist of both invited talks and contributed talks. It w
 
 ## Important dates (tentative)
 - **Submission deadline:** November 19, 2022
-- **Individual reviews:** November 20, 2022 -- January 10, 2023
-- **Discussion phase:** January 11-24, 2023
 - **Notification:** January 25, 2023
+- **Conference date:** March 26, 2023
