@@ -25,6 +25,7 @@ A curated list of resources about Fully Homomorphic Encryption.
 - 📃 [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by Ilaria Chillotti - 18.05.2022
 - 📃 [TFHE deep-dive - part 2 - Encodings and linear leveled operations](https://www.zama.ai/post/tfhe-deep-dive-part-2) by Ilaria Chillotti - 11.05.2022
 - 📃 [TFHE deep-dive - part 1- Ciphertext types](https://www.zama.ai/post/tfhe-deep-dive-part-1) by Ilaria Chillotti - 04.05.2022
+- 📃 [Guide to Fully Homomorphic Encryption over the discretized torus](https://ia.cr/2021/1402) by Marc Joye - 18.10.2021
 - 📺 [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) by Open Mined
 - 📺 [Verifiable Computation over Encrypted Data: SNARKs and more](https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more) by Anca Nitulescu - 29.03.2022
 - 📺 [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption) by Orel Cosseron and Clément Hoffman - 20.01.2022
