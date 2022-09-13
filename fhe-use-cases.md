@@ -10,6 +10,7 @@
 A curated list of use cases and application of Fully Homomorphic Encryption.
 
 ## Use cases and applications
+- [Spiral for BTC](https://btc.usespiral.com/) - Look up any BTC address balance, without revealing the address to anyone - 09.2022
 - [Encrypted Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) in Rust with the [Concrete](https://github.com/zama-ai/concrete) library - 18.08.2022
 - [Secure human action recognition by encrypted neural network inference](https://www.nature.com/articles/s41467-022-32168-5) - 15.08.2022
 - [Morfix.io](https://morfix.io) — BWeb-based UI to play around with the Microsoft [Seal](https://github.com/microsoft/SEAL) library - 22.07.2022
