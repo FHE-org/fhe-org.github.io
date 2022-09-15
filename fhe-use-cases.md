@@ -7,7 +7,7 @@
 <!-- /Main header navigation -->
 
 # FHE use cases [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/fhe-use-cases.md)
-A curated list of use cases and application of Fully Homomorphic Encryption.
+A curated list of use cases and applications of Fully Homomorphic Encryption.
 
 ## Use cases and applications
 - [Spiral for BTC](https://btc.usespiral.com/) - Look up any BTC address balance, without revealing the address to anyone - 09.2022
@@ -22,3 +22,6 @@ A curated list of use cases and application of Fully Homomorphic Encryption.
 - [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](https://github.com/microsoft/SEAL) - 08.07.2021
 - [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow - 26.04.2022
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](https://github.com/microsoft/SEAL) library - 10.03.2022
+
+## Join the discussion on Discord
+[FHE.org discord server](https://discord.fhe.org)
