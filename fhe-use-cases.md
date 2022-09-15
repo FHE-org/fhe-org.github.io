@@ -24,4 +24,4 @@ A curated list of use cases and applications of Fully Homomorphic Encryption.
 - [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](https://github.com/microsoft/SEAL) library - 10.03.2022
 
 ## Join the discussion on Discord
-[FHE.org discord server](https://discord.fhe.org)
+- [FHE.org discord server](https://discord.fhe.org)
