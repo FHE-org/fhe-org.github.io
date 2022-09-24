@@ -20,7 +20,7 @@ A curated list of resources about Fully Homomorphic Encryption.
 
 
 ## FHE Cryptography Theory
-- 📺 [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila (Zama) - 07.07.2022
+- 📺 [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila - 07.07.2022
 - 📃 [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) by Ilaria Chillotti - 02.06.2022
 - 📃 [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by Ilaria Chillotti - 18.05.2022
 - 📃 [TFHE deep-dive - part 2 - Encodings and linear leveled operations](https://www.zama.ai/post/tfhe-deep-dive-part-2) by Ilaria Chillotti - 11.05.2022
