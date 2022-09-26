@@ -34,8 +34,8 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption. It will happe
 To be announced.
 
 ## Latest updates
-**26.09.2022:** Japan to lift Covid-19 restrictions on foreign visits in October
-**24.08.2022:** Announcement of the 2nd annual FHE.org conference on Fully Homomorphic Encryption
+- **26.09.2022:** Japan to lift Covid-19 restrictions on foreign visits in October
+- **24.08.2022:** Announcement of the 2nd annual FHE.org conference on Fully Homomorphic Encryption
 
 ---
 <p align="center">
