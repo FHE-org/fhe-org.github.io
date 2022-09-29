@@ -25,6 +25,9 @@ Note that <b>we welcome any contribution to the pages above</b>, simply open a P
 
 # Previous events
 
+###### 27.09.2022
+- [FHE based on the NTRU problem: challenges and new constructions](https://fhe-org.github.io/meetups/FHE_based_on_the_NTRU_problem) by Hilder Vitor Lima Pereira
+
 ###### 07.07.2022
 - [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila
 
