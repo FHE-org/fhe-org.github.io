@@ -8,7 +8,7 @@
 
 # FHE based on the NTRU problem: challenges and new constructions
 #### by Hilder Hilder Vitor Lima Pereira - 27.09.2022
-#### <a href="#">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1aJCfhIpAk8unQ8BKof3C3cHlVzse1qpD/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=6-SXi6VSxck">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1m4TUL5zT15gbrSlRWL4GP0FfjeJ6IqzM/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 ![Meetup event cover (6)](https://user-images.githubusercontent.com/5758427/193014997-bba0b6f2-050c-484b-a009-8dd4de32e1ec.png)
 
 
