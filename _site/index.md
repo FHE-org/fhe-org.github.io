@@ -5,24 +5,23 @@
   
 We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
 
-> 💡 This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the [contribution guidelines](https://fhe-org.github.io/contrib) first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources. 
+> ℹ️ Are you a complete beginner to the concept of FHE? Check out this <a href="https://6min.zama.ai/" target="_blank">6-min. introduction</a>. 
 
-Ready to <a href="./get-started">get started</a>? 
-
-- Check out the [getting started](./get-started) page designed for beginners, developers, and researchers to easily find resources
-- Check out [different example use cases](./fhe-use-cases) of FHE
-- Join the community on [Discord](https://discord.fhe.org)
-- Subscribe to the FHE.org [newsletter](https://fheorg.substack.com/)
-
+- Check out the various [resources](./fhe-resources) designed for beginners, developers, and researchers alike.
+- Check out the latest example [use cases](./fhe-use-cases) of FHE.
+- Participate and stay up to date with the [community](./fhe-community)
 
 <br><br>
 
 
-# Upcoming events
+# Upcoming talks and meetups
 
 {% include fhe-next-events.html %}
 
-Miss a talk or event? Check out [previous talks and events](./fhe-events).
+# Previous talks and meetups
+
+{% include fhe-events.html %}
 
 
 {% include footer.html %}
+

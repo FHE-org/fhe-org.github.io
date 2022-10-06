@@ -23,7 +23,7 @@
 {"@context":"https://schema.org","@type":"WebSite","description":"We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques.","headline":"Fully Homomorphic Encryption","name":"Fully Homomorphic Encryption","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=204befd3f689502fc83eef260f9d4214caeab9f9">
+    <link rel="stylesheet" href="/assets/css/style.css?v=bb5f42793958d58c0c70540c1f43a86ef6bc8d75">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -45,6 +45,9 @@
 <!-- end custom head snippets -->
 
     <title>FHE.org - Fully Homomorphic Encryption</title>
+    <script src="./assets/jquery-3.6.1.min.js"></script>
+    <script src="./assets/fancyTable.min.js"></script>
+    <script src="./assets/tablesort.js"></script>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -52,7 +55,7 @@
       <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png" /><br />
-  <a href="./">Home</a> | <a href="./get-started">Get started</a> | <a href="https://discord.fhe.org">Join the community</a> | <a href="./fhe-events">Events</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="./fhe-resources">Resources</a>
+  <a href="./">Home</a> | <a href="./fhe-resources">Resources</a> | <a href="./fhe-use-cases">Use cases</a> | <a href="./fhe-community">Join the community</a> | <a href="./fhe-events">Talks and meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a>
 </p>
 <!-- /Main header navigation -->
 
@@ -63,34 +66,151 @@
 <p>We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.</p>
 
 <blockquote>
-  <p>💡 This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.</p>
+  <p>ℹ️ Are you a complete beginner to the concept of FHE? Check out this <a href="https://6min.zama.ai/" target="_blank">6-min. introduction</a>.</p>
 </blockquote>
 
-<p>Ready to <a href="./get-started">get started</a>?</p>
-
 <ul>
-  <li>Check out the <a href="./get-started">getting started</a> page designed for beginners, developers, and researchers to easily find resources</li>
-  <li>Check out <a href="./fhe-use-cases">different example use cases</a> of FHE</li>
-  <li>Join the community on <a href="https://discord.fhe.org">Discord</a></li>
-  <li>Subscribe to the FHE.org <a href="https://fheorg.substack.com/">newsletter</a></li>
+  <li>Check out the various <a href="./fhe-resources">resources</a> designed for beginners, developers, and researchers alike.</li>
+  <li>Check out the latest example <a href="./fhe-use-cases">use cases</a> of FHE.</li>
+  <li>Participate and stay up to date with the <a href="./fhe-community">community</a></li>
 </ul>
 
 <p><br /><br /></p>
 
-<h1 id="upcoming-events">Upcoming events</h1>
+<h1 id="upcoming-talks-and-meetups">Upcoming talks and meetups</h1>
 
 <p><a href="https://meetup.com/fhe-org/events/288073494"><img src="https://user-images.githubusercontent.com/5758427/186871009-f630ecfc-0ca8-437f-9baa-517678e32876.jpg" /></a></p>
 
-<p>Miss a talk or event? Check out <a href="./fhe-events">previous talks and events</a>.</p>
+<h1 id="previous-talks-and-meetups">Previous talks and meetups</h1>
+
+<table id="sampleTableA" class="table table-striped sampleTable">
+    <thead>
+        <tr>
+            <th data-sortas="case-insensitive">Date</th>
+            <th data-sortas="case-insensitive">Title</th>
+            <th data-sortas="case-insensitive">Author/presenter</th>
+            <th data-sortas="case-insensitive">Tags</th>
+        </tr>
+    </thead>
+    
+    <tr>
+        <td>2022.07.07</td>    
+        <td><a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete">Homomorphic Large Precision Integers Using Concrete</a></td>
+        <td>Jean-Baptiste Orfila</td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2022.05.29</td>
+        <td><a href="https://fhe-org.github.io/conferences/conference-2022/resources">FHE.org conference 2022</a></td>
+        <td>FHE.org</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2022.04.28</td>
+        <td><a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a></td>
+        <td>Furkan Aydin</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2022.03.29</td>
+        <td><a href="https://fhe-org.github.io/conferences/conference-2022/resources">Verifiable Computation over Encrypted Data: SNARKs and more</a></td>
+        <td>Anca Nitulescu</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2022.02.25</td>
+        <td><a href="https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a></td>
+        <td>Muhammad Haris</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2022.01.20</td>
+        <td><a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption">An overview of Hybrid Homomorphic Encryption</a></td>
+        <td>Orel Cosseron and Clément Hoffmann</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.12.21</td>
+        <td><a href="https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light">FHE at the speed of light</a></td>
+        <td>Florent Michel</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.11.23</td>
+        <td><a href="https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe">Why we need revolutionary hardware for FHE</a></td>
+        <td>Rosario Cammarota</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.09.30</td>
+        <td><a href="https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption">Private Set Intersection via somewhat homomorphic encyrption</a></td>
+        <td>Ilia Iliashenko</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.09.30</td>
+        <td><a href="https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically">Running Numpy programs homomorphically</a></td>
+        <td>Rand Hindi, Ayoub Benaissa and Samuel Tap</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.08.26</td>
+        <td><a href="https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler">Google's C++ to FHE Transpiler</a></td>
+        <td>Shruthi Gorantala and Rob Springer</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.05.20</td>
+        <td><a href="https://fhe-org.github.io/meetups/fhe-development-tools">FHE development tools</a></td>
+        <td>Alexander Viand</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.04.15</td>
+        <td><a href="https://fhe-org.github.io/meetups/tfhe-deep-dive">TFHE deep dive</a></td>
+        <td>Ilaria Chillotti</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2021.01.27</td>
+        <td><a href="https://fhe-org.github.io/meetups/introduction-to-mpc">Introduction to MPC</a></td>
+        <td>Yehuda Lindell</td>        
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>2020.11.04</td>
+        <td><a href="https://fhe-org.github.io/meetups/introduction-to-fhe">Introduction to FHE</a></td>
+        <td>Pascal Paillier</td>        
+        <td></td>
+    </tr>
+
+
+</table>
 
 <hr />
 
-<p>Contributions to this from the community are welcome! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first.</p>
+<p>❤️ This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.</p>
+
 
 
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+
   </body>
 </html>

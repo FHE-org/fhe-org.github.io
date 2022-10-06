@@ -23,7 +23,7 @@
 {"@context":"https://schema.org","@type":"WebPage","description":"We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques.","headline":"Fully Homomorphic Encryption","url":"http://localhost:4000/fhe-resources.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=204befd3f689502fc83eef260f9d4214caeab9f9">
+    <link rel="stylesheet" href="/assets/css/style.css?v=bb5f42793958d58c0c70540c1f43a86ef6bc8d75">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -45,6 +45,9 @@
 <!-- end custom head snippets -->
 
     <title>FHE.org - Fully Homomorphic Encryption</title>
+    <script src="./assets/jquery-3.6.1.min.js"></script>
+    <script src="./assets/fancyTable.min.js"></script>
+    <script src="./assets/tablesort.js"></script>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -52,7 +55,7 @@
       <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png" /><br />
-  <a href="./">Home</a> | <a href="./get-started">Get started</a> | <a href="https://discord.fhe.org">Join the community</a> | <a href="./fhe-events">Events</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="./fhe-resources">Resources</a>
+  <a href="./">Home</a> | <a href="./fhe-resources">Resources</a> | <a href="./fhe-use-cases">Use cases</a> | <a href="./fhe-community">Join the community</a> | <a href="./fhe-events">Talks and meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a>
 </p>
 <!-- /Main header navigation -->
 
@@ -64,83 +67,224 @@
 
 <h2 id="fhe-libraries">FHE Libraries</h2>
 
-<ul>
-  <li>💻 <a href="https://github.com/zama-ai/concrete">Concrete</a> - Rust FHE library that implements Zama’s variant of TFHE.</li>
-  <li>💻 <a href="https://github.com/HomEnc/HElib">HElib</a> - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.</li>
-  <li>💻 <a href="https://github.com/ldsec/lattigo">Lattigo</a> - lattice-based multiparty homomorphic encryption library in Go.</li>
-  <li>💻 <a href="https://github.com/openfheorg/openfhe-development">OpenFHE</a> - OpenFHE is an open-source FHE library that includes efficient implementations of common FHE schemes.</li>
-  <li>💻 <a href="https://palisade-crypto.org/software-library/">PALISADE</a> - C++ FHE library that supports all the major FHE protocols.</li>
-  <li>💻 <a href="https://github.com/microsoft/SEAL">SEAL</a> - C++ FHE library implementing BFV and CKKS schemes.</li>
-</ul>
+<table id="sampleTableB" class="table table-striped sampleTable">
+    <thead>
+        <tr>
+            <th data-sortas="case-sensitive">Stars</th>
+            <th data-sortas="case-sensitive">Name</th>
+            <th data-sortas="case-sensitive">Description</th>
+            <th data-sortas="case-sensitive">Author</th>
+            <th data-sortas="case-sensitive">Tags</th>
+        </tr>
+    </thead>
 
-<h2 id="use-cases">Use cases</h2>
+<tr>
+    <td><img src="https://img.shields.io/github/stars/zama-ai/concrete?style=plastic" /></td>
+    <td><a href="https://github.com/zama-ai/concrete">Concrete</a></td>
+    <td>Rust FHE library that implements Zama's variant of TFHE.</td>
+    <td><a href="https://github.com/zama-ai/">Zama</a></td>
+    <td><img src="https://img.shields.io/badge/💻-Library-blue" /></td>
+</tr>
 
-<ul>
-  <li><a href="https://btc.usespiral.com/">Spiral for BTC</a> - Look up any BTC address balance, without revealing the address to anyone - 09.2022</li>
-  <li>Ensuring security of artificial pancreas device system using <a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X">homomorphic encryption</a> - 08.2022</li>
-  <li><a href="https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2">Encrypted Conway’s Game of Life</a> in Rust with the <a href="https://github.com/zama-ai/concrete">Concrete</a> library - 18.08.2022</li>
-  <li><a href="https://www.nature.com/articles/s41467-022-32168-5">Secure human action recognition by encrypted neural network inference</a> - 15.08.2022</li>
-  <li><a href="https://morfix.io">Morfix.io</a> — BWeb-based UI to play around with the Microsoft <a href="https://github.com/microsoft/SEAL">Seal</a> library - 22.07.2022</li>
-  <li><a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741">Titanic ML from disaster</a> — Building a predictive model over encrypted data with <a href="https://github.com/zama-ai/concrete-ml">Concrete-ML</a> - 07.07.2022</li>
-  <li><a href="https://github.com/ldsec/lattigo-polls-demo">lattigo-polls</a> — Web-application for scheduling meetings using <a href="https://github.com/tuneinsight/lattigo">lattigo</a> - 07.06.2022</li>
-  <li><a href="https://spiralwiki.com">Spiral wiki</a> — Read Wikipedia privately using homomorphic encryption - 24.05.2022</li>
-  <li><a href="https://github.com/Georeactor/encrypted-geofence">crypto-geofence</a> - Geo-fencing demo application based on Paillier scheme - 10.04.2019</li>
-  <li><a href="https://github.com/IntelAI/he-transformer">nGraph-HE</a> - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on <a href="https://github.com/microsoft/SEAL">SEAL</a> - 08.07.2021</li>
-  <li><a href="https://github.com/LatticeX-Foundation/Rosetta">Rosetta</a> - A privacy-preserving framework based on TensorFlow - 26.04.2022</li>
-  <li><a href="https://github.com/tf-encrypted/tf-encrypted">tf-encrypted</a> - Bridge between TensorFlow and the <a href="https://github.com/microsoft/SEAL">Microsoft SEAL</a> library - 10.03.2022</li>
-</ul>
+<tr>
+    <td><img src="https://img.shields.io/github/stars/HomEnc/HElib?style=plastic" /></td>
+    <td><a href="https://github.com/HomEnc/HElib">HElib</a></td>
+    <td>BGV scheme with bootstrapping and the Approximate Number CKKS scheme.</td>
+    <td><a href="https://github.com/HomEnc/">HomEnc</a></td>
+    <td><img src="https://img.shields.io/badge/💻-Library-blue" /></td>
+</tr>
 
-<h2 id="fhe-cryptography-theory">FHE Cryptography Theory</h2>
+<tr>
+    <td><img src="https://img.shields.io/github/stars/ldsec/lattigo?style=plastic" /></td>
+    <td><a href="https://github.com/ldsec/lattigo">Lattigo</a></td>
+    <td>lattice-based multiparty homomorphic encryption library in Go.</td>
+    <td><a href="https://github.com/ldsec/">LDS</a></td>
+    <td><img src="https://img.shields.io/badge/💻-Library-blue" /></td>
+</tr>
 
-<ul>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete">Homomorphic Large Precision Integers Using Concrete</a> by Jean-Baptiste Orfila (Zama) - 07.07.2022</li>
-  <li>📃 <a href="https://www.zama.ai/post/tfhe-deep-dive-part-4">TFHE deep-dive - part 4 - Programmable Bootstrapping</a> by Ilaria Chillotti - 02.06.2022</li>
-  <li>📃 <a href="https://www.zama.ai/post/tfhe-deep-dive-part-3">TFHE deep-dive - part 3 - Key switching and leveled multiplications</a> by Ilaria Chillotti - 18.05.2022</li>
-  <li>📃 <a href="https://www.zama.ai/post/tfhe-deep-dive-part-2">TFHE deep-dive - part 2 - Encodings and linear leveled operations</a> by Ilaria Chillotti - 11.05.2022</li>
-  <li>📃 <a href="https://www.zama.ai/post/tfhe-deep-dive-part-1">TFHE deep-dive - part 1- Ciphertext types</a> by Ilaria Chillotti - 04.05.2022</li>
-  <li>📃 <a href="https://ia.cr/2021/1402">Guide to Fully Homomorphic Encryption over the discretized torus</a> by Marc Joye - 18.10.2021</li>
-  <li>📺 <a href="https://courses.openmined.org/courses/foundations-of-private-computation">Foundations of Private Computation</a> by Open Mined</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more">Verifiable Computation over Encrypted Data: SNARKs and more</a> by Anca Nitulescu - 29.03.2022</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption">An overview of Hybrid Homomorphic Encryption</a> by Orel Cosseron and Clément Hoffman - 20.01.2022</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/tfhe-deep-dive">TFHE deep dive</a> by Ilaria Chillotti - 15.04.2021</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/introduction-to-fhe">Introduction to homomorphic encryption</a> by Pascal Paillier - 04.11.2020</li>
-</ul>
+<tr>
+    <td><img src="https://img.shields.io/github/stars/openfheorg/openfhe-development?style=plastic" /></td>
+    <td><a href="https://github.com/openfheorg/openfhe-development">OpenFHE</a></td>
+    <td>OpenFHE is an open-source FHE library that includes efficient implementations of common FHE schemes.</td>
+    <td><a href="https://github.com/openfheorg/">OpenFHE.org</a></td>
+    <td><img src="https://img.shields.io/badge/💻-Library-blue" /></td>
+</tr>
 
-<h2 id="fhe-engineering">FHE Engineering</h2>
+<tr>
+    <td></td>
+    <td><a href="https://palisade-crypto.org/software-library/">Palisade</a></td>
+    <td>C++ FHE library that supports all the major FHE protocols.</td>
+    <td><a href="https://palisade-crypto.org/">Palisade</a></td>
+    <td><img src="https://img.shields.io/badge/💻-Library-blue" /></td>
+</tr>
 
-<ul>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by Furkan Aydin - 28.04.2022</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a> by Muhammad Haris - 25.02.2022</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light">FHE at the speed of light</a> by Florent Michel - 21.12.2021</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe">Why we need revolutionnary hardware for FHE</a> by Rosario Cammarota - 23.11.2021</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler">Google’s C++ to FHE compiler</a> by Shruthi Gorantala and Rob Springer - 26.08.2021</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/fhe-development-tools">Developer Tools &amp; Compilers</a> by Alexander Viand - 20.05.2021</li>
-  <li>📺 <a href="https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption">Private set intersection via somewhat homomorphic encryption</a> by Ilia Iliashenko - 15.04.2021</li>
-</ul>
+<tr>
+    <td><img src="https://img.shields.io/github/stars/microsoft/SEAL?style=plastic" /></td>
+    <td><a href="https://github.com/microsoft/SEAL">SEAL</a></td>
+    <td>C++ FHE library implementing BFV and CKKS schemes.</td>
+    <td><a href="https://github.com/microsoft/">Microsoft</a></td>
+    <td><img src="https://img.shields.io/badge/💻-Library-blue" /></td>
+</tr>
 
-<h2 id="tutorials">Tutorials</h2>
 
-<ul>
-  <li>📃 <a href="https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2">Encrypted Conway’s Game of Life</a> in Rust with the <a href="https://github.com/zama-ai/concrete">Concrete</a> library - 18.08.2022</li>
-  <li>📃 <a href="https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40">Encrypted search using Fully Homomorphic Encryption</a>  - 03.11.2021</li>
-  <li>📃 <a href="https://medium.com/p/f2bcfd614131/">Concrete Boolean and Conway’s Game of Life</a> - 30.09.2021</li>
-  <li>📃 <a href="https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically">Homomorphic Machine Learning using Numpy &amp; Concrete</a> - 26.08.2021</li>
-</ul>
 
-<h2 id="non-technical-content">Non-technical Content</h2>
+</table>
 
-<ul>
-  <li>📃 <a href="https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation">Data governance is in desperate need of innovation</a> by Jeremy Bradley and Lorrayne Porciuncula - 22.12.2021</li>
-  <li>📃 <a href="https://www.zama.ai/post/homomorphic-encryption-101">Homomorphic Encryption 101</a> by Marc Joye - 01.12.2021</li>
-  <li>📃 <a href="https://6min.zama.ai">6-minute introduction to end to end encryption and try out an FHE demo for yourself</a> - 15.09.2021</li>
-  <li>📃 <a href="https://www.zama.ai/post/people-should-not-care-about-privacy">People shouldn’t care about privacy</a> - by  Rand Hindi - 26.08.2021</li>
-</ul>
+<h2 id="resources">Resources</h2>
 
+<table id="sampleTableA" class="table table-striped sampleTable">
+    <thead>
+        <tr>
+            <th data-sortas="case-sensitive">Date</th>
+            <th data-sortas="case-sensitive">Title</th>
+            <th data-sortas="case-sensitive">Description</th>
+            <th data-sortas="case-sensitive">Author</th>
+            <th data-sortas="case-sensitive">Tags</th>
+        </tr>
+    </thead>
+
+<tr>
+    <td>2022.09</td>
+    <td><a href="https://btc.usespiral.com/">Spiral for BTC</a></td>
+    <td>Look up any Bitcoin (BTC) address balance, without revealing the address to anyone</td>
+    <td><a href="https://usespiral.com/">Spiral</a></td>
+    <td>Use cases</td>
+</tr>
+
+<tr>
+    <td>2022.08</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X">Ensuring security of artificial pancreas device system using homomorphic encryption</a></td>
+    <td>The privacy and security of a person’s health data is a human right protected by law in many countries. However, networked information systems that store and process health data may have security vulnerabilities and are attractive to attacks aimed to gain either unauthorized access to these data or compromise it. Compromising data of patients with chronic conditions like Diabetes Mellitus has potentially life-threatening consequences (e.g., from incorrect insulin dosing due to loss of glucose measurement data integrity). Consequently, privacy-preserving computing methods are called to mitigate the risk of a data breach.</td>
+    <td>Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, Artem Lenskiy</td>
+    <td>Use cases</td>
+</tr>
+
+<tr>
+    <td>2022.08.18</td>
+    <td><a href="https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2">Encrypted Conway's Game of Life</a></td>
+    <td>Encrypted Conway's Game of Life in Rust with the Concrete library</td>
+    <td><a href="https://zama.ai">Zama</a></td>
+    <td>Use cases</td>
+</tr>
+
+
+<tr>
+    <td>2022.08.15</td>
+    <td><a href="https://www.nature.com/articles/s41467-022-32168-5">Secure human action recognition by encrypted neural network inference</a></td>
+    <td>Advanced computer vision technology can provide near real-time home monitoring to support “aging in place” by detecting falls and symptoms related to seizures and stroke. Affordable webcams, together with cloud computing services (to run machine learning algorithms), can potentially bring significant social benefits. However, it has not been deployed in practice because of privacy concerns. In this paper, we propose a strategy that uses homomorphic encryption to resolve this dilemma, which guarantees information confidentiality while retaining action detection. Our protocol for secure inference can distinguish falls from activities of daily living with 86.21% sensitivity and 99.14% specificity, with an average inference latency of 1.2 seconds and 2.4 seconds on real-world test datasets using small and large neural nets, respectively. We show that our method enables a 613x speedup over the latency-optimized LoLa and achieves an average of 3.1x throughput increase in secure inference compared to the throughput-optimized nGraph-HE2.</td>
+    <td>Miran Kim, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, Shayan Shams</td>
+    <td>Use cases</td>
+</tr>
+
+
+<tr>
+    <td>2022.07.22</td>
+    <td><a href="https://morfix.io">Morfix.io</a></td>
+    <td>BWeb-based UI to play around with the Microsoft Seal library</td>
+    <td><a href="https:/morfix.io/">Morfix</a></td>
+    <td>Use cases</td>
+</tr>
+
+
+<tr>
+    <td>2022.07.07</td>
+    <td><a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741">Titanic ML from disaster</a></td>
+    <td>Building a predictive model over encrypted data with Concrete-ML</td>
+    <td><a href="https://zama.ai/">Zama</a></td>
+    <td>Use cases</td>
+</tr>
+
+<tr>
+    <td>2022.06.07</td>
+    <td><a href="https://github.com/ldsec/lattigo-polls-demo">lattigo-polls</a></td>
+    <td>Web-application for scheduling meetings using lattigo</td>
+    <td><a href="https://github.com/ldsec/">LDS</a></td>
+    <td>Use cases</td>
+</tr>
+
+<tr>
+    <td>2022.05.24</td>
+    <td><a href="https://spiralwiki.com">Spiral wiki</a></td>
+    <td>Read Wikipedia privately using homomorphic encryption</td>
+    <td><a href="https://spiralwiki.com">Samir Menon</a></td>
+    <td>Use cases</td>
+</tr>
+
+
+<tr>
+    <td>2022.10.04</td>
+    <td><a href="https://github.com/Georeactor/encrypted-geofence">crypto-geofence</a></td>
+    <td>Geo-fencing demo application based on Paillier scheme</td>
+    <td><a href="https://github.com/Georeactor/">Georeactor</a></td>
+    <td>Use cases</td>
+</tr>
+
+<tr>
+    <td>2022.07.08</td>
+    <td><a href="https://github.com/IntelAI/he-transformer">nGraph-HE</a></td>
+    <td> Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on SEAL</td>
+    <td><a href=" https://www.intel.ai">Intel AI</a></td>
+    <td>Use cases</td>
+</tr>
+
+
+<tr>
+    <td>2022.04.26</td>
+    <td><a href="https://github.com/LatticeX-Foundation/Rosetta">Rosetta</a></td>
+    <td>A privacy-preserving framework based on TensorFlow</td>
+    <td><a href="https://latticex.foundation/">LatticeX Foundation</a></td>
+    <td>Use cases</td>
+</tr>
+
+
+<tr>
+    <td>2022.03.10</td>
+    <td><a href="https://github.com/tf-encrypted/tf-encrypted">tf-encrypted</a></td>
+    <td>Bridge between TensorFlow and the Microsoft SEAL</td>
+    <td><a href="https://github.com/tf-encrypted/">TF Encrypted</a></td>
+    <td>Use cases</td>
+</tr>
+
+
+<!-- - 📺 [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila (Zama) - 07.07.2022
+- 📃 [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) by Ilaria Chillotti - 02.06.2022
+- 📃 [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by Ilaria Chillotti - 18.05.2022
+- 📃 [TFHE deep-dive - part 2 - Encodings and linear leveled operations](https://www.zama.ai/post/tfhe-deep-dive-part-2) by Ilaria Chillotti - 11.05.2022
+- 📃 [TFHE deep-dive - part 1- Ciphertext types](https://www.zama.ai/post/tfhe-deep-dive-part-1) by Ilaria Chillotti - 04.05.2022
+- 📃 [Guide to Fully Homomorphic Encryption over the discretized torus](https://ia.cr/2021/1402) by Marc Joye - 18.10.2021
+- 📺 [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation) by Open Mined
+- 📺 [Verifiable Computation over Encrypted Data: SNARKs and more](https://fhe-org.github.io/meetups/verifiable-computation-over-encrypted-data-snarks-and-more) by Anca Nitulescu - 29.03.2022
+- 📺 [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption) by Orel Cosseron and Clément Hoffman - 20.01.2022
+- 📺 [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) by Ilaria Chillotti - 15.04.2021
+- 📺 [Introduction to homomorphic encryption](https://fhe-org.github.io/meetups/introduction-to-fhe) by Pascal Paillier - 04.11.2020
+
+
+- 📺 [Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library](https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library) by Furkan Aydin - 28.04.2022
+- 📺 [Single-server private information retrieval using homomorphic encryption](https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption) by Muhammad Haris - 25.02.2022
+- 📺 [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by Florent Michel - 21.12.2021
+- 📺 [Why we need revolutionnary hardware for FHE](https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe) by Rosario Cammarota - 23.11.2021
+- 📺 [Google's C++ to FHE compiler](https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler) by Shruthi Gorantala and Rob Springer - 26.08.2021
+- 📺 [Developer Tools & Compilers](https://fhe-org.github.io/meetups/fhe-development-tools) by Alexander Viand - 20.05.2021
+- 📺 [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption) by Ilia Iliashenko - 15.04.2021
+
+- 📃 [Encrypted Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) in Rust with the [Concrete](https://github.com/zama-ai/concrete) library - 18.08.2022
+- 📃 [Encrypted search using Fully Homomorphic Encryption](https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40)  - 03.11.2021
+- 📃 [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) - 30.09.2021
+- 📃 [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) - 26.08.2021
+
+- 📃 [Data governance is in desperate need of innovation](https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation) by Jeremy Bradley and Lorrayne Porciuncula - 22.12.2021
+- 📃 [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) by Marc Joye - 01.12.2021
+- 📃 [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai) - 15.09.2021
+- 📃 [People shouldn't care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - by  Rand Hindi - 26.08.2021
+ -->
+
+</table>
 
 
       
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+
   </body>
 </html>
