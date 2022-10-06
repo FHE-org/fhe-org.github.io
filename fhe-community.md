@@ -12,7 +12,7 @@ You can participate in the community via any of its official social channels and
 - <a href="https://reddit.com/r/FHE" target="_blank">FHE.org Reddit</a>
 
 
-Or by [subscribing to the newsletter](https://fheorg.substack.com/) to get frequent updates of all the happenings in the FHE space and community.
+Or by <a href="https://fheorg.substack.com/" target="_blank">subscribing to the newsletter</a> to get frequent updates of all the happenings in the FHE space and community.
 
 <br><br>
 
