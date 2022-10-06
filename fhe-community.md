@@ -7,9 +7,9 @@ We are a community of researchers and developers interested in advancing Fully H
 
 You can participate in the community via any of its official social channels and platforms:
 
-- [FHE.org Discord](https://discord.fhe.org/)
-- [FHE.org Twitter](https://twitter.com/fhe_org)
-- [FHE.org Reddit](https://reddit.com/r/FHE)
+- <a href="https://discord.fhe.org/" target="_blank">FHE.org Discord</a>
+- <a href="https://twitter.com/fhe_org" target="_blank">FHE.org Twitter</a>
+- <a href="https://reddit.com/r/FHE" target="_blank">FHE.org Reddit</a>
 
 
 Or by [subscribing to the newsletter](https://fheorg.substack.com/) to get frequent updates of all the happenings in the FHE space and community.
