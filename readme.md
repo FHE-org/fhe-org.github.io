@@ -19,7 +19,7 @@ If you want to learn more about FHE, make sure to:
 Note that <b>we welcome any contribution to the pages above</b>, simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your links.
 
 # Next event
-- To be announced
+[![Meetup event cover (2)](https://user-images.githubusercontent.com/5758427/194921175-2ba90b47-8139-4b87-a02c-e0e183386847.png)](https://www.meetup.com/fhe-org/events/289022390/)
 
 
 # Previous events
