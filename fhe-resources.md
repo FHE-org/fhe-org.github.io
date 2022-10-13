@@ -17,6 +17,7 @@ A curated list of resources about Fully Homomorphic Encryption.
 - 💻 [OpenFHE](https://github.com/openfheorg/openfhe-development) - OpenFHE is an open-source FHE library that includes efficient implementations of common FHE schemes.
 - 💻 [PALISADE](https://palisade-crypto.org/software-library/) - C++ FHE library that supports all the major FHE protocols.
 - 💻 [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.
+- 💻 [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration.
 
 
 ## FHE Cryptography Theory
