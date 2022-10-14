@@ -16,7 +16,7 @@ Whether you're <a href="#for-beginners" style="text-decoration:none; color:#0000
 <br><br>
 <h2><span style="background-color:#00FF4D; padding:10px">For beginners</span></h2>
 
-<a href="https://6min.zama.ai/" target="_blank"><img src="./assets/6min.png"></a><br><br>
+<a href="https://6min.zama.ai/" target="_blank"><img src="https://fhe.org/assets/6min.png"></a><br><br>
 
 ### Beginner resources:
 
@@ -43,7 +43,7 @@ Whether you're <a href="#for-beginners" style="text-decoration:none; color:#0000
 
 <h2><span style="background-color:#0040FF; color:#FFFFFF; padding:10px">For developers</span></h2>
 
-<a href="https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2" target="_blank"><img src="./assets/game-of-life.png"></a><br><br>
+<a href="https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2" target="_blank"><img src="https://fhe.org/assets/game-of-life.png"></a><br><br>
 
 ### FHE libraries
 
@@ -76,7 +76,7 @@ Whether you're <a href="#for-beginners" style="text-decoration:none; color:#0000
 
 <h2><span style="background-color:#A400FF; color:#FFFFFF; padding:10px">For researchers</span></h2>
 
-<a href="#" target="_blank"><img src="./assets/theory.png"></a><br><br>
+<a href="#" target="_blank"><img src="https://fhe.org/assets/theory.png"></a><br><br>
 
 ### FHE Cryptography Theory
 
