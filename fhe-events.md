@@ -4,7 +4,7 @@
 
 # Upcoming talks and meetups
 
-[<img src="https://user-images.githubusercontent.com/5758427/186871009-f630ecfc-0ca8-437f-9baa-517678e32876.jpg">](https://meetup.com/fhe-org/events/288073494)
+{% include fhe-next-events.html %}
 
 # Previous talks and meetups
 

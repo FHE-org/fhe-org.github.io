@@ -1,5 +1,9 @@
+<!-- Main header navigation -->
 {% include navbar.html %}
 <hr/>
+
+<!-- /Main header navigation -->
+
 <!-- header conference 2022 links -->
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2022/home">Home</a>
