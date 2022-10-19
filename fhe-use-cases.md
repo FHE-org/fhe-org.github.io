@@ -10,7 +10,7 @@
 A curated list of use cases and applications of Fully Homomorphic Encryption.
 
 ## Use cases and applications
-- [sprl it!](https://sprl.it/) - a private .eth resolver that uses homomorphic encryption to keep your queries private. You can resolve any .eth name, and the server never learns your query! - 19.10.2022
+- [sprl it!](https://sprl.it/) - A private .eth resolver that uses homomorphic encryption to keep your queries private. You can resolve any .eth name, and the server never learns your query! - 19.10.2022
 - [Spiral for BTC](https://btc.usespiral.com/) - Look up any BTC address balance, without revealing the address to anyone - 09.2022
 - Ensuring security of artificial pancreas device system using [homomorphic encryption](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) - 08.2022
 - [Encrypted Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) in Rust with the [Concrete](https://github.com/zama-ai/concrete) library - 18.08.2022
