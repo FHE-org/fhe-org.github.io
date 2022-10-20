@@ -40,7 +40,7 @@
 - **Ilaria Chillotti** *Zama, France*
 - **Jean-Sébastien Coron** *University of Luxembourg, Luxembourg*
 - **Anamaria Costache** *NTNU, Norway*
-- **Karim Eldefrawy** *SRI, USA*
+- **Karim Eldefrawy** *Confidencial, USA*
 - **Mariya Georgieva** *Inpher, Switzerland*
 - **Shai Halevi** *Algorand, USA*
 - **Malika Izabachène** *Cosmian, France*
