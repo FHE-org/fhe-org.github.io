@@ -36,25 +36,25 @@
 - **Mehdi Tibouchi** *NTT Social Informatics Laboratories, Japan*
 
 ## Program committee
-- **Rosario Camarota** *Intel*
-- **Ilaria Chillotti** *Zama*
-- **Jean-Sébastien Coron** *University of Luxembourg*
-- **Anamaria Costache** *NTNU*
-- **Karim Eldefrawy** *SRI*
-- **Mariya Georgieva** *Inpher*
-- **Shai Halevi** *Algorand*
-- **Malika Izabachène** *Cosmian*
-- **Taeho Jung** *University of Notre Dame*
-- **Dongwoo Kim** *Western Digital*
-- **Miran Kim** *Hanyang University*
-- **Noboru Kunihiro** *University of Tsukuba*
-- **Tancrède Lepoint** *Amazon Web Services*
-- **Koji Nuida** *Kyushu University*
-- **Jeongeun Park** *KU Leuven*
-- **Rachel Player** *Royal Holloway, University of London*
-- **Christian Rechberger** *TU Graz*
-- **Yongsoo Song** *SNU*
-- **Juan Troncoso-Pastoriza** *Tune Insight*
+- **Rosario Camarota** *Intel, USA*
+- **Ilaria Chillotti** *Zama, France*
+- **Jean-Sébastien Coron** *University of Luxembourg, Luxembourg*
+- **Anamaria Costache** *NTNU, Norway*
+- **Karim Eldefrawy** *SRI, USA*
+- **Mariya Georgieva** *Inpher, Switzerland*
+- **Shai Halevi** *Algorand, USA*
+- **Malika Izabachène** *Cosmian, France*
+- **Taeho Jung** *University of Notre Dame, USA*
+- **Dongwoo Kim** *Western Digital, USA*
+- **Miran Kim** *Hanyang University, South Korea*
+- **Noboru Kunihiro** *University of Tsukuba, Japan*
+- **Tancrède Lepoint** *Amazon Web Services, USA*
+- **Koji Nuida** *Kyushu University, Japan*
+- **Jeongeun Park** *KU Leuven, Belgium*
+- **Rachel Player** *Royal Holloway, University of London, UK*
+- **Christian Rechberger** *TU Graz, Austria*
+- **Yongsoo Song** *SNU, South Korea*
+- **Juan Troncoso-Pastoriza** *Tune Insight, Switzerland*
 - To be completed.
 
 ## Organization committee
