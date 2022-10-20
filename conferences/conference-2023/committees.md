@@ -41,7 +41,7 @@
 - **Jean-Sébastien Coron** *University of Luxembourg*
 - **Anamaria Costache** *NTNU*
 - **Karim Eldefrawy** *SRI*
-- **Mariya Georgieva *Inpher*
+- **Mariya Georgieva** *Inpher*
 - **Shai Halevi** *Algorand*
 - **Malika Izabachène** *Cosmian*
 - **Taeho Jung** *University of Notre Dame*
