@@ -55,7 +55,7 @@
 - **Christian Rechberger** *TU Graz*
 - **Yongsoo Song** *SNU*
 - **Juan Troncoso-Pastoriza** *Tune Insight*
-- To be completed...
+- To be completed.
 
 ## Organization committee
 - **Ilaria Chillotti** *Zama, France*
