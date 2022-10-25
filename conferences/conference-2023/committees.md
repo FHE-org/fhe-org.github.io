@@ -36,6 +36,7 @@
 - **Mehdi Tibouchi** *NTT Social Informatics Laboratories, Japan*
 
 ## Program committee
+- **Khin Mi Mi Aung** *A\*STAR, Singapore*
 - **Rosario Camarota** *Intel, USA*
 - **Ilaria Chillotti** *Zama, France*
 - **Jean-Sébastien Coron** *University of Luxembourg, Luxembourg*
@@ -52,10 +53,12 @@
 - **Koji Nuida** *Kyushu University, Japan*
 - **Jeongeun Park** *KU Leuven, Belgium*
 - **Rachel Player** *Royal Holloway, University of London, UK*
+- **Yuriy Polyakov** *Duality Technologies, USA
 - **Christian Rechberger** *TU Graz, Austria*
 - **Yongsoo Song** *SNU, South Korea*
+- **Berk Sunar** *Worcester Polytechnic Institute, USA*
 - **Juan Troncoso-Pastoriza** *Tune Insight, Switzerland*
-- To be completed.
+- **Kyoohyung Han** *Samsung SDS, South Korea*
 
 ## Organization committee
 - **Ilaria Chillotti** *Zama, France*
