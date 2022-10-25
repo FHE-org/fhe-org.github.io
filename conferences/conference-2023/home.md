@@ -31,7 +31,7 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption. It is co-loca
 - **Conference date:** March 26, 2023
 
 ## Sponsors
-To be announced.
+Contact the publicity chair if you want to be a sponsor.
 
 ## Latest updates
 - **26.09.2022:** Japan to lift Covid-19 restrictions on foreign visits in October
