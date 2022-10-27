@@ -57,7 +57,6 @@
 - **Juan Troncoso-Pastoriza** *Tune Insight*
 
 ## Organization committee
-- **Ilaria Chillotti** *Zama, France*
 - **Martin Hullin** *Internet Jurisdiction, Netherland*
 - **Qian Lou** *Samsung Electronics America, USA*
 - **Cristian Lupascu** *Omnia, Romania*
