@@ -8,7 +8,7 @@
 
 # Real-world deployment of FHE-based private information retrieval
 #### by Samir Menon - 25.10.2022
-#### <a href="https://www.youtube.com/watch?v=6-SXi6VSxck">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1r_8CZUQtl49fbUqhqY2PDUm6au4B3pD1/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/T7RDEEJ5vQg">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1r_8CZUQtl49fbUqhqY2PDUm6au4B3pD1/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 ![Meetup event cover](https://user-images.githubusercontent.com/5758427/198673977-bbb78f41-037e-4079-8fa9-241c3493312a.png)
 
 
