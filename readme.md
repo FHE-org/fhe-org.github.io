@@ -24,6 +24,10 @@ Note that <b>we welcome any contribution to the pages above</b>, simply open a P
 
 # Previous events
 
+
+###### 25.10.2022
+- [Real-world deployment of FHE-based private information retrieval](https://fhe-org.github.io/meetups/real_world_deployment_of_FHE_based_private_information_retrieval) by Samir Menon (Spiral Privacy)
+
 ###### 27.09.2022
 - [FHE based on the NTRU problem: challenges and new constructions](https://fhe-org.github.io/meetups/FHE_based_on_the_NTRU_problem) by Hilder Vitor Lima Pereira
 
