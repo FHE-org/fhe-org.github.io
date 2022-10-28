@@ -1,0 +1,30 @@
+<!-- Main header navigation -->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/fhe-resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
+</p>
+<hr/>
+<!-- /Main header navigation -->
+
+# Real-world deployment of FHE-based private information retrieval
+#### by Samir Menon - 25.10.2022
+#### <a href="https://www.youtube.com/watch?v=6-SXi6VSxck">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1r_8CZUQtl49fbUqhqY2PDUm6au4B3pD1/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+![Meetup event cover](https://user-images.githubusercontent.com/5758427/198673977-bbb78f41-037e-4079-8fa9-241c3493312a.png)
+
+
+# Abstract
+Private information retrieval (PIR) lets you retrieve an item from a database without revealing which item you accessed. This query privacy guarantee holds even if the server is malicious. Efficient PIR systems are built using FHE, and are practical today for a variety of applications.
+
+In this talk, I'll give a high-level overview of how PIR using FHE works, and then go in-depth on the real-world deployment challenges of PIR systems, and how we tackle them.
+
+# The speaker
+Samir Menon is a co-founder of Spiral Privacy, which uses FHE to enable private access to blockchain information. He previously worked at Yubico, and before that worked on PIR and libsnark as a student at Stanford.
+
+
+# Related links
+You can privately check any Bitcoin balance at https://btc.usespiral.com/, or privately read a Wikipedia article at https://spiralwiki.com. The scheme underlying our systems is outlined in this paper: https://eprint.iacr.org/2022/368.
+
+# Important links
+- <a href="https://discord.fhe.org">Join the community on Discord</a>
+- <a href="https://fheorg.substack.com">Subscribe to the FHE.org newsletter</a>
+- <a href="https://twitter.com/fhe_org">Follow us on Twitter</a>
