@@ -40,9 +40,11 @@
 - **Ilaria Chillotti** *Zama, France*
 - **Jean-Sébastien Coron** *University of Luxembourg, Luxemburg*
 - **Anamaria Costache** *NTNU, Norway*
+- **Nir Drucker** *IBM Research, Israel*
 - **Karim Eldefrawy** *SRI, CA, USA*
 - **Mariya Georgieva** *Inpher, Switzerland*
 - **Shai Halevi** *Algorand, USA*
+- **Kyoohyung Han** *Seoul National University, South Korea*
 - **Malika Izabachène** *Cosmian, France*
 - **Taeho Jung** *University of Notre Dame, USA*
 - **Dongwoo Kim** *Western Digital, USA*
@@ -52,6 +54,7 @@
 - **Koji Nuida** *Kyushu University, Japan*
 - **Jeongeun Park** *KU Leuven, Belgium*
 - **Rachel Player** *Royal Holloway, University of London, UK*
+- **Yuriy Polyakov** *Duality Technologies, USA*
 - **Christian Rechberger** *TU Graz, Austria*
 - **Yongsoo Song** *SNU, South Korea*
 - **Juan Troncoso-Pastoriza** *Tune Insight, Switzerland*
