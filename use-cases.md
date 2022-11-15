@@ -115,4 +115,4 @@ A curated list of use cases and applications of Fully Homomorphic Encryption.
 
 <!--- Footer --->
 <hr />
-💙 This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the [contribution guidelines](https://fhe-org/contrib) first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
+💙 This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
