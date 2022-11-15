@@ -10,14 +10,15 @@
 A curated list of use cases and applications of Fully Homomorphic Encryption.
 
 <table id="sampleTableA" class="table table-striped sampleTable">
-    <thead>
+    
+  <thead>
         <tr>
             <th data-sortas="case-sensitive">Date</th>
             <th data-sortas="case-sensitive">Title</th>
             <th data-sortas="case-sensitive">Description</th>
             <th data-sortas="case-sensitive">Author</th>
         </tr>
-    </thead>    
+   </thead>    
 
 <!--- Add more use cases here! --->
   
