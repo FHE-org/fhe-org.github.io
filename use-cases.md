@@ -10,7 +10,6 @@
 A curated list of use cases and applications of Fully Homomorphic Encryption.
 
 <table id="sampleTableA" class="table table-striped sampleTable">
-    
   <thead>
         <tr>
             <th data-sortas="case-sensitive">Date</th>
@@ -33,7 +32,7 @@ A curated list of use cases and applications of Fully Homomorphic Encryption.
     <td>2022.08</td>
     <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X">Ensuring security of artificial pancreas device system using homomorphic encryption</a></td>
     <td>The privacy and security of a person’s health data is a human right protected by law in many countries. However, networked information systems that store and process health data may have security vulnerabilities and are attractive to attacks aimed to gain either unauthorized access to these data or compromise it. Compromising data of patients with chronic conditions like Diabetes Mellitus has potentially life-threatening consequences (e.g., from incorrect insulin dosing due to loss of glucose measurement data integrity). Consequently, privacy-preserving computing methods are called to mitigate the risk of a data breach.</td>
-    <td>Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, Artem Lenskiy</td
+  <td>Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, Artem Lenskiy</td>
 </tr>
 
 <tr>
@@ -115,5 +114,5 @@ A curated list of use cases and applications of Fully Homomorphic Encryption.
 </table>
 
 <!--- Footer --->
-<hr />
+<hr/>
 💙 This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
