@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/fhe-resources">Resources</a> | <a href="https://fhe-org.github.io/fhe-use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
+  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://discord.fhe.org">Discord</a> | <a href="https://fheorg.substack.com">Newsletter</a> 
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -11,72 +11,133 @@
 We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
 If you want to learn more about FHE, make sure to:
 
-- Check out the [resources page](https://fhe-org.github.io/fhe-resources)
-- Check out the [use cases page](https://fhe-org.github.io/fhe-use-cases)
-- Join the community on [Discord](https://discord.fhe.org)
-- Subscribe to the FHE.org [newsletter](https://fheorg.substack.com/)
-
-Note that <b>we welcome any contribution to the pages above</b>, simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your links.
+- Check out the [resources page](https://fhe-org.github.io/resources)
+- Check out the [use cases page](https://fhe-org.github.io/use-cases)
+- Join the [FHE.org community](https://fhe-org.github.io/community)
 
 # Next event
 [![Meetup event cover (2)](https://user-images.githubusercontent.com/5758427/198878817-e200f5dc-d603-446d-bbbb-db66a601e303.png)](https://www.meetup.com/fhe-org/events/289331317/)
 
 
-# Previous events
+# Previous talks and meetups
+
+<table id="sampleTableA" class="table table-striped sampleTable">
+    <thead>
+        <tr>
+            <th data-sortas="case-insensitive">Date</th>
+            <th data-sortas="case-insensitive">Title</th>
+            <th data-sortas="case-insensitive">Author/presenter</th>
+        </tr>
+    </thead>  
+
+<!--- Update previous meetup links here! --->
+  
+<tr>
+    <td>2022.10.25</td>    
+    <td><a href="https://fhe-org.github.io/meetups/real_world_deployment_of_FHE_based_private_information_retrieval"> Real-world deployment of FHE-based private information retrieval</a></td>
+    <td>Samir Menon</td>
+</tr>
+
+<tr>
+    <td>2022.09.27</td>    
+    <td><a href="https://fhe-org.github.io/meetups/FHE_based_on_the_NTRU_problem">FHE based on the NTRU problem: challenges and new constructions</a></td>
+    <td>Hilder Vitor Lima Pereira</td>
+</tr>
 
 
-###### 25.10.2022
-- [Real-world deployment of FHE-based private information retrieval](https://fhe-org.github.io/meetups/real_world_deployment_of_FHE_based_private_information_retrieval) by Samir Menon (Spiral Privacy)
+<tr>
+    <td>2022.07.07</td>    
+    <td><a href="https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete">Homomorphic Large Precision Integers Using Concrete</a></td>
+    <td>Jean-Baptiste Orfila</td>
+</tr>
 
-###### 27.09.2022
-- [FHE based on the NTRU problem: challenges and new constructions](https://fhe-org.github.io/meetups/FHE_based_on_the_NTRU_problem) by Hilder Vitor Lima Pereira
+<tr>
+    <td>2022.05.29</td>
+    <td><a href="https://fhe-org.github.io/conferences/conference-2022/resources">FHE.org conference 2022</a></td>
+    <td>FHE.org</td>        
+</tr>
 
-###### 07.07.2022
-- [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) by Jean-Baptiste Orfila
+<tr>
+    <td>2022.04.28</td>
+    <td><a href="https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a></td>
+    <td>Furkan Aydin</td>        
+</tr>
 
-###### 29.05.2022
-- [FHE.org conference 2022](https://fhe-org.github.io/conferences/conference-2022/resources) by FHE.org
+<tr>
+    <td>2022.03.29</td>
+    <td><a href="https://fhe-org.github.io/conferences/conference-2022/resources">Verifiable Computation over Encrypted Data: SNARKs and more</a></td>
+    <td>Anca Nitulescu</td>        
+</tr>
 
-###### 28.04.2022
-- [Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library](https://fhe-org.github.io/meetups/single-trace-side-channel-attack-on-seal-homomorphic-encryption-library) by Furkan Aydin
+<tr>
+    <td>2022.02.25</td>
+    <td><a href="https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption">Single-server private information retrieval using homomorphic encryption</a></td>
+    <td>Muhammad Haris</td>        
+</tr>
 
-###### 29.03.2022
-- [Verifiable Computation over Encrypted Data: SNARKs and more](https://fhe-org.github.io/conferences/conference-2022/resources) by Anca Nitulescu
+<tr>
+    <td>2022.01.20</td>
+    <td><a href="https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption">An overview of Hybrid Homomorphic Encryption</a></td>
+    <td>Orel Cosseron and Clément Hoffmann</td>        
+</tr>
 
-###### 25.02.2022
-- [Single-server private information retrieval using homomorphic encryption](https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption) by Muhammad Haris
+<tr>
+    <td>2021.12.21</td>
+    <td><a href="https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light">FHE at the speed of light</a></td>
+    <td>Florent Michel</td>        
+</tr>
 
-###### 20.01.2022
-- [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption) by Orel Cosseron and Clément Hoffmann
+<tr>
+    <td>2021.11.23</td>
+    <td><a href="https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe">Why we need revolutionary hardware for FHE</a></td>
+    <td>Rosario Cammarota</td>        
+</tr>
 
-###### 21.12.2021
-- [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by Florent Michel
+<tr>
+    <td>2021.09.30</td>
+    <td><a href="https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption">Private Set Intersection via somewhat homomorphic encyrption</a></td>
+    <td>Ilia Iliashenko</td>        
+</tr>
 
-###### 23.11.2021
-- [Why we need revolutionary hardware for FHE](https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe) by Rosario Cammarota
+<tr>
+    <td>2021.09.30</td>
+    <td><a href="https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically">Running Numpy programs homomorphically</a></td>
+    <td>Rand Hindi, Ayoub Benaissa and Samuel Tap</td>        
+</tr>
 
-###### 30.09.2021
-- [Private Set Intersection via somewhat homomorphic encyrption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption) by Ilia Iliashenko
+<tr>
+    <td>2021.08.26</td>
+    <td><a href="https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler">Google's C++ to FHE Transpiler</a></td>
+    <td>Shruthi Gorantala and Rob Springer</td>        
+</tr>
 
-###### 30.09.2021
-- [Running Numpy programs homomorphically](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) by Rand Hindi, Ayoub Benaissa and Samuel Tap
+<tr>
+    <td>2021.05.20</td>
+    <td><a href="https://fhe-org.github.io/meetups/fhe-development-tools">FHE development tools</a></td>
+    <td>Alexander Viand</td>        
+</tr>
 
-###### 26.08.2021
-- [Google's C++ to FHE Transpiler](https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler) by Shruthi Gorantala and Rob Springer
+<tr>
+    <td>2021.04.15</td>
+    <td><a href="https://fhe-org.github.io/meetups/tfhe-deep-dive">TFHE deep dive</a></td>
+    <td>Ilaria Chillotti</td>        
+</tr>
 
-###### 20.05.2021
-- [FHE development tools](https://fhe-org.github.io/meetups/fhe-development-tools) by Alexander Viand
+<tr>
+    <td>2021.01.27</td>
+    <td><a href="https://fhe-org.github.io/meetups/introduction-to-mpc">Introduction to MPC</a></td>
+    <td>Yehuda Lindell</td>        
+</tr>
 
-###### 15.04.2021
-- [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) by Ilaria Chillotti
-
-###### 27.01.2021
-- [Introduction to MPC](https://fhe-org.github.io/meetups/introduction-to-mpc) by Yehuda Lindell
-
-###### 04.11.2020
-- [Introduction to FHE](https://fhe-org.github.io/meetups/introduction-to-fhe) by Pascal Paillier
-
-# Contribute
-Contributions from the community are welcome! Read the [contribution guidelines](https://fhe-org.github.io/contributing) first.
+<tr>
+    <td>2020.11.04</td>
+    <td><a href="https://fhe-org.github.io/meetups/introduction-to-fhe">Introduction to FHE</a></td>
+    <td>Pascal Paillier</td>        
+</tr>
 
 
+</table>
+
+<!--- Footer --->
+<hr/>
+💙 This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
