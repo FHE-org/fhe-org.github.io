@@ -56,7 +56,7 @@ A curated list of resources about Fully Homomorphic Encryption.
     <td><a href="https://palisade-crypto.org/software-library/">Palisade</a></td>
     <td>C++ FHE library that supports all the major FHE protocols.</td>
     <td><a href="https://dualitytech.com/">Duality</a></td>
-    <td>Unkown</td>
+    <td>Unknown</td>
 </tr>
 
 <tr>
@@ -70,7 +70,7 @@ A curated list of resources about Fully Homomorphic Encryption.
     <td><a href="https://heaan.it/">HEaaN</a></td>
     <td>C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration.</td>
     <td><a href="https://www.cryptolab.co.kr/">CryptoLab</a></td>
-    <td>Unkown</td>
+    <td>Unknown</td>
 </tr>
 
 </table>
