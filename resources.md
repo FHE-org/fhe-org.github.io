@@ -90,6 +90,15 @@ A curated list of resources about Fully Homomorphic Encryption.
 
 <!--- Add more resources here! --->
 
+  
+<tr>
+    <td>2022.11.19</td>
+    <td><a href="https://medium.com/optalysys/fhe-and-machine-learning-a-student-perspective-with-examples-88d70664a6cb">FHE and machine learning: A student perspective with examples</a></td>
+    <td>Optalysys offered an undergraduate internship over the summer of 2022. The goal of this internship was to introduce a student to the world of encrypted data science, and see what was possible given the current state of the field. Our intern for 2022, Peter Li, was a second-year (now third-year) undergraduate studying mechanical engineering at Oxford University. Peter’s work focused on the deployment of common machine learning models in the FHE space, and his article below covers the application of the Zama Concrete library to several different network models and data-sets.</td>
+    <td>Peter Li, Florent Michel and Joseph Wilson</td>
+    <td>Tutorials</td>
+</tr>
+
 <tr>
     <td>2022.08.18</td>
     <td><a href="https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2">Encrypted Conway's Game of Life in Rust with the Concrete library</a></td>
