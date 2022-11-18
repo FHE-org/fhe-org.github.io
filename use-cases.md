@@ -20,6 +20,13 @@ A curated list of use cases and applications of Fully Homomorphic Encryption.
    </thead>    
 
 <!--- Add more use cases here! --->
+
+<tr>
+    <td>2022.11.17</td>
+    <td><a href="https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis">Sentiment analysis on Encrypted data</a></td>
+    <td>Sentiment Analysis on Encrypted data with Machine Learning, Natural Language Processing and Fully Homomorphic Encryption (a Hugging Face space)</td>
+    <td><a href="https://github.com/zama-ai/concrete-ml">Zama (Concrete-ml)</a></td>
+</tr>
   
 <tr>
     <td>2022.09</td>
