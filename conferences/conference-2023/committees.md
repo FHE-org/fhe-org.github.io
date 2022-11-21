@@ -44,7 +44,7 @@
 - **Karim Eldefrawy** *SRI, CA, USA*
 - **Mariya Georgieva** *Inpher, Switzerland*
 - **Shai Halevi** *Algorand, USA*
-- **Kyoohyung Han** *Seoul National University, South Korea*
+- **Kyoohyung Han** *Samsung SDS, South Korea*
 - **Malika Izabachène** *Cosmian, France*
 - **Taeho Jung** *University of Notre Dame, USA*
 - **Dongwoo Kim** *Western Digital, USA*
