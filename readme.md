@@ -16,7 +16,7 @@ If you want to learn more about FHE, make sure to:
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 
 # Next event
-[![Meetup event cover (2)](https://user-images.githubusercontent.com/5758427/203531612-685cea73-8d53-4a71-a9f6-808c722c8194.png)](https://www.meetup.com/fhe-org/events/289925371)
+[![Meetup event cover (2)](https://user-images.githubusercontent.com/5758427/203574123-6fce287f-6966-4d5a-90e1-1ffdd752e87c.png)](https://www.meetup.com/fhe-org/events/289925371)
 
 
 # Previous talks and meetups
