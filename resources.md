@@ -70,7 +70,7 @@ A curated list of resources about Fully Homomorphic Encryption.
     <td><a href="https://heaan.it/">HEaaN</a></td>
     <td>C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration.</td>
     <td><a href="https://www.cryptolab.co.kr/">CryptoLab</a></td>
-    <td>Unknown</td>
+    <td><img src = "https://img.shields.io/github/stars/snucrypto/HEAAN?style=plastic"></td>
 </tr>
 
 </table>
