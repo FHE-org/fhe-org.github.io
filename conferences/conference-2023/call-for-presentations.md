@@ -25,7 +25,7 @@
 
 # FHE.org conference 2023 — Call for Presentations
 
-The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption. It is co-located with Real World Crypto 2023 and will be held in Tokyo (Japan) on March 26, 2023.
+The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption. It is co-located with Real World Crypto 2023 and will be held at the Bellesalle Onarimon Tower in Tokyo (Japan) on March 26, 2023.
 
 ## Motivation and scope
 First envisioned in the late seventies, the first realization for fully homomorphic encryption only came three decades later. Fully homomorphic encryption has since been an active research topic. The FHE.org conference aims at being the premier forum gathering researchers, technologists and practitioners working on the design, development, deployment, validation, and applications of fully homomorphic encryption.
