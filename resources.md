@@ -56,7 +56,7 @@ A curated list of resources about Fully Homomorphic Encryption.
     <td><a href="https://palisade-crypto.org/software-library/">Palisade</a></td>
     <td>C++ FHE library that supports all the major FHE protocols.</td>
     <td><a href="https://dualitytech.com/">Duality</a></td>
-    <td>Unknown</td>
+    <td><img src ="https://img.shields.io/gitlab/stars/palisade/palisade-release?style=plastic"></td>
 </tr>
 
 <tr>
