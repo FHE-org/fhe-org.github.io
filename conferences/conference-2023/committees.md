@@ -60,9 +60,8 @@
 - **Juan Troncoso-Pastoriza** *Tune Insight, Switzerland*
 
 ## Organization committee
-- **Martin Hullin** *Internet Jurisdiction, Netherland*
-- **Qian Lou** *Samsung Electronics America, USA*
 - **Cristian Lupascu** *Omnia, Romania*
 - **Florent Michel** *Optalysys, UK*
 - **Yoga Rahulamathavan** *Loughborough University London, UK*
 - **Jérémy Zaccherini** *Zama, France*
+- **Agathe Prepin** *Zama, France*
