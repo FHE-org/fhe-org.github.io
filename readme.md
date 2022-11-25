@@ -32,6 +32,13 @@ If you want to learn more about FHE, make sure to:
 
 <!--- Update previous meetup links here! --->
   
+
+<tr>
+    <td>2022.11.22</td>    
+    <td><a href="https://fhe-org.github.io/meetups/Estimating_the_Difficulty_of_Breaking_Lattice_Based_Cryptography">Estimating the Difficulty of Breaking Lattice-Based Cryptography</a></td>
+    <td>Martin Albrecht</td>
+</tr>
+
 <tr>
     <td>2022.10.25</td>    
     <td><a href="https://fhe-org.github.io/meetups/real_world_deployment_of_FHE_based_private_information_retrieval"> Real-world deployment of FHE-based private information retrieval</a></td>
