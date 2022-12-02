@@ -18,6 +18,8 @@
   <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
+    —
+  <a href="https://lu.ma/fhe-org-conference-2023-tickets">🎟 Tickets</a>
 </p>
 <hr/>
 <!-- /Header conference 2023 links -->
@@ -51,6 +53,6 @@ Authors are invited to submit proposals for presentation (PDF format) using the 
 The final program will consist of both invited talks and contributed talks. It will also feature a poster session and demos. There are no published proceedings at FHE.org. This means that both invited and contributed talks may appear at another conference that has proceedings. Authors of accepted abstracts can choose to have a link to a preprint on the conference webpage.
 
 ## Important dates
-- **Submission deadline:** November 19, 2022
+- ~~**Submission deadline:** November 19, 2022~~
 - **Notification:** January 25, 2023
 - **Conference date:** March 26, 2023
