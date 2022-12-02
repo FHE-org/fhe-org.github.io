@@ -18,6 +18,8 @@
   <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
+    —
+  <a href="https://lu.ma/fhe-org-conference-2023-tickets">🎟 Tickets</a>
 </p>
 <hr/>
 <!-- /Header conference 2023 links -->
