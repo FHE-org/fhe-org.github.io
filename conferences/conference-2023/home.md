@@ -36,6 +36,7 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated 
 To be announced.
 
 ## Latest updates
+- **19.11.2022** Thank you to everyone who submitted an abstract for our CFP. We will announce the selected presentations/posters on January 25th.
 - **26.09.2022:** Japan to lift Covid-19 restrictions on foreign visits in October
 - **24.08.2022:** Announcement of the 2nd annual FHE.org conference on Fully Homomorphic Encryption
 
