@@ -6,8 +6,7 @@
 <hr/>
 <!-- /Main header navigation -->
 
-> #### 🚨🎟 The registrations for the FHE.org conference 2023 are now open [here](https://lu.ma/fhe-org-conference-2023-tickets). 
-> Read all info on the [FHE.org conference 2023 page](https://fhe.org/conferences/conference-2023/home).
+> #### 🎟 The registrations for the FHE.org conference 2023 are now open [here](https://lu.ma/fhe-org-conference-2023-tickets). 
 
 # Welcome [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io)
   
