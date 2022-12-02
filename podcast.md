@@ -8,13 +8,13 @@
 
 # FHE Podcast
 
-FHE.org is home to a community of over 1,100 researchers and developers in the homomorphic encryption space and has slowly become the defacto place for quality discourse between major library developers and researchers, regular hosted talks and meetups, an informative newsletter, and a yearly conference with the leaders in the space. 
+FHE.org is home to a community of researchers and developers in the homomorphic encryption space and has slowly become the defacto place for quality discourse between major library developers and researchers, regular hosted talks and meetups, an informative newsletter, and a yearly conference with the leaders in the space. 
 
 In an effort to make FHE more accessible we are also introducing a recurring monthly podcast exploring the real world use cases and benefits of FHE in various industries and answering questions from a practical, real world perspective. With special guest interviews, expert perspectives, and helpful deep dives of relevant industries, you won’t want to miss it.
 
 ### Coming soon!
 
-
+Interested to speak on the podcast? <a href="https://fhe.org/community">Reach out to us through the community</a>. 
 
 <!--- Footer --->
 <hr />
