@@ -6,7 +6,10 @@
 <hr/>
 <!-- /Main header navigation -->
 
-> #### 🎟 The registrations for the FHE.org conference 2023 are now open [here](https://lu.ma/fhe-org-conference-2023-tickets). 
+<p align="center">
+<b>🎟 The registrations for the FHE.org conference 2023 are now open <a href="https://lu.ma/fhe-org-conference-2023-tickets">here</a></b>. 
+</p>
+<hr/>
 
 # Welcome [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io)
   
