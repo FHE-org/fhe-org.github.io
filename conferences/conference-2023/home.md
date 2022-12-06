@@ -37,7 +37,7 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated 
 To be announced.
 
 ## Latest updates
-- ** 06.12.2022** 🎉🎟 The regitration for the FHE.org 2023 is now open. We have limited room for this 2nd conference, make sure to get your tickets [here](https://lu.ma/fhe-org-conference-2023-tickets).
+- **06.12.2022** 🎉🎟 The registration for the FHE.org 2023 is now open. We have limited room for this 2nd conference, make sure to get your tickets [here](https://lu.ma/fhe-org-conference-2023-tickets).
 - **19.11.2022** Thank you to everyone who submitted an abstract for our CFP. We will announce the selected presentations/posters on January 25th.
 - **26.09.2022:** Japan to lift Covid-19 restrictions on foreign visits in October
 - **24.08.2022:** Announcement of the 2nd annual FHE.org conference on Fully Homomorphic Encryption
