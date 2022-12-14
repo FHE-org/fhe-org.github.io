@@ -20,9 +20,8 @@ If you want to learn more about FHE, make sure to:
 - Check out the [use cases page](https://fhe-org.github.io/use-cases)
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 
-# Next event
-[![Meetup event cover (2)](https://user-images.githubusercontent.com/5758427/203574123-6fce287f-6966-4d5a-90e1-1ffdd752e87c.png)](https://www.meetup.com/fhe-org/events/289925371)
-
+# FHE.org conference 2023
+[![FHE.org conference](https://user-images.githubusercontent.com/5758427/207626297-0ac56e1e-7431-4430-a282-d6aa89fd5fc2.png)](https://user-images.githubusercontent.com/5758427/207626588-59496765-4097-4bbf-a9b0-99c4fb72a21a.png)
 
 # Previous talks and meetups
 
