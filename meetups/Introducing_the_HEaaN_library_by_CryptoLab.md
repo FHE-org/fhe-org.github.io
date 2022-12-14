@@ -9,9 +9,7 @@
 # Introducing CryptoLab's FHE library: HEaaN
 #### by Taekyung Kim - 13.12.2022
 #### <a href="https://youtu.be/hwRX8j2Dkw0">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1SojAEJN4KBT_cgtH8NstlD1iBhs0G8po/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-![Meetup event cover (6)](https://user-images.githubusercontent.com/5758427/193014997-bba0b6f2-050c-484b-a009-8dd4de32e1ec.png)
-
-
+![Meetup event cover (6)](https://user-images.githubusercontent.com/5758427/207625633-e30b9cf7-9c8f-49b8-801a-6c14d89e7fad.png)
 
 # Abstract
 In this talk, CryptoLab's fully homomorphic encryption library HEaaN will be introduced. Although many applications of homomorphic encryption computation can be achieved only with somewhat HE, or with HE of fixed finite depths, from the beginning CryptoLab has been focused on fully homomorphic encryption(FHE) and CKKS bootstrapping. We believe FHE is the most promising way for privacy-preserving manipulation/analysis of data.
