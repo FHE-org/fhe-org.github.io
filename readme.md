@@ -21,7 +21,7 @@ If you want to learn more about FHE, make sure to:
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 
 # FHE.org conference 2023
-[![FHE.org conference](https://user-images.githubusercontent.com/5758427/207626297-0ac56e1e-7431-4430-a282-d6aa89fd5fc2.png)](https://user-images.githubusercontent.com/5758427/207626588-59496765-4097-4bbf-a9b0-99c4fb72a21a.png)
+[![FHE.org conference](https://user-images.githubusercontent.com/5758427/207626297-0ac56e1e-7431-4430-a282-d6aa89fd5fc2.png)](https://lu.ma/fhe-org-conference-2023-tickets)
 
 # Previous talks and meetups
 
