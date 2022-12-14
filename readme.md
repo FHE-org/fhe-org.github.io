@@ -36,7 +36,12 @@ If you want to learn more about FHE, make sure to:
     </thead>  
 
 <!--- Update previous meetup links here! --->
-  
+
+<tr>
+    <td>2022.12.13</td>    
+    <td><a href="https://fhe-org.github.io/meetups/Introducing_the_HEaaN_library_by_CryptoLab">Introducing CryptoLabs's FHE library: HEaaN</a></td>
+    <td>Taekyung Kim</td>
+</tr>
 
 <tr>
     <td>2022.11.22</td>    
