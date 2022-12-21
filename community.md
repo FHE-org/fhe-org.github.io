@@ -13,9 +13,9 @@ You can participate in the community via any of its official social channels and
 - <a href="https://discord.fhe.org/" target="_blank">FHE.org Discord</a>
 - <a href="https://twitter.com/fhe_org" target="_blank">FHE.org Twitter</a>
 - <a href="https://reddit.com/r/FHE" target="_blank">FHE.org Reddit</a>
+- <a href="https://fheorg.substack.com/" target="_blank">FHE.org Newsletter</a>
 
-
-Or by <a href="https://fheorg.substack.com/" target="_blank">subscribing to the newsletter</a> to get frequent updates of all the happenings in the FHE space and community.
+But more importantly, <b>we encourage anyone from the community to contribute to our website</b> by adding resources and use cases to our Github repo. Read on how to contribute to FHE.org on the <a href="https://fhe.org/contrib">Contribution page</a>.
 
 <!--- Footer --->
 <hr/>
