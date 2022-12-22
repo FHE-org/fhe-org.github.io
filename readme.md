@@ -7,7 +7,7 @@
 <!-- /Main header navigation -->
 
 <p align="center">
-<b><span style="background-color: black; color: white;">🎟 The registrations for the FHE.org conference 2023 are now open <a href="https://lu.ma/fhe-org-conference-2023-tickets">here</a></span></b>. 
+<b>🎟 The registrations for the FHE.org conference 2023 are now open <a href="https://lu.ma/fhe-org-conference-2023-tickets">here</a></b>. 
 </p>
 <hr/>
 
