@@ -7,7 +7,7 @@
 <!-- /Main header navigation -->
 
 <p align="center">
-<b>🎟 The registrations for the FHE.org conference 2023 are now open <a href="https://lu.ma/fhe-org-conference-2023-tickets">here</a></b>. 
+<b><span style="background-color: black; color: white;">🎟 The registrations for the FHE.org conference 2023 are now open <a href="https://lu.ma/fhe-org-conference-2023-tickets">here</a></span></b>. 
 </p>
 <hr/>
 
@@ -22,6 +22,10 @@ If you want to learn more about FHE, make sure to:
 
 # FHE.org conference 2023
 [![FHE.org conference](https://user-images.githubusercontent.com/5758427/207626297-0ac56e1e-7431-4430-a282-d6aa89fd5fc2.png)](https://lu.ma/fhe-org-conference-2023-tickets)
+
+# FHE.org One Year Review 2022
+![FHE org 2022 year review full page](https://user-images.githubusercontent.com/5758427/209132479-aeb50210-dc57-462b-b0e5-bb793b113c50.png)
+[FHE.org 2022 year review data.pdf](https://github.com/FHE-org/fhe-org.github.io/files/10286806/FHE.org.2022.year.review.data.pdf)
 
 # Previous talks and meetups
 
