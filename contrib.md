@@ -45,7 +45,7 @@ The format to use for adding a new resource is:
 
 
 
-## Adding new use cases
+## Adding new use case
 
 To make contributions to the use cases page, you'll need to edit this file: https://github.com/FHE-org/fhe-org.github.io/blob/main/use-cases.md
 
@@ -60,3 +60,6 @@ The format to use for adding a new use case is:
       <td>Author(s) / Company</td>
     </tr>
 
+<!--- Footer --->
+<hr/>
+💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
