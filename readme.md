@@ -20,6 +20,9 @@ If you want to learn more about FHE, make sure to:
 - Check out the [use cases page](https://fhe-org.github.io/use-cases)
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 
+# Next event
+[![On the Hardness of the Finite Field Isomorphism Problem](https://user-images.githubusercontent.com/37557436/212126019-bba5a16f-bc90-4041-a464-bae67d17479f.png)](https://www.meetup.com/fhe-org/events/290830411/)
+
 # FHE.org conference 2023
 [![FHE.org conference](https://user-images.githubusercontent.com/5758427/207626297-0ac56e1e-7431-4430-a282-d6aa89fd5fc2.png)](https://lu.ma/fhe-org-conference-2023-tickets)
 
