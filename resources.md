@@ -32,6 +32,13 @@ A curated list of resources about Fully Homomorphic Encryption.
 </tr>
 
 <tr>
+    <td><a href="https://heaan.it/">HEaaN</a></td>
+    <td>C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration.</td>
+    <td><a href="https://www.cryptolab.co.kr/">CryptoLab</a></td>
+    <td><img src = "https://img.shields.io/github/stars/snucrypto/HEAAN?style=plasticc"></td>
+</tr>
+  
+<tr>
     <td><a href="https://github.com/HomEnc/HElib">HElib</a></td>
     <td>BGV scheme with bootstrapping and the Approximate Number CKKS scheme.</td>
     <td><a href="https://github.com/HomEnc/">HomEnc</a></td>
@@ -65,14 +72,14 @@ A curated list of resources about Fully Homomorphic Encryption.
     <td><a href="https://github.com/microsoft/">Microsoft</a></td>
     <td><img src="https://img.shields.io/github/stars/microsoft/SEAL?style=plastic"></td>
 </tr>
-
+  
 <tr>
-    <td><a href="https://heaan.it/">HEaaN</a></td>
-    <td>C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration.</td>
-    <td><a href="https://www.cryptolab.co.kr/">CryptoLab</a></td>
-    <td><img src = "https://img.shields.io/github/stars/snucrypto/HEAAN?style=plastic"></td>
+    <td><a href="https://github.com/zama-ai/tfhe-rs/">TFHE-rs</a></td>
+    <td>A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data</td>
+    <td><a href="https://github.com/zama-ai/">Zama</a></td>
+    <td><img src = "https://img.shields.io/github/stars/zama-ai/tfhe-rs?style=plastic"></td>
 </tr>
-
+  
 </table>
 
 ## FHE Resources
