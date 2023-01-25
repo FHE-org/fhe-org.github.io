@@ -54,5 +54,5 @@ The final program will consist of both invited talks and contributed talks. It w
 
 ## Important dates
 - ~~**Submission deadline:** November 19, 2022~~
-- **Notification:** January 25, 2023
+- ~~**Notification:** January 25, 2023~~
 - **Conference date:** March 26, 2023
