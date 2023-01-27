@@ -37,6 +37,12 @@ If you want to learn more about FHE, make sure to:
 <!--- Update previous meetup links here! --->
 
 <tr>
+    <td>2023.01.24</td>    
+    <td><a href="https://fhe-org.github.io/meetups/On_the_Hardness_of_the_Finite_Field_Isomorphism_Problem">On the Hardness of the Finite Field Isomorphism Problem</a></td>
+    <td>Antoine Joux</td>
+</tr>
+
+<tr>
     <td>2022.12.13</td>    
     <td><a href="https://fhe-org.github.io/meetups/Introducing_the_HEaaN_library_by_CryptoLab">Introducing CryptoLabs's FHE library: HEaaN</a></td>
     <td>Taekyung Kim</td>
