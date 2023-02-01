@@ -46,6 +46,6 @@ FHE.org 2023 gratefully acknowledges the financial support of:
 
 ---
 <p align="center">
-<img src="https://user-images.githubusercontent.com/5758427/186431581-a4df4940-aee9-4f6f-bd3f-07b800b0c20c.png">
+<img src="https://user-images.githubusercontent.com/5758427/186431581-a4df4940-aee9-4f6f-bd3f-07b800b0c20c.png" width="200px">
 </p>
 
