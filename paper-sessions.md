@@ -6,15 +6,15 @@
 <hr/>
 <!-- /Main header navigation -->
 
-# FHE Podcast
+# FHE Paper Sessions
 
-FHE.org is home to a community of researchers and developers in the homomorphic encryption space and has slowly become the defacto place for quality discourse between major library developers and researchers, regular hosted talks and meetups, an informative newsletter, and a yearly conference with the leaders in the space. 
+The Paper Sessions series by [FHE.org](http://FHE.org) explores work in the complex and promising field of homomorphic encryption through open discussion and debate of papers with their original authors and other researchers in the FHE community.
 
-In an effort to make FHE more accessible we are also introducing a recurring monthly podcast exploring the real world use cases and benefits of FHE in various industries and answering questions from a practical, real world perspective. With special guest interviews, expert perspectives, and helpful deep dives of relevant industries, you won’t want to miss it.
+The Paper Sessions event is held online on a roughly bi-weekly schedule allowing time for preparation and proper awareness within the cryptography community of the event and presenter.
 
 ### Coming soon!
 
-Interested to speak on the podcast? <a href="https://fhe.org/community">Reach out to us through the community</a>. 
+Interested to present your paper for a session? <a href="https://fhe.org/community">Reach out to us through the community</a>. 
 
 <!--- Footer --->
 <hr/>
