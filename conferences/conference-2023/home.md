@@ -34,9 +34,13 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated 
 - **Conference date:** March 26, 2023
 
 ## Sponsors
+
+*If your company would like to sponsor this or future conferences, please contact the [Publicity Chair](https://fhe.org/conferences/conference-2023/contact#publicity-chair).*
+
 FHE.org 2023 gratefully acknowledges the financial support of:
 
 <a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="100px"></a>&nbsp; <a href="https://zama.ai/"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="100px"></a>
+
 
 ## Latest updates
 - **25.01.2023** All authors with accepted presentations or posters are now notified. Congratulations, and thank you to everyone who submitted an abstract.
