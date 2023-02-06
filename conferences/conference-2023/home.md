@@ -34,16 +34,21 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated 
 - **Conference date:** March 26, 2023
 
 ## Sponsors
+
+*If your company would like to sponsor this or future conferences, please contact the [Publicity Chair](https://fhe.org/conferences/conference-2023/contact#publicity-chair).*
+
 FHE.org 2023 gratefully acknowledges the financial support of:
 
 <a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="100px"></a>&nbsp; <a href="https://zama.ai/"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="100px"></a>
 
+
 ## Latest updates
-- **25.01.2023** All authors with accepted presentations or posters are now notified. Congratulations, and thank you to everyone who submitted an abstract.
-- **06.12.2022** 🎉🎟 The registration for the FHE.org 2023 is now open. We have limited room for this 2nd conference, make sure to get your tickets [here](https://lu.ma/fhe-org-conference-2023-tickets).
-- **19.11.2022** Thank you to everyone who submitted an abstract for our CFP. We will announce the selected presentations/posters on January 25th.
-- **26.09.2022:** Japan to lift Covid-19 restrictions on foreign visits in October
-- **24.08.2022:** Announcement of the 2nd annual FHE.org conference on Fully Homomorphic Encryption
+- **2023.02.06** List of all accepted papers and posters have been added [here on the program page](https://fhe-org.github.io/conferences/conference-2023/program).
+- **2023.01.25** All authors with accepted presentations or posters are now notified. Congratulations, and thank you to everyone who submitted an abstract.
+- **2022.12.06** 🎉🎟 The registration for the FHE.org 2023 is now open. We have limited room for this 2nd conference, make sure to get your tickets [here](https://lu.ma/fhe-org-conference-2023-tickets).
+- **2022.11.19** Thank you to everyone who submitted an abstract for our CFP. We will announce the selected presentations/posters on January 25th.
+- **2022.09.26:** Japan to lift Covid-19 restrictions on foreign visits in October
+- **2022.08.24:** Announcement of the 2nd annual FHE.org conference on Fully Homomorphic Encryption
 
 ---
 <p align="center">
