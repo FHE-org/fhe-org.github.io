@@ -25,6 +25,10 @@ If you want to learn more about FHE, make sure to:
 
 # Previous talks and meetups
 
+Interested to present a talk? Either reach out to us <a href="https://fhe.org/community">through the community</a> or email us directly at <a href="contact@fhe.org">contact@fhe.org</a>. 
+
+
+
 <table id="sampleTableA" class="table table-striped sampleTable">
     <thead>
         <tr>
