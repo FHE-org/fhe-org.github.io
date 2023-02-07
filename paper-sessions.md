@@ -14,7 +14,7 @@ The Paper Sessions event is held online on a roughly bi-weekly schedule allowing
 
 ### Coming soon!
 
-Interested to present your paper for a session? <a href="https://fhe.org/community">Reach out to us through the community</a>. 
+Interested to present your paper for a session? Either reach out to us <a href="https://fhe.org/community">through the community</a> or email us directly at <a href="contact@fhe.org">contact@fhe.org</a>. 
 
 <!--- Footer --->
 <hr/>
