@@ -26,65 +26,132 @@
 
 # FHE.org conference 2023 - Program
 
-## Accepted talks
+## Conference Program
 
 <table>
     <thead>
         <tr>
-            <th data-sortas="case-insensitive">Talk</th>
-            <th data-sortas="case-insensitive">Presenters</th>
+            <th data-sortas="case-insensitive">Time</th>
+            <th data-sortas="case-insensitive">Session Topic</th>
+            <th data-sortas="case-insensitive">Presenters/Authors</th>
         </tr>
     </thead>  
 
 
 <tr>
+    <td>8.45am - 9.00am</td>
+    <td>Welcome</td>
+    <td></td>
+</tr>  
+  
+<tr>
+    <td>9.00am - 9.50am</td>
+    <td>Poster Session + Networking</td>
+    <td></td>
+</tr> 
+  
+<tr>
+    <td>9.50am - 10.10am</td>
     <td>Accelerating HE Operations from Key Decomposition Technique</td>
     <td>Miran Kim (Hanyang University), Dongwon Lee (Seoul National University), Jinyeong Seo (Seoul National University), Yongsoo Song (Seoul National University)</td>
 </tr>
 
 
 <tr>
+    <td>10.15am - 10.40am</td>
     <td>On Polynomial Functions Modulo p^e and Faster Bootstrapping for Homomorphic Encryption</td>
     <td>Robin Geelen (KU Leuven), Ilia Iliashenko (CipherMode Labs), Jiayi Kang (KU Leuven), Frederik Vercauteren (KU Leuven)</td>
 </tr>
-
+  
+<tr>
+    <td>10.40am - 11.15am</td>
+    <td>Coffee Break</td>
+    <td></td>
+</tr>  
 
 <tr>
-    <td>On NTRU-nium Modulo X^N − 1</td>
+    <td>11.15am - 11.40am</td>
+    <td>On NTRU-v-um Modulo X^N − 1</td>
     <td>Marc Joye (Zama)</td>
 </tr>
-
+  
+ 
+<tr>
+    <td>11.40am - 12.05pm</td>
+    <td>Optimisations and Trade-offs for HElib</td>
+    <td>Anamaria Costache (NTNU), Lea Nürnberger (NTNU), Rachel Player (RHUL) </td>
+</tr>
 
 <tr>
+    <td>12.05pm - 12.45pm</td>
+    <td>FHE.org Discussion</td>
+    <td></td>
+</tr>  
+  
+<tr>
+    <td>12.45pm - 2.00pm</td>
+    <td>Lunch Break</td>
+    <td></td>
+</tr>  
+  
+<tr>
+    <td>2.00pm - 2.45pm</td>
+    <td>Invited Talk I</td>
+    <td></td>
+</tr>  
+  
+<tr>
+    <td>2.45pm - 3.10pm</td>
+    <td>Parameter Optimization and Larger Precision for TFHE</td>
+    <td>Loris Bergerat (Zama), Anas Boudi (Zama), Quentin Bourgerie (Zama), Ilaria Chillotti (Zama), Damien Ligier (Zama), Jean-Baptiste Orfila (Zama), Samuel Tap (Zama)</td>
+</tr>
+
+<tr>
+    <td>3.10pm - 3.35pm</td>
     <td>FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption</td>
     <td>Michiel Van Beirendonck (KU Leuven), Jan-Pieter D'Anvers  (KU Leuven), Ingrid Verbauwhede  (KU Leuven)</td>
 </tr>
 
+<tr>
+    <td>3.35pm - 4.10pm</td>
+    <td>Coffee Break</td>
+    <td></td>
+</tr> 
 
 <tr>
+    <td>4.10pm - 4.35pm</td>
     <td>Advances on Homomorphic Encryption for Multiple Parties</td>
     <td>Taechan Kim (Samsung Research), Hyesun Kwak (Seoul National University), Dongwon Lee (Seoul National University), Jinyeong Seo (Seoul National University), Yongsoo Song (Seoul National University)</td>
 </tr>
 
 
 <tr>
+    <td>4.35pm - 5.00pm</td>
     <td>Verifiable Fully Homomorphic Encryption</td>
     <td>Alexander Viand (ETH Zurich), Christian Knabenhans (ETH Zurich), Anwar Hithnawi (ETH Zurich)</td>
 </tr>
-
-
+  
 <tr>
-    <td>Optimisations and Trade-offs for HElib</td>
-    <td>Anamaria Costache (NTNU), Lea Nürnberger (NTNU), Rachel Player (RHUL) </td>
-</tr>
-
-
+    <td>5.00pm - 5.45pm</td>
+    <td>Invited Talk II</td>
+    <td></td>
+</tr>  
+  
 <tr>
-    <td>Parameter Optimization and Larger Precision for TFHE</td>
-    <td>Loris Bergerat (Zama), Anas Boudi (Zama), Quentin Bourgerie (Zama), Ilaria Chillotti (Zama), Damien Ligier (Zama), Jean-Baptiste Orfila (Zama), Samuel Tap (Zama)</td>
-</tr>
+    <td>5.45pm - 6.00pm</td>
+    <td>Closing Remarks</td>
+    <td></td>
+</tr>  
+  
+<tr>
+    <td>6.00pm - 9.00pm</td>
+    <td>FHE.org Conference Party</td>
+    <td></td>
+</tr>  
+
 
 </table>
+
 
 ## Accepted posters
 
