@@ -95,56 +95,56 @@
 </tr>  
   
 <tr>
-    <td>2.00pm - 2.45pm</td>
-    <td>Invited Talk I</td>
-    <td></td>
+    <td>2.00pm - 2.20pm</td>
+  <td><b> Invited Talk: </b> Bringing FHE to production: Lessons learned at Google</td>
+    <td>Miguel Guevara (Google)</td>
 </tr>  
   
 <tr>
-    <td>2.45pm - 3.10pm</td>
+    <td>2.20pm - 2.45pm</td>
     <td>Parameter Optimization and Larger Precision for TFHE</td>
     <td>Loris Bergerat (Zama), Anas Boudi (Zama), Quentin Bourgerie (Zama), Ilaria Chillotti (Zama), Damien Ligier (Zama), Jean-Baptiste Orfila (Zama), Samuel Tap (Zama)</td>
 </tr>
 
 <tr>
-    <td>3.10pm - 3.35pm</td>
+    <td>2.45pm - 3.10pm</td>
     <td>FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption</td>
     <td>Michiel Van Beirendonck (KU Leuven), Jan-Pieter D'Anvers  (KU Leuven), Ingrid Verbauwhede  (KU Leuven)</td>
 </tr>
 
 <tr>
-    <td>3.35pm - 4.10pm</td>
+    <td>3.10pm - 3.45pm</td>
     <td>Coffee Break</td>
     <td></td>
 </tr> 
 
 <tr>
-    <td>4.10pm - 4.35pm</td>
+    <td>3.45pm - 4.10pm</td>
     <td>Advances on Homomorphic Encryption for Multiple Parties</td>
     <td>Taechan Kim (Samsung Research), Hyesun Kwak (Seoul National University), Dongwon Lee (Seoul National University), Jinyeong Seo (Seoul National University), Yongsoo Song (Seoul National University)</td>
 </tr>
 
 
 <tr>
-    <td>4.35pm - 5.00pm</td>
+    <td>4.10pm - 4.35pm</td>
     <td>Verifiable Fully Homomorphic Encryption</td>
     <td>Alexander Viand (ETH Zurich), Christian Knabenhans (ETH Zurich), Anwar Hithnawi (ETH Zurich)</td>
 </tr>
   
 <tr>
-    <td>5.00pm - 5.45pm</td>
+    <td>4.35pm - 5.20pm</td>
     <td>Invited Talk II</td>
     <td></td>
 </tr>  
   
 <tr>
-    <td>5.45pm - 6.00pm</td>
+    <td>5.20pm - 5.30pm</td>
     <td>Closing Remarks</td>
     <td></td>
 </tr>  
   
 <tr>
-    <td>6.00pm - 9.00pm</td>
+    <td>5.30pm - 9.00pm</td>
     <td>FHE.org Conference Party</td>
     <td></td>
 </tr>  
