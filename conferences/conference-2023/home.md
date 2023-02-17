@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2023/home"><b>Home</b></a>
   —
+  <a href="https://lu.ma/fhe-org-conference-2023-tickets">Register</a>
+  —
   <a href="https://fhe-org.github.io/conferences/conference-2023/call-for-presentations">Call for presentations</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/committees">Committees</a>
@@ -18,14 +20,14 @@
   <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
-    —
-  <a href="https://lu.ma/fhe-org-conference-2023-tickets">🎟 Tickets</a>
 </p>
 <hr/>
 <!-- /Header conference 2023 links -->
 
 # FHE.org conference 2023
 The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with [Real World Crypto 2023](https://rwc.iacr.org/2023/) and will be held at the Bellesalle Onarimon Tower in Tokyo (Japan) on Sunday, March 26, 2023.
+
+**<a href="https://lu.ma/fhe-org-conference-2023-tickets">Register here</a>.**
 
 ## Important dates
 - ~~**Submission deadline:** November 19, 2022 (firm deadline)~~

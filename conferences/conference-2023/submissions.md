@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2023/home">Home</a>
   —
+  <a href="https://lu.ma/fhe-org-conference-2023-tickets">Register</a>
+  —
   <a href="https://fhe-org.github.io/conferences/conference-2023/call-for-presentations">Call for presentations</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/committees">Committees</a>
@@ -18,8 +20,6 @@
   <a href="https://fhe-org.github.io/conferences/conference-2023/program"><b>Program</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
-    —
-  <a href="https://lu.ma/fhe-org-conference-2023-tickets">🎟 Tickets</a>
 </p>
 <hr/>
 <!-- /Header conference 2023 links -->
