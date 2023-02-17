@@ -43,7 +43,7 @@ Interested to present a talk? Either reach out to us <a href="https://fhe.org/co
 <!--- Update previous meetup links here! --->
 
 <tr>
-    <td>2023.01.24</td>    
+    <td>2023.02.16</td>    
     <td><a href="https://fhe-org.github.io/meetups/Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data">Medha: Microcoded Hardware Accelerator for computing on Encrypted Data</a></td>
     <td>Ahmet Can Mert and Aikata</td>
 </tr>
