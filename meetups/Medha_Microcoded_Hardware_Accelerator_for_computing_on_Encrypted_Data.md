@@ -8,7 +8,7 @@
 
 # Medha: Microcoded Hardware Accelerator for computing on Encrypted Data 
 #### by Ahmet Can Mert and Aikata - 16.02.2023
-#### <a href="">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1zy_MkpqoWW3R_lwFBQKMOK_HEoH4G-Ug/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=nVEBt5efG20">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1zy_MkpqoWW3R_lwFBQKMOK_HEoH4G-Ug/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 # Important links
 - <a href="https://discord.fhe.org">Join the community on Discord</a>
