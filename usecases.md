@@ -1,0 +1,110 @@
+<!-- Main header navigation -->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+</p>
+<hr/>
+<!-- /Main header navigation -->
+<!-- Resource categories links -->
+<p align="center">
+  <a href="https://fhe-org.github.io/resources">Schemes</a>
+  —
+  <a href="https://fhe-org.github.io/libraries">Libraries</a>
+  —
+  <a href="https://fhe-org.github.io/usecases"><b>Use cases</b></a>
+  —
+  <a href="https://fhe-org.github.io/events">Events</a>
+  —
+  <a href="https://fhe-org.github.io/papers">Papers</a>
+</p>
+<hr/>
+<!-- /Resource categories links -->
+
+## Applications / Use cases
+
+- [sentiment analysis](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) - Sentiment analysis on Encrypted data (2022.11.17)
+- [Bitcoin balance](https://btc.usespiral.com/) - Look up any Bitcoin (BTC) address balance, without revealing the address to anyone (2022.09)
+- [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) - Encrypted Conway's Game of Life in Rust with the Concrete library (2022.08.18)
+- [human action recognition](https://www.nature.com/articles/s41467-022-32168-5) - Secure human action recognition by encrypted neural network inference (2022.08.15)
+- [artificial pancreas](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) - Ensuring security of artificial pancreas device system using homomorphic encryption (2022.08)
+- [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
+- [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) - Web-application for scheduling meetings using [lattigo](#lattigo).
+- [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
+- [nGraph-HE](https://github.com/IntelAI/he-transformer) - Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on [SEAL](#SEAL).
+- [OpenMined](https://github.com/OpenMined) - Decentralized data ownership & intelligence based on HE and deep / federated learning.
+	- [KotlinSyft](https://github.com/OpenMined/KotlinSyft) - Kotlin library for the Android part of the OpenMined's open-source ecosystem.
+	- [PySyft](https://github.com/OpenMined/PySyft) - Python library for the server/IoT part of the OpenMined's open-source ecosystem.
+	- [SwiftSyft](https://github.com/OpenMined/SwiftSyft) - Swift library for the iOS part of the OpenMined's open-source ecosystem.
+	- [syft.js](https://github.com/OpenMined/syft.js) - JavaScript library for the web part of the OpenMined's open-source ecosystem.
+- [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A privacy-preserving framework based on TensorFlow.
+- [tf-encrypted](https://github.com/tf-encrypted/tf-encrypted) - Bridge between TensorFlow and the [Microsoft SEAL](#SEAL) library.
+
+<!--- Footer --->
+<hr/>
+💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
+
+<tr>
+    <td>2022.07.22</td>
+    <td><a href="https://morfix.io">Morfix.io</a></td>
+    <td>BWeb-based UI to play around with the Microsoft Seal library</td>
+    <td><a href="https:/morfix.io/">Morfix</a></td>
+</tr>
+
+
+<tr>
+    <td>2022.07.07</td>
+    <td><a href="https://www.kaggle.com/code/concretemlteam/titanic-with-privacy-preserving-machine-learning/notebook?scriptVersionId=101476741">Titanic ML from disaster</a></td>
+    <td>Building a predictive model over encrypted data with Concrete-ML</td>
+    <td><a href="https://zama.ai/">Zama</a></td>
+</tr>
+
+<tr>
+    <td>2022.06.07</td>
+    <td><a href="https://github.com/ldsec/lattigo-polls-demo">lattigo-polls</a></td>
+    <td>Web-application for scheduling meetings using lattigo</td>
+    <td><a href="https://github.com/ldsec/">LDS</a></td>
+</tr>
+
+<tr>
+    <td>2022.05.24</td>
+    <td><a href="https://spiralwiki.com">Spiral wiki</a></td>
+    <td>Read Wikipedia privately using homomorphic encryption</td>
+    <td><a href="https://spiralwiki.com">Samir Menon</a></td>
+</tr>
+
+
+<tr>
+    <td>2022.10.04</td>
+    <td><a href="https://github.com/Georeactor/encrypted-geofence">crypto-geofence</a></td>
+    <td>Geo-fencing demo application based on Paillier scheme</td>
+    <td><a href="https://github.com/Georeactor/">Georeactor</a></td>
+</tr>
+
+<tr>
+    <td>2022.07.08</td>
+    <td><a href="https://github.com/IntelAI/he-transformer">nGraph-HE</a></td>
+    <td> Deep Learning (DL) with HE through Intel’s DL graph compiler nGraph based on SEAL</td>
+    <td><a href=" https://www.intel.ai">Intel AI</a></td>
+</tr>
+
+
+<tr>
+    <td>2022.04.26</td>
+    <td><a href="https://github.com/LatticeX-Foundation/Rosetta">Rosetta</a></td>
+    <td>A privacy-preserving framework based on TensorFlow</td>
+    <td><a href="https://latticex.foundation/">LatticeX Foundation</a></td>
+</tr>
+
+
+<tr>
+    <td>2022.03.10</td>
+    <td><a href="https://github.com/tf-encrypted/tf-encrypted">tf-encrypted</a></td>
+    <td>Bridge between TensorFlow and the Microsoft SEAL</td>
+    <td><a href="https://github.com/tf-encrypted/">TF Encrypted</a></td>
+</tr>
+
+</table>
+
+<!--- Footer --->
+<hr/>
+💙 This website is a resource provided and contributed by the FHE.org community. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
