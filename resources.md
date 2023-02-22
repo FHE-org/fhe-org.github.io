@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -13,7 +13,7 @@
   —
   <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
   —
-  <a href="https://fhe-org.github.io/resources/usecases">Use cases</a>
+  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
   —
   <a href="https://fhe-org.github.io/resources/events">Events</a>
   —
@@ -23,6 +23,8 @@
 <!-- /Resource categories links -->
 
 ## Resources [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources.md)
+
+FHE tutorials and articles.
 
 - [FHE and machine learning: A student perspective with examples](https://medium.com/optalysys/fhe-and-machine-learning-a-student-perspective-with-examples-88d70664a6cb) (2022.11.19)
 - [Encrypted Conway's Game of Life in Rust with the Concrete library](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) (2022.08.18)
