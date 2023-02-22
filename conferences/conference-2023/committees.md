@@ -9,15 +9,15 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2023/home">Home</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2023/call-for-presentations">Call for presentations</a>
-  —
   <a href="https://lu.ma/fhe-org-conference-2023-tickets">Register</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2023/call-for-presentations">Call for presentations</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/committees"><b>Committees</b></a>
   —
   <a href="https://easychair.org/conferences/?conf=fheorg2023" target="_blank">Submissions</a>
-  —
-  <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
 </p>
