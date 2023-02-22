@@ -64,6 +64,6 @@
 ## Organization committee
 - **Cristian Lupascu** *Omnia, Romania*
 - **Florent Michel** *Optalysys, UK*
+- **Agathe Prepin** *Zama, France*
 - **Yoga Rahulamathavan** *Loughborough University London, UK*
 - **Jérémy Zaccherini** *Zama, France*
-- **Agathe Prepin** *Zama, France*
