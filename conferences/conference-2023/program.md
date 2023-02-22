@@ -66,7 +66,7 @@
 <tr>
     <td>10.40am - 11.15am</td>
     <td>Coffee Break</td>
-    <td>Enjoy a coffee or beverage with the community :coffee: :tea:</td>
+    <td>Enjoy a coffee or beverage with the community ☕ 🍵</td>
 </tr>  
 
 <tr>
@@ -115,7 +115,7 @@
 <tr>
     <td>3.10pm - 3.45pm</td>
     <td>Coffee Break</td>
-    <td>Enjoy a coffee or beverage with the community :coffee: :tea:</td>
+    <td>Enjoy a coffee or beverage with the community ☕ 🍵</td>
 </tr> 
 
 <tr>
@@ -146,7 +146,7 @@
 <tr>
     <td>5.30pm - 9.00pm</td>
     <td>FHE.org Conference Party</td>
-    <td>Come join the community for an after party on site! :beers:</td>
+    <td>Come join the community for an after party on site! 🍻</td>
 </tr>  
 
 
