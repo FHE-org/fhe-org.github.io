@@ -9,13 +9,13 @@
 <p align="center">
   <a href="https://fhe-org.github.io/resources"><b>Schemes</b></a>
   —
-  <a href="https://fhe-org.github.io/resources">Libraries</a>
+  <a href="https://fhe-org.github.io/libraries">Libraries</a>
   —
-  <a href="https://fhe-org.github.io/resources">Use cases</a>
+  <a href="https://fhe-org.github.io/usecases">Use cases</a>
   —
-  <a href="https://fhe-org.github.io/resources">Events</a>
+  <a href="https://fhe-org.github.io/events">Events</a>
   —
-  <a href="https://fhe-org.github.io/resources">Papers</a>
+  <a href="https://fhe-org.github.io/papers">Papers</a>
 </p>
 <hr/>
 <!-- /Resource categories links -->
