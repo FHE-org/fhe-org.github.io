@@ -45,6 +45,7 @@ FHE.org 2023 gratefully acknowledges the financial support of:
 
 
 ## Latest updates
+- **2023.02.15** Full day schedule is live. See it [here on the program page](https://fhe-org.github.io/conferences/conference-2023/program)
 - **2023.02.06** List of all accepted papers and posters have been added [here on the program page](https://fhe-org.github.io/conferences/conference-2023/program).
 - **2023.01.25** All authors with accepted presentations or posters are now notified. Congratulations, and thank you to everyone who submitted an abstract.
 - **2022.12.06** 🎉🎟 The registration for the FHE.org 2023 is now open. We have limited room for this 2nd conference, make sure to get your tickets [here](https://lu.ma/fhe-org-conference-2023-tickets).
