@@ -7,7 +7,9 @@
 <!-- /Main header navigation -->
 <!-- Resource categories links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/resources"><b>Schemes</b></a>
+  <a href="https://fhe-org.github.io/resources">Resources</a>
+  —
+  <a href="https://fhe-org.github.io/schemes"><b>Schemes</b></a>
   —
   <a href="https://fhe-org.github.io/libraries">Libraries</a>
   —
