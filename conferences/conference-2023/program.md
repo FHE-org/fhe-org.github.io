@@ -33,21 +33,21 @@
         <tr>
             <th data-sortas="case-insensitive">Time</th>
             <th data-sortas="case-insensitive">Session Topic</th>
-            <th data-sortas="case-insensitive">Presenters/Authors</th>
+            <th data-sortas="case-insensitive">Presenters/Authors/Description</th>
         </tr>
     </thead>  
 
 
 <tr>
     <td>8.45am - 9.00am</td>
-    <td>Welcome</td>
-    <td></td>
+    <td>Welcome session</td>
+    <td>Ben Curtis (General Chair), Jung Hee Cheon & Mehdi Tibouchi (Program Chairs)</td>
 </tr>  
   
 <tr>
     <td>9.00am - 9.50am</td>
     <td>Poster Session + Networking</td>
-    <td></td>
+    <td><i><a href="#accepted-posters">List of accepted posters can be found below</a></i></td>
 </tr> 
   
 <tr>
@@ -66,7 +66,7 @@
 <tr>
     <td>10.40am - 11.15am</td>
     <td>Coffee Break</td>
-    <td></td>
+    <td>Enjoy a coffee or beverage with the community :coffee: :tea:</td>
 </tr>  
 
 <tr>
@@ -91,12 +91,12 @@
 <tr>
     <td>12.45pm - 2.00pm</td>
     <td>Lunch Break</td>
-    <td></td>
+    <td>Enjoy a provided nutritious and delicious lunch 🍽️</td>
 </tr>  
   
 <tr>
     <td>2.00pm - 2.20pm</td>
-  <td><b> Invited Talk: </b> Bringing FHE to production: Lessons learned at Google</td>
+  <td><b>Invited Talk: </b> Bringing FHE to production: Lessons learned at Google</td>
     <td>Miguel Guevara (Google)</td>
 </tr>  
   
@@ -115,7 +115,7 @@
 <tr>
     <td>3.10pm - 3.45pm</td>
     <td>Coffee Break</td>
-    <td></td>
+    <td>Enjoy a coffee or beverage with the community :coffee: :tea:</td>
 </tr> 
 
 <tr>
@@ -140,13 +140,13 @@
 <tr>
     <td>5.20pm - 5.30pm</td>
     <td>Closing Remarks</td>
-    <td></td>
+    <td>Ben Curtis (General Chair)</td>
 </tr>  
   
 <tr>
     <td>5.30pm - 9.00pm</td>
     <td>FHE.org Conference Party</td>
-    <td></td>
+    <td>Come join the community for an after party on site! :beers:</td>
 </tr>  
 
 
