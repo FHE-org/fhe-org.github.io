@@ -17,7 +17,7 @@ We are a community of researchers and developers interested in advancing Fully H
 If you want to learn more about FHE, make sure to:
 
 - Check out the [resources page](https://fhe-org.github.io/resources)
-- Check out the [use cases page](https://fhe-org.github.io/use-cases)
+- Check out the [use cases page](https://fhe-org.github.io/resources/use-cases)
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 
 # FHE.org conference 2023
