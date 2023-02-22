@@ -22,7 +22,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Events
+## Events [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/events.md)
 
 Coming soon.
 
