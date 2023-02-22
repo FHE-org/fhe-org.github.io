@@ -22,7 +22,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Applications / Use cases
+## Applications / Use cases [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/usecases.md)
 
 - [sentiment analysis](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) - Sentiment analysis on Encrypted data (2022.11.17)
 - [Bitcoin balance](https://btc.usespiral.com/) - Look up any Bitcoin (BTC) address balance, without revealing the address to anyone (2022.09)
