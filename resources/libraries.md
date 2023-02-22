@@ -9,15 +9,15 @@
 <p align="center">
   <a href="https://fhe-org.github.io/resources">Resources</a>
   —
-  <a href="https://fhe-org.github.io/schemes">Schemes</a>
+  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
   —
-  <a href="https://fhe-org.github.io/libraries"><b>Libraries</b></a>
+  <a href="https://fhe-org.github.io/resources/libraries"><b>Libraries</b></a>
   —
-  <a href="https://fhe-org.github.io/usecases">Use cases</a>
+  <a href="https://fhe-org.github.io/resources/usecases">Use cases</a>
   —
-  <a href="https://fhe-org.github.io/events">Events</a>
+  <a href="https://fhe-org.github.io/resources/events">Events</a>
   —
-  <a href="https://fhe-org.github.io/papers">Papers</a>
+  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
 </p>
 <hr/>
 <!-- /Resource categories links -->
