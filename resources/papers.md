@@ -5,6 +5,7 @@
 </p>
 <hr/>
 <!-- /Main header navigation -->
+
 <!-- Resource categories links -->
 <p align="center">
   <a href="https://fhe-org.github.io/resources">Resources</a>
