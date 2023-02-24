@@ -23,9 +23,10 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Applications / Use cases [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/usecases.md)
+## Applications / Use cases [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/use-cases.md)
 
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) - Add filter to an encrypted image using FHE (2023.02.23)
+- [Private password checker](https://playground.blyss.dev/passwords) - Check if your password has appeared in a data breach, without revealing anything to the server (2023.02.21)
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) - Sentiment analysis on Encrypted data (2022.11.17)
 - [Bitcoin balance](https://btc.usespiral.com/) - Look up any Bitcoin (BTC) address balance, without revealing the address to anyone (2022.09)
 - [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) - Encrypted Conway's Game of Life in Rust with the Concrete library (2022.08.18)
