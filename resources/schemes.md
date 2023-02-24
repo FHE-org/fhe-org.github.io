@@ -23,7 +23,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Schemes [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/schemes.md)
+## Schemes [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/schemes.md)
 
 Modern and practical schemes for Homomorphic Encryption.
 
