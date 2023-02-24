@@ -22,7 +22,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Events [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/events.md)
+## Events [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/events.md)
 
 
 ### Conferences
