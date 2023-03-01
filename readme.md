@@ -24,12 +24,7 @@ If you want to learn more about FHE, make sure to:
 [![FHE.org conference](https://user-images.githubusercontent.com/5758427/207626297-0ac56e1e-7431-4430-a282-d6aa89fd5fc2.png)](https://fhe.org/conferences/conference-2023/home)
 
 # Talks and meetups
-
-[![Meetup event cover(1)](https://user-images.githubusercontent.com/37557436/217496893-9abc0376-c701-4d1e-a914-26f949e63857.png)](https://www.meetup.com/fhe-org/events/291484047/)
-
 Interested to present a talk? Either reach out to us <a href="https://fhe.org/community">through the community</a> or email us directly at <a href="contact@fhe.org">contact@fhe.org</a>. 
-
-
 
 <table id="sampleTableA" class="table table-striped sampleTable">
     <thead>
@@ -41,6 +36,12 @@ Interested to present a talk? Either reach out to us <a href="https://fhe.org/co
     </thead>  
 
 <!--- Update previous meetup links here! --->
+
+<tr>
+    <td>2023.02.28</td>    
+    <td><a href="https://fhe-org.github.io/meetups/Faster_Amortized_FHE_bootstrapping_using_Ring_Automorphisms">Faster Amortized FHE bootstrapping using Ring Automorphisms</a></td>
+    <td>Duhyeong Kim and Gabrielle De Micheli</td>
+</tr>
 
 <tr>
     <td>2023.02.16</td>    
