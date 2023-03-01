@@ -8,7 +8,7 @@
 
 # Faster Amortized FHEW bootstrapping using Ring Automorphisms
 #### by Duhyeong Kim and Gabrielle De Micheli - 28.02.2023
-#### <a href="">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1FHH3KvbzUwt3z6dvlbfDXPbql42Yxrjz/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/7wNXeLkHmuY">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1FHH3KvbzUwt3z6dvlbfDXPbql42Yxrjz/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup event cover (20)](https://user-images.githubusercontent.com/5758427/222270450-8aa5608a-b99b-4211-a400-f522ba92dfd0.png)
 
