@@ -26,7 +26,7 @@
 
 FHE tutorials and articles.
 
-- [FHE and machine learning: A student perspective with examples](https://medium.com/optalysys/fhe-and-machine-learning-a-student-perspective-with-examples-88d70664a6cb) (2022.11.19)
+- [FHE and machine learning: A student perspective with examples](https://medium.com/optalysys/fhe-and-machine-learning-a-student-perspective-with-examples-88d70664a6cb) by Optalysys on Nov 18, 2022
 - [Encrypted Conway's Game of Life in Rust with the Concrete library](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) (2022.08.18)
 - [Homomorphic Large Precision Integers Using Concrete](https://fhe-org.github.io/meetups/homomorphic-Large-Precision-Integers-Using-Concrete) (2022.07.07)
 - [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) (2022.06.02)
