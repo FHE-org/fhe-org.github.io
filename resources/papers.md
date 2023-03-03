@@ -10,13 +10,13 @@
 <p align="center">
   <a href="https://fhe-org.github.io/resources">Resources</a>
   —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-  —
   <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
   —
   <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
   —
   <a href="https://fhe-org.github.io/resources/papers"><b>Papers</b></a>
+  —
+  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
 </p>
 <hr/>
 <!-- /Resource categories links -->
