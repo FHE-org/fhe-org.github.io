@@ -16,8 +16,6 @@
   —
   <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
   —
-  <a href="https://fhe-org.github.io/resources/events">Events</a>
-  —
   <a href="https://fhe-org.github.io/resources/papers"><b>Papers</b></a>
 </p>
 <hr/>
