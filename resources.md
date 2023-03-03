@@ -20,7 +20,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Resources [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources.md)
+## Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources.md)
 
 Main resources about FHE, latest first.
 
