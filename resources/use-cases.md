@@ -23,7 +23,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Applications / Use cases [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/use-cases.md)
+## Applications / Use cases [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/use-cases.md)
 
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) - Add filter to an encrypted image using FHE (2023.02.23)
 - [Private password checker](https://playground.blyss.dev/passwords) - Check if your password has appeared in a data breach, without revealing anything to the server (2023.02.21)
