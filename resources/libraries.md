@@ -23,7 +23,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Libraries [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/libraries.md)
+## Libraries [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/libraries.md)
 
 Modern and practical libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
 
