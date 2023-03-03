@@ -19,11 +19,11 @@ If you want to learn more about FHE, make sure to:
 - Check out the [resources page](https://fhe-org.github.io/resources)
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 
+# Talks and meetups
+Interested to present your latest paper, implementation or use case to the community? Reach out to us <a href="https://fhe.org/community">through the community</a> or email us directly at <a href="contact@fhe.org">contact@fhe.org</a>. 
+
 # FHE.org conference 2023
 [![FHE.org conference](https://user-images.githubusercontent.com/5758427/207626297-0ac56e1e-7431-4430-a282-d6aa89fd5fc2.png)](https://fhe.org/conferences/conference-2023/home)
-
-# Talks and meetups
-Interested to present your work: latest paper, implementation or use case? Either reach out to us <a href="https://fhe.org/community">through the community</a> or email us directly at <a href="contact@fhe.org">contact@fhe.org</a>. 
 
 <!--- Footer --->
 <hr/>
