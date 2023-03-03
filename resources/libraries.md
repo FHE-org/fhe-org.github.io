@@ -27,14 +27,14 @@
 
 Modern and practical libraries that can be used to implement applications using (Fully) Homomorphic Encryption.
 
-- [Concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE.
-- [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration.
-- [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme.
-- [Lattigo](https://github.com/ldsec/lattigo) - lattice-based multiparty homomorphic encryption library in Go.
-- [OpenFHE](https://github.com/openfheorg/openfhe-development) - OpenFHE is an open-source FHE library that provides production-ready implementations of all major FHE schemes.
-- [Palisade](https://palisade-crypto.org/software-library/) - C++ FHE library that supports all the major FHE protocols.
-- [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes.
-- [TFHE-rs](https://github.com/zama-ai/tfhe-rs/) - A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data
+- [Concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE by **Zama**
+- [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
+- [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
+- [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
+- [Lattigo](https://github.com/ldsec/lattigo) - lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
+- [OpenFHE](https://github.com/openfheorg/openfhe-development) - OpenFHE is an open-source FHE library that provides production-ready implementations of all major FHE schemes by **Duality Tech**
+- [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes by **Microsoft**
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs/) - A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data by **Zama**
 
 <!--- Footer --->
 <hr/>
