@@ -15,8 +15,6 @@
   —
   <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
   —
-  <a href="https://fhe-org.github.io/resources/events">Events</a>
-  —
   <a href="https://fhe-org.github.io/resources/papers">Papers</a>
 </p>
 <hr/>
@@ -24,8 +22,9 @@
 
 ## Resources [<img src="https://img.shields.io/badge/Github-edit%20this%20page-lightgrey">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources.md)
 
-Main resources about FHE
+Main resources about FHE, latest first.
 
+- [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe-org.github.io/meetups/Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - [On the Hardness of the Finite Field Isomorphism Problem](https://fhe-org.github.io/meetups/On_the_Hardness_of_the_Finite_Field_Isomorphism_Problem) 	by **Antoine Joux** on **Jan 24, 2023**
 - [Introducing CryptoLabs's FHE library: HEaaN](https://fhe-org.github.io/meetups/Introducing_the_HEaaN_library_by_CryptoLab) by **Taekyung Kim** on **Dec 13, 2022**
 - [Estimating the Difficulty of Breaking Lattice-Based Cryptography](https://fhe-org.github.io/meetups/Estimating_the_Difficulty_of_Breaking_Lattice_Based_Cryptography) by **Martin Albrecht** on **Nov 22, 2022**
