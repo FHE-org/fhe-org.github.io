@@ -27,11 +27,11 @@
 
 Modern and practical schemes for Homomorphic Encryption.
 
-- [BFV](https://eprint.iacr.org/2012/144) *(Fan, Junfeng; Vercauteren, Frederik (2012). "Somewhat Practical Fully Homomorphic Encryption". Cryptology ePrint Archive.)*
-- [BGV](https://eprint.iacr.org/2011/277) *(Z. Brakerski, C. Gentry, and V. Vaikuntanathan. Fully Homomorphic Encryption without Bootstrapping, In ITCS 2012)*
-- [CKKS](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) *(Cheon, Jung Hee; Kim, Andrey; Kim, Miran; Song, Yongsoo (2017). "Homomorphic encryption for arithmetic of approximate numbers". Takagi T., Peyrin T. (eds) Advances in Cryptology – ASIACRYPT 2017. ASIACRYPT 2017. Lecture Notes in Computer Science. Vol. 10624. Springer, Cham. pp. 409–437. doi:10.1007/978-3-319-70694-8_15. ISBN 978-3-319-70693-1.)*
-- [FHEW](https://github.com/lducas/FHEW) *(Leo Ducas; Daniele Micciancio. "FHEW: A Fully Homomorphic Encryption library". GitHub.)*
-- [TFHE](https://tfhe.github.io/tfhe/) *(Ilaria Chillotti; Nicolas Gama; Mariya Georgieva; Malika Izabachene. "Faster Fully Homomorphic Encryption: Bootstrapping in less than 0.1 Seconds".)*
+- [BFV](https://eprint.iacr.org/2012/144) by **Fan Junfeng; Vercauteren Frederik**
+- [BGV](https://eprint.iacr.org/2011/277) by **Z. Brakerski; C. Gentry, V. Vaikuntanathan**
+- [CKKS](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) by **Cheon Jung Hee; Kim Andrey; Kim Miran; Song Yongsoo**
+- [FHEW](https://github.com/lducas/FHEW) by **Leo Ducas; Daniele Micciancio**
+- [TFHE](https://tfhe.github.io/tfhe/) by **Ilaria Chillotti; Nicolas Gama; Mariya Georgieva; Malika Izabachene**
 
 *<sub>(For a full historical background of all schemes based on generation including those that are now phased out, see the [Wikipedia article on Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption#History))*</sub>
 
