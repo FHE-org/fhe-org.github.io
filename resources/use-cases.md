@@ -16,8 +16,6 @@
   —
   <a href="https://fhe-org.github.io/resources/usecases"><b>Use cases</b></a>
   —
-  <a href="https://fhe-org.github.io/resources/events">Events</a>
-  —
   <a href="https://fhe-org.github.io/resources/papers">Papers</a>
 </p>
 <hr/>
@@ -28,12 +26,12 @@
 Applications and use cases showcasing FHE, latest first.
 
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
-- [Private password checker](https://playground.blyss.dev/passwords) - Check if your password has appeared in a data breach, without revealing anything to the server (2023.02.21)
-- [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) - Sentiment analysis on Encrypted data (2022.11.17)
-- [Bitcoin balance](https://btc.usespiral.com/) - Look up any Bitcoin (BTC) address balance, without revealing the address to anyone (2022.09)
-- [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) - Encrypted Conway's Game of Life in Rust with the Concrete library (2022.08.18)
-- [human action recognition](https://www.nature.com/articles/s41467-022-32168-5) - Secure human action recognition by encrypted neural network inference (2022.08.15)
-- [artificial pancreas](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) - Ensuring security of artificial pancreas device system using homomorphic encryption (2022.08)
+- [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
+- [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama**  on **Nov 17, 2022**
+- [Private bitcoin balance](https://btc.usespiral.com/) by **Blyss** on **Sept 15, 2022**
+- [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) by **Zama** on **Aug 18, 2022**
+- [Human action recognition](https://www.nature.com/articles/s41467-022-32168-5) by **Miran Kim; Xiaoqian Jiang; Kristin Lauter;  Elkhan Ismayilzada; Shayan Shams** on **Aug 15, 2022**
+- [Ensuring security of artificial pancreas device system using homomorphic encryption](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) by **Haotian Weng; Chirath Hettiarachchi; Christopher Nolan; Hanna Suominen; Artem Lenskiy** on **Jan 15, 2022**
 - [crypto-geofence](https://github.com/Georeactor/crypto-geofence) - Geo-fencing demo application based on Paillier scheme.
 - [lattigo-polls](https://github.com/ldsec/lattigo-polls-demo) - Web-application for scheduling meetings using [lattigo](#lattigo).
 - [Morfix.io](https://morfix.io/sandbox) - Web-based UI to play around with the [Microsoft SEAL](#SEAL) library.
