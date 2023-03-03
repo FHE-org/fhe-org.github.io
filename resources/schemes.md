@@ -16,8 +16,6 @@
   —
   <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
   —
-  <a href="https://fhe-org.github.io/resources/events">Events</a>
-  —
   <a href="https://fhe-org.github.io/resources/papers">Papers</a>
 </p>
 <hr/>
@@ -25,7 +23,7 @@
 
 ## Schemes [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/schemes.md)
 
-Modern and practical schemes for Homomorphic Encryption.
+Main modern and practical FHE schemes.
 
 - [BFV](https://eprint.iacr.org/2012/144) by **Fan Junfeng; Vercauteren Frederik**
 - [BGV](https://eprint.iacr.org/2011/277) by **Z. Brakerski; C. Gentry, V. Vaikuntanathan**
