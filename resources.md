@@ -63,6 +63,9 @@ Main resources about FHE, latest first.
 - [Developer Tools & Compilers](https://fhe-org.github.io/meetups/fhe-development-tools) **Alexander Viand** on **May 20, 2021**
 - [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) **Ilaria Chillotti** on **Apr 15, 2021**
 - [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Apr 15, 2021**
+
+## 2020
+
 - [Introduction to homomorphic encryption](https://fhe-org.github.io/meetups/introduction-to-fhe) by **Pascal Paillier** on **Nov 04, 2020**
 
 
