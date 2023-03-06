@@ -24,8 +24,13 @@
 
 Main resources about FHE, latest first.
 
+## 2023
+
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe-org.github.io/meetups/Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - [On the Hardness of the Finite Field Isomorphism Problem](https://fhe-org.github.io/meetups/On_the_Hardness_of_the_Finite_Field_Isomorphism_Problem) 	by **Antoine Joux** on **Jan 24, 2023**
+
+## 2022
+
 - [Introducing CryptoLabs's FHE library: HEaaN](https://fhe-org.github.io/meetups/Introducing_the_HEaaN_library_by_CryptoLab) by **Taekyung Kim** on **Dec 13, 2022**
 - [Estimating the Difficulty of Breaking Lattice-Based Cryptography](https://fhe-org.github.io/meetups/Estimating_the_Difficulty_of_Breaking_Lattice_Based_Cryptography) by **Martin Albrecht** on **Nov 22, 2022**
 - [Real-world deployment of FHE-based private information retrieval](https://fhe-org.github.io/meetups/real_world_deployment_of_FHE_based_private_information_retrieval) by **Samir Menon** on **Oct 10, 2022**
@@ -43,6 +48,9 @@ Main resources about FHE, latest first.
 - [Single-server private information retrieval using homomorphic encryption](https://fhe-org.github.io/meetups/single-server-private-information-retrieval-using-homomorphic-encryption) by **Muhammad Haris** on **Feb 25, 2022**
 - [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/an-overview-of-hybrid-homomorphic-encryption) by **Orel Cosseron and Clément Hoffmann** on **Jan 20, 2022**
 - [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation)  by **Openmined** on **2022**
+
+## 2021
+
 - [Data governance is in desperate need of innovation](https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation) by **Jeremy Bradley** on **Dec 22, 2021**
 - [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by **FHE.org meetup** on **Dec 21, 2021**
 - [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) by **Marc Joye** on **Dec 01, 2021**
