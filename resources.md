@@ -14,7 +14,7 @@
   <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
   —
   <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  -
+  —
   <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
 </p>
 <hr/>
@@ -22,7 +22,7 @@
 
 ## Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources.md)
 
-Main resources about FHE, latest first.
+Main resources about FHE, newest first.
 
 ## 2023
 
