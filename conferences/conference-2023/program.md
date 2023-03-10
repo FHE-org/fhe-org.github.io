@@ -84,8 +84,8 @@
 
 <tr>
     <td>12.05pm - 12.45pm</td>
-    <td>FHE.org Discussion</td>
-    <td>Open discussion and announcements for the FHE.org community</td>
+  <td><b>Invited Talk:</b> <em>title of the talk to be announced</em></td>
+    <td>Pascal Paillier (Zama)</td>
 </tr>  
   
 <tr>
@@ -133,8 +133,8 @@
   
 <tr>
     <td>4.35pm - 5.20pm</td>
-    <td>Invited Talk II</td>
-  <td><i>To be announced</i></td>
+  <td><b>Invited Talk:</b> <em>title of the talk to be announced</em></td>
+  <td>Nicolas Gama (SandboxAQ)</td>
 </tr>  
   
 <tr>
