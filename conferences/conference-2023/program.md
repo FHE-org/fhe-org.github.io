@@ -84,8 +84,8 @@
 
 <tr>
     <td>12.05pm - 12.45pm</td>
-  <td><b>Invited Talk:</b> <em>title of the talk to be announced</em></td>
-    <td>Pascal Paillier (Zama)</td>
+  <td><b>Computation models for FHE: Mixing integer, boolean and floating point operations. Applications to TFHE and Chimera</em></td>
+  <td>Nicolas Gama (SandboxAQ), Mariya Georgieva (Inpher)</td>
 </tr>  
   
 <tr>
@@ -133,8 +133,8 @@
   
 <tr>
     <td>4.35pm - 5.20pm</td>
-  <td><b>Invited Talk:</b> <em>title of the talk to be announced</em></td>
-  <td>Nicolas Gama (SandboxAQ)</td>
+  <td><b>Invited Talk:</b> <em>Recent Advances in Homomorphic Compilation</em></td>
+  <td>Pascal Paillier (Zama)</td>
 </tr>  
   
 <tr>
