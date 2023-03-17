@@ -28,6 +28,7 @@ Applications and use cases showcasing FHE, latest first.
 
 ## 2023
 
+- [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
 - [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
 
