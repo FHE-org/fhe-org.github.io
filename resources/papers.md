@@ -32,7 +32,8 @@ Main papers about FHE, latest first.
 - [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://link.springer.com/chapter/10.1007/978-3-642-40041-4_5) - Craig Gentry, Amit Sahai, and Brent Waters - 2013
 - [On-the-Fly Multiparty Computation on the Cloud via Multikey Fully Homomorphic Encryption](https://eprint.iacr.org/2013/094) - Adriana Lopez-Alt, Eran Tromer, and Vinod Vaikuntanathan - 2013
 - [Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144) - Junfeng Fan and Frederik Vercauteren - 2012
-- [Fully Homomorphic Encryption Using Ideal Lattices](https://dl.acm.org/doi/abs/10.1145/1536414.1536440) - Craig Gentry - 2009
+- [Fully Homomorphic Encryption without Bootstrapping](https://eprint.iacr.org/2011/277) - Craig Gentry - 2009
+- [Fully Homomorphic Encryption Using Ideal Lattices](https://dl.acm.org/doi/abs/10.1145/1536414.1536440) - Zvika Brakerski, Craig Gentry, and Vinod Vaikuntanathan - 2011
  
 ## Published Before 2000
 - [Public-Key Cryptosystems Based on Composite Degree Residuosity Classes](https://link.springer.com/chapter/10.1007/3-540-48910-X_16) - Pascal Paillier - 1999
