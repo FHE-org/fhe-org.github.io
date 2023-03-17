@@ -23,9 +23,22 @@
 
 ## Papers [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/papers.md)
 
-Main published papers about FHE, latest first.
+Main papers about FHE, latest first.
 
-- Coming soon.
+## Published between 2000 - 2020
+- [TFHE: Fast Fully Homomorphic Encryption Over the Torus](https://link.springer.com/article/10.1007/s00145-019-09319-x) - Ilaria Chillotti, Nicolas Gama, Mariya Georgieva & Malika Izabachène - 2016
+- [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) - Jung Hee Cheon, Andrey Kim, Miran Kim & Yongsoo Song - 2016
+- [FHEW: Bootstrapping Homomorphic Encryption in Less Than a Second](https://link.springer.com/chapter/10.1007/978-3-662-46800-5_24) - Léo Ducas & Daniele Micciancio - 2015
+- [Homomorphic Encryption from Learning with Errors: Conceptually-Simpler, Asymptotically-Faster, Attribute-Based](https://link.springer.com/chapter/10.1007/978-3-642-40041-4_5) - Craig Gentry, Amit Sahai, and Brent Waters - 2013
+- [On-the-Fly Multiparty Computation on the Cloud via Multikey Fully Homomorphic Encryption](https://eprint.iacr.org/2013/094) - Adriana Lopez-Alt, Eran Tromer, and Vinod Vaikuntanathan - 2013
+- [Somewhat Practical Fully Homomorphic Encryption](https://eprint.iacr.org/2012/144) - Junfeng Fan and Frederik Vercauteren - 2012
+- [Fully Homomorphic Encryption Using Ideal Lattices](https://dl.acm.org/doi/abs/10.1145/1536414.1536440) - Craig Gentry - 2009
+ 
+## Published Before 2000
+- [Public-Key Cryptosystems Based on Composite Degree Residuosity Classes](https://link.springer.com/chapter/10.1007/3-540-48910-X_16) - Pascal Paillier - 1999
+- [A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms](https://ieeexplore.ieee.org/document/1057074) - Taher ElGamal - 1985 
+- [On data and privacy homomorphisms](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/RAD78.pdf) - Ronald L. Rives; Len Adleman; Michael L. Dertouzos - 1978
+- [A method for obtaining digital signatures and public-key cryptosystems](https://dl.acm.org/doi/10.1145/359340.359342) -  R.L. Rivest, A. Shamir, and L. Adleman - 1978 
 
 <!--- Footer --->
 <hr/>
