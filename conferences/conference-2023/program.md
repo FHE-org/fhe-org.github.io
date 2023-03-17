@@ -84,7 +84,7 @@
 
 <tr>
     <td>12.05pm - 12.45pm</td>
-  <td><b>Computation models for FHE: Mixing integer, boolean and floating point operations. Applications to TFHE and Chimera</em></td>
+  <td><b>Invited Talk:</b> Computation models for FHE: Mixing integer, boolean and floating point operations. Applications to TFHE and Chimera</td>
   <td>Nicolas Gama (SandboxAQ), Mariya Georgieva (Inpher)</td>
 </tr>  
   
@@ -133,7 +133,7 @@
   
 <tr>
     <td>4.35pm - 5.20pm</td>
-  <td><b>Invited Talk:</b> <em>Recent Advances in Homomorphic Compilation</em></td>
+  <td><b>Invited Talk:</b> Recent Advances in Homomorphic Compilation</td>
   <td>Pascal Paillier (Zama)</td>
 </tr>  
   
