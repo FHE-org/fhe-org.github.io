@@ -23,7 +23,7 @@
 
 ## Libraries [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/libraries.md)
 
-Main modern and practical FHE libraries
+Main modern and practical FHE libraries, sort in alphabetical order.
 
 - [Concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE by **Zama**
 - [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
