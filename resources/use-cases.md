@@ -12,7 +12,7 @@
   —
   <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
   —
-  <a href="https://fhe-org.github.io/resources/usecases"><b>Use cases</b></a>
+  <a href="https://fhe-org.github.io/resources/use-cases"><b>Use cases</b></a>
   —
   <a href="https://fhe-org.github.io/resources/papers">Papers</a>
   -
