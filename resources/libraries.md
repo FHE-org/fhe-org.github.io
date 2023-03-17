@@ -29,8 +29,8 @@ Main modern and practical FHE libraries, sort in alphabetical order.
 - [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
 - [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
 - [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
-- [Lattigo](https://github.com/ldsec/lattigo) - lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
-- [OpenFHE](https://github.com/openfheorg/openfhe-development) - OpenFHE is an open-source FHE library that provides production-ready implementations of all major FHE schemes by **Duality Tech**
+- [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
+- [OpenFHE](https://github.com/openfheorg/openfhe-development) - Production-ready implementations of all major FHE schemes by **Duality Tech**
 - [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes by **Microsoft**
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs/) - A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data by **Zama**
 
