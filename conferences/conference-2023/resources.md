@@ -26,4 +26,13 @@
 
 # Resources
 
-Coming soon.
+Presenters can add their own presentation resources here (videos, posters, etc). If you need help doing so, please reach out to any team member at the conference or on discord.
+
+# Talks
+
+# Posters
+
+# Misc
+
+
+
