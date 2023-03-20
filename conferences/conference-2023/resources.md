@@ -26,21 +26,85 @@
 
 # Resources
 
-Presenters can add their own presentation resources here (videos, posters, etc). If you need help doing so, please reach out to any team member at the conference or on discord.
+Presenters can add their own presentation resources here *(pdfs, powerpoints, poster images, etc)*. Videos will be added by the team directly. If you need help adding your resources, please reach out to any team member at the conference or on discord.
 
 # Talks
--
--
--
+
+<table>
+<thead>
+  <tr>
+    <th data-sortas="case-insensitive">Session Topic</th>
+    <th data-sortas="case-insensitive">Presenters/Authors</th>
+    <th data-sortas="case-insensitive">Media</th>
+  </tr>
+</thead>  
+
+  
+  
+  
+  
+
+<!-- Use this template-->  
+
+<tr>
+  <td>Title of the talk</td>
+  <td>Presenter name(s)</td>
+  <td><a href="./media">slides</a>, <a href="./media">video</a></td>
+</tr>  
+
+<!-- End template -->
+
+  
+  
+  
+  
+  
+  
+</table>
 
 # Posters
--
--
--
+
+<table>
+<thead>
+  <tr>
+    <th data-sortas="case-insensitive">Poster Topic</th>
+    <th data-sortas="case-insensitive">Presenters/Authors</th>
+    <th data-sortas="case-insensitive">Media</th>
+  </tr>
+</thead>  
+
+  
+  
+  
+  
+  
+<!-- Use this template-->
+  
+<tr>
+  <td>Title of the poster</td>
+  <td>Presenter name(s)</td>
+  <td><a href="./media">poster PDF</a>, <a href="./media">video</a></td>
+</tr>  
+  
+<!-- End template-->
+  
+  
+  
+  
+  
+</table>
+
 
 # Photos
 
-![2023-conference-room-the-week-before](https://user-images.githubusercontent.com/37557436/226355617-71a810ec-e522-4b0c-8fb4-1d3e1f577780.jpg)
+<table>
+  <tr>
+    <td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/2023-conference-room-the-week-before.jpg?raw=true"><img src="https://user-images.githubusercontent.com/37557436/226355617-71a810ec-e522-4b0c-8fb4-1d3e1f577780.jpg" width=300px></a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 
 
