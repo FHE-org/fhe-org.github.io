@@ -29,10 +29,18 @@
 Presenters can add their own presentation resources here (videos, posters, etc). If you need help doing so, please reach out to any team member at the conference or on discord.
 
 # Talks
+-
+-
+-
 
 # Posters
+-
+-
+-
 
-# Misc
+# Photos
+
+![2023-conference-room-the-week-before](https://user-images.githubusercontent.com/37557436/226355617-71a810ec-e522-4b0c-8fb4-1d3e1f577780.jpg)
 
 
 
