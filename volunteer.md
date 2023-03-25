@@ -6,20 +6,16 @@
 <hr/>
 <!-- /Main header navigation -->
 
-# Join the FHE.org community
+# Volunteer Program
 
-You can participate in the community via any of its official social channels and platforms:
+### Want to help out at the home of the world’s top FHE cryptographers, researchers, and developers?
 
-- <a href="https://discord.fhe.org/" target="_blank">FHE.org Discord</a>
-- <a href="https://twitter.com/fhe_org" target="_blank">FHE.org Twitter</a>
-- <a href="https://reddit.com/r/FHE" target="_blank">FHE.org Reddit</a>
-- <a href="https://fheorg.substack.com/" target="_blank">FHE.org Newsletter</a>
+We’re always looking for passionate volunteers to help the FHE.org team with community, meetups, the website and conferences.
 
-But more importantly, <b>we encourage anyone from the community to contribute to our website</b> by adding resources and use cases to our Github repo. Read on how to contribute to FHE.org on the <a href="https://fhe.org/contrib">Contribution page</a>.
+If you’re a student, a developer, a researcher or have a business around FHE and want to help improve some aspect of the community, tell us about yourself and what you think you'd be most useful volunteering with! We’ve got a few special gifts to give away for volunteers so reach out today!
 
-# Volunteer
+The best way to reach out is either directly via contact@fhe.org or through the <a href="https://discord.fhe.org/" target="_blank">community Discord</a>.
 
-Interested in [volunteering to help the FHE.org team](https://fhe-org.github.io/volunteer) with community, meetups, the website and conferences?
 
 <!--- Footer --->
 <hr/>
