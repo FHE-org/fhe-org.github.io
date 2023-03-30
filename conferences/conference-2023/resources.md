@@ -24,9 +24,9 @@
 <hr/>
 <!-- /Header conference 2023 links -->
 
-# Resources
+# Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/edit/main/conferences/conference-2023/resources.md)
 
-Presenters can add their own presentation resources here *(pdfs, powerpoints, poster images, etc)*. Videos will be added by the team directly. If you need help adding your resources, please reach out to any team member at the conference or on discord.
+Presenters can add their own presentation resources here *(pdfs, powerpoints, poster images, etc)*. Videos will be added by the team directly. If you need help adding or hosting your resources, please reach out to the team at contact@fhe.org on discord.
 
 # Talks
 
