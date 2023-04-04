@@ -250,16 +250,6 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 </table>
 
 
-# Photos
-
-<table>
-  <tr>
-    <td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/2023-conference-room-the-week-before.jpg?raw=true"><img src="https://user-images.githubusercontent.com/37557436/226355617-71a810ec-e522-4b0c-8fb4-1d3e1f577780.jpg" width=300px></a></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
 
 
 
