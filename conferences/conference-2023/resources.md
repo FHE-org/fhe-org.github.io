@@ -132,7 +132,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Private Smart Contracts Using Homomorphic Encryption</td>
     <td>Morten Dahl (Zama), Levent Demir (Zama), Louis Tremblay Thibault (Zama)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/tremblaythibaultl/papers-and-talks/blob/main/fhe_org_2023_poster_blockchain.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 <tr>
