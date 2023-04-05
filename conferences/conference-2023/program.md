@@ -20,7 +20,8 @@
   <a href="https://easychair.org/conferences/?conf=fheorg2023" target="_blank">Submissions</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/contact">Contact</a>
-</p>
+  —
+  <a href="https://fhe-org.github.io/conferences/conference-2023/resources">Resources</a></p>
 <hr/>
 <!-- /Header conference 2023 links -->
 
