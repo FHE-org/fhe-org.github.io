@@ -25,7 +25,7 @@
 Main resources about FHE, latest first.
 
 ## 2023
-
+- [FHE.org Tokyo 2023 Conference Resources (Talks and Slides)](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe-org.github.io/meetups/Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - [On the Hardness of the Finite Field Isomorphism Problem](https://fhe-org.github.io/meetups/On_the_Hardness_of_the_Finite_Field_Isomorphism_Problem) 	by **Antoine Joux** on **Jan 24, 2023**
 
