@@ -26,7 +26,7 @@
 <hr/>
 <!-- /Header conference 2023 links -->
 
-# FHE.org 2022 — Contact
+# FHE.org 2023 — Contact
 ## General chair
 - **Benjamin Curtis** *Zama, France*
 > ben.curtis@zama.ai
