@@ -29,7 +29,7 @@
 # FHE.org conference 2023
 The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with [Real World Crypto 2023](https://rwc.iacr.org/2023/) and will be held at the Bellesalle Onarimon Tower in Tokyo (Japan) on Sunday, March 26, 2023.
 
-<del>**<a href="https://lu.ma/fhe-org-conference-2023-tickets">Register here</a>.**</del>
+<del><b><a href="https://lu.ma/fhe-org-conference-2023-tickets">Register here</a>.</b></del>
 
 <b><a href="https://fhe-org.github.io/conferences/conference-2023/resources">View resources <i>(slides and videos)</i> from the conference here.</b>
 
