@@ -31,7 +31,7 @@ The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated 
 
 <del><b><a href="https://lu.ma/fhe-org-conference-2023-tickets">Register here</a>.</b></del>
 
-<b><a href="https://fhe-org.github.io/conferences/conference-2023/resources">View resources <i>(slides and videos)</i> from the conference here.</b>
+**<a href="https://fhe-org.github.io/conferences/conference-2023/resources">View resources <i>(slides and videos)</i> from the conference here.**
 
 
 ## Important dates
