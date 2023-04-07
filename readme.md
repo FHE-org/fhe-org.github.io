@@ -18,7 +18,7 @@ If you want to learn more about FHE, make sure to:
 
 - Check out the [resources page](https://fhe-org.github.io/resources)
 - Join the [FHE.org community](https://fhe-org.github.io/community)
-- Interested in [volunteering](https://fhe-org.github.io/volunteer)?
+- [Help us grow the FHE.org community](https://fhe-org.github.io/volunteer)
 
 # The talks and meetups
 Interested to present your latest paper, implementation or use case to the community? Reach out to us <a href="https://fhe.org/community">through the community</a> or email us directly at <a href="contact@fhe.org">contact@fhe.org</a>. 
