@@ -7,7 +7,7 @@
 <!-- /Main header navigation -->
 
 <p align="center">
-<b>Registration for the FHE.org conference 2023 is now <a href="https://fhe.org/conferences/conference-2023/home">open</a></b>. 
+<b>The FHE.org Tokyo 2023 conference has finished. <a href="https://fhe-org.github.io/conferences/conference-2023/resources">View videos, slides, and posters from the conference here.</a></b>
 </p>
 <hr/>
 
