@@ -20,11 +20,8 @@ Meetups are suitable for online presentations of all types *(e.g. use cases, imp
 ### Paper Sessions
 Paper Sessions are suitable for online demonstration and discussion of published papers or posters.
 
-### Conference talks
-Conference talks are suitable for offline presentations of all types *(e.g. use cases, implementation, theory)*. Presentation spots are limited and made available once a year. Submissions must be made to the [conference organizers](https://fhe.org/conferences/conference-2023/contact) directly. 
-
-### Conference posters
-Conference posters are suitable for offline presentations of all categories *(e.g. use cases, implementation, theory)*. Presentation spots are limited and made available once a year. Submissions must be made to the [conference organizers](https://fhe.org/conferences/conference-2023/contact) directly. 
+### Conference talks and posters
+Conference talks and posters are suitable for offline presentations of all types *(e.g. use cases, implementation, theory)*. Spots are limited and made available once a year. Submissions must be made to the [conference organizers](https://fhe.org/conferences/conference-2023/contact) directly. Stay tuned for the next [call for presentations](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/call-for-presentations.md).
 
 
 <!--- Footer --->
