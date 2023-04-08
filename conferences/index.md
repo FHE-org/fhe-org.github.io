@@ -6,5 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-- The information for the FHE.org Conference 2023 will be available soon here.
-- The resources from the FHE.org conference 2022 are available <a href="https://fhe-org.github.io/conferences/conference-2022/resources">here</a>.
+## Resources from FHE.org conferences
+- <a href="https://fhe-org.github.io/conferences/conference-2023/resources">2023</a>
+- <a href="https://fhe-org.github.io/conferences/conference-2022/resources">2022</a>
