@@ -165,7 +165,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Panacea: Non-interactive and Stateless Oblivious RAM</td>
     <td>Kelong Cong (KU Leuven), Debajyoti Das (KU Leuven), Georgio Nicolas (KU Leuven), Jeongeun Park (KU Leuven)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2023/media/panacea_poster.pdf">
+    View
+      </a>
+    </td>
 </tr>
 
 <tr>
