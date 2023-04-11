@@ -85,7 +85,18 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption</td>
     <td>Michiel Van Beirendonck (KU Leuven), Jan-Pieter D'Anvers (KU Leuven), Ingrid Verbauwhede (KU Leuven)</td>
-    <td>Slides / Video</td>
+    <td>
+    <a href="https://www.esat.kuleuven.be/cosic/publications/talk-587.pdf">
+      Slides
+    </a> /
+    Video 
+    <a href="https://eprint.iacr.org/2022/1635.pdf">
+      Paper
+    </a> /
+    <a href="https://www.esat.kuleuven.be/cosic/publications/talk-588.pdf">
+      Poster
+    </a>
+    </td>
 </tr>  
   
 <tr>
