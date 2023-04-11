@@ -216,7 +216,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Fully Homomorphic Encryption for User Privacy and Model Intellectual Property Protection</td>
     <td>Roman Bredehoft (Zama), Benoit Chevallier-Mames (Zama), Jordan Frery (Zama), Celia Kherfallah (Zama), Luis Montero (Zama), Andrei Stoian (Zama)</td>
-    <td>View</td>
+    <td>
+      <a href="https://drive.google.com/drive/folders/1oJlsG7ebRqo39tTrtDuKlA8HNSGy2tNf">
+        View
+      </a>
+    </td>
 </tr>
 
 <tr>
