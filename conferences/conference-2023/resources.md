@@ -221,7 +221,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Functional Bootstrapping over Multiple Inputs</td>
     <td>Pierre-Emmanuel Clet (CEA), Aymen Boudguiga (CEA), Renaud Sirdey (CEA)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/tree/main/conferences/conference-2023/media/posterTFHEMultiInputs.pdf">
+    View
+      </a>
+    </td>
 </tr>
 
 <tr>
