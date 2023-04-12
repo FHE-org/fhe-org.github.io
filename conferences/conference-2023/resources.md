@@ -43,7 +43,12 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Accelerating HE Operations from Key Decomposition Technique</td>
     <td>Miran Kim (Hanyang University), Dongwon Lee (Seoul National University), Jinyeong Seo (Seoul National University), Yongsoo Song (Seoul National University)</td>
-    <td>Slides / Video</td>
+    <td>
+      <a href="https://github.com/SNUCP/Conference/blob/main/FHEorg%202023/%5B2303%5D%20FHEorg%20Accelerating%20HE%20Operations.pdf">
+        Slides
+      </a> /
+      Video
+    </td>
 </tr>
   
 <tr>
@@ -102,7 +107,12 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Advances on Homomorphic Encryption for Multiple Parties</td>
     <td>Taechan Kim (Samsung Research), Hyesun Kwak (Seoul National University), Dongwon Lee (Seoul National University), Jinyeong Seo (Seoul National University), Yongsoo Song (Seoul National University)</td>
-    <td>Slides / Video</td>
+    <td>
+      <a href="https://github.com/SNUCP/Conference/blob/main/FHEorg%202023/%5B2303%5D%20FHEorg%20HE%20multiple.pdf">
+        Slides
+      </a> /
+      Video
+    </td>
 </tr>  
   
 <tr>
@@ -158,7 +168,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Towards Practical Multi-key TFHE: Parallelizable, Key-Compatible, Quasi-linear Complexity</td>
     <td>Hyesun Kwak (Seoul National University), Seonhong Min (Seoul National University), Yongsoo Song (Seoul National University)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/SNUCP/Conference/blob/main/FHEorg%202023/%5B2303%5D%20FHEorg%20MKTFHE.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 <tr>
@@ -170,7 +184,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>A Unified Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Setup</td>
     <td>Hyesun Kwak (Seoul National University), Dongwon Lee (Seoul National University), Yongsoo Song (Seoul National University), Sameer Wagh (Devron)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/SNUCP/Conference/blob/main/FHEorg%202023/%5B2303%5D%20FHEorg%20MGHE.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 <tr>
