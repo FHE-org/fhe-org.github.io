@@ -163,9 +163,12 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Slides / 
       <a href="https://www.youtube.com/watch?v=phWYLwlPTY0&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=11">
         Video
-      </td>
+      </a>
+  </td>
 </tr>
 </table>
+
+
 
 # Posters
 
