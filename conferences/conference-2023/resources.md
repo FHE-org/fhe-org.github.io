@@ -47,8 +47,10 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/SNUCP/Conference/blob/main/FHEorg%202023/%5B2303%5D%20FHEorg%20Accelerating%20HE%20Operations.pdf">
         Slides
       </a> /
-      <a href="https://www.youtube.com/watch?v=phCBIyfKETQ&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=1&pp=gAQBiAQB">Video</a>
-    </td>
+      <a href="https://www.youtube.com/watch?v=phCBIyfKETQ&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=1">
+        Video
+      </a>
+   </td>
 </tr>
 
 <tr>
@@ -58,38 +60,60 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://www.esat.kuleuven.be/cosic/publications/talk-583.pdf">
         Slides
       </a> /
-      Video
+      <a href="https://www.youtube.com/watch?v=HPx_6_d4WDQ&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=2">
+        Video
+      </a>
     </td>
 </tr>
 
 <tr>
     <td>On NTRU-v-um Modulo X^N − 1</td>
     <td>Marc Joye (Zama)</td>
-    <td>Slides / Video</td>
+  <td>Slides / 
+    <a href="https://www.youtube.com/watch?v=gjXxiwBNET4&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=3">
+      Video
+     </a>
+  </td>
 </tr>
 
 <tr>
     <td>Optimisations and Trade-offs for HElib</td>
     <td>Anamaria Costache (NTNU), Lea Nürnberger (NTNU), Rachel Player (RHUL) </td>
-    <td>Slides / Video</td>
+    <td>Slides / 
+      <a href="https://www.youtube.com/watch?v=_3GLXu7SdI8&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=4">
+        Video
+      </a>
+  </td>
 </tr>
 
 <tr>
     <td>Invited Talk: Computation models for FHE: Mixing integer, boolean and floating point operations. Applications to TFHE and Chimera</td>
     <td>Nicolas Gama (SandboxAQ), Mariya Georgieva (Inpher)</td>
-    <td>Slides / Video</td>
+    <td>Slides / 
+      <a href="https://www.youtube.com/watch?v=u6XQP04Zq_c&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=5">
+        Video
+      </a>
+  </td>
 </tr>
 
 <tr>
     <td>Invited Talk: Bringing FHE to production: Lessons learned at Google</td>
     <td>Miguel Guevara (Google)</td>
-    <td>Slides / Video</td>
+    <td>Slides / 
+      <a href="https://www.youtube.com/watch?v=-QoPKZi-5l4&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=6">
+        Video
+      </a>
+    </td>
 </tr>
 
 <tr>
     <td>Parameter Optimization and Larger Precision for TFHE</td>
     <td>Loris Bergerat (Zama), Anas Boudi (Zama), Quentin Bourgerie (Zama), Ilaria Chillotti (Zama), Damien Ligier (Zama), Jean-Baptiste Orfila (Zama), Samuel Tap (Zama)</td>
-    <td>Slides / Video</td>
+    <td>Slides / 
+      <a href="https://www.youtube.com/watch?v=l5MU47K7tfI&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=7">
+        Video
+      </a>
+    </td>
 </tr>
 
 <tr>
@@ -99,7 +123,9 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <a href="https://www.esat.kuleuven.be/cosic/publications/talk-587.pdf">
       Slides
     </a> /
-    Video
+    <a href="https://www.youtube.com/watch?v=Bbkc1IavkGo&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=8">
+      Video
+      </a> /
     <a href="https://eprint.iacr.org/2022/1635.pdf">
       Paper
     </a> /
@@ -115,21 +141,29 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>
       <a href="https://github.com/SNUCP/Conference/blob/main/FHEorg%202023/%5B2303%5D%20FHEorg%20HE%20multiple.pdf">
         Slides
-      </a> /
+      </a> / <a href="https://www.youtube.com/watch?v=Wrdr79G32KY&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=9">
       Video
+      </a>
     </td>
 </tr>
 
 <tr>
     <td>Verifiable Fully Homomorphic Encryption</td>
     <td>Alexander Viand (ETH Zurich), Christian Knabenhans (ETH Zurich), Anwar Hithnawi (ETH Zurich)</td>
-    <td>Slides / Video</td>
+    <td>Slides / 
+      <a href="https://www.youtube.com/watch?v=8bVHYi7avCU&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=10">
+        Video
+      </a>
+  </td>
 </tr>
 
 <tr>
     <td>Invited Talk: Recent Advances in Homomorphic Compilation</td>
     <td>Pascal Paillier (Zama)</td>
-    <td>Slides / Video</td>
+    <td>Slides / 
+      <a href="https://www.youtube.com/watch?v=phWYLwlPTY0&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=11">
+        Video
+      </td>
 </tr>
 </table>
 
