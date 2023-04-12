@@ -209,10 +209,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Hardware Acceleration for Third-Generation Fully Homomorphic Encryption</td>
     <td>Jonas Bertels (KU Leuven), Michiel Van Beirendonck (KU Leuven), Furkan Turan (KU Leuven), Wouter Legiest (KU Leuven), Jan-Pieter D'Anvers (KU Leuven), Ingrid Verbauwhede  (KU Leuven)</td>
+    <td>
       <a href="https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2023/media/FHEW_HW_Acceleration.pdf">
     View
       </a>
-	<td>View</td>
+    </td>
 </tr>
 
 <tr>
