@@ -38,8 +38,8 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <th data-sortas="case-insensitive">Presenters/Authors</th>
       <th data-sortas="case-insensitive">Resources</th>
   </tr>
-</thead>  
-  
+</thead>
+
 <tr>
     <td>Accelerating HE Operations from Key Decomposition Technique</td>
     <td>Miran Kim (Hanyang University), Dongwon Lee (Seoul National University), Jinyeong Seo (Seoul National University), Yongsoo Song (Seoul National University)</td>
@@ -50,7 +50,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       Video
     </td>
 </tr>
-  
+
 <tr>
     <td>On Polynomial Functions Modulo p^e and Faster Bootstrapping for Homomorphic Encryption</td>
     <td>Robin Geelen (KU Leuven), Ilia Iliashenko (CipherMode Labs), Jiayi Kang (KU Leuven), Frederik Vercauteren (KU Leuven)</td>
@@ -60,38 +60,38 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       </a> /
       Video
     </td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>On NTRU-v-um Modulo X^N − 1</td>
     <td>Marc Joye (Zama)</td>
     <td>Slides / Video</td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>Optimisations and Trade-offs for HElib</td>
     <td>Anamaria Costache (NTNU), Lea Nürnberger (NTNU), Rachel Player (RHUL) </td>
     <td>Slides / Video</td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>Invited Talk: Computation models for FHE: Mixing integer, boolean and floating point operations. Applications to TFHE and Chimera</td>
     <td>Nicolas Gama (SandboxAQ), Mariya Georgieva (Inpher)</td>
     <td>Slides / Video</td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>Invited Talk: Bringing FHE to production: Lessons learned at Google</td>
     <td>Miguel Guevara (Google)</td>
     <td>Slides / Video</td>
-</tr> 
-  
+</tr>
+
 <tr>
     <td>Parameter Optimization and Larger Precision for TFHE</td>
     <td>Loris Bergerat (Zama), Anas Boudi (Zama), Quentin Bourgerie (Zama), Ilaria Chillotti (Zama), Damien Ligier (Zama), Jean-Baptiste Orfila (Zama), Samuel Tap (Zama)</td>
     <td>Slides / Video</td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption</td>
     <td>Michiel Van Beirendonck (KU Leuven), Jan-Pieter D'Anvers (KU Leuven), Ingrid Verbauwhede (KU Leuven)</td>
@@ -99,7 +99,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <a href="https://www.esat.kuleuven.be/cosic/publications/talk-587.pdf">
       Slides
     </a> /
-    Video 
+    Video
     <a href="https://eprint.iacr.org/2022/1635.pdf">
       Paper
     </a> /
@@ -107,8 +107,8 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       Poster
     </a>
     </td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>Advances on Homomorphic Encryption for Multiple Parties</td>
     <td>Taechan Kim (Samsung Research), Hyesun Kwak (Seoul National University), Dongwon Lee (Seoul National University), Jinyeong Seo (Seoul National University), Yongsoo Song (Seoul National University)</td>
@@ -118,19 +118,19 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       </a> /
       Video
     </td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>Verifiable Fully Homomorphic Encryption</td>
     <td>Alexander Viand (ETH Zurich), Christian Knabenhans (ETH Zurich), Anwar Hithnawi (ETH Zurich)</td>
     <td>Slides / Video</td>
-</tr>  
-  
+</tr>
+
 <tr>
     <td>Invited Talk: Recent Advances in Homomorphic Compilation</td>
     <td>Pascal Paillier (Zama)</td>
     <td>Slides / Video</td>
-</tr>    
+</tr>
 </table>
 
 # Posters
@@ -142,7 +142,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <th data-sortas="case-insensitive">Presenters/Authors</th>
     <th data-sortas="case-insensitive">Resources</th>
   </tr>
-</thead>  
+</thead>
 
 <tr>
     <td>Towards Mixed Multi-Key Homomorphic Encryption</td>
@@ -269,5 +269,5 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>A Systematisation of Noise Analysis literature for CKKS</td>
     <td>Erin Hales (RHUL), Tabitha Ogilvie (Intel Labs)</td>
     <td>View</td>
-</tr>   
+</tr>
 </table>
