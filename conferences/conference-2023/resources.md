@@ -47,7 +47,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/SNUCP/Conference/blob/main/FHEorg%202023/%5B2303%5D%20FHEorg%20Accelerating%20HE%20Operations.pdf">
         Slides
       </a> /
-      Video
+      <a href="https://www.youtube.com/watch?v=phCBIyfKETQ&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=1&pp=gAQBiAQB">Video</a>
     </td>
 </tr>
 
