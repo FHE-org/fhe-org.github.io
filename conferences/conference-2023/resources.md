@@ -300,7 +300,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Efficient TFHE Bootstrapping in the Multiparty Setting</td>
     <td>Jeongeun Park (KU Leuven), Sergi Rovira (WiSeCom, UPF)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/tree/main/conferences/conference-2023/media/Poster_Multiparty_TFHE.pdf">
+      View
+        </a>
+  </td>
 </tr>
 
 <tr>
