@@ -12,7 +12,7 @@
 
 Volunteers are passionate FHE enthusiasts who bring the community together to advance awareness and adoption of FHE.
 
-<a href="https://forms.gle/4RDkikWjK766emwg8"><img src="https://user-images.githubusercontent.com/37557436/232063165-e65e99b4-a471-48a7-9bf4-65342cc0a417.png" width=150px></a>
+<h3><a href="https://forms.gle/4RDkikWjK766emwg8"><b>Apply Now</b></a></h3>
 
 
 ### FHE.org is all about community
@@ -37,7 +37,7 @@ From meetups to repo cleanups, be an active part in the adoption, engagement, an
 * Helping protect communication channels from spam as needed
 * Periodically adding resources and use cases to the community resources repo
 
-<a href="https://forms.gle/4RDkikWjK766emwg8"><img src="https://user-images.githubusercontent.com/37557436/232063165-e65e99b4-a471-48a7-9bf4-65342cc0a417.png" width=150px></a>
+<h3><a href="https://forms.gle/4RDkikWjK766emwg8"><b>Apply Now</b></a></h3>
 
 
 <!--- Footer --->
