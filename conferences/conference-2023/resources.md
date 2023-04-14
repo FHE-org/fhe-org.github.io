@@ -313,6 +313,10 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>A Systematisation of Noise Analysis literature for CKKS</td>
     <td>Erin Hales (RHUL), Tabitha Ogilvie (Intel Labs)</td>
-    <td>View</td>
+    <td>
+            <a href="https://github.com/FHE-org/fhe-org.github.io/tree/main/conferences/conference-2023/media/tabby_and_erin_poster-1.pdf">
+              View
+      </a>
+</td>
 </tr>
 </table>
