@@ -79,7 +79,10 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Optimisations and Trade-offs for HElib</td>
     <td>Anamaria Costache (NTNU), Lea Nürnberger (NTNU), Rachel Player (RHUL) </td>
-    <td>Slides / 
+    <td>
+    <a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/OptimisationsAndTradeOffs_FHEorg.pptx.pdf">
+      Slides
+    </a> /
       <a href="https://www.youtube.com/watch?v=_3GLXu7SdI8&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=4">
         Video
       </a>
