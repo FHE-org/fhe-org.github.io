@@ -69,7 +69,10 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>On NTRU-v-um Modulo X^N − 1</td>
     <td>Marc Joye (Zama)</td>
-  <td>Slides / 
+  <td>
+    <a href="https://marcjoye.github.io/slides/ntrunium.pdf">
+      Slides
+    </a> / 
     <a href="https://www.youtube.com/watch?v=gjXxiwBNET4&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=3">
       Video
      </a>
