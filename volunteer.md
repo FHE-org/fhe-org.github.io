@@ -22,10 +22,10 @@ FHE.org is the home of the world’s top FHE cryptographers, researchers, and de
 From meetups to repo cleanups, be an active part in the adoption, engagement, and organization of the FHE community. Apply to become a volunteer today.
 
 * Enjoy access to the planning and leadership of events and activities
-* Get direct access to the team members working most on FHE.org. Get recognized as a valuable resource in the FHE community and grow your career goals.
-* Grow the meet-up community and drive community initiatives while receiving support from experienced community leaders.
+* Get direct access to the team members working most on FHE.org. Get recognized as a valuable resource in the FHE community and grow your career goals
+* Grow the meet-up community and drive community initiatives while receiving support from experienced community leaders
 * Join a community of active peers
-* Meet and form friendships with other passionate volunteers.
+* Meet and form friendships with other passionate volunteers
 * Get special volunteer swag
 
 ## Volunteer responsibilities may include
