@@ -159,8 +159,10 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Verifiable Fully Homomorphic Encryption</td>
     <td>Alexander Viand (ETH Zurich), Christian Knabenhans (ETH Zurich), Anwar Hithnawi (ETH Zurich)</td>
-    <td>Slides / 
-      <a href="https://www.youtube.com/watch?v=8bVHYi7avCU&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=10">
+    <td>
+        <a href="https://github.com/MarbleHE/ringSNARK/raw/master/docs/vFHE_FHE.org'23.pdf">
+        Slides 
+      </a> / <a href="https://www.youtube.com/watch?v=8bVHYi7avCU&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=10">
         Video
       </a>
   </td>
