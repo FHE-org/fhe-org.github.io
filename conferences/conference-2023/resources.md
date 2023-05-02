@@ -118,7 +118,10 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Parameter Optimization and Larger Precision for TFHE</td>
     <td>Loris Bergerat (Zama), Anas Boudi (Zama), Quentin Bourgerie (Zama), Ilaria Chillotti (Zama), Damien Ligier (Zama), Jean-Baptiste Orfila (Zama), Samuel Tap (Zama)</td>
-    <td>Slides / 
+    <td>
+    <a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/DL-ST-slides.pdf">
+      Slides
+    </a> /
       <a href="https://www.youtube.com/watch?v=l5MU47K7tfI&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=7">
         Video
       </a>
