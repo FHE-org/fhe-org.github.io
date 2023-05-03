@@ -23,7 +23,7 @@ If you want to learn more about FHE, make sure to:
 # The talks and meetups
 Interested in presenting your latest paper, implementation or use case to the community? See the [available formats and instructions here](https://fhe.org/submit).
 
-# The FHE.org conference 
+# The FHE.org Tokyo 2023 conference 
 The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with Real World Crypto 2023 and will be held at the Bellesalle Onarimon Tower in Tokyo (Japan) on Sunday, March 26, 2023. Visit the [conference page](https://fhe.org/conferences/conference-2023/home) for more information.
 
 **[View resources *(slides and videos)* from the conference here.](https://fhe-org.github.io/conferences/conference-2023/resources)**
