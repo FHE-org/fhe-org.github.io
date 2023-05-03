@@ -25,7 +25,7 @@
 Main resources about FHE, latest first.
 
 ## 2023
-- [TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture](https://fhe.org/meetups/TT-TFHE:%20Torus%20Fully%20Homomorphic%20Encryption-Friendly%20Neural%20Network%20Architecture) by **Adrien Benamira** on **Apr 27, 2023**
+- [TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture](https://fhe.org/meetups/TT-TFHE:_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture) by **Adrien Benamira** on **Apr 27, 2023**
 - [FHE.org Tokyo 2023 Conference Resources (Talks and Slides)](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [Faster Amortized FHEW bootstrapping using Ring Automorphisms](https://fhe.org/meetups/Faster_Amortized_FHE_bootstrapping_using_Ring_Automorphisms) by **Duhyeong Kim and Gabrielle De Micheli** on **Feb 28, 2023**
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe-org.github.io/meetups/Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
