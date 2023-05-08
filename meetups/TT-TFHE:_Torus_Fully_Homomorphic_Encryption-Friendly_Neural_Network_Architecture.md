@@ -29,6 +29,7 @@ Adrien holds a double master's degree in Applied Mathematics and Data Science fr
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
+
 The discord server where you can discuss FHE related topics with the community: https://discord.fhe.org
 
 Make sure to join either (or both) of these to stay informed about future events!
