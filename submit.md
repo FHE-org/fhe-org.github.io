@@ -15,7 +15,7 @@ Interested to present your latest paper, poster, slides, implementation or use c
 # Available formats
 
 ### Meetups
-Meetups are suitable for online presentations of all types and are organized by category *(e.g. use cases, security, application, theory, etc)*. See [past meetups here](https://www.youtube.com/playlist?list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM).
+Meetups are suitable for online presentations of all types and are organized by category *(e.g. use cases, security, application, theory, etc)*. See [past meetups here](https://fhe.org/meetups).
 
 ### Conference talks and posters
 Conference talks and posters are suitable for offline presentations of all types *(e.g. use cases, implementation, theory)*. Spots are limited and made available once a year. Submissions must be made to the [conference organizers](https://fhe.org/conferences/conference-2023/contact) directly. Stay tuned for the next [call for presentations](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/call-for-presentations.md).
