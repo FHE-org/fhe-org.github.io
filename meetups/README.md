@@ -47,7 +47,7 @@ FHE.org Meetups archive, latest first.
 - [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by **Florent Michel** on **Dec 21, 2021**
 - [Why we need revolutionary hardware for FHE](https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 - [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Oct 28, 2021**
-- [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Aug 26, 2021**
+- [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sep 30, 2021**
 - [Google's C++ to FHE compiler](https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler) **Shruthi Gorantala and Rob Springer** on **Aug 26, 2021**
 - [Developer Tools & Compilers](https://fhe-org.github.io/meetups/fhe-development-tools) **Alexander Viand** on **May 20, 2021**
 - [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) **Ilaria Chillotti** on **Apr 15, 2021**
