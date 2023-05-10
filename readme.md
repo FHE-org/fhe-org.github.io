@@ -20,7 +20,7 @@ If you want to learn more about FHE, make sure to:
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 - [Help us grow the FHE.org community](https://fhe-org.github.io/volunteer)
 
-# The talks and meetups
+# FHE.org Meetups
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. You can access resources from all past meetups [here](https://fhe.org/meetups). Interested in presenting your latest paper, implementation or use case to the community? See the available formats and instructions [here](https://fhe.org/submit).
 
 <!--- Footer --->
