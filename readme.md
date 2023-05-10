@@ -23,11 +23,6 @@ If you want to learn more about FHE, make sure to:
 # The talks and meetups
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. You can access resources from all past meetups [here](https://fhe.org/meetups). Interested in presenting your latest paper, implementation or use case to the community? See the available formats and instructions [here](https://fhe.org/submit).
 
-# The FHE.org Tokyo 2023 conference 
-The 2nd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with Real World Crypto 2023 and will be held at the Bellesalle Onarimon Tower in Tokyo (Japan) on Sunday, March 26, 2023. Visit the [conference page](https://fhe.org/conferences/conference-2023/home) for more information.
-
-**[View resources *(slides and videos)* from the conference here.](https://fhe-org.github.io/conferences/conference-2023/resources)**
-
 <!--- Footer --->
 <hr/>
 💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
