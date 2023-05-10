@@ -61,7 +61,7 @@ Main resources about FHE, latest first.
 - [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Oct 28, 2021**
 - [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) **Optalysys** on **Oct 29, 2021**
 - [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai/) **Zama** on **Sept 15, 2021**
-- [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Aug 26, 2021**
+- [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sep 30, 2021**
 - [Google's C++ to FHE compiler](https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler) **Shruthi Gorantala and Rob Springer** on **Aug 26, 2021**
 - [Developer Tools & Compilers](https://fhe-org.github.io/meetups/fhe-development-tools) **Alexander Viand** on **May 20, 2021**
 - [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) **Ilaria Chillotti** on **Apr 15, 2021**
