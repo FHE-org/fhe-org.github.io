@@ -54,17 +54,17 @@ Main resources about FHE, latest first.
 ## 2021
 
 - [Data governance is in desperate need of innovation](https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation) by **Jeremy Bradley** on **Dec 22, 2021**
-- [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by **FHE.org meetup** on **Dec 21, 2021**
+- [FHE at the speed of light](https://fhe-org.github.io/meetups/fhe-at-the-speed-of-light) by **Florent Michel** on **Dec 21, 2021**
 - [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) by **Marc Joye** on **Dec 01, 2021**
 - [Why we need revolutionnary hardware for FHE](https://fhe-org.github.io/meetups/why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 - [Encrypted search using Fully Homomorphic Encryption](https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40) by **FHE.org meetup** on **Nov 23, 2021**
+- [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Oct 28, 2021**
 - [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) **Optalysys** on **Oct 29, 2021**
 - [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai/) **Zama** on **Sept 15, 2021**
 - [Homomorphic Machine Learning using Numpy & Concrete](https://fhe-org.github.io/meetups/running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Aug 26, 2021**
 - [Google's C++ to FHE compiler](https://fhe-org.github.io/meetups/google-c++-to-fhe-transpiler) **Shruthi Gorantala and Rob Springer** on **Aug 26, 2021**
 - [Developer Tools & Compilers](https://fhe-org.github.io/meetups/fhe-development-tools) **Alexander Viand** on **May 20, 2021**
 - [TFHE deep dive](https://fhe-org.github.io/meetups/tfhe-deep-dive) **Ilaria Chillotti** on **Apr 15, 2021**
-- [Private set intersection via somewhat homomorphic encryption](https://fhe-org.github.io/meetups/private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Apr 15, 2021**
 
 ## 2020
 
