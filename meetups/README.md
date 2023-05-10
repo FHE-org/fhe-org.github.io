@@ -22,7 +22,7 @@
 
 ## Meetups [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/README.md)
 
-FHE.org Meetups archive, latest first.
+FHE.org meetups archive, latest first.
 
 ## 2023
 - [TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture](https://fhe.org/meetups/TT-TFHE:_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture) by **Adrien Benamira** on **Apr 27, 2023**
