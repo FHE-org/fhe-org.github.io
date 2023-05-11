@@ -10,6 +10,8 @@
 <p align="center">
   <a href="https://fhe-org.github.io/resources">Resources</a>
   —
+  <a href="https://fhe-org.github.io/meetups">FHE.org meetups</a>
+  —
   <a href="https://fhe-org.github.io/resources/libraries"><b>Libraries</b></a>
   —
   <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
