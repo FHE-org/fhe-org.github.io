@@ -10,12 +10,14 @@
 <p align="center">
   <a href="https://fhe-org.github.io/resources">Resources</a>
   —
+  <a href="https://fhe-org.github.io/meetups">FHE.org meetups</a>
+  —
   <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
   —
   <a href="https://fhe-org.github.io/resources/use-cases"><b>Use cases</b></a>
   —
   <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  -
+  —
   <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
 </p>
 <hr/>
