@@ -8,7 +8,7 @@
 
 # Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice
 #### by Kamil Kluczniak - 2023.05.11
-#### <a href="">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11478441/slaids.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/_tg0kmI5hkE">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11478441/slaids.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup event cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/965e8a06-826f-448d-986a-b93a47d3d56a)
 
