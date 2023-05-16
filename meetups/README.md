@@ -28,7 +28,7 @@ FHE.org meetups archive, latest first.
 
 ## 2023
 - [Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice](https://fhe.org/meetups/023-Circuit_Privacy_for_FHEW-TFHE-Style_Fully_Homomorphic_Encryption_in_Practice) by **Kamil Kluczniak** on **May 11, 2023**
-- [TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture](https://fhe.org/meetups/022-TT-TFHE:_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture) by **Adrien Benamira** on **Apr 27, 2023**
+- [TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture](https://fhe.org/meetups/022-TT-TFHE_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture) by **Adrien Benamira** on **Apr 27, 2023**
 - [Faster Amortized FHEW bootstrapping using Ring Automorphisms](https://fhe.org/meetups/021-Faster_Amortized_FHE_bootstrapping_using_Ring_Automorphisms) by **Duhyeong Kim and Gabrielle De Micheli** on **Feb 28, 2023**
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe-org.github.io/meetups/020-Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - [On the Hardness of the Finite Field Isomorphism Problem](https://fhe-org.github.io/meetups/019-On_the_Hardness_of_the_Finite_Field_Isomorphism_Problem) 	by **Antoine Joux** on **Jan 24, 2023**
