@@ -234,8 +234,13 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Finding and Evaluating Parameters for the FV Scheme Using Average-Case Analysis</td>
     <td>Beatrice Biasioli (TII), Chiara Marcolla (TII), Marco Calderini (University of Trento), Johannes Mono (Ruhr University Bochum and DFKI GmbH)</td>
-    <td>View</td>
+ <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2023/media/FV_parameters.pdf">
+    View
+      </a>
+    </td>
 </tr>
+
 
 <tr>
     <td>A Unified Framework of Homomorphic Encryption for Multiple Parties with Non-Interactive Setup</td>
