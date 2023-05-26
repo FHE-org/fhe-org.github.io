@@ -72,7 +72,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
   <td>
     <a href="https://marcjoye.github.io/slides/ntrunium.pdf">
       Slides
-    </a> / 
+    </a> /
     <a href="https://www.youtube.com/watch?v=gjXxiwBNET4&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=3">
       Video
     </a> /
@@ -98,7 +98,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Invited Talk: Computation models for FHE: Mixing integer, boolean and floating point operations. Applications to TFHE and Chimera</td>
     <td>Nicolas Gama (SandboxAQ), Mariya Georgieva (Inpher)</td>
-    <td>Slides / 
+    <td>Slides /
       <a href="https://www.youtube.com/watch?v=u6XQP04Zq_c&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=5">
         Video
       </a>
@@ -108,7 +108,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Invited Talk: Bringing FHE to production: Lessons learned at Google</td>
     <td>Miguel Guevara (Google)</td>
-    <td>Slides / 
+    <td>Slides /
       <a href="https://www.youtube.com/watch?v=-QoPKZi-5l4&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=6">
         Video
       </a>
@@ -164,7 +164,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Alexander Viand (ETH Zurich), Christian Knabenhans (ETH Zurich), Anwar Hithnawi (ETH Zurich)</td>
     <td>
         <a href="https://github.com/MarbleHE/ringSNARK/raw/master/docs/vFHE_FHE.org'23.pdf">
-        Slides 
+        Slides
       </a> / <a href="https://www.youtube.com/watch?v=8bVHYi7avCU&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=10">
         Video
       </a>
@@ -174,7 +174,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Invited Talk: Recent Advances in Homomorphic Compilation</td>
     <td>Pascal Paillier (Zama)</td>
-    <td>Slides / 
+    <td>Slides /
       <a href="https://www.youtube.com/watch?v=phWYLwlPTY0&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=11">
         Video
       </a>
