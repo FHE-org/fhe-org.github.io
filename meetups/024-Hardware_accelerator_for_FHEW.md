@@ -8,7 +8,7 @@
 
 # Hardware accelerator for FHEW
 #### by Jonas Bertels - 2023.05.25
-#### <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11574584/024-Hardware_accelerator_for_FHEW_slides.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup event cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/2040c035-50c0-471b-8a13-75c5bc68a0d8)
 
