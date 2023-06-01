@@ -174,7 +174,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Invited Talk: Recent Advances in Homomorphic Compilation</td>
     <td>Pascal Paillier (Zama)</td>
-    <td>Slides /
+    <td><a href="https://github.com/FHE-org/fhe-org.github.io/files/11624572/Recent.advances.on.homomorphic.compilations.pdf">Slides</a> /
       <a href="https://www.youtube.com/watch?v=phWYLwlPTY0&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=11">
         Video
       </a>
