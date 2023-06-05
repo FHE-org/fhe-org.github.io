@@ -26,7 +26,6 @@
 
 FHE.org meetups archive, latest first.
 
-025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting.md
 ## 2023
 - [Efficient TFHE Bootstrapping in the Multiparty Setting](https://fhe.org/meetups/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting) by **Sergi Rovira** on **June 1, 2023**
 - [Hardware accelerator for FHEW](https://fhe.org/meetups/024-Hardware_accelerator_for_FHEW) by **Jonas Bertels** on **May 25, 2023**
