@@ -26,7 +26,9 @@
 
 FHE.org meetups archive, latest first.
 
+025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting.md
 ## 2023
+- [Efficient TFHE Bootstrapping in the Multiparty Setting](https://fhe.org/meetups/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting) by **Sergi Rovira** on **June 1, 2023**
 - [Hardware accelerator for FHEW](https://fhe.org/meetups/024-Hardware_accelerator_for_FHEW) by **Jonas Bertels** on **May 25, 2023**
 - [Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice](https://fhe.org/meetups/023-Circuit_Privacy_for_FHEW-TFHE-Style_Fully_Homomorphic_Encryption_in_Practice) by **Kamil Kluczniak** on **May 11, 2023**
 - [TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture](https://fhe.org/meetups/022-TT-TFHE_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture) by **Adrien Benamira** on **Apr 27, 2023**
