@@ -8,7 +8,7 @@
 
 # Efficient TFHE Bootstrapping in the Multiparty Setting
 #### by Sergi Rovira - 2023.06.01
-#### <a href="">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11625925/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting-slides.pdf">Slides</a> (Github) | <a href="https://fhe.org/conferences/conference-2023/media/Poster_Multiparty_TFHE.pdf">Poster</a> (Github) | <a href="https://eprint.iacr.org/2023/759">Paper</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=qwrRQmZRgwE&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11625925/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting-slides.pdf">Slides</a> (Github) | <a href="https://fhe.org/conferences/conference-2023/media/Poster_Multiparty_TFHE.pdf">Poster</a> (Github) | <a href="https://eprint.iacr.org/2023/759">Paper</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup event cover(11)](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/26d251fc-d3f4-4146-8311-2372cef6afca)
 
