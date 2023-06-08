@@ -8,7 +8,7 @@
 
 # Differential Privacy for Free? Harnessing the Noise In Approximate Homomorphic Encryption
 #### by Tabitha Ogilvie - 2023.06.08
-#### <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) | <a href="https://eprint.iacr.org/2023/701">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <!--<a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) |--> <a href="https://eprint.iacr.org/2023/701">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup event cover(14)](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6e31ff5e-8e8f-460a-a61e-ccfd91c812bb)
 
