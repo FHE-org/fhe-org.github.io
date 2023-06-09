@@ -27,6 +27,8 @@
 FHE.org meetups archive, latest first.
 
 ## 2023
+
+- [Differential Privacy for Free? Harnessing the Noise In Approximate Homomorphic Encryption](https://fhe.org/meetups/026-Differential_Privacy_for_Free-Harnessing_the_Noise_in_Approximate_Homomorphic_Encryption) by **Tabitha Ogilvie** on **June 8, 2023**
 - [Efficient TFHE Bootstrapping in the Multiparty Setting](https://fhe.org/meetups/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting) by **Sergi Rovira** on **June 1, 2023**
 - [Hardware accelerator for FHEW](https://fhe.org/meetups/024-Hardware_accelerator_for_FHEW) by **Jonas Bertels** on **May 25, 2023**
 - [Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice](https://fhe.org/meetups/023-Circuit_Privacy_for_FHEW-TFHE-Style_Fully_Homomorphic_Encryption_in_Practice) by **Kamil Kluczniak** on **May 11, 2023**
