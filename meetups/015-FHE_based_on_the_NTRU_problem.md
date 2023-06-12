@@ -9,8 +9,8 @@
 # FHE based on the NTRU problem: challenges and new constructions
 #### by Hilder Hilder Vitor Lima Pereira - 27.09.2022
 #### <a href="https://www.youtube.com/watch?v=6-SXi6VSxck">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1m4TUL5zT15gbrSlRWL4GP0FfjeJ6IqzM/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-![Meetup event cover (6)](https://user-images.githubusercontent.com/5758427/193014997-bba0b6f2-050c-484b-a009-8dd4de32e1ec.png)
 
+![015 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/b05bd043-7c16-40be-b50f-12b122c4023c)
 
 # Abstract
 Soon after the first FHE constructions were proposed, it was noticed that it was possible to construct FHE on top of the NTRU problem. In some sense, NTRU is more efficient than the ring learning with errors problem (RLWE) because it allows us to encrypt a message into one single ring element, while RLWE requires two ring elements. Indeed, some early constructions, from 2012, were based on NTRU and were more efficient than their counterparts based on RLWE. In spite of that, when you think of an FHE scheme, the name that comes to your mind is probably BGV, or CKKS, or TFHE. All these schemes are based on RLWE.
