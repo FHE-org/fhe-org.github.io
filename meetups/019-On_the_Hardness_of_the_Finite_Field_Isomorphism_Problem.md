@@ -10,7 +10,7 @@
 #### by Antoine Joux - 24.01.2023
 #### <a href="https://www.youtube.com/watch?v=74wsTqr-b9I">Video recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![Meetup event cover (5)](https://user-images.githubusercontent.com/5758427/215110868-a45625fa-d047-4342-938e-fe578c1a704b.png)
+![019 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3c4320aa-dc07-4ffb-b9c3-826369b52ad4)
 
 # Abstract
 The finite field isomorphism FFI problem was introduced in PKC'18 as an alternative to average-case lattice problems (like LWE, SIS, or NTRU). As an application, it has been used to construct a fully homomorphic encryption scheme and a signature scheme.
