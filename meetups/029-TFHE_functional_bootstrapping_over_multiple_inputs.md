@@ -8,7 +8,7 @@
 
 # TFHE functional bootstrapping over multiple inputs
 #### by Pierre-Emmanuel Clet - 2023.07.06
-#### <!--<a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) |--> <a href="https://eprint.iacr.org/2023/600">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <!--<a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) |--> <a href="https://github.com/FHE-org/fhe-org.github.io/files/11721204/TFHE.functional.bootstrapping.over.multiple.inputs.pdf">Poster</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![029 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1dc3c37d-463f-46de-a568-13c19fafb5a9)
 
