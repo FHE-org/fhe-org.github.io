@@ -9,8 +9,8 @@
 # Real-world deployment of FHE-based private information retrieval
 #### by Samir Menon - 25.10.2022
 #### <a href="https://youtu.be/T7RDEEJ5vQg">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1r_8CZUQtl49fbUqhqY2PDUm6au4B3pD1/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-![Meetup event cover](https://user-images.githubusercontent.com/5758427/198673977-bbb78f41-037e-4079-8fa9-241c3493312a.png)
 
+![016 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/d80b0d6c-0292-4d87-931b-97122769875a)
 
 # Abstract
 Private information retrieval (PIR) lets you retrieve an item from a database without revealing which item you accessed. This query privacy guarantee holds even if the server is malicious. Efficient PIR systems are built using FHE, and are practical today for a variety of applications.
