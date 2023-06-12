@@ -10,7 +10,7 @@
 #### by Adrien Benamira - 2023.04.27
 #### <a href="https://www.youtube.com/watch?v=_yvYHipEByI&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11420881/TT-TFHE_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture.md.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![Meetup event cover](https://user-images.githubusercontent.com/37557436/235968692-f7a01e83-14da-435d-8c9d-e1de38eca38f.png)
+![022 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/4ca85514-29db-4f12-9c04-043b83bd6006)
 
 # Abstract
 

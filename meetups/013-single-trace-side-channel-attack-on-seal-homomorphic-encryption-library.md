@@ -10,8 +10,8 @@
 #### by Furkan Aydin - 28.04.2022
 
 #### <a href="https://www.youtube.com/watch?v=caLwFrw1RbU">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1-FmKpWs9mspHTYdLPj39W1G67ZYlynhm/view">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-![Meetup event cover (2)](https://user-images.githubusercontent.com/5758427/185587761-08b7c02f-fda0-40fa-a67f-6db16c659210.jpg)
 
+![013 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/18bebfe7-9ab4-446d-a8da-8a73774a130c)
 
 # Abstract
 In this talk, Furkan will talk about the first side-channel attack on homomorphic encryption, which allows computing on encrypted data.

@@ -10,7 +10,7 @@
 #### by Joseph Wilson - 2023.06.15
 #### <!--<a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) |--> <a href="https://github.com/FHE-org/fhe-org.github.io/files/11686092/Poster_Optalysys.pdf">Poster</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![027 Event cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/43f69948-5197-4027-bab5-cd9b89547b66)
+![027 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/d9559f0a-d0d9-4a83-8350-9c3d66ca7118)
 
 # Abstract
 

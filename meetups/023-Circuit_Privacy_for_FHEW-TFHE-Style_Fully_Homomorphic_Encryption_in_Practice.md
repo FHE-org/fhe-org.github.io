@@ -10,7 +10,7 @@
 #### by Kamil Kluczniak - 2023.05.11
 #### <a href="https://www.youtube.com/watch?v=_tg0kmI5hkE&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=23">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11478441/slaids.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![Meetup event cover)](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7851c1a4-3669-41ec-944b-5dd42f583750)
+![023 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/82520772-3f3e-4784-8d8b-d262c361755d)
 
 # Abstract
 

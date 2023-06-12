@@ -10,7 +10,7 @@
 #### by Jonas Bertels - 2023.05.25
 #### <a href="https://www.youtube.com/watch?v=gdgTeLcsKTs&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11574584/024-Hardware_accelerator_for_FHEW_slides.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![Meetup event cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/f3e4f255-8fc4-4a31-9a4c-ca1681a48315)
+![024 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a5113411-8da7-4acd-a9e0-9d1903f6c669)
 
 # Abstract
 

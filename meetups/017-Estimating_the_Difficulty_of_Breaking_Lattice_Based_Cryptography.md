@@ -9,7 +9,8 @@
 # Estimating the Difficulty of Breaking Lattice-Based Cryptography
 #### by Martin Albrecht - 22.11.2022
 #### <a href="https://www.youtube.com/watch?v=BIDBfVFzuck">Video recording</a> (Youtube) | <a href="https://github.com/malb/talks/blob/pdf/20221122%20-%20Lattice%20Parameters%20-%20FHE.pdf">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-![Meetup event cover (6)](https://user-images.githubusercontent.com/5758427/204026815-ffbee23b-9150-441d-9ffc-0d748946185c.png)
+
+![017 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/b1b7b7da-d2d6-4e19-9a55-6726a2294601)
 
 # Abstract
 In this talk Martin will give an introduction to estimating the difficulty of breaking constructions in lattice-based cryptography, with a focus on Learning with Errors and related problems. Martin will give an introduction to the algorithms available, how we cost them and how the Lattice Estimator at https://github.com/malb/lattice-estimator/ aims to make this accessible.
