@@ -8,9 +8,9 @@
 
 # Meetup Requirements [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io)
   
-Congratulations on being approved for your first meetup! Here are some things we'll need to have a successful event.
+Here are some things we'll need from any presenter for a successful meetup.
 
-If you've already provided these, *great*! Otherwise, make sure to provide them at least **2 weeks before** the meetup to be safe.
+If you've already provided these, *great*! Otherwise, make sure to provide them at least **2 weeks before** the scheduled meetup to be safe.
 
 ## Presenter(s) information
 
