@@ -28,6 +28,16 @@ If you've already provided these, *great*! Otherwise, make sure to provide them 
 4. Link of relevant paper or poster (if applicable)
 5. Discord username on the FHE.org discord server (discord.fhe.org) (so we can thank you properly afterwards!)
 
+## Notes for the Meetup
+
+* Arrive up to 15 minutes early for connection / equipment / screen sharing test
+* First 5 minutes of meetup is a *virtual coffee break*. Get to know the community better!
+* Introduce yourself again when recording starts for the benefit of people watching later
+* Presentations should last between 20-40 minutes
+* Q&A time follows from the chat
+* Q&A ends 60 seconds after the last question
+* 10 min virtual coffee break starts when recording stops. Feel free to stick around, time permitting.    
+
 ## Post-meetup resources
 
 After the meetup has finished, make sure to send whatever materials *(PDFs, links to demos, etc)* you used during your presentation so they can be added to the resources page for the meetup.
