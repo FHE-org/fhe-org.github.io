@@ -28,6 +28,7 @@ FHE.org meetups archive, latest first.
 
 ## 2023
 
+- [Improving and Automating BFV Parameters Selection: An Average-Case Approach](https://fhe.org/meetups/028-Improving_and_Automating_BFV_Parameters_Selection_An_Average-Case_Approach) by **Beatrice Biasioli** on **June 20, 2023**
 - [An Optical Hardware Accelerator for FHE](https://fhe.org/meetups/027-An_Optical_Hardware_Accelerator_for_FHE) by **Joseph Wilson** on **June 15, 2023**
 - [Differential Privacy for Free? Harnessing the Noise In Approximate Homomorphic Encryption](https://fhe.org/meetups/026-Differential_Privacy_for_Free-Harnessing_the_Noise_in_Approximate_Homomorphic_Encryption) by **Tabitha Ogilvie** on **June 8, 2023**
 - [Efficient TFHE Bootstrapping in the Multiparty Setting](https://fhe.org/meetups/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting) by **Sergi Rovira** on **June 1, 2023**
