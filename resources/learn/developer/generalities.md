@@ -219,7 +219,7 @@ FHE allows encrypted search and querying of databases without exposing search cr
 
 ## Threat model
 
-Homomorphic encryption is not a silver bullet. As with all cryptography, how safe it is to use is ultimately dependaet on the implementation, library, and underlying scheme.
+Homomorphic encryption is not a silver bullet for all use cases. As with all cryptography, how practical or safe it is to use is ultimately dependent on the use case, implementation, library, and underlying scheme.
 
 <br>
 <br>
