@@ -31,10 +31,10 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
 
 ## Table of Contents
 
-- #### [Generalities](generalities)
+- #### [Generalities](generalities.md)
   - Ideal Use Cases
   - Threat Model 
-- #### Constraints
+- #### [Constraints](constraints.md)
   - Object Sizes
   - Speed
   - Precision
@@ -42,9 +42,9 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
     - Output Precision
   - Noise and Bootstrapping
   - Approximation vs Exact Computation
-- #### Schemes and Libraries
+- #### [Schemes and Libraries](schemes-and-libraries.md)
   - Table of Libraries
-- #### Get Started Coding
+- #### [Get Started Coding](get-started-coding.md)
   - Working Examples
   - Write Your First FHE Program
   - Developer Bounties
