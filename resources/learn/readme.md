@@ -25,7 +25,7 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Learner Track [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/schemes.md)
+## Learner Track [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/learn/readme.md)
 
 The learner tracks are designed to make FHE easier to learn depending on who the audience is.
 
