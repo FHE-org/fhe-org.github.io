@@ -31,7 +31,7 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
 
 ## Table of Contents
 
-- #### [Generalities](test)
+- #### [Generalities](generalities)
   - Ideal Use Cases
   - Threat Model 
 - #### Constraints
