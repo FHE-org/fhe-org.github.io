@@ -123,7 +123,7 @@ Choosing which library/scheme is right for you can be confusing at first, but he
 * How easy do you need implementation to be?
 * How much existing code / support will you need?
 
-In the following section, you'll have a chance to use existing sample code and use libraries to write code of your own. If you're still unsure which library is right for you or have deeper questions about it the libraries and schemes, consider joining the [FHE.org community on Discord](https://discord.fhe.org) and asking the community directly. We're here to help!
+<i>In the following section, you'll have a chance to use existing sample code and write your own code. If at that point you're still unsure which library is right for you or have deeper questions about it the libraries and schemes, consider joining the [FHE.org community on Discord](https://discord.fhe.org) and asking the community directly. We're here to help!</i>
 
 
 
