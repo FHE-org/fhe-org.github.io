@@ -35,7 +35,7 @@
 <tr>
 <td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/constraints.md">ᐊ Constraints</a></td>
 <td>Learner Track: Developer - Schemes and Libraries</td>
-<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/start-coding.md">Start Coding ᐅ</a></td>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/get-started-coding.md">Start Coding ᐅ</a></td>
 </tr>
 </table>
 
@@ -137,7 +137,7 @@ Choosing which library/scheme is right for you can be confusing at first, but he
 <tr>
 <td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/constraints.md">ᐊ Constraints</a></td>
 <td>Learner Track: Developer - Schemes and Libraries</td>
-<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/start-coding.md">Start Coding ᐅ</a></td>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/get-started-coding.md">Start Coding ᐅ</a></td>
 </tr>
 </table>
 
