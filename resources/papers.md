@@ -18,6 +18,8 @@
   —
   <a href="https://fhe-org.github.io/resources/papers"><b>Papers</b></a>
   —
+  <a href="https://fhe-org.github.io/resources/phd-theses">PhD Theses</a>
+  —
   <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
 </p>
 <hr/>
