@@ -25,6 +25,25 @@
 <hr/>
 <!-- /Resource categories links -->
 
+
+
+<br>
+<br>
+
+
+<table align=center>
+<tr>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/readme.md">ᐊ Table of Contents</a></td>
+<td>Learner Track: Developer - Generalities</td>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/constraints.md">Constraints ᐅ</a></td>
+</tr>
+</table>
+
+
+<br>
+
+
+
 # Learner Track: Developer [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/learm/developer/readme.md)
 <sub>This learner track assumes you are a developer wanting to learn about FHE. To see other available Learner Tracks, [click here](https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/readme.md).</sub>
 <br>
@@ -260,20 +279,14 @@ Homomorphic encryption is not a silver bullet for all use cases. As with all cry
 
 <table align=center>
 <tr>
-<td>ᐊ Learner Tracks</td>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/readme.md">ᐊ Table of Contents</a></td>
 <td>Learner Track: Developer - Generalities</td>
 <td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/constraints.md">Constraints ᐅ</a></td>
 </tr>
 </table>
 
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 
 
