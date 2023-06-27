@@ -56,7 +56,7 @@ The best way to get started in FHE is to look at Tutorials. In particular: tryin
 Below is a list of all resources from Tutorials and Examples found on various libraries repositories and some diagram to let you pick
 one library to start with. Note that every libraries have their own capabilities that are not covered here.
 
-## Select a FHE library
+## Select an FHE library
 
 ### By Language
 
