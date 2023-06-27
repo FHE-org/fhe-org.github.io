@@ -258,7 +258,13 @@ Homomorphic encryption is not a silver bullet for all use cases. As with all cry
 <br>
 
 
-
+<table align=center>
+<tr>
+<td>ᐊ Learner Tracks</td>
+<td>Learner Track: Developer - Generalities</td>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/constraints.md">Constraints ᐅ</a></td>
+</tr>
+</table>
 
 
 
