@@ -141,7 +141,7 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 
 ### HEAAN
 
-- Get started #c++ #HEAAN #ckks # tutorial
+- Get started #C++ #HEAAN #ckks # tutorial
 [view](https://github.com/snucrypto/HEAAN/blob/master/README.md)
 
 ### HELIB
@@ -169,34 +169,34 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 
 ### OpenFHE
 
-- FHE for arithmetic over integers #c++ #openfhe #bfv #tutorial
+- FHE for arithmetic over integers #C++ #openfhe #bfv #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/simple-integers.cpp)
-- FHE for arithmetic over integers #c++ #openfhe #bgv #tutorial
+- FHE for arithmetic over integers #C++ #openfhe #bgv #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/simple-integers-serial-bgvrns.cpp)
-- FHE for arithmetic over real numbers #c++ #openfhe #ckks #tutorial
+- FHE for arithmetic over real numbers #C++ #openfhe #ckks #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/simple-real-numbers.cpp)
-- advanced arithmetic over real numbers #c++ #openfhe #ckks #tutorial
+- advanced arithmetic over real numbers #C++ #openfhe #ckks #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/advanced-real-numbers.cpp)
 [next](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/advanced-real-numbers-128.cpp)
-- Arbitrary Smooth Function Evaluation #c++ #openfhe #ckks #tutorial
+- Arbitrary Smooth Function Evaluation #C++ #openfhe #ckks #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/function-evaluation.cpp)
-- Simple CKKS Bootstrapping Example #c++ #openfhe #ckks #tutorial
+- Simple CKKS Bootstrapping Example #C++ #openfhe #ckks #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/simple-ckks-bootstrapping.cpp)
-- Advanced CKKS Bootstrapping Example #c++ #openfhe #ckks #tutorial
+- Advanced CKKS Bootstrapping Example #C++ #openfhe #ckks #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/advanced-ckks-bootstrapping.cpp)
-- Double-Precision (Iterative) Bootstrapping Example #c++ #openfhe #ckks #tutorial
+- Double-Precision (Iterative) Bootstrapping Example #C++ #openfhe #ckks #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/iterative-ckks-bootstrapping.cpp)
-- FHE for Boolean circuits and larger plaintext spaces #c++ #openfhe #tfhe #tutorial
+- FHE for Boolean circuits and larger plaintext spaces #C++ #openfhe #tfhe #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/binfhe/examples/boolean.cpp)
 [next](https://github.com/openfheorg/openfhe-development/blob/main/src/binfhe/examples/boolean-serial-json.cpp)
 [next](https://github.com/openfheorg/openfhe-development/blob/main/src/binfhe/examples/boolean-serial-binary.cpp)
-- Large-Precision Comparison #c++ #openfhe #tfhe #tutorial
+- Large-Precision Comparison #C++ #openfhe #tfhe #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/binfhe/examples/eval-sign.cpp)
-- Small-Precison Arbitrary Function Evaluation #c++ #openfhe #tfhe #tutorial
+- Small-Precison Arbitrary Function Evaluation #C++ #openfhe #tfhe #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/binfhe/examples/eval-function.cpp)
-- Threshold FHE #c++ #openfhe #threshold #bgv #bfv #ckks #tutorial
+- Threshold FHE #C++ #openfhe #threshold #bgv #bfv #ckks #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/threshold-fhe.cpp)
-- Threshold FHE with 5 parties #c++ #openfhe #threshold #bfv #tutorial
+- Threshold FHE with 5 parties #C++ #openfhe #threshold #bfv #tutorial
 [view](https://github.com/openfheorg/openfhe-development/blob/main/src/pke/examples/threshold-fhe-5p.cpp)
 
 ### PyFHEL
@@ -218,21 +218,21 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 
 ### SEAL
 
-- Encrypted modular arithmetic using the BFV scheme #c++ #Seal #bfv #tutorial
+- Encrypted modular arithmetic using the BFV scheme #C++ #Seal #bfv #tutorial
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/1_bfv_basics.cpp)
-- Encoding more complex data into Microsoft SEAL plaintext objects #c++ #Seal #tutorial
+- Encoding more complex data into Microsoft SEAL plaintext objects #C++ #Seal #tutorial
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/2_encoders.cpp)
-- Introduces the concept of levels; prerequisite for using the CKKS scheme #c++ #Seal #ckks #tutorial
+- Introduces the concept of levels; prerequisite for using the CKKS scheme #C++ #Seal #ckks #tutorial
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/3_levels.cpp)
-- Encrypted modular arithmetic using the BGV scheme #c++ #Seal #bgv #tutorial
+- Encrypted modular arithmetic using the BGV scheme #C++ #Seal #bgv #tutorial
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/4_bgv_basics.cpp)
-- Encrypted real number arithmetic using the CKKS scheme #c++ #Seal #ckks #tutorial
+- Encrypted real number arithmetic using the CKKS scheme #C++ #Seal #ckks #tutorial
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/5_ckks_basics.cpp)
-- Performing cyclic rotations on encrypted vectors in the BFV and CKKS schemes #c++ #Seal #bfv #ckks #tutorial
+- Performing cyclic rotations on encrypted vectors in the BFV and CKKS schemes #C++ #Seal #bfv #ckks #tutorial
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/6_rotation.cpp)
-- Serializing objects in Microsoft SEAL #c++ #Seal #tutorial
+- Serializing objects in Microsoft SEAL #C++ #Seal #tutorial
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/7_serialization.cpp)
-- Performance tests #c++ #Seal #benchmark
+- Performance tests #C++ #Seal #benchmark
 [view](https://github.com/microsoft/SEAL/blob/main/native/examples/8_performance.cpp)
 
 ### TFHE-rs
