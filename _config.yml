@@ -1,2 +1,5 @@
 title: Fully Homomorphic Encryption
 description: We are a community of researchers and developers interested in advancing homomorphic encryption and other secure computation techniques.
+collections:
+  resources:
+    output: true
