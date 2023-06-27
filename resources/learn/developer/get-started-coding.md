@@ -1,4 +1,4 @@
-  <!-- Main header navigation -->
+<!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
   <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
@@ -20,10 +20,34 @@
   —
   <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
   —
-  <a href="https://fhe-org.github.io/resources/schemes"><b>Learn</b></a>
+  <a href="https://fhe-org.github.io/resources/learn"><b>Learner Track</b></a>
 </p>
 <hr/>
 <!-- /Resource categories links -->
+
+
+
+<br>
+<br>
+
+
+<table align=center>
+<tr>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/schemes-and-libraries.md">ᐊ Schemes and Libraries</a></td>
+<td>Learner Track: Developer - Start Coding</td>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn">Learner Track ᐅ</a></td>
+</tr>
+</table>
+
+
+<br>
+
+
+
+# Learner Track: Developer [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/learm/developer/readme.md)
+<sub>This learner track assumes you are a developer wanting to learn about FHE. To see other available Learner Tracks, [click here](https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/readme.md).</sub>
+<br>
+
 
 # Start Coding
 
@@ -231,3 +255,30 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 [view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/tutorial/regex/tutorial.md)
 - Dark Market in FHE #Rust #tfhe-rs #tfhe #application
 [view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/tutorial/dark_market.md)
+
+
+
+
+
+<br>
+<br>
+
+
+
+<table align=center>
+<tr>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/schemes-and-libraries.md">ᐊ Schemes and Libraries</a></td>
+<td>Learner Track: Developer - Start Coding</td>
+<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn">Learner Track ᐅ</a></td>
+</tr>
+</table>
+
+
+<br>
+<br>
+
+
+
+<!--- Footer --->
+<hr/>
+💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
