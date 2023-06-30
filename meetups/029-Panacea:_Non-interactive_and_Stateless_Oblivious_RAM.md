@@ -8,7 +8,7 @@
 
 # Panacea: Non-interactive and Stateless Oblivious RAM
 #### by Georgio Nicolas and Kelong Cong - 2023.06.29
-#### <!--<a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) |--> <a href="https://eprint.iacr.org/2023/274">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=XugFwCZc8uc&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <!-- <a href="">Slides</a> (Github) |--> <a href="https://eprint.iacr.org/2023/274">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![029 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/80a245d3-ab19-4594-be8a-86105672270b)
 
