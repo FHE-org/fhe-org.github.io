@@ -20,14 +20,14 @@
   —
   <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
   —
-  <a href="https://fhe-org.github.io/resources/learn"><b>Learner Track</b></a>
+  <a href="https://fhe-org.github.io/learn"><b>Learner Track</b></a>
 </p>
 <hr/>
 <!-- /Resource categories links -->
 
-## Learner Track: Developer [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/learn/developer/readme.md)
+## Learner Track: Developer [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/learn/developer/readme.md)
 
-This learner track assumes you are a developer wanting to learn about FHE. To see other available Learner Tracks, [click here](https://fhe.org/resources/learn/readme.md).
+This learner track assumes you are a developer wanting to learn about FHE. To see other available Learner Tracks, [click here](https://fhe.org/learn/readme.md).
 
 ## Table of Contents
 
@@ -160,7 +160,7 @@ FHE enables machine learning models to be trained on encrypted data. This is ben
 <td>Working Examples</td>
 <td>
 
-<i>Have examples to contribute? [Add them here!](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/learn/developer/readme.md)</i>
+<i>Have examples to contribute? [Add them here!](https://github.com/FHE-org/fhe-org.github.io/blob/main/learn/developer/readme.md)</i>
 
 </td>
 </tr>
