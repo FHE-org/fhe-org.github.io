@@ -359,6 +359,7 @@ flowchart TB
 <tr>
 <td colspan=2>
 FHE schemes can be categorised in many ways. One of the most important distrinctions is whether an FHE scheme is <b>exact</b> or <b>approximate</b>. In the first case computations are typically considered over the integers and correctness of output is guaranteed. In the latter case, a small error is incurred during computation, so that the output of a homomorphic function evaluation, such as computing `f(x)`, contains a small error: `f(x) + e`.
+</td>
 </tr>
 </table>
 <br>
@@ -389,7 +390,9 @@ FHE schemes typically work over restricted input domains (for example: the integ
 <table>
 <tr>
 <td colspan=2>
-For approximate schemes, such as CKKS, the homomorphic encryption scheme carries an implicit error which impacts the message. The parameters can be adapted to guarantee a specific output precision, but this is important to note when considering implementing solutions in CKKS.</tr>
+For approximate schemes, such as CKKS, the homomorphic encryption scheme carries an implicit error which impacts the message. The parameters can be adapted to guarantee a specific output precision, but this is important to note when considering implementing solutions in CKKS.
+</td>
+</tr>
 
 <tr>
 <td>Further Reading</td>
@@ -409,6 +412,8 @@ For approximate schemes, such as CKKS, the homomorphic encryption scheme carries
 <tr>
 <td colspan=2>
 The speed of FHE-based operations is constantly improving. However, there is still a large slow-down compared to plaintext operations, and it is important to consider this when getting started. There are a variety of open-soruce implementations of various algorithims implemented in FHE, and looking at benchmarks for these applications can give a good indication of where FHE is at.
+</td>
+</tr>
 <tr>
 <td>Further Reading</td>
 <td>
@@ -428,6 +433,8 @@ The speed of FHE-based operations is constantly improving. However, there is sti
 <tr>
 <td colspan=2>
 When data is encrypted using an FHE scheme, there is an expansion factor which needs to be considered. As an example, in the TFHE scheme, to encrypt somewhere in the order of 1-8 bits, a ciphertext will be of size 5 kilobytes. Evaluation keys, which are required for the server to carry out homomorphic operations over ciphertexts, can be very large. In particular, all evaluation keys stored on the server are just collections of ciphertexts, and can be in the order of tens of megabytes (or even over a gigabyte, in certain cases). This means that there is a high bandwidth requirement on FHE-based solutions.
+</td>
+</tr>
 </table>
 <br>
 
@@ -438,6 +445,8 @@ When data is encrypted using an FHE scheme, there is an expansion factor which n
 <tr>
 <td colspan=2>
 As homomorphic operations are being computed, the level of noise contained in the utilised ciphertext grows. The noise level must not be allowed to overflow a specific bound, or errors can be introduced into computations. The process used to clear this noise is called bootstrapping, and, depending on the scheme, has a varying level of efficiency.
+</td>
+</tr>
 <tr>
 <td>Further Reading</td>
 <td>
@@ -455,6 +464,8 @@ As homomorphic operations are being computed, the level of noise contained in th
 <tr>
 <td colspan=2>
 It is important that the homomorphic encryption scheme is parameterised correctly to ensure a sufficient level of security. The security is related a problem called Learning with Errors, and we need to choose cryptographic parameters such that this problem is hard to solve. Luckily, there are many FHE-based tools which take the problem of parameter selection away from the user. Moreover, most FHE libraries typically have default parameter sets for which the security level has already been determined.
+</td>
+</tr>
 <tr>
 <td>Further Reading</td>
 <td>
