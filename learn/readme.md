@@ -25,13 +25,13 @@
 <hr/>
 <!-- /Resource categories links -->
 
-## Learner Track [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/learn/readme.md)
+## Learner Track [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/learn/readme.md)
 
 The learner tracks are designed to make FHE easier to learn depending on who the audience is.
 
 Start learning homomorphic encryption from the perspective of a(n):
 
-- [Developer](https://fhe.org/resources/learn/developer)
+- [Developer](https://fhe.org/learn/developer)
 - Mathematician
 - Cryptographer
 
