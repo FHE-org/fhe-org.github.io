@@ -34,7 +34,7 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
 - #### [Generalities](#generalities)
   - Ideal Use Cases
   - Threat Model 
-- #### [Constraints](#constraints)
+- #### [Constraints](#constraints-1)
   - Object Sizes
   - Speed
   - Precision
@@ -42,9 +42,9 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
     - Output Precision
   - Noise and Bootstrapping
   - Approximation vs Exact Computation
-- #### [Schemes and Libraries](#schemes-and-libraries)
+- #### [Schemes and Libraries](#schemes-and-libraries-1)
   - Table of Libraries
-- #### [Get Started Coding](get-started-coding)
+- #### [Get Started Coding](#start-coding)
   - Working Examples
   - Write Your First FHE Program
   - Developer Bounties
@@ -52,7 +52,7 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
 
 
 
- <br>
+<br>
 <br>
 
 
@@ -289,7 +289,30 @@ Homomorphic encryption is not a silver bullet for all use cases. As with all cry
 
 
 
-<!-- Generalities section -->
+
+<br>
+<br>
+
+
+
+<table align=center>
+<tr>
+<td><a href="#table-of-contents">Back to top</a></td>
+</tr>
+</table>
+
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+<!-- Constraints section -->
 
 
 
@@ -451,6 +474,24 @@ It is important that the homomorphic encryption scheme is parameterised correctl
 
 
 
+<br>
+<br>
+
+
+
+<table align=center>
+<tr>
+<td><a href="#table-of-contents">Back to top</a></td>
+</tr>
+</table>
+
+
+<br>
+<br>
+
+
+
+
 
 
 
@@ -543,6 +584,24 @@ Choosing which library/scheme is right for you can be confusing at first, but he
 
 
 
+
+
+
+
+<br>
+<br>
+
+
+
+<table align=center>
+<tr>
+<td><a href="#table-of-contents">Back to top</a></td>
+</tr>
+</table>
+
+
+<br>
+<br>
 
 
 
@@ -769,13 +828,22 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 
 
 
+
+<br>
+<br>
+
+
+
 <table align=center>
 <tr>
-<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn/developer/schemes-and-libraries.md">ᐊ Schemes and Libraries</a></td>
-<td>Learner Track: Developer - Start Coding</td>
-<td><a href="https://github.com/FHE-org/fhe-org.github.io/blob/carrotcypher-patch-1/resources/learn">Learner Track ᐅ</a></td>
+<td><a href="#table-of-contents">Back to top</a></td>
 </tr>
 </table>
+
+
+<br>
+<br>
+
 
 
 <br>
