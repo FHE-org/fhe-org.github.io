@@ -92,8 +92,7 @@ FHE enables secure computations on encrypted data stored in the cloud without th
 
 <tr>
 <td>Working Examples</td>
-<td>
-
+<td markdown="1">
 
 - [Lattigo-polls: schedule meeting using Lattigo](https://github.com/ldsec/lattigo-polls-demo) by **Lattigo** on **Sep 2, 2022**
 
@@ -365,8 +364,8 @@ FHE schemes can be categorised in many ways. One of the most important distrinct
 <br>
 
 ## Input Precision
-<table>
 
+<table>
 
 <tr>
 <td colspan=2>
