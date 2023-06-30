@@ -94,7 +94,9 @@ FHE enables secure computations on encrypted data stored in the cloud without th
 <td>Working Examples</td>
 <td>
 
+
 - [Lattigo-polls: schedule meeting using Lattigo](https://github.com/ldsec/lattigo-polls-demo) by **Lattigo** on **Sep 2, 2022**
+
 
 </td>
 </tr>
