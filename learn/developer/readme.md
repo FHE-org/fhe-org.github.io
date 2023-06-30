@@ -57,7 +57,7 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
 
 
 
-# Genaralities
+# Generalities
 
 
 Fully homomorphic encryption (FHE) allows you to run computations on encrypted data without decrypting it first. As a developer, this means you’re able to write code that doesn’t jeopardize the privacy of your users.
@@ -329,6 +329,7 @@ There are several constraints regarding the implementation of homomorphic encryp
 <tr>
 <td colspan=1>
 The target homomorphic encryption scheme needs to be initialized with parameters which are used throughout the computation. These parameters determine everything performance related: the security level, the efficiency of homomorphic operations, the size of key material, the input (and output) precision, how noise grows throughout the computation, and when a special operation called bootstrapping needs to be performed. We consider each of these issues below, one-by-one.
+</td>
 </tr>
 </table>
 <br>
