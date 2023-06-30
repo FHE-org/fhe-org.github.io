@@ -46,8 +46,6 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
   - Table of Libraries
 - #### [Get Started Coding](#start-coding)
   - Working Examples
-  - Write Your First FHE Program
-  - Developer Bounties
  
 
 
