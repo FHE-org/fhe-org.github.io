@@ -123,7 +123,7 @@ FHE allows for analysis and performing actions on encrypted data without reveali
 
 <tr>
 <td>Working Examples</td>
-<td>
+<td markdown="1">
 
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama** on **Nov 17, 2022**
@@ -134,7 +134,7 @@ FHE allows for analysis and performing actions on encrypted data without reveali
 
 <tr>
 <td>More Reading</td>
-<td>
+<td markdown="1">
 
 - [Human action recognition](https://www.nature.com/articles/s41467-022-32168-5) by **Miran Kim; Xiaoqian Jiang; Kristin Lauter; Elkhan Ismayilzada; Shayan Shams** on **Aug 15, 2022**
 - [Ensuring security of artificial pancreas device system using homomorphic encryption](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) by **Haotian Weng; Chirath Hettiarachchi; Christopher Nolan; Hanna Suominen; Artem Lenskiy** on **Jan 15, 2022**
@@ -159,9 +159,9 @@ FHE enables machine learning models to be trained on encrypted data. This is ben
 
 <tr>
 <td>Working Examples</td>
-<td>
+<td markdown="1">
 
-<i>Have examples to contribute? [Add them here!](https://github.com/FHE-org/fhe-org.github.io/blob/main/learn/developer/readme.md)</i>
+*Have examples to contribute? [Add them here!](https://github.com/FHE-org/fhe-org.github.io/blob/main/learn/developer/readme.md)*
 
 </td>
 </tr>
@@ -191,7 +191,7 @@ FHE allows financial institutions to analyze encrypted financial transactions fo
 
 <tr>
 <td>Working Examples</td>
-<td>
+<td markdown="1">
 
 - [Private bitcoin balance](https://btc.usespiral.com/) by **Blyss** on **Sept 15, 2022**
 
@@ -222,7 +222,7 @@ FHE allows encrypted search and querying of databases without exposing search cr
 
 <tr>
 <td>Working Examples</td>
-<td>
+<td markdown="1">
 
 **Working Examples**
 
@@ -375,7 +375,7 @@ FHE schemes typically work over restricted input domains (for example: the integ
 
 <tr>
 <td>Further Reading</td>
-<td>
+<td markdown="1">
 
 - [Quantization](https://docs.zama.ai/concrete-ml/advanced-topics/quantization) by **Zama** in **2023**.
 
@@ -395,7 +395,7 @@ For approximate schemes, such as CKKS, the homomorphic encryption scheme carries
 
 <tr>
 <td>Further Reading</td>
-<td>
+<td markdown="1">
 
 - Part 2 of a [blog series on CKKS](https://blog.openmined.org/ckks-explained-part-2-ckks-encoding-and-decoding/) by **Daniel Huynh (OpenMined)** in **2020**.
 - Introduction to CKKS (Approximate Homomorphic Encryption) [video](https://www.youtube.com/watch?v=iQlgeL64vfo) by **Yongsoo Song (SNU)** in **2020**.
@@ -415,7 +415,7 @@ The speed of FHE-based operations is constantly improving. However, there is sti
 </tr>
 <tr>
 <td>Further Reading</td>
-<td>
+<td markdown="1">
 
 - [tfhe-rs benchmarks](https://docs.zama.ai/tfhe-rs/getting-started/benchmarks) by **Zama** in **2023**.
 - Slide deck containing [HEAAN benchmarks](https://github.com/snucrypto/HEAAN/blob/master/slide-HEAAN.pdf) by **SNU** in **2018**.
@@ -448,7 +448,7 @@ As homomorphic operations are being computed, the level of noise contained in th
 </tr>
 <tr>
 <td>Further Reading</td>
-<td>
+<td markdown="1">
 
 - A [blogpost](https://www.zama.ai/post/what-is-bootstrapping-homomorphic-encryption) on bootstrapping by **Nigel Smart (Zama)** in **2023**.
 - A [blogpost](https://dualitytech.com/blog/bootstrapping-in-fully-homomorphic-encryption-fhe/) on bootstrapping by **Yuriy Polyakov and Ahmad Al Badawi (Duality)** in **2023**.
@@ -467,7 +467,7 @@ It is important that the homomorphic encryption scheme is parameterised correctl
 </tr>
 <tr>
 <td>Further Reading</td>
-<td>
+<td markdown="1">
   
   - Wikipedia [page](https://en.wikipedia.org/wiki/Learning_with_errors) on the Learning with Errors problem. 
   - Stackexchange [answer](https://crypto.stackexchange.com/questions/47432/what-does-it-mean-the-security-parameter-for-a-fhe-scheme) to: What is a security parameter?
@@ -529,7 +529,7 @@ Schemes are the mathematical algorithms that are used for the underlying FHE ope
 </tr>
 
 <tr>
-<td colspan=2>
+<td colspan=2 markdown="1">
 
 - [BFV](https://eprint.iacr.org/2012/144) by **Fan Junfeng; Vercauteren Frederik**
 - [BGV](https://eprint.iacr.org/2011/277) by **Z. Brakerski; C. Gentry, V. Vaikuntanathan**
@@ -556,7 +556,7 @@ Libraries are the software developers use to perform FHE operations easily, simi
 </tr>
 
 <tr>
-<td colspan=2>
+<td colspan=2 markdown="1">
 
 - [Concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE by **Zama**
 - [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
