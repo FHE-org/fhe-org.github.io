@@ -20,7 +20,7 @@
   —
   <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
   —
-  <a href="https://fhe-org.github.io/resources/learn"><b>Learner Track</b></a>
+  <a href="https://fhe-org.github.io/learn"><b>Learner Track</b></a>
 </p>
 <hr/>
 <!-- /Resource categories links -->
