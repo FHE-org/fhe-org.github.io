@@ -27,7 +27,7 @@
 Main resources about FHE, latest first.
 
 ## 2023
-
+- [TFHE functional bootstrapping over multiple inputs](https://fhe.org/meetups/030-TFHE_functional_bootstrapping_over_multiple_inputs) by **Pierre-Emmanuel Clet** on **July 6, 2023**
 - [Panacea: Non-interactive and Stateless Oblivious RAM](https://fhe.org/meetups/029-Panacea_Non-interactive_and_Stateless_Oblivious_RAM) by **Georgio Nicolas and Kelong Cong** on **June 29, 2023**
 - [Improving and Automating BFV Parameters Selection: An Average-Case Approach](https://fhe.org/meetups/028-Improving_and_Automating_BFV_Parameters_Selection_An_Average-Case_Approach) by **Beatrice Biasioli** on **June 20, 2023**
 - [An Optical Hardware Accelerator for FHE](https://fhe.org/meetups/027-An_Optical_Hardware_Accelerator_for_FHE) by **Joseph Wilson** on **June 15, 2023**
