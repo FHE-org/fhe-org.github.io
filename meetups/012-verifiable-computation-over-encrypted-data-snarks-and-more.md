@@ -21,7 +21,7 @@ This talk will present Rinocchio, a new designated-verifiable SNARK for ring ari
 # The speaker
 Anca Nitulescu is a Cryptography Researcher at Protocol Labs working mainly on topics for the security of decentralised systems. Anca's current main areas of interest are SNARK protocols and Vector Commitments, focusing on scalability for such protocols when applied to distributed storage.
 
-Anca worked on topics such as post-quantum secure SNARKs based on lattices, verifiable computation over encrypted data and authentication primitives, as well as on writing outreach material about Zero-Knowledge SNARKs. Website: www.di.ens.fr/~nitulesc
+Anca worked on topics such as post-quantum secure SNARKs based on lattices, verifiable computation over encrypted data and authentication primitives, as well as on writing outreach material about Zero-Knowledge SNARKs. More information can be found on Anca's <a href=https://www.di.ens.fr/~nitulesc/>website</a>.
 
 # Important links
 - <a href="https://discord.fhe.org">Join the community on Discord</a>
