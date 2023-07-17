@@ -684,11 +684,11 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 - Table Lookup #Python #concrete #tfhe #tutorial
 [view](https://docs.zama.ai/concrete/tutorials/table_lookups)
 - Rounded Table Lookup #Python #concrete #tfhe #tutorial
-[view](https://docs.zama.ai/concrete/tutorials/rounded_table_lookups)
+[view](https://docs.zama.ai/concrete/tutorials/rounding)
 - TFHE floating points #Python #concrete #tfhe #tutorial
 [view](https://docs.zama.ai/concrete/tutorials/floating_points)
 - Encrypted Key value database #Python #concrete #tfhe #application
-[view](https://docs.zama.ai/concrete/tutorials/key_value_database)
+[view](https://docs.zama.ai/concrete/application-tutorials/key_value_database)
 - Client Server deployment #Python #concrete #tfhe #deployment
 [view](https://docs.zama.ai/concrete/how-to/deploy)
 
