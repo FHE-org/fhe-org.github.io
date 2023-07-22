@@ -8,7 +8,7 @@
 
 # PARMESAN: Parallel ARithMEticS over ENcrypted data
 #### by Jakub Klemsa - 2023.07.20
-#### <!--<a href="">Video recording</a> (Youtube) | <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=A9tBfT6cQ-U&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <!--<a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![031 Meetup event](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/444f1574-a6e9-4524-b913-1fc6bce957a9)
 
