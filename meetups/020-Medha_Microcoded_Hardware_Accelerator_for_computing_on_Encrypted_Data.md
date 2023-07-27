@@ -10,6 +10,12 @@
 #### by Ahmet Can Mert and Aikata - 16.02.2023
 #### <a href="https://www.youtube.com/watch?v=nVEBt5efG20">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1zy_MkpqoWW3R_lwFBQKMOK_HEoH4G-Ug/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
+![Meetup 020](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6bbc4383-1734-490e-81ef-a01b3e037f5c)
+
+# Abstract
+
+In this talk, we had Ahmet Can Mert and Aikata to present their latest paper: Medha: Microcoded Hardware Accelerator for computing on Encrypted Data.
+
 # Important links
 - <a href="https://discord.fhe.org">Join the community on Discord</a>
 - <a href="https://fheorg.substack.com">Subscribe to the FHE.org newsletter</a>
