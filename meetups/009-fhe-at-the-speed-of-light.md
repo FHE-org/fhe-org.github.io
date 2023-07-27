@@ -11,6 +11,8 @@
 
 #### <a href="https://www.youtube.com/watch?v=eU2QcZsotCA">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1JHDphwkEnEJTsG_GRpXbNE0dryHW6-VY/view">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
+![Meetup 009](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/dc07fc4a-d479-4443-85d9-527dd2333447)
+
 # Abstract
 Fully Homomorphic Encryption (FHE) is certainly one of the most exciting and promising developments in modern Cryptography, with the potential to revolutionize all contemporary forms of electronic communication via true end-to-end encryption including in processing stages. Yet, the speed of homomorphic operations—1,000x to 1,000,000x slower than their plaintext counterparts—currently prevents this potential from being realized in most commercially-viable applications.
 
