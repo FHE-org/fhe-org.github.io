@@ -11,6 +11,8 @@
 
 #### <a href="https://www.youtube.com/watch?v=umqz7kKWxyw">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/10k2RUFYtRjVXjYZ8AAdPOt98HxAXambV/view">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
+![Meetup 001](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bb8651bc-ce03-4704-a8fd-9c90f418c1b4)
+
 # Abstract
 In this video recording, Pascal Paillier from Zama gave an introduction to homomorphic encryption, including examples of application to machine learning.
 
