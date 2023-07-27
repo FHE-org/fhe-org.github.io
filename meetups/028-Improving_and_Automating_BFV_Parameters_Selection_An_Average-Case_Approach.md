@@ -5,6 +5,22 @@
 </p>
 <hr/>
 <!-- /Main header navigation -->
+<!-- Resource categories links -->
+<p align="center">
+  <a href="https://fhe-org.github.io/resources">Resources</a>
+  —
+  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
+  —
+  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
+  —
+  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
+  —
+  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
+  —
+  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
+</p>
+<hr/>
+<!-- /Resource categories links -->
 
 # Improving and Automating BFV Parameters Selection: An Average-Case Approach
 #### by Beatrice Biasioli - 2023.06.20
