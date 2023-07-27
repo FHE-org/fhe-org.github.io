@@ -11,6 +11,8 @@
 
 #### <a href="https://www.youtube.com/watch?v=lZ-abZy9S5k">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1-_HbmdZQUtFV3b9M4mWSBNXkleq36ObC/view">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
+![Meetup 006](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/d5f21f82-35a5-4e21-9e10-0a69f9f98dbc)
+
 # Abstract
 Making FHE mainstream requires tools that make it easy to use for non-cryptographers. Being able to take regular Numpy programs and run them on encrypted data would enable data scientists to integrate FHE into their models, however complex they might be.
 
