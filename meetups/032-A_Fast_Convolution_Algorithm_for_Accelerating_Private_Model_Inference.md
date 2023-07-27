@@ -8,7 +8,7 @@
 
 # A Fast Convolution Algorithm for Accelerating Private Model Inference
 #### by Huan-Chih Wang - 2023.07.27
-#### <!--<a href="">Video recording</a> (Youtube) | <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=pm496Bb-J3k&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup 032](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1cc889ab-9ee9-4253-a3a6-7481b8cad805)
 
