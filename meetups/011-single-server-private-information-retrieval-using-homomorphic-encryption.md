@@ -11,6 +11,8 @@
 
 #### <a href="https://www.youtube.com/watch?v=pRkSYjOuhdk">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1IrMKg6FxsxQaKFMQzD_fNXMpDmZdDCX1/view">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
+![Meetup 011](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/2a9f4e76-18c6-498a-aa13-dbbde68cb140)
+
 # Abstract
 In this talk, Haris will talk about private information retrieval (PIR) protocols based on Somewhat/Fully Homomorphic Encryption (SHE/FHE). PIR allows the client to privately retrieve a record from a database hosted at the server. He will first discuss a general framework of PIR protocols. Followed by optimizations to improve the request size, computation time, and response overhead including the results from ACM CCS’21.
 
