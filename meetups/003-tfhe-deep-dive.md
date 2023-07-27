@@ -11,6 +11,8 @@
 
 #### <a href="https://www.youtube.com/watch?v=npoHSR6-oRw">Video recording</a> (Youtube) | <a href="https://cdn.fhe.org/slides/tfhe_deep_dive_ilaria_chillotti.pdf">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
+![Meetup 003](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/126658ba-fa6f-48f0-92fb-9cb8269ad147)
+
 # Abstract
 TFHE is a fully homomorphic encryption scheme that enables fast homomorphic operations on booleans, integers and reals. By enabling both leveled and bootstrapped operations, TFHE can be used for a wide range of usecases, from homomorphic boolean circuits to homomorphic neural networks. In this talk, Ilaria will do a deep dive on TFHE, and explain the key concepts behind it.
 
