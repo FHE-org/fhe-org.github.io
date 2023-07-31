@@ -24,6 +24,13 @@
 
 ## Meetups [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/README.md)
 
+
+<hr/>
+<p align="center">
+<b><a href="https://fhe.org/submit">Interested to present your latest paper, poster, slides, implementation or use case to the FHE.org community of researchers and developers?</a></b>
+</p>
+<hr/>
+
 FHE.org meetups archive, latest first.
 
 ## 2023
