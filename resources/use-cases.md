@@ -29,7 +29,11 @@ Applications and use cases showcasing FHE, latest first.
 
 
 ## 2023
-
+- [On-chain Blind Auctions Using Homomorphic Encryption](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) by **Zama** on **Jul 10, 2023**
+- [Boolean SHA256 with TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) by **Zama** on **Jul 9, 2023**
+- [Dark Market with TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) by **Zama** on **Jul 7, 2023**
+- [Regular Expression Engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) by **Zama** on **June 30, 2023**
+- [Confidential ERC-20 Tokens Using Homomorphic Encryption](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) by **Zama** on **June 28, 2023**
 - [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
 - [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
