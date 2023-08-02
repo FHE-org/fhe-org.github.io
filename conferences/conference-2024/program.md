@@ -11,7 +11,7 @@
   —
   Register
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
   Call for presentations
   —
