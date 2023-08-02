@@ -9,19 +9,19 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2024/home"><b>Home</b></a>
   —
-  Register
+  <strike>Register</strike>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
   —
-  Call for presentations
+  <strike>Call for presentations</strike>
   —
-  Committees
+  <strike>Committees</strike>
   —
-  Submissions
+  <strike>Submissions</strike>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/contact">Contact</a>
   —
-  Resources
+  <strike>Resources</strike>
 </p>
 <hr/>
 <!-- /Header conference 2024 links -->
