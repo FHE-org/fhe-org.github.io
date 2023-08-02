@@ -33,7 +33,7 @@ Registration is not yet open. Please visit again in the coming months.
 
 ## Sponsors
 
-*If your company would like to sponsor this or future conferences, please contact contact@fhe.org.
+*If your company would like to sponsor this or future conferences, please contact contact@fhe.org.*
 
 
 ## Latest updates
