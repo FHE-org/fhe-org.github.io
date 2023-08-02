@@ -26,7 +26,7 @@
 <hr/>
 <!-- /Header conference 2024 links -->
 
-# FHE.org conference 2023 - Program
+# FHE.org conference 2024 - Program
 
 ## Tentative program
 
@@ -73,12 +73,12 @@
 </tr>  
 <tr>
     <td>2:00 PM</td>
-    <td>Intro to work groups</td>
+    <td>Intro to working groups</td>
     <td></td>
 </tr>  
 <tr>
     <td>2:30 PM</td>
-    <td>Work groups</td>
+    <td>Working groups</td>
     <td>Parallel sessions</td>
 </tr>  
 <tr>
@@ -88,12 +88,12 @@
 </tr>  
 <tr>
     <td>4:00 PM</td>
-    <td>Work groups</td>
+    <td>Working groups</td>
     <td>Continuing parallel sessions</td>
 </tr>  
 <tr>
     <td>5:30 PM</td>
-    <td>Work groups summary, round table/panel</td>
+    <td>Working groups summary, round table/panel</td>
     <td>Discussions, looking at the future</td>
 </tr>  
 <tr>
@@ -143,7 +143,7 @@
     <td>2 talks / papers</td>
 </tr>  
 <tr>
-    <td>12:00 PM</td>
+    <td>11:40 PM</td>
     <td>Invited talk</td>
     <td></td>
 </tr>  
@@ -186,11 +186,6 @@
     <td>7:00 PM</td>
     <td>Party</td>
     <td>Drinks and snacks</td>
-</tr>  
-<tr>
-    <td>8:30 PM</td>
-    <td>Party</td>
-    <td>Dinner</td>
 </tr>  
 
 </table>
