@@ -28,6 +28,84 @@
 
 # FHE.org conference 2023 - Program
 
-## Conference Program
+## Tentative program
 
-Coming soon.
+# Day 1
+
+<table>
+    <thead>
+        <tr>
+            <th data-sortas="case-insensitive">Time</th>
+            <th data-sortas="case-insensitive">Entry</th>
+            <th data-sortas="case-insensitive">Description</th>
+        </tr>
+    </thead>  
+
+<tr>
+    <td>9:00 AM</td>
+    <td>Opening remarks</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>9:30 AM</td>
+    <td>Introduction to tutorials</td> 
+    <td></td>
+</tr>  
+<tr>
+    <td>10:00 AM</td>
+    <td>Tutorials</td>
+    <td>Parallel sessions</td>
+</tr>  
+<tr>
+    <td>11:00 AM</td>
+    <td>Coffee break</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>11:30 AM</td>
+    <td>Students/young researchers present</td>
+    <td>Multiple short presentations / lightning talks</td>
+</tr>  
+<tr>
+    <td>12:30 PM</td>
+    <td>Lunch break</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>2:00 PM</td>
+    <td>Intro to work groups</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>2:30 PM</td>
+    <td>Work groups</td>
+    <td>Parallel sessions</td>
+</tr>  
+<tr>
+    <td>3:30 PM</td>
+    <td>Coffee break</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>4:00 PM</td>
+    <td>Work groups</td>
+    <td>Continuing parallel sessions</td>
+</tr>  
+<tr>
+    <td>5:30 PM</td>
+    <td>Work groups summary, round table/panel</td>
+    <td>Discussions, looking at the future</td>
+</tr>  
+<tr>
+    <td>6:30 PM</td>
+    <td>Closing remarks</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>7:00 PM</td>
+    <td>Informal drinks</td>
+    <td></td>
+</tr>  
+
+</table>
+  
