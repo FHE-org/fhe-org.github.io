@@ -142,7 +142,7 @@
 <tr>
     <td>11:00 AM</td>
     <td>Session</td>
-    <td>2 talks / papers</td>
+    <td>Multiple talks</td>
 </tr>  
 <tr>
     <td>11:45 PM</td>
@@ -157,7 +157,7 @@
 <tr>
     <td>2:00 PM</td>
     <td>Session</td>
-    <td>3 talks / papers</td>
+    <td>Multiple talks</td>
 </tr>  
 <tr>
     <td>3:00 PM</td>
@@ -172,7 +172,7 @@
 <tr>
     <td>4:30 PM</td>
     <td>Session</td>
-    <td>3 talks / papers</td>
+    <td>Multiple talks</td>
 </tr>  
 <tr>
     <td>5:30 PM</td>
