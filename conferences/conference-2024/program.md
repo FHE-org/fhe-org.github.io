@@ -143,7 +143,7 @@
     <td>2 talks / papers</td>
 </tr>  
 <tr>
-    <td>11:40 PM</td>
+    <td>11:45 PM</td>
     <td>Invited talk</td>
     <td></td>
 </tr>  
