@@ -108,4 +108,91 @@
 </tr>  
 
 </table>
+
+
+
+# Day 2
+
+<table>
+    <thead>
+        <tr>
+            <th data-sortas="case-insensitive">Time</th>
+            <th data-sortas="case-insensitive">Entry</th>
+            <th data-sortas="case-insensitive">Description</th>
+        </tr>
+    </thead>  
+
+<tr>
+    <td>9:00 AM</td>
+    <td>Opening remarks</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>9:30 AM</td>
+    <td>Poster sessions / networking</td> 
+    <td></td>
+</tr>  
+<tr>
+    <td>10:30 AM</td>
+    <td>Coffee break</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>11:00 AM</td>
+    <td>Session</td>
+    <td>2 talks / papers</td>
+</tr>  
+<tr>
+    <td>12:00 PM</td>
+    <td>Invited talk</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>12:30 PM</td>
+    <td>Lunch break</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>2:00 PM</td>
+    <td>Session</td>
+    <td>3 talks / papers</td>
+</tr>  
+<tr>
+    <td>3:00 PM</td>
+    <td>Invited talk</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>4:00 PM</td>
+    <td>Coffee break</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>4:30 PM</td>
+    <td>Session</td>
+    <td>3 talks / papers</td>
+</tr>  
+<tr>
+    <td>5:30 PM</td>
+    <td>Invited talk</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>6:30 PM</td>
+    <td>Closing remarks</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>7:00 PM</td>
+    <td>Party</td>
+    <td>Drinks and snacks</td>
+</tr>  
+<tr>
+    <td>8:30 PM</td>
+    <td>Party</td>
+    <td>Dinner</td>
+</tr>  
+
+</table>
   
+
