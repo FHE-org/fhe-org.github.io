@@ -32,10 +32,16 @@
 
 ## Tentative program
 
-# Day 1
-
 <table>
-    <thead>
+
+  
+  <thead>
+        <tr>
+            <th colspan=3><h1>Day 1</h1></th>
+        </tr>
+    </thead>  
+  
+  <thead>
         <tr>
             <th data-sortas="case-insensitive">Time</th>
             <th data-sortas="case-insensitive">Entry</th>
@@ -109,14 +115,17 @@
     <td></td>
 </tr>  
 
-</table>
+  <thead>
+        <tr>
+            <th colspan=3><h1>Day 2</h1></th>
+        </tr>
+    </thead>  
+  
 
 
 
-# Day 2
 
-<table>
-    <thead>
+  <thead>
         <tr>
             <th data-sortas="case-insensitive">Time</th>
             <th data-sortas="case-insensitive">Entry</th>
