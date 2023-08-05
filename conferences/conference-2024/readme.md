@@ -33,7 +33,7 @@ The conference will feature parallel tutorial sessions and work groups, student/
 
 ## Important dates
 - **Registration opens:** December 1st, 2024
-- **Conference date:** March 23~24, 2023
+- **Conference date:** March 23rd~24th, 2023
 
 ## Sponsors
 
