@@ -7,11 +7,11 @@
 <!-- /Main header navigation -->
 <!-- Header conference 2024 links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/conferences/conference-2024/home"><b>Home</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/readme"><b>Home</b></a>
   —
   <strike>Register</strike>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2023/program">Program</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
   <strike>Call for presentations</strike>
   —
