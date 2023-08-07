@@ -41,7 +41,7 @@ The conference will feature parallel tutorial sessions and work groups, student/
 
 
 ## Latest updates
-- **2023.08.24:** Announcement of the 3rd annual FHE.org conference on Fully Homomorphic Encryption
+- **2023.08.08:** Announcement of the 3rd annual FHE.org conference on Fully Homomorphic Encryption
 
 <br><br>
 
