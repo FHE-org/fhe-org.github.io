@@ -30,6 +30,8 @@
 
 ## Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/README.md)
 
+💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>.
+
 ## Conference Resources
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
