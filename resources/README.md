@@ -36,7 +36,7 @@
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
-## Tutorials and walk-through
+## Tutorials and Walkthroughs
 - [On-chain Blind Auctions Using Homomorphic Encryption](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) by **Zama** on **Jul 10, 2023**
 - [Boolean SHA256 with TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) by **Zama** on **Jul 9, 2023**
 - [Dark Market with TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) by **Zama** on **Jul 7, 2023**
@@ -58,7 +58,7 @@
 - [GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors](https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/) by **Martin Albrecht** on **March 3, 2016**
 
 
-## Use Cases and demos
+## Use Cases and Demos
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
 - [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama**  on **Nov 17, 2022**
