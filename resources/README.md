@@ -1,14 +1,14 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
 
 <!-- Resource categories links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/resources#conference-resources"><b>Conference Resources</b></a>
+  <a href="https://fhe-org.github.io/resources#conference-resources">Conference Resources</a>
   —
   <a href="https://fhe-org.github.io/resources#written-tutorials">Written Tutorials</a>
   —
