@@ -1,13 +1,13 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/conferences/conference-2023/home">Conference 2023</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
 
 <p align="center">
-<b>The FHE.org Tokyo 2023 conference has concluded. <a href="https://fhe-org.github.io/conferences/conference-2023/resources">View videos, slides, and posters from the conference here.</a></b>
+Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">FHE.org Toronto 2024</a> is officially announced and <a href="https://rwc.iacr.org/2024/colocated.php">co-locating with Real World Crypto 2024</a> on March 23rd~24th 2024.
 </p>
 <hr/>
 
