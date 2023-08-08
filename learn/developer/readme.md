@@ -33,7 +33,7 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
 
 - #### [Generalities](#generalities)
   - Ideal Use Cases
-  - Threat Model 
+  - Threat Model
 - #### [Constraints](#constraints-1)
   - Object Sizes
   - Speed
@@ -46,7 +46,7 @@ This learner track assumes you are a developer wanting to learn about FHE. To se
   - Table of Libraries
 - #### [Get Started Coding](#start-coding)
   - Working Examples
- 
+
 
 
 
@@ -103,7 +103,7 @@ FHE enables secure computations on encrypted data stored in the cloud without th
 <td>
 
 
-</td>  
+</td>
 </tr>
 </table>
 
@@ -138,7 +138,7 @@ FHE allows for analysis and performing actions on encrypted data without reveali
 - [Ensuring security of artificial pancreas device system using homomorphic encryption](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) by **Haotian Weng; Chirath Hettiarachchi; Christopher Nolan; Hanna Suominen; Artem Lenskiy** on **Jan 15, 2022**
 
 
-</td>  
+</td>
 </tr>
 </table>
 
@@ -168,7 +168,7 @@ FHE enables machine learning models to be trained on encrypted data. This is ben
 <td>More Reading</td>
 <td>
 
-</td>  
+</td>
 </tr>
 </table>
 
@@ -200,7 +200,7 @@ FHE allows financial institutions to analyze encrypted financial transactions fo
 <td>More Reading</td>
 <td>
 
-</td>  
+</td>
 </tr>
 </table>
 
@@ -236,7 +236,7 @@ FHE allows encrypted search and querying of databases without exposing search cr
 <td>More Reading</td>
 <td>
 
-</td>  
+</td>
 </tr>
 </table>
 
@@ -318,7 +318,7 @@ Homomorphic encryption is not a silver bullet for all use cases. As with all cry
 
 # Constraints
 
-There are several constraints regarding the implementation of homomorphic encryption-based solutions. Each of these constraints needs to be considered carefully when implementing an FHE-based solution. 
+There are several constraints regarding the implementation of homomorphic encryption-based solutions. Each of these constraints needs to be considered carefully when implementing an FHE-based solution.
 
 ### Choosing Parameters
 
@@ -466,8 +466,8 @@ It is important that the homomorphic encryption scheme is parameterised correctl
 <tr>
 <td>Further Reading</td>
 <td markdown="1">
-  
-  - Wikipedia [page](https://en.wikipedia.org/wiki/Learning_with_errors) on the Learning with Errors problem. 
+
+  - Wikipedia [page](https://en.wikipedia.org/wiki/Learning_with_errors) on the Learning with Errors problem.
   - Stackexchange [answer](https://crypto.stackexchange.com/questions/47432/what-does-it-mean-the-security-parameter-for-a-fhe-scheme) to: What is a security parameter?
   - A [blogpost](https://www.zama.ai/post/estimating-the-security-of-homomorphic-schemes) on estimating the security of FHE schemes by **Zama** in **2021**.
   - Taking the problem out of the hands of the user: Zama’s [security curves implementation](https://github.com/zama-ai/concrete/tree/main/tools/parameter-curves) by **Zama** in **2023**.
@@ -548,7 +548,7 @@ Schemes are the mathematical algorithms that are used for the underlying FHE ope
 <tr>
 <td colspan=2>
 
-Libraries are the software developers use to perform FHE operations easily, similarly to how one might use the `libsodium` library for basic cryptographic operations. Each library is designed for working with different schemes, some with multiple schemes and the ability to switch between them as needed. 
+Libraries are the software developers use to perform FHE operations easily, similarly to how one might use the `libsodium` library for basic cryptographic operations. Each library is designed for working with different schemes, some with multiple schemes and the ability to switch between them as needed.
 
 </td>
 </tr>
@@ -812,23 +812,23 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 ### TFHE-rs
 
 - Integers operations #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/high-level-api/tutorial)
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial-2/operations)
 - Integer Serialization/Deserialization
-[view](https://docs.zama.ai/tfhe-rs/high-level-api/serialization)
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial-2/serialization)
 - Boolean operations #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/boolean/tutorial)
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial/operations)
 - Boolean serialization #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/boolean/serialization)
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial/serialization)
 - C-API #C #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/c-api/high-level-api)
-- C-API #JS #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/js-on-wasm-api/tutorial)
+[view](https://docs.zama.ai/tfhe-rs/how-to/c_api)
+- WASM-API #JS #tfhe-rs #tfhe #tutorial
+[view](https://docs.zama.ai/tfhe-rs/how-to/js_on_wasm_api)
 - FHE SHA256 #Rust #tfhe-rs #tfhe #tutorial
-[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/tutorial/sha256_bool.md)
+[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/application_tutorials/sha256_bool.md)
 - Encrypted Regular Expression engine #Rust #tfhe-rs #tfhe #application
-[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/tutorial/regex/tutorial.md)
+[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/application_tutorials/regex.md)
 - Dark Market in FHE #Rust #tfhe-rs #tfhe #application
-[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/tutorial/dark_market.md)
+[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/application_tutorials/dark_market.md)
 
 
 
