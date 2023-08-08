@@ -13,7 +13,7 @@ The learner tracks are designed to make FHE easier to learn depending on who the
 
 Start learning homomorphic encryption from the perspective of a(n):
 
-- [Developer](https://fhe.org/learn/developer)
+- [Developer](developer)
 - Mathematician
 - Cryptographer
 
