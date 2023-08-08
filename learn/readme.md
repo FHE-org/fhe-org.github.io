@@ -7,26 +7,6 @@
 <!-- /Main header navigation -->
 
 
-
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups">FHE.org meetups</a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-  —
-  <a href="https://fhe-org.github.io/learn"><b>Learner Track</b></a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 ## Learner Track [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/learn/readme.md)
 
 The learner tracks are designed to make FHE easier to learn depending on who the audience is.
