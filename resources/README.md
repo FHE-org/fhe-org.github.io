@@ -36,36 +36,35 @@
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
-## Written Tutorials
+## Tutorials and Walkthroughs
+- [On-chain Blind Auctions Using Homomorphic Encryption](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) by **Zama** on **Jul 10, 2023**
+- [Boolean SHA256 with TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) by **Zama** on **Jul 9, 2023**
+- [Dark Market with TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) by **Zama** on **Jul 7, 2023**
+- [Regular Expression Engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) by **Zama** on **June 30, 2023**
+- [Confidential ERC-20 Tokens Using Homomorphic Encryption](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) by **Zama** on **June 28, 2023**
 - [Building an FHE compiler for the real world](https://blog.sunscreen.tech/from-toy-programs-to-real-life-building-an-fhe-compiler/) by **Ravital Solomon** on **May 18, 2023**
+- [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
 - [Google’s Fully Homomorphic Encryption Compiler — A Primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/) by **Jeremy Kun** on **February 13, 2023**
+- [Real-world deployment of FHE-based private information retrieval](https://fhe.org/meetups/016-real_world_deployment_of_FHE_based_private_information_retrieval) by **Samir Menon** on **Oct 10, 2022**
+- [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) by **Zama** on **Aug 18, 2022**
 - [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) by **Ilaria Chillotti** on **Jun 2, 2022**
 - [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by **Ilaria Chillotti** on **May 18, 2022**
 - [TFHE deep-dive - part 2 - Encodings and linear leveled operations](https://www.zama.ai/post/tfhe-deep-dive-part-2) by **Ilaria Chillotti** on **May 11, 2022**
 - [TFHE deep-dive - part 1- Ciphertext types](https://www.zama.ai/post/tfhe-deep-dive-part-1) by **Ilaria Chillotti** on **May 4, 2022**
-- [Data governance is in desperate need of innovation](https://www.zama.ai/post/data-governance-is-in-desperate-need-of-innovation) by **Jeremy Bradley** on **Dec 22, 2021**
+- [Single-server private information retrieval using homomorphic encryption](https://fhe.org/meetups/011-single-server-private-information-retrieval-using-homomorphic-encryption) by **Muhammad Haris** on **Feb 25, 2022**
 - [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) by **Marc Joye** on **Dec 01, 2021**
 - [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai/) **Zama** on **Sept 15, 2021**
 - [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/) by **Ravital Solomon** on **Aug 30, 2021**
 - [GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors](https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/) by **Martin Albrecht** on **March 3, 2016**
 
 
-## Use Cases
-- [On-chain Blind Auctions Using Homomorphic Encryption](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) by **Zama** on **Jul 10, 2023**
-- [Boolean SHA256 with TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) by **Zama** on **Jul 9, 2023**
-- [Dark Market with TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) by **Zama** on **Jul 7, 2023**
-- [Regular Expression Engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) by **Zama** on **June 30, 2023**
-- [Confidential ERC-20 Tokens Using Homomorphic Encryption](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) by **Zama** on **June 28, 2023**
-- [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
+## Use Cases and Demos
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
 - [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama**  on **Nov 17, 2022**
-- [Real-world deployment of FHE-based private information retrieval](https://fhe.org/meetups/016-real_world_deployment_of_FHE_based_private_information_retrieval) by **Samir Menon** on **Oct 10, 2022**
 - [Private bitcoin balance](https://btc.usespiral.com/) by **Blyss** on **Sept 15, 2022**
 - [Lattigo-polls: schedule meeting using Lattigo](https://github.com/ldsec/lattigo-polls-demo) by **Lattigo** on **Sep 2, 2022**
-- [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) by **Zama** on **Aug 18, 2022**
 - [Human action recognition](https://www.nature.com/articles/s41467-022-32168-5) by **Miran Kim, Xiaoqian Jiang, Kristin Lauter,  Elkhan Ismayilzada, and Shayan Shams** on **Aug 15, 2022**
-- [Single-server private information retrieval using homomorphic encryption](https://fhe.org/meetups/011-single-server-private-information-retrieval-using-homomorphic-encryption) by **Muhammad Haris** on **Feb 25, 2022**
 - [Ensuring security of artificial pancreas device system using homomorphic encryption](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) by **Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, and Artem Lenskiy** on **Jan 15, 2022**
 - [Encrypted search using Fully Homomorphic Encryption](https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40) by **Optalysis** on **Nov 23, 2021**
 - [Private set intersection via somewhat homomorphic encryption](https://fhe.org/meetups/007-private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Oct 28, 2021**
