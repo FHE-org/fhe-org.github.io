@@ -10,7 +10,7 @@
 
 <!-- Header conference 2024 links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/conferences/conference-2024/readme"><b>Home</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/"><b>Home</b></a>
   —
   <strike>Register</strike>
   —
