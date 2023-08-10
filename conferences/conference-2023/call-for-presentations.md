@@ -9,7 +9,7 @@
 
 <!-- Header conference 2023 links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/conferences/conference-2023/home">Home</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2023/">Home</a>
   —
   <a href="https://lu.ma/fhe-org-conference-2023-tickets">Register</a>
   —
