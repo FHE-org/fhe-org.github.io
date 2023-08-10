@@ -6,23 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 # Improving and Automating BFV Parameters Selection: An Average-Case Approach
 #### by Beatrice Biasioli - 2023.06.20
 #### <a href="https://www.youtube.com/watch?v=D9ua1eH4pUw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1&t=12s">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11818728/028.Improving.and.Automating.BFV.Parameters.pdf">Slides</a> (Github) | <a href="https://eprint.iacr.org/2023/600">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)

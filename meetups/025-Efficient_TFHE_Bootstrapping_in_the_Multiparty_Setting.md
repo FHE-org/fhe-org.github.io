@@ -6,23 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 # Efficient TFHE Bootstrapping in the Multiparty Setting
 #### by Sergi Rovira - 2023.06.01
 #### <a href="https://www.youtube.com/watch?v=qwrRQmZRgwE&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11625925/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting-slides.pdf">Slides</a> (Github) | <a href="https://fhe.org/conferences/conference-2023/media/Poster_Multiparty_TFHE.pdf">Poster</a> (Github) | <a href="https://eprint.iacr.org/2023/759">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)

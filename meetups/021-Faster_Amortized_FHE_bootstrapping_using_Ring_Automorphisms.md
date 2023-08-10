@@ -6,22 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
 # Faster Amortized FHEW bootstrapping using Ring Automorphisms
 #### by Duhyeong Kim and Gabrielle De Micheli - 28.02.2023
 #### <a href="https://youtu.be/7wNXeLkHmuY">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1FHH3KvbzUwt3z6dvlbfDXPbql42Yxrjz/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)

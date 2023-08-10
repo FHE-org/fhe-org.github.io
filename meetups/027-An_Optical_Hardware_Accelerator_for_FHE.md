@@ -6,23 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 # An Optical Hardware Accelerator for FHE
 #### by Joseph Wilson - 2023.06.15
 #### <a href="https://www.youtube.com/watch?v=a_c-KHpODCM&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11760639/Optalysys-FHEorgPresentation.pdf">Slides</a> (Github) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11686092/Poster_Optalysys.pdf">Poster</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)

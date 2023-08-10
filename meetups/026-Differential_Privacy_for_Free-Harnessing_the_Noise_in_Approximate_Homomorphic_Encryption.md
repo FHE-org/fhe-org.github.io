@@ -6,23 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 # Differential Privacy for Free? Harnessing the Noise In Approximate Homomorphic Encryption
 #### by Tabitha Ogilvie - 2023.06.08
 #### <a href="https://www.youtube.com/watch?v=J_abn1z9aN8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/11818765/026.Differential.Privacy.for.Free.pdf">Slides</a> (Github) | <a href="https://eprint.iacr.org/2023/701">Paper</a> (iacr) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
