@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://fhe-org.github.io/resources#conference-resources">Conference Resources</a>
   —
-  <a href="https://fhe-org.github.io/resources#written-tutorials">Written Tutorials</a>
+  <a href="https://fhe-org.github.io/resources#tutorials-and-walkthroughs">Tutorials and Walkthroughs</a>
   —
   <a href="https://fhe-org.github.io/resources#use-cases">Use cases</a>
   —
@@ -31,13 +31,26 @@
 
 ## Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/README.md)
 
-💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>.
+💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>. 
+
+- [Conference Resources](#conference-resources)
+- [Tutorials and Walkthroughs](#tutorials-and-walkthroughs)
+- [Use Cases and Demos](#use-cases-and-demos)
+- [Hardware](#hardware)
+- [Research](#research)
+- [Influential Papers](#influential-papers)
+- [FHE Schemes](#fhe-schemes)
+- [Libraries](#libraries)
+- [Courses](#courses)
 
 ## Conference Resources
+
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
+
+- [Introducing Sunscreen's ZKP compiler](https://blog.sunscreen.tech/introducing-sunscreens-zkp-compiler/) by **Ravital Solomon** on **Aug 24, 2023**
 - [On-chain Blind Auctions Using Homomorphic Encryption](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) by **Zama** on **Jul 10, 2023**
 - [Boolean SHA256 with TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) by **Zama** on **Jul 9, 2023**
 - [Dark Market with TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) by **Zama** on **Jul 7, 2023**
@@ -58,8 +71,8 @@
 - [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/) by **Ravital Solomon** on **Aug 30, 2021**
 - [GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors](https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/) by **Martin Albrecht** on **March 3, 2016**
 
-
 ## Use Cases and Demos
+
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
 - [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama**  on **Nov 17, 2022**
@@ -72,16 +85,16 @@
 - [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) **Optalysys** on **Oct 29, 2021**
 - [Homomorphic Machine Learning using Numpy & Concrete](https://fhe.org/meetups/006-running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sep 30, 2021**
 
-
 ## Hardware
+
 - [An Optical Hardware Accelerator for FHE](https://fhe.org/meetups/027-An_Optical_Hardware_Accelerator_for_FHE) by **Joseph Wilson** on **June 15, 2023**
 - [Hardware accelerator for FHEW](https://fhe.org/meetups/024-Hardware_accelerator_for_FHEW) by **Jonas Bertels** on **May 25, 2023**
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe.org/meetups/020-Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - [FHE at the speed of light](https://fhe.org/meetups/009-fhe-at-the-speed-of-light) by **Florent Michel** on **Dec 21, 2021**
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
-
 ## Research
+
 - [TFHE functional bootstrapping over multiple inputs](https://fhe.org/meetups/030-TFHE_functional_bootstrapping_over_multiple_inputs) by **Pierre-Emmanuel Clet** on **July 6, 2023**
 - [Panacea: Non-interactive and Stateless Oblivious RAM](https://fhe.org/meetups/029-Panacea_Non-interactive_and_Stateless_Oblivious_RAM) by **Georgio Nicolas and Kelong Cong** on **June 29, 2023**
 - [Improving and Automating BFV Parameters Selection: An Average-Case Approach](https://fhe.org/meetups/028-Improving_and_Automating_BFV_Parameters_Selection_An_Average-Case_Approach) by **Beatrice Biasioli** on **June 20, 2023**
@@ -104,8 +117,8 @@
 - [Introduction to MPC](https://fhe.org/meetups/002-introduction-to-mpc) by **Yehuda Lindell** on **Jan 27, 2021**
 - [Introduction to homomorphic encryption](https://fhe.org/meetups/001-introduction-to-fhe) by **Pascal Paillier** on **Nov 04, 2020**
 
-
 ## Influential Papers
+
 - [TFHE: Fast Fully Homomorphic Encryption Over the Torus](https://link.springer.com/article/10.1007/s00145-019-09319-x) by **Ilaria Chillotti, Nicolas Gama, Mariya Georgieva and Malika Izabachène** in **2016**
 - [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) by **Jung Hee Cheon, Andrey Kim, Miran Kim, and Yongsoo Song** in **2016**
 - [FHEW: Bootstrapping Homomorphic Encryption in Less Than a Second](https://link.springer.com/chapter/10.1007/978-3-662-46800-5_24) by **Léo Ducas and Daniele Micciancio** in **2015**
@@ -119,16 +132,16 @@
 - [On data and privacy homomorphisms](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/RAD78.pdf) by **Ronald L. Rivest, Len Adleman, and Michael L. Dertouzos** in **1978**
 - [A method for obtaining digital signatures and public-key cryptosystems](https://dl.acm.org/doi/10.1145/359340.359342) by **Ronald .L. Rivest, Adi Shamir, and Leonard Adleman** in **1978**
 
-
 ## FHE Schemes
+
 - [BFV](https://eprint.iacr.org/2012/144) by **Fan Junfeng and Vercauteren Frederik**
 - [BGV](https://eprint.iacr.org/2011/277) by **Zvika Brakerski, Craig Gentry, and Vinod Vaikuntanathan**
 - [CKKS](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) by **Cheon Jung Hee; Kim Andrey; Kim Miran; Song Yongsoo**
 - [FHEW](https://github.com/lducas/FHEW) by **Leo Ducas and Daniele Micciancio**
 - [TFHE](https://tfhe.github.io/tfhe/) by **Ilaria Chillotti, Nicolas Gama, Mariya Georgieva, and Malika Izabachene**
 
-
 ## Libraries
+
 - [Concrete](https://github.com/zama-ai/concrete) - Rust compiler for TFHE by **Zama**
 - [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
 - [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
@@ -138,8 +151,8 @@
 - [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes by **Microsoft**
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs/) - A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data by **Zama**
 
-
 ## Courses
+
 - [CSE208: Advanced Cryptography (FHE)](https://cseweb.ucsd.edu/classes/wi23/cse208-a/) by **Daniele Micciancio** in **2023**
 - [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation)  by **Openmined** in **2022**
 - [Homomorphic Encryption and Lattices](https://shaih.github.io/lattices-and-HE-class/index.html) by **Shai Halevi** in **2011**
