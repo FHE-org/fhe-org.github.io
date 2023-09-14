@@ -9,7 +9,7 @@
 
 # Faster TFHE Bootstrapping with Block Binary Keys
 #### by Seonhong Min - 2023.09.14 
-#### <a href="https://www.youtube.com/watch?v=SkdnewzruNA&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=4">Video recording</a> (Youtube) --> <a href="https://github.com/FHE-org/fhe-org.github.io/files/12610432/FHE_org__Block_Key_PPT.pdf">Poster</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=SkdnewzruNA&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=4">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/12610432/FHE_org__Block_Key_PPT.pdf">Poster</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup 033 cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/66f49cb5-2a41-42df-8a20-cb67889cb95e)
 
