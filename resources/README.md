@@ -77,13 +77,13 @@
 - [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama**  on **Nov 17, 2022**
 - [Private bitcoin balance](https://btc.usespiral.com/) by **Blyss** on **Sept 15, 2022**
-- [Lattigo-polls: schedule meeting using Lattigo](https://github.com/ldsec/lattigo-polls-demo) by **Lattigo** on **Sep 2, 2022**
+- [Lattigo-polls: schedule meeting using Lattigo](https://github.com/ldsec/lattigo-polls-demo) by **Lattigo** on **Sept 2, 2022**
 - [Human action recognition](https://www.nature.com/articles/s41467-022-32168-5) by **Miran Kim, Xiaoqian Jiang, Kristin Lauter,  Elkhan Ismayilzada, and Shayan Shams** on **Aug 15, 2022**
 - [Ensuring security of artificial pancreas device system using homomorphic encryption](https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X) by **Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, and Artem Lenskiy** on **Jan 15, 2022**
 - [Encrypted search using Fully Homomorphic Encryption](https://medium.com/optalysys/encrypted-search-using-fully-homomorphic-encryption-4431e987ba40) by **Optalysis** on **Nov 23, 2021**
 - [Private set intersection via somewhat homomorphic encryption](https://fhe.org/meetups/007-private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Oct 28, 2021**
 - [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) **Optalysys** on **Oct 29, 2021**
-- [Homomorphic Machine Learning using Numpy & Concrete](https://fhe.org/meetups/006-running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sep 30, 2021**
+- [Homomorphic Machine Learning using Numpy & Concrete](https://fhe.org/meetups/006-running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sept 30, 2021**
 
 ## Hardware
 
@@ -94,7 +94,7 @@
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
-- [Faster TFHE Bootstrapping with Block Binary Keys](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys.md) by **Seonghong Min** on **Sep 14, 2023**
+- [Faster TFHE Bootstrapping with Block Binary Keys](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys.md) by **Seonghong Min** on **Sept 14, 2023**
 - [A Fast Convolution Algorithm for Accelerating Private Model Inference](https://fhe.org/meetups/032-A_Fast_Convolution_Algorithm_for_Accelerating_Private_Model_Inference) by **Huan-Chih Wang** on **July 27, 2023**
 - [PARMESAN: Parallel ARithMEticS over ENcrypted data](https://fhe.org/meetups/031-PARMESAN_Parallel_ARithMEticS_over_ENcrypted_data) by **Jakub Klemsa** on **July 20, 2023**
 - [TFHE functional bootstrapping over multiple inputs](https://fhe.org/meetups/030-TFHE_functional_bootstrapping_over_multiple_inputs) by **Pierre-Emmanuel Clet** on **July 6, 2023**
