@@ -18,7 +18,7 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/296075055/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1a59b7a6-0a91-4459-82c3-a4bff1838a8d"></a>
+[<img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1a59b7a6-0a91-4459-82c3-a4bff1838a8d">](https://www.meetup.com/fhe-org/events/296075055/)
 
 
 ## Past meetups
