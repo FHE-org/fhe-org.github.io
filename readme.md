@@ -21,10 +21,13 @@ If you want to learn more about FHE, make sure to:
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 - [Help us grow the FHE.org community](https://fhe-org.github.io/volunteer)
 
-# FHE.org Meetups
-FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. You can access resources from all past meetups and see future planned meetups [here](https://fhe.org/meetups).
+## Meetups
 
-Interested in presenting your latest paper, implementation or use case to the community? See the available formats and instructions [here](https://fhe.org/submit).
+FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
+
+- [Register for the next meetup](https://www.meetup.com/fhe-org/events/296075055/), **fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption** by **Morten Dahl** on **Sept 21st 2023, 4PM CEST**
+- [Browse meetup resources](https://fhe.org/meetups) from all past meetups
+- [Submit your own idea](https://fhe.org/submit) for a meetup
 
 <!--- Footer --->
 <hr/>
