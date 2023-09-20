@@ -9,7 +9,7 @@
 
 # fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption
 #### by Morten Dahl - 2023.09.21 
-#### <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/296075055/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![034 Meetup event cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1a59b7a6-0a91-4459-82c3-a4bff1838a8d)
 
@@ -23,6 +23,13 @@ Thanks to a breakthrough in homomorphic encryption, it now is possible to run sm
 # About the speaker
 
 Morten Dahl leads the team at Zama building confidential blockchains using FHE. With a background in secure computation and cryptography, he has spent close to the past decade applying and adapting techniques from these fields to real-world use cases.
+
+# Register to attend
+
+Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/296075055/) event page to attend.
+
+After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
+
 
 # Never miss an update
 
