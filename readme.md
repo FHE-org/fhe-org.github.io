@@ -21,7 +21,7 @@ If you want to learn more about FHE, make sure to:
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 - [Help us grow the FHE.org community](https://fhe-org.github.io/volunteer)
 
-## Meetups
+## Here for meetups?
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
