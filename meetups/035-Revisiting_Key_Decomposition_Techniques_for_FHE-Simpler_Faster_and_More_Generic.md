@@ -9,7 +9,7 @@
 
 # Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic
 #### by Nicolas Gama - 2023.09.28 
-#### <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/296062735/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup #035](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ff3e61ec-9d72-4e32-ace5-bc0d1b89fad7)
 
