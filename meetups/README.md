@@ -18,8 +18,11 @@
 
 ## Coming up
 
-[<img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1a59b7a6-0a91-4459-82c3-a4bff1838a8d">](https://www.meetup.com/fhe-org/events/296075055/)
+<a href="https://www.meetup.com/fhe-org/events/296075055/"><img alt="Meetup #034" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1a59b7a6-0a91-4459-82c3-a4bff1838a8d" /></a>
 
+#### [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys.md) by **Morten Dahl** on **Sept 21, 2023**
+
+<br>
 
 ## Past meetups
 
