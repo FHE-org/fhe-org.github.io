@@ -30,7 +30,7 @@ FHE.org meetups archive, latest first.
 
 ### 2023
 
-- [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://www.meetup.com/fhe-org/events/296075055/) by **Morten Dahl** on **Sept 21, 2023**
+- [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://fhe.org/meetups/034-fhEVM-Confidential_EVM_Smart_Contracts_using_Fully_Homomorphic_Encryption) by **Morten Dahl** on **Sept 21, 2023**
 - [Faster TFHE Bootstrapping with Block Binary Keys](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys.md) by **Seonghong Min** on **Sep 14, 2023**
 - [A Fast Convolution Algorithm for Accelerating Private Model Inference](https://fhe.org/meetups/032-A_Fast_Convolution_Algorithm_for_Accelerating_Private_Model_Inference) by **Huan-Chih Wang** on **July 27, 2023**
 - [PARMESAN: Parallel ARithMEticS over ENcrypted data](https://fhe.org/meetups/031-PARMESAN_Parallel_ARithMEticS_over_ENcrypted_data) by **Jakub Klemsa** on **July 20, 2023**
