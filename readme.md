@@ -25,7 +25,7 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- [Register for the next meetup](https://www.meetup.com/fhe-org/events/296075055/), **fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption** by **Morten Dahl** on **Sept 21st 2023, 4PM CEST**
+- [Register for the next meetup](https://www.meetup.com/fhe-org/events/296062735/), **[Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic](https://www.meetup.com/fhe-org/events/296062735/)** by **Nicolas Gama** on **Sept 28, 2023 at 4PM CEST**
 - [Browse meetup resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
