@@ -207,7 +207,8 @@ FHE allows encrypted search and querying of databases without exposing search cr
 **Working Examples**
 
 - [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
-- [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
+<!-- markdown-link-check-disable-next-line -->
+- [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023** [Require Sign up]
 - [Private bitcoin balance](https://btc.usespiral.com/) by **Blyss** on **Sept 15, 2022**
 
 
