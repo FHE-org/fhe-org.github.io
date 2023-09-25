@@ -12,6 +12,24 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <title>FHE.org - Fully Homomorphic Encryption</title>
+{%- if content contains 'mermaid' -%}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.4.0/mermaid.min.js"></script>
+    <script>
+    const config = {
+        startOnLoad:true,
+        theme: 'default',
+        flowchart: {
+            useMaxWidth:false,
+            htmlLabels:true
+            }
+    };
+    $(document).ready(function () {
+      mermaid.initialize(config);
+      window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+    });
+    </script>
+{% endif %}
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
