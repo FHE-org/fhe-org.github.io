@@ -24,10 +24,14 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/contact">Contact</a>
   —
+  <a href="https://fhe-org.github.io/conferences/conference-2024/sponsor">Sponsor</a>
+  —
   <strike>Resources</strike>
 </p>
 <hr/>
 <!-- /Header conference 2024 links -->
+
+
 
 # FHE.org Toronto 2024 Conference
 The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is a 2-day event colocated with [Real World Crypto 2024](https://rwc.iacr.org/2024/colocated.php) in Toronto (Canada) on March 23-24, 2024.
