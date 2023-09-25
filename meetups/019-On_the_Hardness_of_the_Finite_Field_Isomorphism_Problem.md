@@ -6,23 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 # On the Hardness of the Finite Field Isomorphism Problem
 #### by Antoine Joux - 24.01.2023
 #### <a href="https://www.youtube.com/watch?v=74wsTqr-b9I">Video recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)

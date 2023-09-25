@@ -16,9 +16,24 @@
 </p>
 <hr/>
 
+## Coming up
+
+<a href="https://www.meetup.com/fhe-org/events/296075055/"><img alt="Meetup #035" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/643cbacc-f6fa-486d-b832-195b7fbed385" /></a>
+
+#### [Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic](https://www.meetup.com/fhe-org/events/296062735/) by **Nicolas Gama** on **Sept 28, 2023**
+
+<br>
+
+## Past meetups
+
 FHE.org meetups archive, latest first.
 
-## 2023
+### 2023
+
+- [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://fhe.org/meetups/034-fhEVM-Confidential_EVM_Smart_Contracts_using_Fully_Homomorphic_Encryption) by **Morten Dahl** on **Sept 21, 2023**
+- [Faster TFHE Bootstrapping with Block Binary Keys](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys.md) by **Seonghong Min** on **Sep 14, 2023**
+- [A Fast Convolution Algorithm for Accelerating Private Model Inference](https://fhe.org/meetups/032-A_Fast_Convolution_Algorithm_for_Accelerating_Private_Model_Inference) by **Huan-Chih Wang** on **July 27, 2023**
+- [PARMESAN: Parallel ARithMEticS over ENcrypted data](https://fhe.org/meetups/031-PARMESAN_Parallel_ARithMEticS_over_ENcrypted_data) by **Jakub Klemsa** on **July 20, 2023**
 - [TFHE functional bootstrapping over multiple inputs](https://fhe.org/meetups/030-TFHE_functional_bootstrapping_over_multiple_inputs) by **Pierre-Emmanuel Clet** on **July 6, 2023**
 - [Panacea: Non-interactive and Stateless Oblivious RAM](https://fhe.org/meetups/029-Panacea_Non-interactive_and_Stateless_Oblivious_RAM) by **Georgio Nicolas and Kelong Cong** on **June 29, 2023**
 - [Improving and Automating BFV Parameters Selection: An Average-Case Approach](https://fhe.org/meetups/028-Improving_and_Automating_BFV_Parameters_Selection_An_Average-Case_Approach) by **Beatrice Biasioli** on **June 20, 2023**
@@ -32,7 +47,7 @@ FHE.org meetups archive, latest first.
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe-org.github.io/meetups/020-Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - [On the Hardness of the Finite Field Isomorphism Problem](https://fhe-org.github.io/meetups/019-On_the_Hardness_of_the_Finite_Field_Isomorphism_Problem) 	by **Antoine Joux** on **Jan 24, 2023**
 
-## 2022
+### 2022
 
 - [Introducing CryptoLabs's FHE library: HEaaN](https://fhe-org.github.io/meetups/018-Introducing_the_HEaaN_library_by_CryptoLab) by **Taekyung Kim** on **Dec 13, 2022**
 - [Estimating the Difficulty of Breaking Lattice-Based Cryptography](https://fhe-org.github.io/meetups/017-Estimating_the_Difficulty_of_Breaking_Lattice_Based_Cryptography) by **Martin Albrecht** on **Nov 22, 2022**
@@ -44,7 +59,7 @@ FHE.org meetups archive, latest first.
 - [Single-server private information retrieval using homomorphic encryption](https://fhe-org.github.io/meetups/011-single-server-private-information-retrieval-using-homomorphic-encryption) by **Muhammad Haris** on **Feb 25, 2022**
 - [An overview of Hybrid Homomorphic Encryption](https://fhe-org.github.io/meetups/010-an-overview-of-hybrid-homomorphic-encryption) by **Orel Cosseron and Clément Hoffmann** on **Jan 20, 2022**
 
-## 2021
+### 2021
 
 - [FHE at the speed of light](https://fhe-org.github.io/meetups/009-fhe-at-the-speed-of-light) by **Florent Michel** on **Dec 21, 2021**
 - [Why we need revolutionary hardware for FHE](https://fhe-org.github.io/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
@@ -55,7 +70,7 @@ FHE.org meetups archive, latest first.
 - [TFHE deep dive](https://fhe-org.github.io/meetups/003-tfhe-deep-dive) **Ilaria Chillotti** on **Apr 15, 2021**
 - [Introduction to MPC](https://fhe-org.github.io/meetups/002-introduction-to-mpc) by **Prof Yehuda Lindell** on **Jan 27, 2021**
 
-## 2020
+### 2020
 
 - [Introduction to homomorphic encryption](https://fhe-org.github.io/meetups/001-introduction-to-fhe) by **Pascal Paillier** on **Nov 04, 2020**
 

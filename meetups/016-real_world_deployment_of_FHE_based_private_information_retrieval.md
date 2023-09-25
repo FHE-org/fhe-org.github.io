@@ -6,23 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 # Real-world deployment of FHE-based private information retrieval
 #### by Samir Menon - 25.10.2022
 #### <a href="https://youtu.be/T7RDEEJ5vQg">Video recording</a> (Youtube) | <a href="https://drive.google.com/file/d/1r_8CZUQtl49fbUqhqY2PDUm6au4B3pD1/view?usp=sharing">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)

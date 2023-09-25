@@ -6,23 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources">Resources</a>
-  —
-  <a href="https://fhe-org.github.io/meetups"><b>FHE.org meetups</b></a>
-  —
-  <a href="https://fhe-org.github.io/resources/libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources/use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources/papers">Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources/schemes">Schemes</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
-
 # PARMESAN: Parallel ARithMEticS over ENcrypted data
 #### by Jakub Klemsa - 2023.07.20
 #### <a href="https://www.youtube.com/watch?v=A9tBfT6cQ-U&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <!--<a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)

@@ -9,7 +9,7 @@
 
 <!-- header conference 2022 links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/conferences/conference-2022/home"><b>Home</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2022/"><b>Home</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2022/call-for-presentations">Call for presentations</a>
   —
