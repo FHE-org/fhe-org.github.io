@@ -74,7 +74,8 @@
 ## Use Cases and Demos
 
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
-- [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023**
+<!-- markdown-link-check-disable-next-line -->
+- [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023** [Requires sign-up]
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama**  on **Nov 17, 2022**
 - [Private bitcoin balance](https://btc.usespiral.com/) by **Blyss** on **Sept 15, 2022**
 - [Lattigo-polls: schedule meeting using Lattigo](https://github.com/ldsec/lattigo-polls-demo) by **Lattigo** on **Sept 2, 2022**
