@@ -15,6 +15,26 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 
 
 
+### FHE.org Advisory Board
+
+The FHE.org advisory board is designed to bring together key players in FHE to foster collaboration and organization of FHE.org events. The core responsibility of the board is to provide oversight and direction to the FHE.org initiative as a whole.
+
+The desired outcome of the advisory board program is to:
+
+- Ensure conferences have the highest quality talks, presentations, posters, attendees, marketing channels, and sponsorship opportunities
+- Promote a fair playing ground for all companies
+- Maximize adoption of FHE
+
+The advisory board meets once per quarter, online, to discuss these issues and any other outstanding points-of-order. The advisory board can be contacted via: advisory_board@fhe.org. 
+
+#### Members
+- Pascal Paillier, Zama [Chair]
+- Ingrid Verbauwhede, KU Leuven
+- Shruthi Gorantala, Google 
+- Damien Stehle, CryptoLab
+
+
+
 
 
 
