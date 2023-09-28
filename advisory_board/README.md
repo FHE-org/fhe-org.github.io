@@ -28,10 +28,10 @@ The desired outcome of the advisory board program is to:
 The advisory board meets once per quarter, online, to discuss these issues and any other outstanding points-of-order. The advisory board can be contacted via: advisory_board@fhe.org. 
 
 #### Members
-- Pascal Paillier, Zama [Chair]
-- Ingrid Verbauwhede, KU Leuven
 - Shruthi Gorantala, Google 
+- Pascal Paillier, Zama [Chair]
 - Damien Stehle, CryptoLab
+- Ingrid Verbauwhede, KU Leuven
 
 
 
