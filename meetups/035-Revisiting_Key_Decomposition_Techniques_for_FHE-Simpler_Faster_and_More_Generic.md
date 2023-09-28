@@ -9,7 +9,7 @@
 
 # Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic
 #### by Nicolas Gama - 2023.09.28 
-#### <a href="https://www.meetup.com/fhe-org/events/296062735/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=xLrFVTLatTc&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://eprint.iacr.org/2023/771.pdf">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup #035](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ff3e61ec-9d72-4e32-ace5-bc0d1b89fad7)
 
@@ -26,8 +26,6 @@ Nicolas Gama is principal privacy software engineer at SandboxAQ. He started his
 Since then, he has focused on developing tools and applications of privacy preserving computation, and concepts like Chimera or Manticore, that allow to bridge different FHE or MPC schemes, and provide fast arithmetic for a wide range of discrete and continuous computation models.
 
 # Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/296062735/) event page to attend.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
