@@ -157,6 +157,7 @@
 - [Concrete](https://github.com/zama-ai/concrete) - Rust compiler for TFHE by **Zama**
 - [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
 - [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
+- [HEIR](https://github.com/google/heir) - An MLIR-based compiler toolchain for FHE by **Google**
 - [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
 - [Jaxite](https://github.com/google/jaxite) - A TFHE implementation targeting TPUs, written in JAX. By **Google**
 - [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
