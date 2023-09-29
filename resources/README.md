@@ -50,6 +50,7 @@
 
 ## Tutorials and Walkthroughs
 
+- [Encoding Schemes in FHE](https://jeremykun.com/2023/09/18/encoding-schemes-in-fhe/) by **Jeremy Kun** on **September 18, 2023**
 - [Introducing Sunscreen's ZKP compiler](https://blog.sunscreen.tech/introducing-sunscreens-zkp-compiler/) by **Ravital Solomon** on **Aug 24, 2023**
 - [On-chain Blind Auctions Using Homomorphic Encryption](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) by **Zama** on **Jul 10, 2023**
 - [Boolean SHA256 with TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) by **Zama** on **Jul 9, 2023**
@@ -58,14 +59,20 @@
 - [Confidential ERC-20 Tokens Using Homomorphic Encryption](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) by **Zama** on **June 28, 2023**
 - [Building an FHE compiler for the real world](https://blog.sunscreen.tech/from-toy-programs-to-real-life-building-an-fhe-compiler/) by **Ravital Solomon** on **May 18, 2023**
 - [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
+- [Sample Extraction from RLWE to LWE](https://jeremykun.com/2023/02/27/sample-extraction-from-rlwe-to-lwe/) by **Jeremy Kun** on **February 27, 2023**
 - [Google’s Fully Homomorphic Encryption Compiler — A Primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/) by **Jeremy Kun** on **February 13, 2023**
+- [Estimating the Security of Ring Learning with Errors (RLWE)]()https://jeremykun.com/2022/12/28/estimating-the-security-of-ring-learning-with-errors-rlwe/ by **Cathie Yun** on **December 28, 2022**
+- [Negacyclic Polynomial Multiplication](https://jeremykun.com/2022/12/09/negacyclic-polynomial-multiplication/) by **Jeremy Kun** on **December 9, 2022**
 - [Real-world deployment of FHE-based private information retrieval](https://fhe.org/meetups/016-real_world_deployment_of_FHE_based_private_information_retrieval) by **Samir Menon** on **Oct 10, 2022**
+- [Key Switching in LWE](https://jeremykun.com/2022/08/29/key-switching-in-lwe/) by **Jeremy Kun** on **Aug 29, 2022**
 - [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) by **Zama** on **Aug 18, 2022**
+- [Modulus Switching in LWE](https://jeremykun.com/2022/07/16/modulus-switching-in-lwe/) by **Jeremy Kun** on **July 12, 2022**
 - [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) by **Ilaria Chillotti** on **Jun 2, 2022**
 - [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by **Ilaria Chillotti** on **May 18, 2022**
 - [TFHE deep-dive - part 2 - Encodings and linear leveled operations](https://www.zama.ai/post/tfhe-deep-dive-part-2) by **Ilaria Chillotti** on **May 11, 2022**
 - [TFHE deep-dive - part 1- Ciphertext types](https://www.zama.ai/post/tfhe-deep-dive-part-1) by **Ilaria Chillotti** on **May 4, 2022**
 - [Single-server private information retrieval using homomorphic encryption](https://fhe.org/meetups/011-single-server-private-information-retrieval-using-homomorphic-encryption) by **Muhammad Haris** on **Feb 25, 2022**
+- [The Gadget Decomposition in FHE](https://jeremykun.com/2021/12/11/the-gadget-decomposition-in-fhe/) by **Jeremy Kun** on **December 11, 2021**
 - [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) by **Marc Joye** on **Dec 01, 2021**
 - [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai/) **Zama** on **Sept 15, 2021**
 - [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/) by **Ravital Solomon** on **Aug 30, 2021**
@@ -150,7 +157,9 @@
 - [Concrete](https://github.com/zama-ai/concrete) - Rust compiler for TFHE by **Zama**
 - [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
 - [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
+- [HEIR](https://github.com/google/heir) - An MLIR-based compiler toolchain for FHE by **Google**
 - [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
+- [Jaxite](https://github.com/google/jaxite) - A TFHE implementation targeting TPUs, written in JAX. By **Google**
 - [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
 - [OpenFHE](https://github.com/openfheorg/openfhe-development) - Production-ready implementations of all major FHE schemes by **Duality Tech**
 - [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes by **Microsoft**
