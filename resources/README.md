@@ -61,7 +61,7 @@
 - [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
 - [Sample Extraction from RLWE to LWE](https://jeremykun.com/2023/02/27/sample-extraction-from-rlwe-to-lwe/) by **Jeremy Kun** on **February 27, 2023**
 - [Google’s Fully Homomorphic Encryption Compiler — A Primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/) by **Jeremy Kun** on **February 13, 2023**
-- [Estimating the Security of Ring Learning with Errors (RLWE)]()https://jeremykun.com/2022/12/28/estimating-the-security-of-ring-learning-with-errors-rlwe/ by **Cathie Yun** on **December 28, 2022**
+- [Estimating the Security of Ring Learning with Errors (RLWE)](https://jeremykun.com/2022/12/28/estimating-the-security-of-ring-learning-with-errors-rlwe/) by **Cathie Yun** on **December 28, 2022**
 - [Negacyclic Polynomial Multiplication](https://jeremykun.com/2022/12/09/negacyclic-polynomial-multiplication/) by **Jeremy Kun** on **December 9, 2022**
 - [Real-world deployment of FHE-based private information retrieval](https://fhe.org/meetups/016-real_world_deployment_of_FHE_based_private_information_retrieval) by **Samir Menon** on **Oct 10, 2022**
 - [Key Switching in LWE](https://jeremykun.com/2022/08/29/key-switching-in-lwe/) by **Jeremy Kun** on **Aug 29, 2022**
