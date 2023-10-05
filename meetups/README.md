@@ -16,11 +16,11 @@
 </p>
 <hr/>
 
-## Coming up 
+<!-- ## Coming up -->
 
-<a href="https://www.meetup.com/fhe-org/events/296355903/"><img alt="Meetup #035" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/c2ec8a2d-f60b-4d97-9037-1380704e919e" /></a>
+<!-- a href="https://www.meetup.com/fhe-org/events/296355903/"><img alt="Meetup #035" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/c2ec8a2d-f60b-4d97-9037-1380704e919e" /></a-->
 
-#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/296355903/), **[Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://www.meetup.com/fhe-org/events/296355903/)** by **Simon Pohmann** on **Oct 5th, 2023 at 4PM CEST**
+<!--#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/296355903/), **[Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://www.meetup.com/fhe-org/events/296355903/)** by **Simon Pohmann** on **Oct 5th, 2023 at 4PM CEST**-->
 
 
 <br>
@@ -31,6 +31,7 @@ FHE.org meetups archive, latest first.
 
 ### 2023
 
+- [Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://fhe.org/meetups/036-Homomorphic_Polynomial_Evaluation_using_Galois_structure_and_application_to_BFV_bootstrapping) by **Simon Pohmann** on **Oct 5th, 2023**
 - [Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic](https://fhe.org/meetups/035-Revisiting_Key_Decomposition_Techniques_for_FHE-Simpler_Faster_and_More_Generic) by **Nicolas Gama** on **Sept 28, 2023**
 - [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://fhe.org/meetups/034-fhEVM-Confidential_EVM_Smart_Contracts_using_Fully_Homomorphic_Encryption) by **Morten Dahl** on **Sept 21, 2023**
 - [Faster TFHE Bootstrapping with Block Binary Keys](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys.md) by **Seonghong Min** on **Sep 14, 2023**
