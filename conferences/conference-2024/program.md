@@ -14,7 +14,7 @@
   —
   <strike>Register</strike>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/program"><b>Program</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations"> Call for presentations</a>
   —
