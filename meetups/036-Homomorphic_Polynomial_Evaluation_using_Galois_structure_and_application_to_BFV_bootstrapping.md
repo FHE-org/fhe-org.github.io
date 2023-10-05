@@ -9,7 +9,7 @@
 
 # Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping
 #### by Simon Pohmann - 2023.10.05 
-#### <a href="https://www.meetup.com/fhe-org/events/296355903/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <!-- <a href="https://www.meetup.com/fhe-org/events/296355903/">Register to attend</a> --> <a href="https://www.youtube.com/watch?v=r970zQEj8Nw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <!-- <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup event cover 36](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/83ff9f09-ba5b-4605-8e41-671dd64de9bf)
 
@@ -22,8 +22,6 @@ In some FHE schemes, the plaintext space decomposes as a product of "plaintext s
 Simon Pohmann finished his Bachelor in Mathematics and Computer Science at the University of Passau (Germany) in 2020. In 2022, he then completed the Master program "Mathematics and Foundations of Computer Science" at Oxford University. Since then, he is a PhD Student at the Centre for Doctoral Training at Royal Holloway, University of London.
 
 # Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/296355903/) event page to attend.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
