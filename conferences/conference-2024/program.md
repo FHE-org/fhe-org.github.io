@@ -93,8 +93,15 @@
 </tr>  
 <tr>
     <td>2:30 PM</td>
-    <td>Working groups</td>
-    <td>Parallel sessions</td>
+    <td>Working groups<br>
+        (Parallel sessions)</td>
+    <td>
+WG1: Lattice estimator and security<br>
+WG2: FHE compilers and MLIR<br>
+WG3: Educational resource development<br>
+WG4: Standards and regulations<br>
+WG5: Combination of FHE and other PETs<br>
+</td>
 </tr>  
 <tr>
     <td>3:30 PM</td>
