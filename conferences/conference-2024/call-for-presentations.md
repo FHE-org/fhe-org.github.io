@@ -16,7 +16,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations"> Call for presentations</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations"><b>Call for presentations</b></a>
   —
   <strike>Committees</strike>
   —
