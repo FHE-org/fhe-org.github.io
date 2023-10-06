@@ -57,7 +57,9 @@ As FHE.org 2024 is associated with Real World Crypto 2024, practice-oriented tal
 
 ## Call for contributed talks, posters, and demos
 
-Authors are invited to submit proposals for presentation (PDF format) using the submission form. Submissions must be written in English and should be in the form of an extended abstract of 2 to 4 pages (not including references). Authors can also submit proposals for posters or demos; this should be clearly indicated in the submission. All submissions will be refereed by the program committee. Submission implies the willingness of at least one of the authors to register and present the contribution.
+Authors are invited to submit proposals for presentation (PDF format) using the submission form. Submissions must be written in English and should be in the form of an extended abstract of 2 to 4 pages (not including references). Authors can also submit proposals for posters or demos; this should be clearly indicated in the submission.
+
+All submissions will be refereed by the program committee. Submission implies the willingness of at least one of the authors to register and present the contribution.
 
 The final program will consist of both invited talks and contributed talks. It will also feature a poster session and demos. There are no published proceedings at FHE.org. This means that both invited and contributed talks may appear at another conference that has proceedings. Authors of accepted abstracts can choose to have a link to a preprint on the conference webpage.
 
