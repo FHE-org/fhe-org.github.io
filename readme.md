@@ -25,7 +25,7 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-<!-- - [Register for the next meetup](https://www.meetup.com/fhe-org/events/296355903/), **[Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://www.meetup.com/fhe-org/events/296355903/)** by **Simon Pohmann** on **Oct 5th, 2023 at 4PM CEST**-->
+- [Register for the next meetup](https://www.meetup.com/fhe-org/events/296557693/), **[HEIR: A foundation for FHE compilers](https://www.meetup.com/fhe-org/events/296557693/)** by **Jeremy Kun** on **Oct 19th, 2023 at 4PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
