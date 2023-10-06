@@ -16,13 +16,13 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
-  <strike>Call for presentations</strike>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations"> Call for presentations</a>
   —
   <strike>Committees</strike>
   —
   <strike>Submissions</strike>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/contact">Contact</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/contact"><b>Contact</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/sponsor">Sponsor</a>
   —

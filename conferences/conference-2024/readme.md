@@ -16,7 +16,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
-  <strike>Call for presentations</strike>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations"> Call for presentations</a>
   —
   <strike>Committees</strike>
   —
@@ -48,6 +48,7 @@ The conference will feature parallel tutorial sessions and work groups, student/
 
 
 ## Latest updates
+- **2023.10.06:** Call for presentations is online
 - **2023.08.08:** Announcement of the 3rd annual FHE.org conference on Fully Homomorphic Encryption
 
 <br><br>
