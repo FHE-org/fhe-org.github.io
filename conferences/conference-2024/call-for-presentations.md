@@ -36,7 +36,10 @@
 The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with Real World Crypto 2024 and will be held in Toronto on March 23-24 2024.
 
 ## Motivation and scope
-First envisioned in the late seventies, the first realization for fully homomorphic encryption only came three decades later. Fully homomorphic encryption has since been an active research topic. The FHE.org conference aims at being the premier forum gathering researchers, technologists and practitioners working on the design, development, deployment, validation, and applications of fully homomorphic encryption.
+First envisioned in the late seventies, the first realization for fully homomorphic encryption only came three decades later. Fully homomorphic encryption has since been an active research topic.
+
+The FHE.org conference aims at being the premier forum gathering researchers, technologists and practitioners working on the design, development, deployment, validation, and applications of fully homomorphic encryption.
+
 The program committee is seeking original contributions on all aspects of fully homomorphic encryption. Submissions across a broad range of the development phases are encouraged, from exploratory research and proof-of-concept studies to practical applications and deployment of fully homomorphic encryption and related technologies. Topics of interest include, but are not limited to:
 
 - Fully homomorphic encryption and its applications
