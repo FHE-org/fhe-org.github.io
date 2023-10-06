@@ -16,12 +16,12 @@
 </p>
 <hr/>
 
-<!-- ## Coming up -->
+## Coming up
 
-<!-- a href="https://www.meetup.com/fhe-org/events/296355903/"><img alt="Meetup #035" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/c2ec8a2d-f60b-4d97-9037-1380704e919e" /></a-->
+<a href="https://www.meetup.com/fhe-org/events/296557693/"><img alt="Meetup #037" src="https://user-images.githubusercontent.com/37557436/272951431-0c67fc02-ffbd-46fc-86b6-95a67f60f449.png" /></a>
 
-<!--#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/296355903/), **[Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://www.meetup.com/fhe-org/events/296355903/)** by **Simon Pohmann** on **Oct 5th, 2023 at 4PM CEST**-->
 
+#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/296557693/), **[HEIR: A foundation for FHE compilers](https://www.meetup.com/fhe-org/events/296557693/)** by **Jeremy Kun** on **Oct 19th, 2023 at 4PM CEST**
 
 <br>
 
