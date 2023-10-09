@@ -9,7 +9,7 @@
 
 # Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping
 #### by Simon Pohmann - 2023.10.05 
-#### <!-- <a href="https://www.meetup.com/fhe-org/events/296355903/">Register to attend</a> --> <a href="https://www.youtube.com/watch?v=r970zQEj8Nw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <!-- <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <!-- <a href="https://www.meetup.com/fhe-org/events/296355903/">Register to attend</a> --> <a href="https://www.youtube.com/watch?v=r970zQEj8Nw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="">[Slides](https://github.com/FHE-org/fhe-org.github.io/files/12846454/presentation-1.pdf)</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![Meetup event cover 36](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/83ff9f09-ba5b-4605-8e41-671dd64de9bf)
 
