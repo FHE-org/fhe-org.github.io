@@ -20,7 +20,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/committees">Committees</a>
   —
-  <a href="https://easychair.org/my/conference?conf=fheorg2024"><b>Submissions</b></a>
+  <a href="https://easychair.org/conferences/?conf=fheorg2024" target="_blank"><b>Submissions</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/contact">Contact</a>
   —
