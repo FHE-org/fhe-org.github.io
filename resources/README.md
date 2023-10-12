@@ -141,7 +141,7 @@
 - [Fully Homomorphic Encryption without Bootstrapping](https://eprint.iacr.org/2011/277) by **Zvika Brakerski, Craig Gentry, and Vinod Vaikuntanathan** in **2011**
 - [Fully Homomorphic Encryption Using Ideal Lattices](https://dl.acm.org/doi/abs/10.1145/1536414.1536440) by **Craig Gentry** in **2009**
 - [Public-Key Cryptosystems Based on Composite Degree Residuosity Classes](https://link.springer.com/chapter/10.1007/3-540-48910-X_16) by **Pascal Paillier** in **1999**
-- [A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms](https://ieeexplore.ieee.org/document/1057074) by **Taher ElGamal** in **1985**
+- [A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms](https://doi.org/10.1109/TIT.1985.1057074) by **Taher ElGamal** in **1985**
 - [On data and privacy homomorphisms](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/RAD78.pdf) by **Ronald L. Rivest, Len Adleman, and Michael L. Dertouzos** in **1978**
 - [A method for obtaining digital signatures and public-key cryptosystems](https://dl.acm.org/doi/10.1145/359340.359342) by **Ronald .L. Rivest, Adi Shamir, and Leonard Adleman** in **1978**
 
