@@ -6,8 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-
-
 <!-- Header conference 2024 links -->
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2024/"><b>Home</b></a>
@@ -16,13 +14,13 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations"> Call for presentations</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations">Call for presentations</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/committees">Committees</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/committees"><b>Committees</b></a>
   —
   <a href="https://easychair.org/conferences/?conf=fheorg2024" target="_blank">Submissions</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/contact"><b>Contact</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/contact">Contact</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/sponsor">Sponsor</a>
   —
@@ -33,7 +31,15 @@
 
 
 
+# FHE.org conference 2024 — Committees
 
-# FHE.org 2024 — Contact
+## General chair
+- **Ilaria Chillotti** *Zama, France*
 
-For general conference related inquiries and sponsorships, reach out to contact@fhe.org.
+## Program co-chairs
+- **Mariya Georgieva Belorgey** *Inpher, Switzerland*
+- **Yarkin Doroz** *Worcester Polytechnic Institute, USA*
+
+## Program committee
+- **TBA**
+

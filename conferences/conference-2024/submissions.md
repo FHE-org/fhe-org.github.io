@@ -16,13 +16,13 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations"> Call for presentations</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/call-for-presentations">Call for presentations</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/committees">Committees</a>
   —
-  <a href="https://easychair.org/conferences/?conf=fheorg2024" target="_blank">Submissions</a>
+  <a href="https://easychair.org/conferences/?conf=fheorg2024" target="_blank"><b>Submissions</b></a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/contact"><b>Contact</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/contact">Contact</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/sponsor">Sponsor</a>
   —
@@ -31,9 +31,5 @@
 <hr/>
 <!-- /Header conference 2024 links -->
 
-
-
-
-# FHE.org 2024 — Contact
-
-For general conference related inquiries and sponsorships, reach out to contact@fhe.org.
+# FHE.org conference 2024
+Submissions can be made via the easychair server here: https://easychair.org/my/conference?conf=fheorg2024
