@@ -44,12 +44,6 @@
   
   <thead>
         <tr>
-            <th colspan=3><h1>Day 1</h1></th>
-        </tr>
-    </thead>  
-  
-  <thead>
-        <tr>
             <th data-sortas="case-insensitive">Time</th>
             <th data-sortas="case-insensitive">Entry</th>
             <th data-sortas="case-insensitive">Description</th>
@@ -57,42 +51,17 @@
     </thead>  
 
 <tr>
-    <td>9:00 AM</td>
+    <td>8:30 AM</td>
+    <td>Registration & Morning Refreshments</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>8:55 AM</td>
     <td>Opening remarks</td>
     <td></td>
 </tr>  
 <tr>
-    <td>9:30 AM</td>
-    <td>Introduction to tutorials</td> 
-    <td></td>
-</tr>  
-<tr>
-    <td>10:00 AM</td>
-    <td>Tutorials</td>
-    <td>Parallel sessions</td>
-</tr>  
-<tr>
-    <td>11:00 AM</td>
-    <td>Coffee break</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>11:30 AM</td>
-    <td>Students/young researchers present</td>
-    <td>Multiple short presentations / lightning talks</td>
-</tr>  
-<tr>
-    <td>12:30 PM</td>
-    <td>Lunch break</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>2:00 PM</td>
-    <td>Intro to working groups</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>2:30 PM</td>
+    <td>9:15 AM</td>
     <td>Working groups<br>
         (Parallel sessions)</td>
     <td>
@@ -104,114 +73,58 @@ WG5: Combination of FHE and other PETs<br>
 </td>
 </tr>  
 <tr>
-    <td>3:30 PM</td>
-    <td>Coffee break</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>4:00 PM</td>
-    <td>Working groups</td>
-    <td>Continuing parallel sessions</td>
-</tr>  
-<tr>
-    <td>5:30 PM</td>
-    <td>Working groups summary, round table/panel</td>
-    <td>Discussions, looking at the future</td>
-</tr>  
-<tr>
-    <td>6:30 PM</td>
-    <td>Closing remarks</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>7:00 PM</td>
-    <td>Informal drinks</td>
-    <td></td>
-</tr>  
-
-  <thead>
-        <tr>
-            <th colspan=3><h1>Day 2</h1></th>
-        </tr>
-    </thead>  
-  
-
-
-
-
-  <thead>
-        <tr>
-            <th data-sortas="case-insensitive">Time</th>
-            <th data-sortas="case-insensitive">Entry</th>
-            <th data-sortas="case-insensitive">Description</th>
-        </tr>
-    </thead>  
-
-<tr>
-    <td>9:00 AM</td>
-    <td>Opening remarks</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>9:30 AM</td>
-    <td>Poster sessions / networking</td> 
-    <td></td>
-</tr>  
-<tr>
-    <td>10:30 AM</td>
-    <td>Coffee break</td>
-    <td></td>
-</tr>  
-<tr>
     <td>11:00 AM</td>
-    <td>Session</td>
-    <td>Multiple talks</td>
+    <td>Coffee break</td>
+    <td></td>
+</tr>
+<tr>
+    <td>11:15 AM</td>
+    <td>Tutorials</td>
+    <td>Parallel sessions</td>
 </tr>  
 <tr>
-    <td>11:45 PM</td>
-    <td>Invited talk</td>
+    <td>12:15 PM</td>
+    <td>Students/young researchers present</td>
+    <td>Multiple short presentations / lightning talks</td>
+</tr>  
+<tr>
+    <td>12:45 PM</td>
+    <td>Buffet Lunch break / Poster sessions / networking</td>
     <td></td>
 </tr>  
 <tr>
-    <td>12:30 PM</td>
-    <td>Lunch break</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>2:00 PM</td>
-    <td>Session</td>
+    <td>2:15 PM</td>
+    <td>Sessions</td>
     <td>Multiple talks</td>
 </tr>  
 <tr>
-    <td>3:00 PM</td>
-    <td>Invited talk</td>
+    <td>3:45 PM</td>
+    <td>Afternoon break</td>
     <td></td>
 </tr>  
 <tr>
     <td>4:00 PM</td>
-    <td>Coffee break</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>4:30 PM</td>
-    <td>Session</td>
+    <td>Sessions</td>
     <td>Multiple talks</td>
 </tr>  
 <tr>
     <td>5:30 PM</td>
-    <td>Invited talk</td>
+    <td>Keynote address</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>6:15 PM</td>
+    <td>Closing remwarks</td>
     <td></td>
 </tr>  
 <tr>
     <td>6:30 PM</td>
-    <td>Closing remarks</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>7:00 PM</td>
     <td>Party</td>
     <td>Drinks and snacks</td>
 </tr>  
+
+
+
 
 </table>
   
