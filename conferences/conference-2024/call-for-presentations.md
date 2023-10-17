@@ -33,7 +33,7 @@
 
 
 # FHE.org conference 2024 — Call for Presentations
-The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with Real World Crypto 2024 and will be held in Toronto on March 23-24 2024.
+The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with Real World Crypto 2024 and will be held in Toronto on March 24 2024.
 
 ## Motivation and scope
 First envisioned in the late seventies, the first realization for fully homomorphic encryption only came three decades later. Fully homomorphic encryption has since been an active research topic.
@@ -68,5 +68,5 @@ Submissions can be made via the following link: https://easychair.org/conference
 ## Important dates
 - **Submission deadline:** November 22, 2023
 - **Notification:** January 22, 2024
-- **Conference date:** March 23-24, 2024
+- **Conference date:** March 24, 2024
 
