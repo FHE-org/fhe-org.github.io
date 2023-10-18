@@ -63,13 +63,9 @@
 <tr>
     <td>9:15 AM</td>
     <td>Working groups<br>
-        (Parallel sessions)</td>
+        </td>
     <td>
-WG1: Lattice estimator and security<br>
-WG2: FHE compilers and MLIR<br>
-WG3: Educational resource development<br>
-WG4: Standards and regulations<br>
-WG5: Combination of FHE and other PETs<br>
+Parallel sessions to be announced
 </td>
 </tr>  
 <tr>
@@ -114,7 +110,7 @@ WG5: Combination of FHE and other PETs<br>
 </tr>  
 <tr>
     <td>6:15 PM</td>
-    <td>Closing remwarks</td>
+    <td>Closing remarks</td>
     <td></td>
 </tr>  
 <tr>
