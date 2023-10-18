@@ -45,53 +45,45 @@
   <thead>
         <tr>
             <th data-sortas="case-insensitive">Time</th>
-            <th data-sortas="case-insensitive">Entry</th>
-            <th data-sortas="case-insensitive">Description</th>
+            <th data-sortas="case-insensitive">Session Topic</th>
+            <th data-sortas="case-insensitive">Presenters/Authors/Description</th>
         </tr>
     </thead>  
 
 <tr>
     <td>8:30 AM</td>
-    <td>Registration & Morning Refreshments</td>
+    <td>Registration & morning refreshments</td>
     <td></td>
 </tr>  
 <tr>
-    <td>8:55 AM</td>
+    <td>8:45 AM</td>
     <td>Opening remarks</td>
-    <td></td>
+    <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>9:15 AM</td>
-    <td>Working groups<br>
-        </td>
-    <td>
-Parallel sessions to be announced
-</td>
+    <td>Parallel sessions: Working groups — Tutorials - Poster presentations</td>
+    <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>11:00 AM</td>
     <td>Coffee break</td>
-    <td></td>
+    <td>More information coming soon</td>
 </tr>
 <tr>
     <td>11:15 AM</td>
-    <td>Tutorials</td>
-    <td>Parallel sessions</td>
-</tr>  
-<tr>
-    <td>12:15 PM</td>
-    <td>Students/young researchers present</td>
-    <td>Multiple short presentations / lightning talks</td>
+    <td>Parallel sessions: Working groups — Tutorials - Poster presentations</td>
+    <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>12:45 PM</td>
-    <td>Buffet Lunch break / Poster sessions / networking</td>
+    <td>Lunch break</td>
     <td></td>
 </tr>  
 <tr>
     <td>2:15 PM</td>
-    <td>Sessions</td>
-    <td>Multiple talks</td>
+    <td>Session I: contributed talks</td>
+    <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>3:45 PM</td>
@@ -100,23 +92,23 @@ Parallel sessions to be announced
 </tr>  
 <tr>
     <td>4:00 PM</td>
-    <td>Sessions</td>
-    <td>Multiple talks</td>
+    <td>Session II: contributed talks</td>
+    <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>5:30 PM</td>
-    <td>Keynote address</td>
-    <td></td>
+    <td>Invited talk: keynote</td>
+    <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>6:15 PM</td>
     <td>Closing remarks</td>
-    <td></td>
+    <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>6:30 PM</td>
-    <td>Party</td>
-    <td>Drinks and snacks</td>
+    <td>Party 💃🍻</td>
+    <td></td>
 </tr>  
 
 
