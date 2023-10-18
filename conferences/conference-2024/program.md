@@ -68,7 +68,7 @@
 <tr>
     <td>11:00 AM</td>
     <td>Coffee break</td>
-    <td>More information coming soon</td>
+    <td></td>
 </tr>
 <tr>
     <td>11:15 AM</td>
