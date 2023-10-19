@@ -77,7 +77,7 @@
 </tr>  
 <tr>
     <td>12:45 PM</td>
-    <td>Buffet lunch with poster presentations</td>
+    <td>Buffet lunch and poster presentations/discussions</td>
     <td></td>
 </tr>  
 <tr>
