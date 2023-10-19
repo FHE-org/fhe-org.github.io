@@ -37,7 +37,7 @@
 
 # FHE.org conference 2024 - Program
 
-## Tentative program
+## Tentative program, March 24, 2024.
 
 <table>
 
