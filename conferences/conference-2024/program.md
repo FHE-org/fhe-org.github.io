@@ -52,7 +52,7 @@
 
 <tr>
     <td>8:30 AM</td>
-    <td>Registration & morning refreshments</td>
+    <td>Registration & morning refreshments 🍼</td>
     <td></td>
 </tr>  
 <tr>
@@ -61,23 +61,23 @@
     <td>More information coming soon</td>
 </tr>  
 <tr>
-    <td>9:15 AM</td>
-    <td>Parallel sessions: Working groups — Tutorials - Poster presentations</td>
+    <td>9:00 AM</td>
+    <td>Tutorials: real-life use cases for FHE</td>
     <td>More information coming soon</td>
 </tr>  
 <tr>
-    <td>11:00 AM</td>
-    <td>Morning break</td>
+    <td>10:15 AM</td>
+    <td>Morning break ☕️</td>
     <td></td>
 </tr>
 <tr>
-    <td>11:15 AM</td>
-    <td>Parallel sessions: Working groups — Tutorials - Poster presentations</td>
+    <td>10:30 AM</td>
+    <td>Working groups</td>
     <td>More information coming soon</td>
 </tr>  
 <tr>
     <td>12:45 PM</td>
-    <td>Lunch break</td>
+    <td>Buffet lunch with poster presentations</td>
     <td></td>
 </tr>  
 <tr>
@@ -87,7 +87,7 @@
 </tr>  
 <tr>
     <td>3:45 PM</td>
-    <td>Afternoon break</td>
+    <td>Afternoon break 🧃</td>
     <td></td>
 </tr>  
 <tr>
@@ -107,7 +107,7 @@
 </tr>  
 <tr>
     <td>6:30 PM</td>
-    <td>Party 💃🍻</td>
+    <td>After party 🍻</td>
     <td></td>
 </tr>  
 
