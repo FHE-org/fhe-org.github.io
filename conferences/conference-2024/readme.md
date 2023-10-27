@@ -44,6 +44,10 @@ The conference will feature parallel tutorial sessions and work groups, student/
 - **Notification:** January 22, 2024
 - **Conference date:** March 24th, 2024
 
+## Submissions
+
+The [Call for Presentations](https://fhe.org/conferences/conference-2024/call-for-presentations) is open. Make your submissions by November 22nd, 2023.
+
 ## Sponsors
 
 *If your company would like to sponsor this or future conferences, please contact contact@fhe.org.*
