@@ -9,9 +9,9 @@
 
 # Title
 #### by Author - Date 
-#### <a href="https://www.meetup.com/fhe-org/events/######/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![### Meetup cover]()
+![### Meetup cover](https://google.com)
 
 # Abstract
 
@@ -23,7 +23,7 @@ Introduction
 
 # Register to attend
 
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/#####/) event page to attend.
+Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/) event page to attend.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
