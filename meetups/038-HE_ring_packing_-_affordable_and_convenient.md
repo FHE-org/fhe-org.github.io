@@ -9,7 +9,7 @@
 
 # FHE ring packing - affordable and convenient
 #### by Jaehyung Kim - 2023.11.02
-#### <a href="https://www.meetup.com/fhe-org/events/296843665/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=wObrySpahh0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/13242524/HERMES_FHEorg_231102.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![038 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/b2699002-630d-4f83-8df3-0a8d535280f5)
 
@@ -21,12 +21,6 @@ Most FHE schemes can be classified as LWE-based schemes for granularity and RLWE
 # About the speaker
 
 Jaehyung Kim is a research engineer at CryptoLab. Since joining CryptoLab in 2021, he has been maintaining the HEaaN library and working on optimizing and adding functionalities to homomorphic encryption.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/296843665/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
