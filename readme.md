@@ -25,7 +25,10 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
+<!--
 - Register for the next meetup, [FHE ring packing - affordable and convenient](https://www.meetup.com/fhe-org/events/296843665/) by **Jaehyung Kim** on **Nov 2nd, 2023 at 4PM CEST**
+-->
+
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
