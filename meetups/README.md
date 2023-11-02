@@ -16,7 +16,7 @@
 </p>
 <hr/>
 
-## Coming up
+<!-- ## Coming up
 
 <a href="https://www.meetup.com/fhe-org/events/296843665/"><img alt="Meetup #038" src="https://user-images.githubusercontent.com/37557436/276763260-b2699002-630d-4f83-8df3-0a8d535280f5.png" /></a>
 
@@ -24,13 +24,15 @@
 #### [Register for the next meetup](https://www.meetup.com/fhe-org/events/296843665/), **[FHE ring packing - affordable and convenient](https://www.meetup.com/fhe-org/events/296843665/)** by **Jaehyung Kim** on **Nov 2nd, 2023 at 4PM CEST**
 
 <br>
+-->
+
 
 ## Past meetups
 
 FHE.org meetups archive, latest first.
 
 ### 2023
-
+- [FHE ring packing - affordable and convenient](https://fhe.org/meetups/038-HE_ring_packing_-_affordable_and_convenient) by **Jaehyung Kim** on **Nov 2nd, 2023**
 - [HEIR: A foundation for FHE compilers](https://fhe.org/meetups/037-HEIR-A_foundation_for_FHE_compilers) by **Jeremy Kun** on **Oct 19th, 2023**
 - [Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://fhe.org/meetups/036-Homomorphic_Polynomial_Evaluation_using_Galois_structure_and_application_to_BFV_bootstrapping) by **Simon Pohmann** on **Oct 5th, 2023**
 - [Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic](https://fhe.org/meetups/035-Revisiting_Key_Decomposition_Techniques_for_FHE-Simpler_Faster_and_More_Generic) by **Nicolas Gama** on **Sept 28, 2023**
