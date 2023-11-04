@@ -794,14 +794,14 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 
 ### TFHE-rs
 
-- Integers operations #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial-2/operations)
+- Integer operations #Rust #tfhe-rs #tfhe #tutorial
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/integer/operations)
 - Integer Serialization/Deserialization
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial-2/serialization)
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/integer/serialization)
 - Boolean operations #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial/operations)
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/boolean/operations)
 - Boolean serialization #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/tutorial/serialization)
+[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/boolean/serialization)
 - C-API #C #tfhe-rs #tfhe #tutorial
 [view](https://docs.zama.ai/tfhe-rs/how-to/c_api)
 - WASM-API #JS #tfhe-rs #tfhe #tutorial
