@@ -7,27 +7,24 @@
 <!-- /Main header navigation -->
 
 
-# Crypto Dark Matter on the Torus
+# Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE
 #### by Alex Davidson - 2023.11.23
-#### <!-- <a href="https://www.meetup.com/fhe-org/events/">Register to attend</a> | --> <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/297164514/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<!--
-![### Meetup cover](https://google.com)
--->
+![039 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf60d3a2-c9a1-42d9-b3f6-31ffc108047a)
+
 
 # Abstract
 
-TBD
+In this talk, Prof. Alex Davidson will describe a novel construction of an oblivious pseudorandom function (OPRF) protocol with post-quantum security guarantees, based on (T)FHE and low-depth pseudorandom functions. Classical OPRFs are being standardised by the Internet Engineering Task Force, and their applications (including the Privacy Pass and OPAQUE protocols) require high-performance solutions. While previous post-quantum candidates focus more on feasibility, Alex will show that FHE-based OPRFs appear to provide a viable way forward for realising practically efficient constructions.
 
 # About the speaker
 
-TBD
+Alex is an Assistant Professor in the Computer Science Department at Universidade NOVA de Lisboa. His research focuses on applications of cryptography in the Internet setting, and concrete constructions of primitives from lattice-based assumptions. His recent work focuses on building practical privacy-preserving protocols for data aggregation and retrieval scenarios.
 
 # Register to attend
 
-<!--
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/) event page to attend.
--->
+Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/297164514/) event page to attend.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
