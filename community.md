@@ -13,7 +13,7 @@ You can participate in the community via any of its official social channels and
 - <a href="https://discord.fhe.org/" target="_blank">Discord</a>
 - <a href="https://twitter.com/fhe_org" target="_blank">Twitter</a>
 - <a href="https://reddit.com/r/FHE" target="_blank">Reddit</a>
-- <a href="https://ioc.exchang/FHE" target="_blank">Mastodon</a>
+- <a href="https://ioc.exchange/FHE" target="_blank">Mastodon</a>
 - <a href="https://www.linkedin.com/company/fhe-org/" target="_blank">Linkedin</a>
 - <a href="https://fheorg.substack.com/" target="_blank">Newsletter</a>
 
