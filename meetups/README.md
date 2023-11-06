@@ -16,16 +16,14 @@
 </p>
 <hr/>
 
-<!-- ## Coming up
+## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/296843665/"><img alt="Meetup #038" src="https://user-images.githubusercontent.com/37557436/276763260-b2699002-630d-4f83-8df3-0a8d535280f5.png" /></a>
+<a href="https://www.meetup.com/fhe-org/events/297164514/"><img alt="Meetup #038" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf60d3a2-c9a1-42d9-b3f6-31ffc108047a" /></a>
 
 
-#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/296843665/), **[FHE ring packing - affordable and convenient](https://www.meetup.com/fhe-org/events/296843665/)** by **Jaehyung Kim** on **Nov 2nd, 2023 at 4PM CEST**
+#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/297164514/), **[Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://www.meetup.com/fhe-org/events/297164514/)** by **Alex Davidson** on **Nov 23rd, 2023 at 4PM CEST**
 
 <br>
--->
-
 
 ## Past meetups
 
