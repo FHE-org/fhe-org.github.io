@@ -55,6 +55,7 @@ The [Call for Presentations](https://fhe.org/conferences/conference-2024/call-fo
 FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatical order)</i>:
 
 <a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="100px"></a> &nbsp; &nbsp; 
+<a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://leastauthrority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5b8977a0-5765-4153-b167-d8859f65fbc3" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="100px"></a>
