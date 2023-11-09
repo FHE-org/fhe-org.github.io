@@ -1,4 +1,4 @@
-![image](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3dc11e70-4937-4e86-ab91-ffc9ca70551b)<!-- Main header navigation -->
+<!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
   <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <b><a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a></b> | <a href="https://fhe-org.github.io/community">Join the community</a>
