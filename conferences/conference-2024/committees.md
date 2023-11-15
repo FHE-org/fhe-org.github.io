@@ -52,7 +52,7 @@
 - **Wei Dai** *TikTok, USA*
 - **Rosario Cammarota** *Intel AI, USA*
 - **Sergiu Carpov** *Inpher, Switzerland*
-- **Vinu Joseph** *NVIDIA*
+- **Vinu Joseph** *NVIDIA, USA*
 - **Damien Stehlé** *CryptoLab, France*
 - **Nir Drucker** *IBM Research, Israel*
 - **Tancrède Lepoint** *Amazon, USA*
