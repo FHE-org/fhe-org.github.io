@@ -40,6 +40,27 @@
 - **Mariya Georgieva Belorgey** *Inpher, Switzerland*
 - **Yarkin Doroz** *Worcester Polytechnic Institute, USA*
 
+
 ## Program committee
-- **TBA**
+- **Anamaria Costache** *Norwegian University of Science and Technology, Norway*
+- **Erkay Savas** *Sabanci University, Turkey*
+- **Erdinç Öztürk** *Intel, France*
+- **Shruthi Gorantala** *Google, USA*
+- **Rachel Player** *Royal Holloway, University of London, UK*
+- **Mehdi Tibouchi** *NTT Corporation, Japan*
+- **Florent Michel** *Optalysis, UK*
+- **Wei Dai** *TikTok, USA*
+- **Rosario Cammarota** *Intel AI, USA*
+- **Sergiu Carpov** *Inpher, Switzerland*
+- **Vinu Joseph** *NVIDIA, USA*
+- **Damien Stehlé** *CryptoLab, France*
+- **Nir Drucker** *IBM Research, Israel*
+- **Tancrède Lepoint** *Amazon, USA*
+- **Seonyeong Heo** *Kyung Hee University, Korea*
+- **Juan Ramon Troncoso Pastoriza** *Tune Insight, Switzerland*
+- **Charlotte Bonte** *Zama, France*
+- **Yuriy Polyakov** *Duality Technologies, USA*
+- **Nicolas Gama** *Sandbox AQ, France*
+- **Jihoon Cho** *Samsung SDS, South Korea*
+- **Yongsoo Song** *Seoul National University, South Korea*
 
