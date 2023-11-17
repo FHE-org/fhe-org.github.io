@@ -65,6 +65,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 ## Latest updates
 - **2023.10.06:** Call for presentations is online
 - **2023.08.08:** Announcement of the 3rd annual FHE.org conference on Fully Homomorphic Encryption
+- **2023.11.16:** <a href="https://lu.ma/fhe-org-conference-2024-tickets">Registration</a> is now open
 
 <br><br>
 
