@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2024/"><b>Home</b></a>
   —
-  <strike>Register</strike>
+  <a href="https://lu.ma/fhe-org-conference-2024-tickets"><b>Register</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program"><b>Program</b></a>
   —
