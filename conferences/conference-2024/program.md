@@ -10,9 +10,9 @@
 
 <!-- Header conference 2024 links -->
 <p align="center">
-  <a href="https://fhe-org.github.io/conferences/conference-2024/"><b>Home</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/">Home</a>
   —
-  <strike>Register</strike>
+  <a href="https://lu.ma/fhe-org-conference-2024-tickets">Register</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program"><b>Program</b></a>
   —

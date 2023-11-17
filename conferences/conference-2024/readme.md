@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2024/"><b>Home</b></a>
   —
-  <strike>Register</strike>
+  <a href="https://lu.ma/fhe-org-conference-2024-tickets">Register</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/program">Program</a>
   —
@@ -39,9 +39,9 @@ The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is colocated w
 The conference will feature parallel tutorial sessions and work groups, student/young researcher lightning talks, round table/panels, poster sessions, presentation sessions, invited speakers, and a DJ'ed party and dinner. 
 
 ## Important dates
-- **Submission deadline:** November 22, 2023
-- **Registration opens:** December 1st, 2023
-- **Notification:** January 22, 2024
+- **Submission deadline:** November 22nd, 2023
+- **Registration opens:** November 16th, 2023
+- **Notification:** January 22nd, 2024
 - **Conference date:** March 24th, 2024
 
 ## Submissions
@@ -65,6 +65,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 ## Latest updates
 - **2023.10.06:** Call for presentations is online
 - **2023.08.08:** Announcement of the 3rd annual FHE.org conference on Fully Homomorphic Encryption
+- **2023.11.16:** <a href="https://lu.ma/fhe-org-conference-2024-tickets">Registration</a> is now open
 
 <br><br>
 
