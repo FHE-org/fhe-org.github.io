@@ -41,6 +41,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5b8977a0-5765-4153-b167-d8859f65fbc3" width="100px"></a> &nbsp; &nbsp; 
+<a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="100px"></a>
 
 <br>
