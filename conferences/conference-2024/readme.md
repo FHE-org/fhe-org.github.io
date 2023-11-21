@@ -39,7 +39,7 @@ The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is colocated w
 The conference will feature parallel tutorial sessions and work groups, student/young researcher lightning talks, round table/panels, poster sessions, presentation sessions, invited speakers, and a DJ'ed party and dinner. 
 
 ## Important dates
-- **Submission deadline:** November 22nd, 2023
+- **Submission deadline:** November 22nd, 2023 (23:59 AoE time)
 - **Registration opens:** November 16th, 2023
 - **Notification:** January 22nd, 2024
 - **Conference date:** March 24th, 2024
