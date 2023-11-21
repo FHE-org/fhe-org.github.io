@@ -40,27 +40,27 @@
 - **Mariya Georgieva Belorgey** *Inpher, Switzerland*
 - **Yarkin Doroz** *Worcester Polytechnic Institute, USA*
 
-
 ## Program committee
-- **Anamaria Costache** *Norwegian University of Science and Technology, Norway*
-- **Erkay Savas** *Sabanci University, Turkey*
-- **Erdinç Öztürk** *Intel, France*
-- **Shruthi Gorantala** *Google, USA*
-- **Rachel Player** *Royal Holloway, University of London, UK*
-- **Mehdi Tibouchi** *NTT Corporation, Japan*
-- **Florent Michel** *Optalysis, UK*
-- **Wei Dai** *TikTok, USA*
+- **Charlotte Bonte** *Zama, France*
 - **Rosario Cammarota** *Intel AI, USA*
 - **Sergiu Carpov** *Inpher, Switzerland*
-- **Vinu Joseph** *NVIDIA, USA*
-- **Damien Stehlé** *CryptoLab, France*
-- **Nir Drucker** *IBM Research, Israel*
-- **Tancrède Lepoint** *Amazon, USA*
-- **Seonyeong Heo** *Kyung Hee University, Korea*
-- **Juan Ramon Troncoso Pastoriza** *Tune Insight, Switzerland*
-- **Charlotte Bonte** *Zama, France*
-- **Yuriy Polyakov** *Duality Technologies, USA*
-- **Nicolas Gama** *Sandbox AQ, France*
 - **Jihoon Cho** *Samsung SDS, South Korea*
+- **Anamaria Costache** *Norwegian University of Science and Technology, Norway*
+- **Wei Dai** *TikTok, USA*
+- **Nir Drucker** *IBM Research, Israel*
+- **Nicolas Gama** *Sandbox AQ, France*
+- **Shruthi Gorantala** *Google, USA*
+- **Seonyeong Heo** *Kyung Hee University, Korea*
+- **Vinu Joseph** *NVIDIA, USA*
+- **Tancrède Lepoint** *Amazon, USA*
+- **Florent Michel** *Optalysis, UK*
+- **Erdinç Öztürk** *Intel, France*
+- **Rachel Player** *Royal Holloway, University of London, UK*
+- **Yuriy Polyakov** *Duality Technologies, USA*
+- **Erkay Savas** *Sabanci University, Turkey*
 - **Yongsoo Song** *Seoul National University, South Korea*
+- **Damien Stehlé** *CryptoLab, France*
+- **Mehdi Tibouchi** *NTT Corporation, Japan*
+- **Juan Ramon Troncoso-Pastoriza** *Tune Insight, Switzerland*
+
 
