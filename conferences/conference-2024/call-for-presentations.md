@@ -66,7 +66,7 @@ The final program will consist of both invited talks and contributed talks. It w
 Submissions can be made via the following link: <a href="https://easychair.org/conferences/?conf=fheorg2024">https://easychair.org/conferences/?conf=fheorg2024</a>.
 
 ## Important dates
-- **Submission deadline:** November 22, 2023
+- **Submission deadline:** November 22, 2023 (23:59 AoE time)
 - **Notification:** January 22, 2024
 - **Conference date:** March 24, 2024
 
