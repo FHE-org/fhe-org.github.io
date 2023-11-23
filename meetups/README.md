@@ -18,10 +18,10 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/297164514/"><img alt="Meetup #038" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf60d3a2-c9a1-42d9-b3f6-31ffc108047a" /></a>
+<a href="https://www.meetup.com/fhe-org/events/297373798/"><img alt="Meetup #040" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1146b8ef-4379-4bd0-856b-9a6abcf39ca9"/></a>
 
 
-#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/297164514/), **[Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://www.meetup.com/fhe-org/events/297164514/)** by **Alex Davidson** on **Nov 23rd, 2023 at 4PM CEST**
+#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/297373798/), **[Lattigo v5: Deep Dive](https://www.meetup.com/fhe-org/events/297373798/)** by **Jean-Philippe Bossuat** on **Dec 7th, 2023 at 4PM CEST**
 
 <br>
 
@@ -30,6 +30,7 @@
 FHE.org meetups archive, latest first.
 
 ### 2023
+- [Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://fhe.org/meetups/039-Crypto_Dark_Matter_on_the_Torus) by **Alex Davidson** on **Nov, 23rd, 2023**
 - [FHE ring packing - affordable and convenient](https://fhe.org/meetups/038-HE_ring_packing_-_affordable_and_convenient) by **Jaehyung Kim** on **Nov 2nd, 2023**
 - [HEIR: A foundation for FHE compilers](https://fhe.org/meetups/037-HEIR-A_foundation_for_FHE_compilers) by **Jeremy Kun** on **Oct 19th, 2023**
 - [Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://fhe.org/meetups/036-Homomorphic_Polynomial_Evaluation_using_Galois_structure_and_application_to_BFV_bootstrapping) by **Simon Pohmann** on **Oct 5th, 2023**
