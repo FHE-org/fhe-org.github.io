@@ -25,7 +25,7 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, [Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://www.meetup.com/fhe-org/events/297164514/) by **Alex Davidson** on **Nov 23rd, 2023 at 4PM CEST**
+- Register for the next meetup, [Lattigo v5: Deep Dive](https://www.meetup.com/fhe-org/events/297373798/) by **Jean-Philippe Bossuat** on **Dec 7th, 2023 at 4PM CEST**
 
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
