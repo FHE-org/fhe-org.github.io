@@ -11,7 +11,7 @@
 #### by Jean-Philippe Bossuat - 2023.12.07
 #### <a href="https://www.meetup.com/fhe-org/events/297373798/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![040 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/d0b1f0b0-e9ed-433a-8b61-343526de96fc)
+![040 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/32f9997b-3528-4f00-bfdd-b95cef9b9474)
 
 
 # Abstract

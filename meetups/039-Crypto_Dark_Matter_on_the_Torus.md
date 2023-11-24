@@ -9,7 +9,7 @@
 
 # Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE
 #### by Alex Davidson - 2023.11.23
-#### <a href="https://www.meetup.com/fhe-org/events/297164514/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=4od8R8BszC0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/13452561/oprf-fhe-meetup-2023.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![039 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf60d3a2-c9a1-42d9-b3f6-31ffc108047a)
 
@@ -21,12 +21,6 @@ In this talk, Prof. Alex Davidson will describe a novel construction of an obliv
 # About the speaker
 
 Alex is an Assistant Professor in the Computer Science Department at Universidade NOVA de Lisboa. His research focuses on applications of cryptography in the Internet setting, and concrete constructions of primitives from lattice-based assumptions. His recent work focuses on building practical privacy-preserving protocols for data aggregation and retrieval scenarios.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/297164514/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
