@@ -539,7 +539,7 @@ Libraries are the software developers use to perform FHE operations easily, simi
 <tr>
 <td colspan=2 markdown="1">
 
-- [Concrete](https://github.com/zama-ai/concrete) - Rust FHE library that implements Zama's variant of TFHE by **Zama**
+- [Concrete](https://github.com/zama-ai/concrete) - TFHE Compiler that converts python programs into FHE equivalent by **Zama**
 - [Concrete ML](https://github.com/zama-ai/concrete-ml) - Privacy Preserving ML framework built on top of Concrete by **Zama**
 - [HEaaN](https://heaan.it/) - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
 - [HElib](https://github.com/HomEnc/HElib) - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
