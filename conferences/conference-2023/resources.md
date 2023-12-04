@@ -60,7 +60,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>On Polynomial Functions Modulo p^e and Faster Bootstrapping for Homomorphic Encryption</td>
     <td>Robin Geelen (KU Leuven), Ilia Iliashenko (CipherMode Labs), Jiayi Kang (KU Leuven), Frederik Vercauteren (KU Leuven)</td>
     <td>
-      <a href="https://www.esat.kuleuven.be/cosic/publications/talk-583.pdf">
+      <a href="https://cosicdatabase.esat.kuleuven.be/backend/publications/files/talk/583">
         Slides
       </a> /
       <a href="https://www.youtube.com/watch?v=HPx_6_d4WDQ&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=2">
