@@ -58,6 +58,7 @@
 - [Regular Expression Engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) by **Zama** on **June 30, 2023**
 - [Confidential ERC-20 Tokens Using Homomorphic Encryption](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) by **Zama** on **June 28, 2023**
 - [Building an FHE compiler for the real world](https://blog.sunscreen.tech/from-toy-programs-to-real-life-building-an-fhe-compiler/) by **Ravital Solomon** on **May 18, 2023**
+- [A study of polynomial functions with applications to FHE bootstrapping](https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2023-a-study-of-polynomial-functions-with-applications-to-fhe-bootstrapping/) by **Robin Geelen** on **April 24, 2023**
 - [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
 - [Sample Extraction from RLWE to LWE](https://jeremykun.com/2023/02/27/sample-extraction-from-rlwe-to-lwe/) by **Jeremy Kun** on **February 27, 2023**
 - [Google’s Fully Homomorphic Encryption Compiler — A Primer](https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/) by **Jeremy Kun** on **February 13, 2023**
@@ -67,6 +68,7 @@
 - [Key Switching in LWE](https://jeremykun.com/2022/08/29/key-switching-in-lwe/) by **Jeremy Kun** on **Aug 29, 2022**
 - [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) by **Zama** on **Aug 18, 2022**
 - [Modulus Switching in LWE](https://jeremykun.com/2022/07/16/modulus-switching-in-lwe/) by **Jeremy Kun** on **July 12, 2022**
+- [High-precision bootstrapping for approximate FHE](https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2022-high-precision-bootstrapping-for-approximate-fhe/) by **Robin Geelen** on **June 11, 2022**
 - [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) by **Ilaria Chillotti** on **Jun 2, 2022**
 - [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by **Ilaria Chillotti** on **May 18, 2022**
 - [TFHE deep-dive - part 2 - Encodings and linear leveled operations](https://www.zama.ai/post/tfhe-deep-dive-part-2) by **Ilaria Chillotti** on **May 11, 2022**
