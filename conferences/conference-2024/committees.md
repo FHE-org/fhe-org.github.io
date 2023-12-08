@@ -33,8 +33,8 @@
 
 # FHE.org conference 2024 — Committees
 
-## General chair
-- **Ilaria Chillotti** *Zama, France*
+<!-- ## General chair
+- **Ilaria Chillotti** *Zama, France* -->
 
 ## Program co-chairs
 - **Mariya Georgieva Belorgey** *Inpher, Switzerland*
