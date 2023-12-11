@@ -104,6 +104,7 @@
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- [Lattigo v5: Deep Dive](https://fhe.org/meetups/040-Lattigo-v5-Deep-Dive) by **Jean-Philippe Bossuat** on **Dec, 12th, 2023**
 - [Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://fhe.org/meetups/039-Crypto_Dark_Matter_on_the_Torus) by **Alex Davidson** on **Nov, 23rd, 2023**
 - [FHE ring packing - affordable and convenient](https://fhe.org/meetups/038-HE_ring_packing_-_affordable_and_convenient) by **Jaehyung Kim** on **Nov 2nd, 2023**
 - [Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://fhe.org/meetups/036-Homomorphic_Polynomial_Evaluation_using_Galois_structure_and_application_to_BFV_bootstrapping) by **Simon Pohmann** on **Oct 5th, 2023**
