@@ -9,7 +9,7 @@
 
 # Lattigo v5: Deep Dive
 #### by Jean-Philippe Bossuat - 2023.12.07
-#### <a href="https://www.meetup.com/fhe-org/events/297373798/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=6A3jhwuqmNU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <!-- <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![040 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/32f9997b-3528-4f00-bfdd-b95cef9b9474)
 
@@ -27,12 +27,6 @@ The v5 also expands the supported arithmetic, such as sign, step, min, max, inve
 Jean-Philippe Bossuat is a cryptography software engineer at Tune Insight SA and co-author and maintainer of the Lattigo library.
 
 His work focuses on researching, designing, implementing and optimizing FHE-based applications for B2B privacy preserving analytics and machine learning.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/297373798/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
