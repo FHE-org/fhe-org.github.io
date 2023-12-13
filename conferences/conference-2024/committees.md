@@ -33,8 +33,8 @@
 
 # FHE.org conference 2024 — Committees
 
-<!-- ## General chair
-- **Ilaria Chillotti** *Zama, France* -->
+## General chair
+- **Benjamin Curtis** *Zama, France*
 
 ## Program co-chairs
 - **Mariya Georgieva Belorgey** *Inpher, Switzerland*
@@ -62,5 +62,15 @@
 - **Damien Stehlé** *CryptoLab, France*
 - **Mehdi Tibouchi** *NTT Corporation, Japan*
 - **Juan Ramon Troncoso-Pastoriza** *Tune Insight, Switzerland*
+
+## A special thanks to the people helping with the FHE.org conference organization
+- **Rasoul Akhavan Mahdavi**
+- **Ilaria Chillotti**
+- **Damien Ligier**
+- **Alex Lindstrom**
+- **Alexandre Quint**
+- **Agathe Prepin**
+- **Neal Wright**
+- **Jérémy Zaccherini**
 
 
