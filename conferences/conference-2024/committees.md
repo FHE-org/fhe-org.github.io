@@ -53,7 +53,7 @@
 - **Seonyeong Heo** *Kyung Hee University, Korea*
 - **Vinu Joseph** *NVIDIA, USA*
 - **Tancrède Lepoint** *Amazon, USA*
-- **Florent Michel** *Optalysis, UK*
+- **Florent Michel** *Optalysys, UK*
 - **Erdinç Öztürk** *Intel, France*
 - **Rachel Player** *Royal Holloway, University of London, UK*
 - **Yuriy Polyakov** *Duality Technologies, USA*
