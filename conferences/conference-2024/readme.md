@@ -63,6 +63,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/76496d1e-4cad-4568-8b6e-6209d916b487" width="100px"></a> &nbsp; &nbsp; 
+<a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="100px"></a> &nbsp; &nbsp; 
