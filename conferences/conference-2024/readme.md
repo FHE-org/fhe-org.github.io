@@ -60,6 +60,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="100px"></a> &nbsp; &nbsp; 
+<a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/76496d1e-4cad-4568-8b6e-6209d916b487" width="100px"></a> &nbsp; &nbsp; 
