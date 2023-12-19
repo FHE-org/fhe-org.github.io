@@ -173,10 +173,10 @@
 
 ## Courses
 
+- [Tutorial: Advanced HE packing methods with applications to ML](https://research.ibm.com/haifa/dept/vst/tutorial_ccs2023.html) by **Hayim Shaul**, **Ehud Aharoni**, and **Nir Drucker** in **2023**
 - [CSE208: Advanced Cryptography (FHE)](https://cseweb.ucsd.edu/classes/wi23/cse208-a/) by **Daniele Micciancio** in **2023**
 - [Foundations of Private Computation](https://courses.openmined.org/courses/foundations-of-private-computation)  by **Openmined** in **2022**
 - [Homomorphic Encryption and Lattices](https://shaih.github.io/lattices-and-HE-class/index.html) by **Shai Halevi** in **2011**
-
 
 <!--- Footer --->
 <hr/>
