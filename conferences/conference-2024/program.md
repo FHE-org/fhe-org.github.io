@@ -56,12 +56,12 @@
     <td></td>
 </tr>  
 <tr>
-    <td>8:45 AM</td>
-    <td>Opening remarks</td>
+    <td>9:00 AM</td>
+    <td>Welcome and Opening remarks</td>
     <td>More information coming soon</td>
 </tr>  
 <tr>
-    <td>9:00 AM</td>
+    <td>9:05 AM</td>
     <td>Tutorials: real-life use cases for FHE</td>
     <td>More information coming soon</td>
 </tr>  
@@ -71,42 +71,48 @@
     <td></td>
 </tr>
 <tr>
-    <td>10:30 AM</td>
-    <td>Working groups</td>
+    <td>10:45 AM</td>
+    <td>Session I: contributed talks
+    </td>
     <td>More information coming soon</td>
 </tr>  
 <tr>
-    <td>12:45 PM</td>
+    <td>12:30 PM</td>
     <td>Buffet lunch and poster presentations/discussions</td>
     <td></td>
 </tr>  
 <tr>
-    <td>2:15 PM</td>
-    <td>Session I: contributed talks</td>
-    <td>More information coming soon</td>
-</tr>  
-<tr>
-    <td>3:45 PM</td>
-    <td>Afternoon break 🧃</td>
-    <td></td>
-</tr>  
-<tr>
-    <td>4:00 PM</td>
+    <td>1:30 PM</td>
     <td>Session II: contributed talks</td>
     <td>More information coming soon</td>
 </tr>  
 <tr>
-    <td>5:30 PM</td>
-    <td>Invited talk: keynote</td>
+    <td>3:15 PM</td>
+    <td>Afternoon break 🧃</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>3:45 PM</td>
+    <td>Session III: contributed talks</td>
     <td>More information coming soon</td>
 </tr>  
 <tr>
-    <td>6:15 PM</td>
+    <td>5:05 PM</td>
+    <td>Short break</td>
+    <td></td>
+</tr>  
+<tr>
+    <td>5:15 PM</td>
+    <td>Invited Speaker</td>
+    <td>More information coming soon</td>
+</tr>  
+<tr>
+    <td>6:00 PM</td>
     <td>Closing remarks</td>
     <td>More information coming soon</td>
 </tr>  
 <tr>
-    <td>6:30 PM</td>
+    <td>6:15 PM</td>
     <td>After party 🍻</td>
     <td></td>
 </tr>  
