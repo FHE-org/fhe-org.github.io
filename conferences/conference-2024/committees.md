@@ -33,9 +33,6 @@
 
 # FHE.org conference 2024 — Committees
 
-<!-- ## General chair
-- **Ilaria Chillotti** *Zama, France* -->
-
 ## Program co-chairs
 - **Mariya Georgieva Belorgey** *Inpher, Switzerland*
 - **Yarkin Doroz** *Worcester Polytechnic Institute, USA*
@@ -63,4 +60,5 @@
 - **Mehdi Tibouchi** *NTT Corporation, Japan*
 - **Juan Ramon Troncoso-Pastoriza** *Tune Insight, Switzerland*
 
-
+## Any question?
+- You can write the organization committee at **contact@fhe.org**
