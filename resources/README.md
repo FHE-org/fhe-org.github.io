@@ -58,6 +58,7 @@
 - [Regular Expression Engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) by **Zama** on **June 30, 2023**
 - [Confidential ERC-20 Tokens Using Homomorphic Encryption](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) by **Zama** on **June 28, 2023**
 - [Building an FHE compiler for the real world](https://blog.sunscreen.tech/from-toy-programs-to-real-life-building-an-fhe-compiler/) by **Ravital Solomon** on **May 18, 2023**
+- [Efficient FHEW bootstrapping with small evaluation keys](https://www.esat.kuleuven.be/cosic/blog/ec23/) by **Jiayi Kang** on **May 8, 2023**
 - [A study of polynomial functions with applications to FHE bootstrapping](https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2023-a-study-of-polynomial-functions-with-applications-to-fhe-bootstrapping/) by **Robin Geelen** on **April 24, 2023**
 - [Encrypted Key-value Database using FHE](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) by **Zama** on **Mar 16, 2023**
 - [Sample Extraction from RLWE to LWE](https://jeremykun.com/2023/02/27/sample-extraction-from-rlwe-to-lwe/) by **Jeremy Kun** on **February 27, 2023**
