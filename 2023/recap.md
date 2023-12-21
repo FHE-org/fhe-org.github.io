@@ -10,7 +10,7 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 </p>
 <hr/>
 
-![FHE org 2023 year review](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/76bd733c-d7b2-477c-97f4-f4967e557313)
+![FHE org 2023 year review](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/eeaf1028-c969-486a-9279-39226e041821)
 
 
 
