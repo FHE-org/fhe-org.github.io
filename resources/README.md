@@ -69,6 +69,7 @@
 - [Key Switching in LWE](https://jeremykun.com/2022/08/29/key-switching-in-lwe/) by **Jeremy Kun** on **Aug 29, 2022**
 - [Conway's Game of Life](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) by **Zama** on **Aug 18, 2022**
 - [Modulus Switching in LWE](https://jeremykun.com/2022/07/16/modulus-switching-in-lwe/) by **Jeremy Kun** on **July 12, 2022**
+- [New packing and batching techniques for FHE schemes (Eurocrypt 2022)](https://www.esat.kuleuven.be/cosic/blog/ec22-new-packing-techniques-and-simd-for-fhe-schemes/) by **Hilder V. L. Pereira** on **June 06, 2022**
 - [High-precision bootstrapping for approximate FHE](https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2022-high-precision-bootstrapping-for-approximate-fhe/) by **Robin Geelen** on **June 11, 2022**
 - [TFHE deep-dive - part 4 - Programmable Bootstrapping](https://www.zama.ai/post/tfhe-deep-dive-part-4) by **Ilaria Chillotti** on **Jun 2, 2022**
 - [TFHE deep-dive - part 3 - Key switching and leveled multiplications](https://www.zama.ai/post/tfhe-deep-dive-part-3) by **Ilaria Chillotti** on **May 18, 2022**
