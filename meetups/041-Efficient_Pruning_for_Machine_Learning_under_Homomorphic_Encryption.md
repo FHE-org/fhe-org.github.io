@@ -7,19 +7,20 @@
 <!-- /Main header navigation -->
 
 
-# Title
-#### by Author - Date 
+# Efficient Pruning for Machine Learning under Homomorphic Encryption
+#### by Subhankar Pal - 2024.01.04
 #### <a href="https://www.meetup.com/fhe-org/events/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![### Meetup cover](https://google.com)
+![041 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/2909275d-5a68-40c9-a14f-005dd7d5c8cf)
+
 
 # Abstract
 
-Description
+Homomorphic encryption (HE) based privacy-preserving machine learning (PPML) solutions are gaining widespread popularity. However, model sizes in PPML are limited by computational speed and memory requirements for inference. Pruning the model parameters improves latency and memory in plaintext ML, but has little impact if directly applied to HE-based PPML. This presentation introduces a framework called HE-PEx that carefully applies parameter pruning and permutation methods, on top of a packing technique called tile tensors, for reducing the latency and memory of PPML inference.
 
 # About the speaker
 
-Introduction
+Dr. Subhankar Pal is a research scientist at IBM T.J. Watson Research Center in Yorktown Heights, USA. He currently works on hardware and software co-designed approaches for accelerating homomorphic encryption, and SoC-level design methodologies. In the past, he has worked on reconfigurable computer architectures, machine learning hardware and compiler techniques, resource scheduling, among others.
 
 # Register to attend
 
