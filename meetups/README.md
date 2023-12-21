@@ -16,15 +16,11 @@
 </p>
 <hr/>
 
-<!--
-
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/297373798/"><img alt="Meetup #040" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1146b8ef-4379-4bd0-856b-9a6abcf39ca9"/></a>
+<a href="https://www.meetup.com/fhe-org/events/298068690/"><img alt="Meetup #041" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/2909275d-5a68-40c9-a14f-005dd7d5c8cf"/></a>
 
-#### [Register for the next meetup](https://www.meetup.com/fhe-org/events/297373798/), **[Lattigo v5: Deep Dive](https://www.meetup.com/fhe-org/events/297373798/)** by **Jean-Philippe Bossuat** on **Dec 7th, 2023 at 4PM CEST**
-
--->
+#### [Register for the next meetup](), **[Efficient Pruning for Machine Learning under Homomorphic Encryption](https://www.meetup.com/fhe-org/events/298068690/)** by **Subhankar Pal** on **Jan 4th, 2024 at 4PM CEST**
 
 <br>
 
