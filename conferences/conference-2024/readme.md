@@ -57,6 +57,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="100px"></a> &nbsp; &nbsp; 
+<a href="https://eaglys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/54a0bb9f-0546-44cb-a1ed-7d0b9785fbd1" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="100px"></a> &nbsp; &nbsp; 
 <a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="100px"></a> &nbsp; &nbsp; 
