@@ -62,23 +62,23 @@ The submission deadline has now passed. We thank all submitters for their contri
 
 FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatical order)</i>:
 
-<a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://eaglys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/54a0bb9f-0546-44cb-a1ed-7d0b9785fbd1" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/76496d1e-4cad-4568-8b6e-6209d916b487" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://shostack.org/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a1d21430-aefe-49dd-b0e8-3ae7747fad96" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="150px"></a> &nbsp; &nbsp; 
-<a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
+<span style="padding-right:5px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span> 
+<span style="padding-right:5px"><a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="150px"></a></span> 
+<span style="padding-right:5px"><a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://eaglys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/54a0bb9f-0546-44cb-a1ed-7d0b9785fbd1" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/76496d1e-4cad-4568-8b6e-6209d916b487" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://shostack.org/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a1d21430-aefe-49dd-b0e8-3ae7747fad96" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="150px"></a></span>
+<span style="padding-right:5px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
 <br><br>
 
