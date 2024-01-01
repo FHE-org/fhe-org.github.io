@@ -48,36 +48,37 @@ The conference will feature parallel tutorial sessions and work groups, student/
 
 The submission deadline has now passed. We thank all submitters for their contribution to FHE.org 2024!
 
-## Sponsors
-
-*If your company would like to sponsor this or future conferences, please contact contact@fhe.org.*
-
-FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatical order)</i>:
-
-<a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://eaglys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/54a0bb9f-0546-44cb-a1ed-7d0b9785fbd1" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/76496d1e-4cad-4568-8b6e-6209d916b487" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://shostack.org/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a1d21430-aefe-49dd-b0e8-3ae7747fad96" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="100px"></a> &nbsp; &nbsp; 
-<a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="100px"></a>
-
 
 ## Latest updates
 - **2023.11.16** 🎉🎟 The registration for FHE.org 2024 is now open. We have limited room for this 3rd conference, make sure to get your tickets [here](https://lu.ma/fhe-org-conference-2024-tickets)
 - **2022.11.22** Thank you to everyone who submitted an abstract for our CFP. We will announce the selected presentations/posters on January 22nd
 - **2023.10.06:** Call for presentations is online
 - **2023.08.08:** Announcement of the 3rd annual FHE.org conference on Fully Homomorphic Encryption
+
+
+## Sponsors
+
+*If your company would like to sponsor this or future conferences, please contact contact@fhe.org.*
+
+FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatical order)</i>:
+
+<a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://eaglys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/54a0bb9f-0546-44cb-a1ed-7d0b9785fbd1" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/76496d1e-4cad-4568-8b6e-6209d916b487" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://shostack.org/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a1d21430-aefe-49dd-b0e8-3ae7747fad96" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="200px"></a> &nbsp; &nbsp; 
+<a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="200px"></a>
 
 <br><br>
 
