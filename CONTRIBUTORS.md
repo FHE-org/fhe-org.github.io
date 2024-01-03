@@ -14,9 +14,9 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 
 # Contributors [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io)
 
-We humbly thank the global FHE community for their various contributions to this repo in the form of edits, PRs, suggestions, content authoring, and presenting meetups <i>(listed alphabetically)</i>: 
+We humbly thank the global FHE community for their contributions in various forms including participation in contributing to the repo, volunteering, meetups, and participating in organizational committees.<i>(listed alphabetically)</i>: 
 
-* Pascal Paillier [<a href="https://link.springer.com/chapter/10.1007/3-540-48910-X_16" title="Public-Key Cryptosystems Based on Composite Degree Residuosity Classes">1</a>, <a href="https://fhe-org.github.io/meetups/001-introduction-to-fhe" title="Introduction to FHE">2</a>, <a href="https://drive.google.com/file/d/1_5VRi2cyWsK1zW9Ehb_prmkjyExxcFZk/view?usp=sharing" title="FHE.org competition">3</a>, <a href="https://www.youtube.com/watch?v=phWYLwlPTY0&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=11" title="Invited Talk: Recent Advances in Homomorphic Compilation w/ Pascal Paillier">4</a>]
+
 
 <i>If you would like to be included on this page, feel free to edit it and issue a PR with the relevant information.</i>
 
