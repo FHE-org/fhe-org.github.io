@@ -677,24 +677,27 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 
 ### Lattigo
 
+<i>This section is pending updates to the links.</i>
+
 - A Privacy-Preserving yet Accountable Ride-Hailing Service #Go #lattigo #BFV #application
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/bfv/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/bfv/main.go) -->
 - CKKS Lookup Table #ckks #Go #lattigo #tutorial
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/advanced/lut/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/advanced/lut/main.go) -->
 - CKKS Bootstrapping #ckks #Go #lattigo #tutorial
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/bootstrapping/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/bootstrapping/main.go) -->
 - Euler #ckks #Go #lattigo #tutorial
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/euler/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/euler/main.go) -->
 - Function evaluation #ckks #Go #lattigo #tutorial
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/polyeval/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/ckks/polyeval/main.go) -->
 - Private Information Retrieval example #bfv #Go #lattigo #application
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/dbfv/pir/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/dbfv/pir/main.go) -->
 - Private Set intersection example #bfv #Go #lattigo #application
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/dbfv/psi/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/dbfv/psi/main.go) -->
 - TFHE Lookup Table #tfhe #Go #lattigo #tutorial
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/rgsw/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/rgsw/main.go) -->
 - Vectorized oblivious evaluation #Go #lattigo #application
-[view](https://github.com/tuneinsight/lattigo/blob/master/examples/ring/vOLE/main.go)
+<!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/ring/vOLE/main.go) -->
+
 
 ### HEAAN
 
