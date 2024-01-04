@@ -25,9 +25,7 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://www.meetup.com/fhe-org/events/298068690/) by **Subhankar Pal** on **Jan 4th, 2024 at 4PM CEST**
-
-
+- Register for the next meetup, **[High-precision RNS-CKKS on small word-size architectures](https://www.meetup.com/fhe-org/events/298080687/)** by **Duhyeong Kim** on **Jan 11th, 2024 at 5PM CEST**
 
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
