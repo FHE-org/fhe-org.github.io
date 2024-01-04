@@ -62,6 +62,7 @@ The submission deadline has now passed. We thank all submitters for their contri
 
 FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatical order)</i>:
 
+<span style="padding-right:10px"><a href="https://aws.amazon.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5b6eaaaf-d115-41ff-b2da-e3643bb06db1" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="150px"></a></span>
