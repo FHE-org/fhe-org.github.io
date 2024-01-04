@@ -122,6 +122,7 @@
 - [Efficient TFHE Bootstrapping in the Multiparty Setting](https://fhe.org/meetups/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting) by **Sergi Rovira** on **June 1, 2023**
 - [Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice](https://fhe.org/meetups/023-Circuit_Privacy_for_FHEW-TFHE-Style_Fully_Homomorphic_Encryption_in_Practice) by **Kamil Kluczniak** on **May 11, 2023**
 - [TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture](https://fhe.org/meetups/022-TT-TFHE_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture) by **Adrien Benamira** on **Apr 27, 2023**
+- [On the history of FHEMPCZK-friendly symmetric crypto](https://www.esat.kuleuven.be/cosic/blog/stap23-on-the-history-of-fhempczk-friendly-symmetric-crypto/) by **Erik Pohle** on **April 23, 2023**
 - [Faster Amortized FHEW bootstrapping using Ring Automorphisms](https://fhe.org/meetups/021-Faster_Amortized_FHE_bootstrapping_using_Ring_Automorphisms) by **Duhyeong Kim and Gabrielle De Micheli** on **Feb 28, 2023**
 - [On the Hardness of the Finite Field Isomorphism Problem](https://fhe.org/meetups/019-On_the_Hardness_of_the_Finite_Field_Isomorphism_Problem) 	by **Antoine Joux** on **Jan 24, 2023**
 - [Introducing CryptoLabs's FHE library: HEaaN](https://fhe.org/meetups/018-Introducing_the_HEaaN_library_by_CryptoLab) by **Taekyung Kim** on **Dec 13, 2022**
