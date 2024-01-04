@@ -18,15 +18,18 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/298068690/"><img alt="Meetup #041" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/2909275d-5a68-40c9-a14f-005dd7d5c8cf"/></a>
+<a href="https://www.meetup.com/fhe-org/events/298080687/"><img alt="Meetup #042" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7ff09634-e394-416e-9b9a-84e6feeb102a"/></a>
 
-#### [Register for the next meetup](), **[Efficient Pruning for Machine Learning under Homomorphic Encryption](https://www.meetup.com/fhe-org/events/298068690/)** by **Subhankar Pal** on **Jan 4th, 2024 at 4PM CEST**
+#### Register for the next meetup, **[High-precision RNS-CKKS on small word-size architectures](https://www.meetup.com/fhe-org/events/298080687/)** by **Duhyeong Kim** on **Jan 11th, 2024 at 5PM CEST**
 
 <br>
 
 ## Past meetups
 
 FHE.org meetups archive, latest first.
+
+### 2024
+- [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
 
 ### 2023
 - [Lattigo v5: Deep Dive](https://fhe.org/meetups/040-Lattigo-v5-Deep-Dive) by **Jean-Philippe Bossuat** on **Dec, 12th, 2023**
