@@ -9,7 +9,7 @@
 
 # Efficient Pruning for Machine Learning under Homomorphic Encryption
 #### by Subhankar Pal - 2024.01.04
-#### <a href="https://www.meetup.com/fhe-org/events/298068690/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=GSinoPfLmYk&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://arxiv.org/pdf/2207.03384.pdf">Paper</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![041 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/2909275d-5a68-40c9-a14f-005dd7d5c8cf)
 
@@ -21,12 +21,6 @@ Homomorphic encryption (HE) based privacy-preserving machine learning (PPML) sol
 # About the speaker
 
 Dr. Subhankar Pal is a research scientist at IBM T.J. Watson Research Center in Yorktown Heights, USA. He currently works on hardware and software co-designed approaches for accelerating homomorphic encryption, and SoC-level design methodologies. In the past, he has worked on reconfigurable computer architectures, machine learning hardware and compiler techniques, resource scheduling, among others.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/298068690/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
