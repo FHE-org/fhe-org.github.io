@@ -14,11 +14,96 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 
 # Contributors [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io)
 
-We humbly thank the global FHE community for their contributions in various forms including participation in contributing to the repo, volunteering, meetups, and participating in organizational committees.<i>(listed alphabetically)</i>: 
+We humbly thank the FHE community for their contributions in various forms including repo contributions, event volunteering and organization, meetup presentations, authoring works that further educating the community, and sponsoring events <i>(listed alphabetically)</i>: 
 
+* Adrien Benamira
+* Ahmet Can Mert
+* Aikata
+* Alexander Viand
+* Alex Davidson
+* Amir Sahai
+* Andrey Kim
+* Anca Nitulescu
+* Antoine Joux
+* Artem Lenskiy
+* Ayoub Benaissa
+* Beatrice Biasioli
+* Brent Waters
+* Cathie Yun
+* Cheon Jung Hee
+* Chirath Hettiarachchi
+* Christopher Nolan
+* Clément Hoffmann
+* Craig Gentry
+* Daniele Micciancio
+* Duhyeong Kim
+* Elkhan Ismayilzada
+* Eran Tromer
+* Fan Junfeng
+* Florent Michel
+* Frederik Vercauteren
+* Furkan Aydin
+* Gabrielle De Micheli
+* Georgio Nicolas
+* Haotian Weng
+* Hayim Shaul
+* Hilder V. L. Pereira
+* Huan-Chih Wang
+* Ilaria Chillotti
+* Jaehyung Kim
+* Jakub Klemsa
+* Jean-Baptiste Orfila
+* Jean-Philippe Bossuat
+* Jeremy Kun
+* Jiayi Kang
+* Jonas Bertels
+* Joseph Wilson
+* Junfeng Fan
+* Jung Hee Cheon
+* Kelong Cong
+* Kamil Kluczniak
+* Kristin Lauter
+* Leo Ducas
+* Leonard Adleman
+* Léo Ducas
+* Marc Joye
+* Mariya Georgieva
+* Martin Albrecht
+* Malika Izabachène
+* Michael L. Dertouzos
+* Miran Kim
+* Morten Dahl
+* Muhammad Haris
+* Nicolas Gama
+* Nir Drucker
+* Orel Cosseron
+* Pascal Paillier
+* Pierre-Emmanuel Clet
+* Rand Hindi
+* Ravital Solomon
+* Rob Springer
+* Robin Geelen
+* Ronald L. Rivest
+* Rosario Cammarota
+* Samir Menon
+* Samuel Tap
+* Seonghong Min
+* Sergi Rovira
+* <a href="https://shaih.github.io/">Shai Halevi</a>
+* Shayan Shams
+* Shruthi Gorantala
+* Simon Pohmann
+* Tabitha Ogilvie
+* Taher ElGamal
+* Taekyung Kim
+* Vinod Vaikuntanathan
+* Xiaoqian Jiang
+* Yehuda Lindell
+* Yongsoo Song
+* Zvika Brakerski
+  
 
-
-<i>If you would like to be included on this page, feel free to edit it and issue a PR with the relevant information.</i>
+<i>If you would like to be included on this page or already included and want to modify your information, feel free to edit it and issue a PR with the relevant information.</i>
 
 <!--- Footer --->
 <hr/>
