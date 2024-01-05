@@ -11,7 +11,7 @@
 #### by Duhyeong Kim - 2024.01.11
 #### <a href="https://www.meetup.com/fhe-org/events/298080687/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![042 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7ff09634-e394-416e-9b9a-84e6feeb102a)
+![042 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5e8a7737-3ef4-46a1-bf86-84bae4aad959)
 
 
 # Abstract
