@@ -18,7 +18,7 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/298080687/"><img alt="Meetup #042" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7ff09634-e394-416e-9b9a-84e6feeb102a"/></a>
+<a href="https://www.meetup.com/fhe-org/events/298080687/"><img alt="Meetup #042" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5e8a7737-3ef4-46a1-bf86-84bae4aad959"/></a>
 
 #### Register for the next meetup, **[High-precision RNS-CKKS on small word-size architectures](https://www.meetup.com/fhe-org/events/298080687/)** by **Duhyeong Kim** on **Jan 11th, 2024 at 5PM CEST**
 
