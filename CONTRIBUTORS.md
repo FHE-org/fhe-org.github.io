@@ -16,29 +16,37 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 
 We humbly thank the FHE community for their contributions in various forms including repo contributions, event volunteering and organization, meetup presentations, authoring works that further educating the community, and sponsoring events <i>(listed alphabetically)</i>: 
 
-* Adrien Benamira
-* Ahmet Can Mert
-* Aikata
+
+* Agathe Prepin
 * Alexander Viand
-* Alex Davidson
 * Amir Sahai
+* Anamaria Costache
 * Andrey Kim
 * Anca Nitulescu
 * Antoine Joux
 * Artem Lenskiy
 * Ayoub Benaissa
 * Beatrice Biasioli
+* Benjamin Curtis
 * Brent Waters
+* carrotcypher
 * Cathie Yun
+* Charlotte Bonte
 * Cheon Jung Hee
 * Chirath Hettiarachchi
+* Christian Rechberger
 * Christopher Nolan
 * Clément Hoffmann
 * Craig Gentry
+* Cristian Lupascu
 * Daniele Micciancio
+* Damien Stehlé
+* Dongwoo Kim
 * Duhyeong Kim
 * Elkhan Ismayilzada
 * Eran Tromer
+* Erdinç Öztürk
+* Erkay Savas
 * Fan Junfeng
 * Florent Michel
 * Frederik Vercauteren
@@ -54,54 +62,79 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Jakub Klemsa
 * Jean-Baptiste Orfila
 * Jean-Philippe Bossuat
+* Jean-Sébastien Coron
+* Jeongeun Park
+* Jeremy Bradley
 * Jeremy Kun
 * Jiayi Kang
+* Jihoon Cho
 * Jonas Bertels
 * Joseph Wilson
-* Junfeng Fan
+* Juan Ramon Troncoso-Pastoriza
+* Juan Troncoso-Pastoriza
 * Jung Hee Cheon
+* Junfeng Fan
+* Karim Eldefrawy
 * Kelong Cong
 * Kamil Kluczniak
+* Koji Nuida
 * Kristin Lauter
+* Kyoohyung Han
 * Leo Ducas
 * Leonard Adleman
 * Léo Ducas
+* Malika Izabachène
 * Marc Joye
 * Mariya Georgieva
+* Mariya Georgieva Belorgey
 * Martin Albrecht
-* Malika Izabachène
+* Medha
+* Mehdi Tibouchi
 * Michael L. Dertouzos
 * Miran Kim
 * Morten Dahl
 * Muhammad Haris
 * Nicolas Gama
 * Nir Drucker
+* Noboru Kunihiro
 * Orel Cosseron
 * Pascal Paillier
 * Pierre-Emmanuel Clet
+* Rachel Player
 * Rand Hindi
 * Ravital Solomon
 * Rob Springer
 * Robin Geelen
 * Ronald L. Rivest
-* Rosario Cammarota
+* Rosario Camarota
 * Samir Menon
 * Samuel Tap
+* Seonyeong Heo
 * Seonghong Min
 * Sergi Rovira
+* Sergiu Carpov
 * <a href="https://shaih.github.io/">Shai Halevi</a>
 * Shayan Shams
 * Shruthi Gorantala
 * Simon Pohmann
+* Subhankar Pal
 * Tabitha Ogilvie
 * Taher ElGamal
 * Taekyung Kim
+* Taeho Jung
+* Takuya Suzuki
+* Tancrède Lepoint
 * Vinod Vaikuntanathan
+* Vinu Joseph
+* Wei Dai
 * Xiaoqian Jiang
-* Yehuda Lindell
+* Yarkin Doroz
 * Yongsoo Song
+* Yoga Rahulamathavan
+* Yuriy Polyakov
+* Yehuda Lindell
 * Zvika Brakerski
-  
+* Jérémy Zaccherini
 
 <i>If you would like to be included on this page or already included and want to modify your information, feel free to edit it and issue a PR with the relevant information.</i>
 
