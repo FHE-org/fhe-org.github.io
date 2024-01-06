@@ -14,10 +14,11 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 
 # Contributors [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io)
 
-We humbly thank the FHE community for their contributions in various forms including repo contributions, event volunteering and organization, meetup presentations, authoring works that further educating the community, and sponsoring events <i>(listed alphabetically)</i>: 
+We humbly thank the FHE community for their contributions in various forms including repo contributions, event volunteering and organization, meetup presentations, authoring works that further educate the community, and sponsoring events <i>(listed alphabetically)</i>: 
 
 
 * Agathe Prepin
+* Alexandre Quint 
 * Alexander Viand
 * Amir Sahai
 * Anamaria Costache
@@ -29,7 +30,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Beatrice Biasioli
 * Benjamin Curtis
 * Brent Waters
-* carrotcypher
+* <a href="https://github.com/carrotcypher">carrotcypher</a>
 * Cathie Yun
 * Charlotte Bonte
 * Cheon Jung Hee
@@ -40,6 +41,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Craig Gentry
 * Cristian Lupascu
 * Daniele Micciancio
+* Damien Ligier
 * Damien Stehlé
 * Dongwoo Kim
 * Duhyeong Kim
@@ -95,6 +97,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Morten Dahl
 * Muhammad Haris
 * Nicolas Gama
+* Nigel Smart
 * Nir Drucker
 * Noboru Kunihiro
 * Orel Cosseron
