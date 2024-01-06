@@ -18,20 +18,20 @@ We humbly thank the FHE community for their contributions in various forms inclu
 
 
 * Agathe Prepin
-* Alexandre Quint 
-* Alexander Viand
-* Amir Sahai
-* Anamaria Costache
-* Andrey Kim
-* Anca Nitulescu
-* Antoine Joux
-* Artem Lenskiy
-* Ayoub Benaissa
-* Beatrice Biasioli
+* <a href="https://github.com/aquint-zama">Alexandre Quint</a> 
+* <a href="https://github.com/AlexanderViand">Alexander Viand</a>
+* <a href="http://web.cs.ucla.edu/~sahai/">Amit Sahai</a>
+* <a href="https://anamariacostache.github.io/anamariacostache/">Anamaria Costache</a>
+* <a href="https://github.com/kimandrik">Andrey Kim</a>
+* <a href="https://www.di.ens.fr/~nitulesc/">Anca Nitulescu</a>
+* <a href="https://cispa.de/en/people/c01anjo">Antoine Joux</a>
+* <a href="https://cecc.anu.edu.au/people/artem-lensky">Artem Lenskiy</a>
+* <a href="https://www.ayoub-benaissa.com/">Ayoub Benaissa</a>
+* <a href="https://scholar.google.com/citations?user=kkyrZ0EAAAAJ&hl=it">Beatrice Biasioli</a>
 * Benjamin Curtis
-* Brent Waters
+* <a href="https://www.cs.utexas.edu/~bwaters/">Brent Waters</a>
 * <a href="https://github.com/carrotcypher">carrotcypher</a>
-* Cathie Yun
+* <a href="https://cathieyun.github.io/">Cathie Yun</a>
 * Charlotte Bonte
 * Cheon Jung Hee
 * Chirath Hettiarachchi
