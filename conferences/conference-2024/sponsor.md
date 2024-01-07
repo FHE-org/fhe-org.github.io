@@ -45,6 +45,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <span style="padding-right:10px"><a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://www.ingonyama.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a0565918-7e04-4154-91a4-c6abf7215074" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://loricacyber.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/64d80d77-e178-4de3-912a-84d4b9255377" width="150px"></a></span>
