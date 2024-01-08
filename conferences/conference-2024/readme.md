@@ -79,6 +79,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <span style="padding-right:10px"><a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://shostack.org/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a1d21430-aefe-49dd-b0e8-3ae7747fad96" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://tekkare.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/8ab9be0d-f89b-4026-a895-5bbb923660a0" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
