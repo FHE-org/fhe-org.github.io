@@ -84,6 +84,8 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
 <br><br>
+<b>We also recognize Arnav Pagidyala for their direct contribution.</b>
 
+<br><br>
 If you need assistance, feel free to reach out at contact@fhe.org.
 
