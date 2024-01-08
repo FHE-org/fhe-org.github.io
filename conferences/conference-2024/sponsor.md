@@ -58,6 +58,9 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
 
+<br><br>
+<b>We also recognize Arnav Pagidyala for their direct contribution.</b>
+
 <br>
 
 We are happy to announce that the 3rd Annual FHE.org Conference on Fully Homomorphic Encryption will take place on March 24th 2024. It is [colocated with RWC 2024](https://rwc.iacr.org/2024/colocated.php) and will be held in Toronto, Canada (venue TBA).
