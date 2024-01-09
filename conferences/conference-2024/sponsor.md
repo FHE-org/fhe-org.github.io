@@ -72,6 +72,6 @@ Detailed information can be found on the conference webpage: https://fhe.org/202
 
 We are inviting sponsors for the conference. Sponsors may use the opportunity to increase their brand recognition, to get in touch with likeminded people, or to simply support progress in the field. The sponsorship funds are used to pay for event costs, support guest speakers and student attendees, and to host an after-conference reception. There is also a possibility to offer you some space for a booth or live demo.
 
-To propose a sponsorship, drop a line to contact@fhe.org.
+If you would like to sponsor, <a href="https://forms.gle/CpKTLZ797rqqD22c8">please fill out this form</a> and we'll get back to you shortly. If the form isn't working or you have questions you'd like to ask first, feel free to drop a line to contact@fhe.org.
 
 
