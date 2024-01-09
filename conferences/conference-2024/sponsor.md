@@ -55,6 +55,7 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 <span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://tekkare.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7f5a5c0d-415b-4450-b7ba-4e670461014d" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://tt-logic.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/aa76cacd-a5d5-491c-837f-b2e7b2fda593" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
