@@ -9,7 +9,7 @@
 
 # High-precision RNS-CKKS on small word-size architectures
 #### by Duhyeong Kim - 2024.01.11
-#### <a href="https://www.meetup.com/fhe-org/events/298080687/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <!-- Video recording (Youtube) | --><a href="https://github.com/FHE-org/fhe-org.github.io/files/13906454/compositescaling_fheorg.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![042 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5e8a7737-3ef4-46a1-bf86-84bae4aad959)
 
@@ -21,12 +21,6 @@ In this talk, Duhyeong Kim explains how to achieve high-precision RNS CKKS on fi
 # About the speaker
 
 Duhyeong Kim is a research scientist in Security and Privacy Research (SPR) group at Intel Labs and leads the FHE algorithm & workload team in the group. His major research topics are homomorphic encryption and lattice-based cryptography, but he is broadly interested in all aspects of cryptography and mathematical problems derived from them. Duhyeong Kim completed his PhD in 2021 at Seoul National University (SNU), where he was advised by Jung Hee Cheon. In 2015, he graduated with Highest Honors from SNU majoring in Mathematical Sciences.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/298080687/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
