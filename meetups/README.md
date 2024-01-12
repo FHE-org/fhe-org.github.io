@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/298080687/"><img alt="Meetup #042" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5e8a7737-3ef4-46a1-bf86-84bae4aad959"/></a>
+<a href="https://www.meetup.com/fhe-org/events/298454749/"><img alt="Meetup #043" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf5ccf9b-ccbd-421b-96bf-cc06c33b5c1a"/></a>
 
-#### Register for the next meetup, **[High-precision RNS-CKKS on small word-size architectures](https://www.meetup.com/fhe-org/events/298080687/)** by **Duhyeong Kim** on **Jan 11th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[Designs for practical SHE schemes based on Ring-LWR](https://www.meetup.com/fhe-org/events/298454749/)** by **Erin Hales** on **Jan 25th, 2024 at 4PM CEST**
 
 <br>
 
@@ -29,6 +29,7 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [High-precision RNS-CKKS on small word-size architectures](https://www.meetup.com/fhe-org/events/298080687/) by **Duhyeong Kim** on **Jan 11th, 2024**
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
 
 ### 2023
