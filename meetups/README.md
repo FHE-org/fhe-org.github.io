@@ -29,7 +29,7 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
-- [High-precision RNS-CKKS on small word-size architectures](https://www.meetup.com/fhe-org/events/298080687/) by **Duhyeong Kim** on **Jan 11th, 2024**
+- [High-precision RNS-CKKS on small word-size architectures](https://fhe.org/meetups/042-High-precision-RNS-CKKS-on-small-word-size-architectures) by **Duhyeong Kim** on **Jan 11th, 2024**
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
 
 ### 2023
