@@ -18,7 +18,7 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/298454749/"><img alt="Meetup #043" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf5ccf9b-ccbd-421b-96bf-cc06c33b5c1a"/></a>
+<a href="https://www.meetup.com/fhe-org/events/298454749/"><img alt="Meetup #043" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/205d7365-2891-4a8b-a4aa-be8975f526dd"/></a>
 
 #### Register for the next meetup, **[Designs for practical SHE schemes based on Ring-LWR](https://www.meetup.com/fhe-org/events/298454749/)** by **Erin Hales** on **Jan 25th, 2024 at 4PM CEST**
 
