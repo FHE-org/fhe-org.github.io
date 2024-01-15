@@ -11,7 +11,7 @@
 #### by Erin Hales - 2024.01.25
 #### <a href="https://www.meetup.com/fhe-org/events/298454749/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![043 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf5ccf9b-ccbd-421b-96bf-cc06c33b5c1a)
+![043 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/205d7365-2891-4a8b-a4aa-be8975f526dd)
 
 
 # Abstract
