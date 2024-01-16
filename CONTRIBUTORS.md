@@ -132,7 +132,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Wei Dai
 * Xiaoqian Jiang
 * Yarkin Doroz
-* Yongsoo Song
+* <a href="https://yongsoosong.github.io/">Yongsoo Song</a>
 * Yoga Rahulamathavan
 * Yuriy Polyakov
 * Yehuda Lindell
