@@ -32,7 +32,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://www.cs.utexas.edu/~bwaters/">Brent Waters</a>
 * <a href="https://github.com/carrotcypher">carrotcypher</a>
 * <a href="https://cathieyun.github.io/">Cathie Yun</a>
-* Charlotte Bonte
+* <a href="https://scholar.google.com/citations?user=tk4g8iwAAAAJ&hl=sv">Charlotte Bonte</a>
 * Cheon Jung Hee
 * Chirath Hettiarachchi
 * Christian Rechberger
