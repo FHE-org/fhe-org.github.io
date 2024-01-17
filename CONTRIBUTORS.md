@@ -68,6 +68,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Jeongeun Park
 * Jeremy Bradley
 * Jeremy Kun
+* Jérémy Zaccherini
 * Jiayi Kang
 * Jihoon Cho
 * Jonas Bertels
@@ -137,7 +138,6 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Yuriy Polyakov
 * Yehuda Lindell
 * Zvika Brakerski
-* Jérémy Zaccherini
 
 <i>If you would like to be included on this page or already included and want to modify your information, feel free to edit it and issue a PR with the relevant information.</i>
 
