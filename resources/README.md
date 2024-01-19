@@ -99,6 +99,7 @@
 
 ## Hardware
 
+- [BASALISC: Programmable Hardware Accelerator for BGV Fully Homomorphic Encryption](https://arxiv.org/abs/2205.14017) by **Robin Geelen, Michiel Van Beirendonck, Hilder V. L. Pereira, Brian Huffman, Tynan McAuley, Ben Selfridge, Daniel Wagner, Georgios Dimou, Ingrid Verbauwhede, Frederik Vercauteren, David W. Archer** on **July 25, 2023**
 - [An Optical Hardware Accelerator for FHE](https://fhe.org/meetups/027-An_Optical_Hardware_Accelerator_for_FHE) by **Joseph Wilson** on **June 15, 2023**
 - [Hardware accelerator for FHEW](https://fhe.org/meetups/024-Hardware_accelerator_for_FHEW) by **Jonas Bertels** on **May 25, 2023**
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe.org/meetups/020-Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
