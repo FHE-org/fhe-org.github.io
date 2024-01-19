@@ -32,14 +32,14 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://www.cs.utexas.edu/~bwaters/">Brent Waters</a>
 * <a href="https://github.com/carrotcypher">carrotcypher</a>
 * <a href="https://cathieyun.github.io/">Cathie Yun</a>
-* <a href="https://scholar.google.com/citations?user=tk4g8iwAAAAJ&hl=sv">Charlotte Bonte</a>
-* Cheon Jung Hee
-* Chirath Hettiarachchi
-* Christian Rechberger
-* Christopher Nolan
-* Clément Hoffmann
-* Craig Gentry
-* Cristian Lupascu
+* <a href="https://scholar.google.com/citations?user=tk4g8iwAAAAJ">Charlotte Bonte</a>
+* <a href="https://scholar.google.com/citations?user=KlTc3U4AAAAJ">Cheon Jung Hee</a>
+* <a href="https://chirathyh.github.io/">Chirath Hettiarachchi</a>
+* <a href="https://www.iaik.tugraz.at/person/christian-rechberger/">Christian Rechberger</a>
+* <a href="https://jcsmr.anu.edu.au/professor-christopher-nolan">Christopher Nolan</a>
+* <a href="https://scholar.google.com/citations?user=XYghPVAAAAAJ">Clément Hoffmann</a>
+* <a href="https://scholar.google.com/citations?user=ZIlzcYcAAAAJ">Craig Gentry</a>
+* <a href="https://scholar.google.com/citations?user=jQi1CVcAAAAJ">Cristian Lupascu</a>
 * Daniele Micciancio
 * Damien Ligier
 * Damien Stehlé
