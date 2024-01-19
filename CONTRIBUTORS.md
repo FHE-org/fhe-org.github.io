@@ -45,10 +45,10 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="http://perso.ens-lyon.fr/damien.stehle/">Damien Stehlé</a>
 * <a href="https://dwkim606.github.io/">Dongwoo Kim</a>
 * <a href="https://du1204.github.io/">Duhyeong Kim</a>
-* Elkhan Ismayilzada
-* Eran Tromer
-* Erdinç Öztürk
-* Erkay Savas
+* <a href="https://elkhanzada.github.io/">Elkhan Ismayilzada</a>
+* <a href="https://www.cs.tau.ac.il/~tromer/">Eran Tromer</a>
+* <a href="https://scholar.google.com/citations?user=C1lS3TUAAAAJ">Erdinç Öztürk</a>
+* <a href="https://people.sabanciuniv.edu/~erkays/">Erkay Savas</a>
 * Fan Junfeng
 * Florent Michel
 * Frederik Vercauteren
