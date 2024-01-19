@@ -40,11 +40,11 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://scholar.google.com/citations?user=XYghPVAAAAAJ">Clément Hoffmann</a>
 * <a href="https://scholar.google.com/citations?user=ZIlzcYcAAAAJ">Craig Gentry</a>
 * <a href="https://scholar.google.com/citations?user=jQi1CVcAAAAJ">Cristian Lupascu</a>
-* Daniele Micciancio
-* Damien Ligier
-* Damien Stehlé
-* Dongwoo Kim
-* Duhyeong Kim
+* <a href="https://scholar.google.com/citations?user=8rjreLIAAAAJ">Daniele Micciancio</a>
+* <a href="https://scholar.google.com/citations?user=t9wZJU0AAAAJ">Damien Ligier</a>
+* <a href="http://perso.ens-lyon.fr/damien.stehle/">Damien Stehlé</a>
+* <a href="https://dwkim606.github.io/">Dongwoo Kim</a>
+* <a href="https://du1204.github.io/">Duhyeong Kim</a>
 * Elkhan Ismayilzada
 * Eran Tromer
 * Erdinç Öztürk
