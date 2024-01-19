@@ -28,7 +28,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://cecc.anu.edu.au/people/artem-lensky">Artem Lenskiy</a>
 * <a href="https://www.ayoub-benaissa.com/">Ayoub Benaissa</a>
 * <a href="https://scholar.google.com/citations?user=kkyrZ0EAAAAJ&hl=it">Beatrice Biasioli</a>
-* Benjamin Curtis
+* <a href="https://scholar.google.com/citations?user=wPnZUOkAAAAJ">Benjamin Curtis</a>
 * <a href="https://www.cs.utexas.edu/~bwaters/">Brent Waters</a>
 * <a href="https://github.com/carrotcypher">carrotcypher</a>
 * <a href="https://cathieyun.github.io/">Cathie Yun</a>
