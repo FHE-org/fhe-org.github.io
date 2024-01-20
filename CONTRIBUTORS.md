@@ -53,13 +53,13 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://scholar.google.com/citations?user=nSYWx_QAAAAJ">Florent Michel</a>
 * <a href="https://www.esat.kuleuven.be/cosic/people/frederik-vercauteren/">Frederik Vercauteren</a>
 * <a href="https://scholar.google.com/citations?user=WM8RQJ0AAAAJ">Furkan Aydin</a>
-* Gabrielle De Micheli
-* Georgio Nicolas
+* <a href="https://gmicheli.github.io/">Gabrielle De Micheli</a>
+* <a href="https://georgio.xyz/">Georgio Nicolas</a>
 * Haotian Weng
 * Hayim Shaul
 * Hilder V. L. Pereira
 * Huan-Chih Wang
-* Ilaria Chillotti
+* <a href="https://ilachill.github.io/">Ilaria Chillotti</a>
 * Jaehyung Kim
 * Jakub Klemsa
 * Jean-Baptiste Orfila
