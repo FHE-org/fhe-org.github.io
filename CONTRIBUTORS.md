@@ -49,10 +49,10 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://www.cs.tau.ac.il/~tromer/">Eran Tromer</a>
 * <a href="https://scholar.google.com/citations?user=C1lS3TUAAAAJ">Erdinç Öztürk</a>
 * <a href="https://people.sabanciuniv.edu/~erkays/">Erkay Savas</a>
-* Fan Junfeng
-* Florent Michel
-* Frederik Vercauteren
-* Furkan Aydin
+* <a href="https://scholar.google.com/citations?user=rrphxucAAAAJ">Fan Junfeng</a>
+* <a href="https://scholar.google.com/citations?user=nSYWx_QAAAAJ">Florent Michel</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/frederik-vercauteren/">Frederik Vercauteren</a>
+* <a href="https://scholar.google.com/citations?user=WM8RQJ0AAAAJ">Furkan Aydin</a>
 * Gabrielle De Micheli
 * Georgio Nicolas
 * Haotian Weng
