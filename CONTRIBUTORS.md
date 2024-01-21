@@ -60,32 +60,30 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://hilder-vitor.github.io/">Hilder V. L. Pereira</a>
 * <a href="https://dblp.org/pid/198/1353.html">Huan-Chih Wang</a>
 * <a href="https://ilachill.github.io/">Ilaria Chillotti</a>
-* Jaehyung Kim
-* Jakub Klemsa
-* Jean-Baptiste Orfila
-* Jean-Philippe Bossuat
-* Jean-Sébastien Coron
-* Jeongeun Park
-* Jeremy Bradley
-* Jeremy Kun
-* Jérémy Zaccherini
-* Jiayi Kang
-* Jihoon Cho
-* Jonas Bertels
-* Joseph Wilson
-* Juan Ramon Troncoso-Pastoriza
-* Juan Troncoso-Pastoriza
-* Jung Hee Cheon
-* Junfeng Fan
-* Karim Eldefrawy
-* Kelong Cong
-* Kamil Kluczniak
-* Koji Nuida
-* Kristin Lauter
-* Kyoohyung Han
-* Leo Ducas
-* Leonard Adleman
-* Léo Ducas
+* <a href="https://www.researchgate.net/scientific-contributions/Jaehyung-Kim-2235342516">Jaehyung Kim</a>
+* <a href="https://crypto.fit.cvut.cz/people/jakub-klemsa">Jakub Klemsa</a>
+* <a href="https://dblp.org/pid/154/6414.html">Jean-Baptiste Orfila</a>
+* <a href="https://jeanphilippebossuat.ch/">Jean-Philippe Bossuat</a>
+* <a href="http://www.crypto-uni.lu/jscoron/index.html">Jean-Sébastien Coron</a>
+* <a href="https://scholar.google.com/citations?user=O_3qcpgAAAAJ">Jeongeun Park</a>
+* <a href="https://councils.forbes.com/profile/Jeremy-Bradley-Silverio-Donato-COO-Zama/eaa8a050-5f31-49cc-ab43-a5ec81818eb3">Jeremy Bradley</a>
+* <a href="https://jeremykun.com/about/">Jeremy Kun</a>
+* <a href="https://github.com/zaccherinij">Jérémy Zaccherini</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/jiayi-kang/">Jiayi Kang</a>
+* <a href="https://www.iacr.org/cryptodb/data/author.php?authorkey=9294">Jihoon Cho</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/jonas-bertels/">Jonas Bertels</a>
+* <a href="https://medium.com/@joseph.wilson_17990">Joseph Wilson</a>
+* <a href="https://scholar.google.com/citations?user=VhDiT9YAAAAJ">Juan Ramon Troncoso-Pastoriza</a>
+* <a href="https://scholar.google.com/citations?user=KlTc3U4AAAAJ">Jung Hee Cheon</a>
+* <a href="https://scholar.google.com/citations?user=rrphxucAAAAJ">Junfeng Fan</a>
+* <a href="https://keldefrawy.github.io/">Karim Eldefrawy</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/kelong-cong/">Kelong Cong</a>
+* <a href="https://dblp.org/pid/119/3540.html">Kamil Kluczniak</a>
+* <a href="https://kyushu-u.elsevierpure.com/en/persons/koji-nuida">Koji Nuida</a>
+* <a href="https://scholar.google.com/citations?user=TmuUs30AAAAJ">Kristin Lauter</a>
+* <a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>
+* <a href="https://homepages.cwi.nl/~ducas/">Léo Ducas</a>
+* <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2003-04/dna-computing/adleman_bio.htm">Leonard Adleman</a>
 * Malika Izabachène
 * Marc Joye
 * Mariya Georgieva
