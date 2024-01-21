@@ -55,10 +55,10 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://scholar.google.com/citations?user=WM8RQJ0AAAAJ">Furkan Aydin</a>
 * <a href="https://gmicheli.github.io/">Gabrielle De Micheli</a>
 * <a href="https://georgio.xyz/">Georgio Nicolas</a>
-* Haotian Weng
-* Hayim Shaul
-* Hilder V. L. Pereira
-* Huan-Chih Wang
+* <a href="https://scholar.google.com/citations?user=dXPJRw4AAAAJ">Haotian Weng</a>
+* <a href="https://hayim4.wixsite.com/hayimshaul">Hayim Shaul</a>
+* <a href="https://hilder-vitor.github.io/">Hilder V. L. Pereira</a>
+* <a href="https://dblp.org/pid/198/1353.html">Huan-Chih Wang</a>
 * <a href="https://ilachill.github.io/">Ilaria Chillotti</a>
 * Jaehyung Kim
 * Jakub Klemsa
