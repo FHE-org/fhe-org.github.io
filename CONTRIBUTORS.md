@@ -17,7 +17,7 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 We humbly thank the FHE community for their contributions in various forms including repo contributions, event volunteering, organization and participation, meetup presentations, authoring works that further educate the community, and sponsoring events <i>(listed alphabetically)</i>: 
 
 
-* Agathe Prepin
+* <a href="https://theorg.com/org/zama/org-chart/agathe-prepin">Agathe Prepin</a>
 * <a href="https://github.com/aquint-zama">Alexandre Quint</a> 
 * <a href="https://github.com/AlexanderViand">Alexander Viand</a>
 * <a href="http://web.cs.ucla.edu/~sahai/">Amit Sahai</a>
@@ -84,57 +84,55 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>
 * <a href="https://homepages.cwi.nl/~ducas/">Léo Ducas</a>
 * <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2003-04/dna-computing/adleman_bio.htm">Leonard Adleman</a>
-* Malika Izabachène
+* <a href="https://izama.github.io/">Malika Izabachène</a>
 * <a href="https://marcjoye.github.io/">Marc Joye</a>
-* Mariya Georgieva
-* Mariya Georgieva Belorgey
-* Martin Albrecht
-* Medha
-* Mehdi Tibouchi
-* Michael L. Dertouzos
-* Miran Kim
-* Morten Dahl
-* Muhammad Haris
+* <a href="https://iacr.org/cryptodb//data/author.php?authorkey=12600">Mariya Georgieva Belorgey</a>
+* <a href="https://pure.royalholloway.ac.uk/en/persons/martin-albrecht">Martin Albrecht</a>
+* <a href="https://scholar.google.com/citations?user=OZ-5pUkAAAAJ">Mehdi Tibouchi</a>
+* <a href="https://en.wikipedia.org/wiki/Michael_Dertouzos">Michael L. Dertouzos</a>
+* <a href="https://k-miran.github.io/">Miran Kim</a>
+* <a href="https://mortendahl.github.io/">Morten Dahl</a>
+* <a href="https://dl.acm.org/profile/99659306354">Muhammad Haris</a>
 * <a href="http://gama.nicolas.free.fr/index.php">Nicolas Gama</a>
 * <a href="https://www.esat.kuleuven.be/cosic/people/nigel-smart/">Nigel Smart</a>
-* Nir Drucker
-* Noboru Kunihiro
-* Orel Cosseron
+* <a href="https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-Nir.Drucker">Nir Drucker</a>
+* <a href="https://scholar.google.co.jp/citations?user=qYVEJqEAAAAJ">Noboru Kunihiro</a>
+* <a href="https://www.iacr.org/cryptodb/data/author.php?authorkey=12303">Orel Cosseron</a>
 * <a href="https://scholar.google.com/citations?user=xwzhjfoAAAAJ">Pascal Paillier</a>
-* Pierre-Emmanuel Clet
-* Rachel Player
+* <a href="https://dblp.org/pid/286/7312.html">Pierre-Emmanuel Clet</a>
+* <a href="https://rachelplayer.github.io/">Rachel Player</a>
 * <a href="https://councils.forbes.com/profile/Rand-Hindi-CEO-Zama/d4e65cd0-63e5-4232-ab36-f4bcb7b43e98">Rand Hindi</a>
-* Ravital Solomon
-* Rob Springer
-* Robin Geelen
-* Ronald L. Rivest
-* Rosario Camarota
-* Samir Menon
-* Samuel Tap
-* Seonyeong Heo
-* Seonghong Min
-* Sergi Rovira
-* Sergiu Carpov
+* <a href="https://ravital.github.io/">Ravital Solomon</a>
+* <a href="https://scholar.google.com/citations?user=Der7mNMAAAAJ">Rob Springer</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/robin-geelen/">Robin Geelen</a>
+* <a href="https://people.csail.mit.edu/rivest/">Ronald L. Rivest</a>
+* <a href="https://scholar.google.com/citations?user=u-g_b4MAAAAJ">Rosario Camarota</a>
+* <a href="https://samirmenon.com/">Samir Menon</a>
+* <a href="https://scholar.google.com/citations?user=phbqr3QAAAAJ">Samuel Tap</a>
+* <a href="https://seonyheo.github.io/">Seonyeong Heo</a>
+* <a href="https://scholar.google.com/citations?user=kVF8bDwAAAAJ">Seonghong Min</a>
+* <a href="https://scholar.google.com/citations?user=H6MzW8EAAAAJ">Sergi Rovira</a>
+* <a href="https://scholar.google.fr/citations?user=QOyxU8UAAAAJ">Sergiu Carpov</a>
 * <a href="https://shaih.github.io/">Shai Halevi</a>
-* Shayan Shams
-* Shruthi Gorantala
-* Simon Pohmann
+* <a href="https://sbmi.uth.edu/faculty-and-staff/shayan-shams.htm">Shayan Shams</a>
+* <a href="https://dl.acm.org/profile/99660787420">Shruthi Gorantala</a>
+* <a href="https://pure.royalholloway.ac.uk/en/persons/simon-pohmann">Simon Pohmann</a>
 * <a href="https://research.ibm.com/people/subhankar-pal">Subhankar Pal</a>
 * <a href="https://scholar.google.com/citations?user=XEVjf0gAAAAJ">Tabitha Ogilvie</a>
-* Taher ElGamal
-* Taekyung Kim
-* Taeho Jung
-* Takuya Suzuki
-* Tancrède Lepoint
-* Vinod Vaikuntanathan
-* Vinu Joseph
-* Wei Dai
-* Xiaoqian Jiang
-* Yarkin Doroz
+* <a href="https://www.rsaconference.com/experts/dr-taherelgamal">Taher ElGamal</a>
+* <a href="https://www.researchgate.net/scientific-contributions/Jaehyung-Kim-2235342516">Taekyung Kim</a>
+* <a href="https://sites.nd.edu/taeho-jung/">Taeho Jung</a>
+* <a href="https://scholar.google.com/citations?user=uSImPGAAAAAJ">Takuya Suzuki</a>
+* <a href="https://tancre.de/">Tancrède Lepoint</a>
+* <a href="https://www.cs.toronto.edu/~vinodv/FHE.html">Vinod Vaikuntanathan</a>
+* <a href="https://research.nvidia.com/person/vinu-joseph">Vinu Joseph</a>
+* <a href="https://scholar.google.com/citations?user=Q87Y92YAAAAJ">Wei Dai</a>
+* <a href="https://scholar.google.com/citations?user=DSmxHuMAAAAJ">Xiaoqian Jiang</a>
+* <a href="https://scholar.google.com/citations?user=pbZhvFwAAAAJ">Yarkin Doroz</a>
 * <a href="https://yongsoosong.github.io/">Yongsoo Song</a>
-* Yoga Rahulamathavan
-* Yuriy Polyakov
-* Yehuda Lindell
+* <a href="https://scholar.google.co.uk/citations?user=53eQuxwAAAAJ">Yoga Rahulamathavan</a>
+* <a href="https://ypolyakov.gitlab.io/">Yuriy Polyakov</a>
+* <a href="https://yehudalindell.com/">Yehuda Lindell</a>
 * <a href="https://zvikab.bitbucket.io/">Zvika Brakerski</a>
 
 <i>If you would like to be included on this page or already included and want to modify your information, feel free to edit it and issue a PR with the relevant information.</i>
