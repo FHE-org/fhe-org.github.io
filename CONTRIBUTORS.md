@@ -85,7 +85,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://homepages.cwi.nl/~ducas/">Léo Ducas</a>
 * <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2003-04/dna-computing/adleman_bio.htm">Leonard Adleman</a>
 * Malika Izabachène
-* Marc Joye
+* <a href="https://marcjoye.github.io/">Marc Joye</a>
 * Mariya Georgieva
 * Mariya Georgieva Belorgey
 * Martin Albrecht
@@ -95,15 +95,15 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Miran Kim
 * Morten Dahl
 * Muhammad Haris
-* Nicolas Gama
-* Nigel Smart
+* <a href="http://gama.nicolas.free.fr/index.php">Nicolas Gama</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/nigel-smart/">Nigel Smart</a>
 * Nir Drucker
 * Noboru Kunihiro
 * Orel Cosseron
-* Pascal Paillier
+* <a href="https://scholar.google.com/citations?user=xwzhjfoAAAAJ">Pascal Paillier</a>
 * Pierre-Emmanuel Clet
 * Rachel Player
-* Rand Hindi
+* <a href="https://councils.forbes.com/profile/Rand-Hindi-CEO-Zama/d4e65cd0-63e5-4232-ab36-f4bcb7b43e98">Rand Hindi</a>
 * Ravital Solomon
 * Rob Springer
 * Robin Geelen
@@ -119,8 +119,8 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Shayan Shams
 * Shruthi Gorantala
 * Simon Pohmann
-* Subhankar Pal
-* Tabitha Ogilvie
+* <a href="https://research.ibm.com/people/subhankar-pal">Subhankar Pal</a>
+* <a href="https://scholar.google.com/citations?user=XEVjf0gAAAAJ">Tabitha Ogilvie</a>
 * Taher ElGamal
 * Taekyung Kim
 * Taeho Jung
@@ -135,7 +135,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * Yoga Rahulamathavan
 * Yuriy Polyakov
 * Yehuda Lindell
-* Zvika Brakerski
+* <a href="https://zvikab.bitbucket.io/">Zvika Brakerski</a>
 
 <i>If you would like to be included on this page or already included and want to modify your information, feel free to edit it and issue a PR with the relevant information.</i>
 
