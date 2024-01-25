@@ -50,6 +50,7 @@
 
 ## Tutorials and Walkthroughs
 
+- [Fully Homomorphic Encryption: Introduction and Use-Cases](https://cryptographycaffe.sandboxaq.com/posts/fhe-01/) by **Nicolas Gama** and **Sandra Guasch** on **Nov 18, 2023**
 - [Encoding Schemes in FHE](https://jeremykun.com/2023/09/18/encoding-schemes-in-fhe/) by **Jeremy Kun** on **September 18, 2023**
 - [Introducing Sunscreen's ZKP compiler](https://blog.sunscreen.tech/introducing-sunscreens-zkp-compiler/) by **Ravital Solomon** on **Aug 24, 2023**
 - [On-chain Blind Auctions Using Homomorphic Encryption](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) by **Zama** on **Jul 10, 2023**
