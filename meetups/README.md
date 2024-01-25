@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/298454749/"><img alt="Meetup #043" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/205d7365-2891-4a8b-a4aa-be8975f526dd"/></a>
+<a href="https://www.meetup.com/fhe-org/events/298732824/"><img alt="Meetup #044" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ae2ab38-bee4-43cf-aac2-bdcb99d51861"/></a>
 
-#### Register for the next meetup, **[Designs for practical SHE schemes based on Ring-LWR](https://www.meetup.com/fhe-org/events/298454749/)** by **Erin Hales** on **Jan 25th, 2024 at 4PM CEST**
+#### Register for the next meetup, **[Towards Practical Transciphering for FHE w/ Setup Independent of Plaintext Space](https://www.meetup.com/fhe-org/events/298732824/)** by **Jeongeun Park** on **Feb 8th, 2024 at 4PM CEST**
 
 <br>
 
@@ -29,6 +29,7 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [Designs for practical SHE schemes based on Ring-LWR](https://fhe.org/meetups/043-Designs_for_practical_SHE_schemes_based_on_Ring-LWR) by **Erin Hales** on **Jan 25th, 2024**
 - [High-precision RNS-CKKS on small word-size architectures](https://fhe.org/meetups/042-High-precision-RNS-CKKS-on-small-word-size-architectures) by **Duhyeong Kim** on **Jan 11th, 2024**
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
 
