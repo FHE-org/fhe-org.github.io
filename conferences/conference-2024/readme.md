@@ -48,11 +48,11 @@ The conference will feature parallel tutorial sessions and work groups, student/
 
 The submission deadline has now passed. We thank all submitters for their contribution to FHE.org 2024!
 
-The results are in: out of 45 submitted presentations, 11 talks and 19 posters have been approved! [See full list here](https://fhe.org/2024/program).
+The results are in: out of 45 submitted presentations, 11 talks and 19 posters have been accepted! [See full list here](https://fhe.org/2024/program).
 
 
 ## Latest updates
-- **2024.01.25** Results from CFP posts: 45 submitted presentations, 11 talks and 19 posters have been approved. [See full list here](https://fhe.org/2024/program).
+- **2024.01.25** Results from CFP posts: 45 submitted presentations, 11 talks and 19 posters have been accepted. [See full list here](https://fhe.org/2024/program).
 - **2023.11.16** 🎉🎟 The registration for FHE.org 2024 is now open. We have limited room for this 3rd conference, make sure to get your tickets [here](https://lu.ma/fhe-org-conference-2024-tickets)
 - **2022.11.22** Thank you to everyone who submitted an abstract for our CFP. We will announce the selected presentations/posters on January 22nd
 - **2023.10.06:** Call for presentations is online
