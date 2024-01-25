@@ -107,6 +107,8 @@
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- [Designs for practical SHE schemes based on Ring-LWR](https://fhe.org/meetups/043-Designs_for_practical_SHE_schemes_based_on_Ring-LWR) by **Erin Hales** on **Jan 25th, 2024**
+- [High-precision RNS-CKKS on small word-size architectures](https://fhe.org/meetups/042-High-precision-RNS-CKKS-on-small-word-size-architectures) by **Duhyeong Kim** on **Jan 11th, 2024**
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
 - [Lattigo v5: Deep Dive](https://fhe.org/meetups/040-Lattigo-v5-Deep-Dive) by **Jean-Philippe Bossuat** on **Dec, 12th, 2023**
 - [Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://fhe.org/meetups/039-Crypto_Dark_Matter_on_the_Torus) by **Alex Davidson** on **Nov, 23rd, 2023**
