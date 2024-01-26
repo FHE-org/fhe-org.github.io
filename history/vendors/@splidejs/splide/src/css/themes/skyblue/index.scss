@@ -1,0 +1,37 @@
+$main: #00bfff !default;
+$main-light: lighten( $main, 20% ) !default;
+
+@use '../../template/default/foundation/colors' with (
+  $main: $main,
+  $sub01: $main,
+  $sub02: $main,
+  $background: #ccc,
+  $background-active: $main,
+  $focus: $main,
+);
+
+@use '../../template/default/object/modifiers/nav' with (
+  $opacity: .7,
+  $opacity-active: 1,
+);
+
+@use '../../template/default/object/objects/arrow' with (
+  $size: 2.5em,
+  $opacity: false,
+  $opacity-hover: false,
+  $fill-hover: $main-light,
+  $transition: fill .2s linear,
+  $button-size: 2.5em,
+  $button-border-radius: 0,
+  $button-background: transparent,
+);
+
+@use '../../template/default/object/objects/pagination' with (
+  $dot-width: 10px,
+  $dot-height: 10px,
+  $dot-opacity: false,
+  $dot-transition: ( background-color .2s linear, transform .2s linear ),
+  $dot-background-hover: $main-light,
+);
+
+@forward '../../template/default';

@@ -1,0 +1,9 @@
+.splide {
+  $root: &;
+
+  &__track--ttb {
+    > #{ $root }__list {
+      display: block;
+    }
+  }
+}

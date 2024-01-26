@@ -1,0 +1,17 @@
+.splide {
+  $root: &;
+
+  &__slider {
+    > #{ $root }__arrows {
+      #{ $root }__arrow {
+        &--prev {
+          left: -2.5em;
+        }
+
+        &--next {
+          right: -2.5em;
+        }
+      }
+    }
+  }
+}

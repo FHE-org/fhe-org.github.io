@@ -1,0 +1,27 @@
+@use './colors';
+
+$outline: colors.$focus 3px solid !default;
+$outline-offset: 3px !default;
+$outline-offset-inset: -3px !default;
+
+@mixin ie-only {
+  @media screen and (-ms-high-contrast: none) {
+    @content;
+  }
+}
+
+@mixin focus-outline( $offset: $outline-offset ) {
+  outline: $outline;
+  outline-offset: $offset;
+}
+
+@mixin focus-outline-inset {
+  @supports ( outline-offset: $outline-offset-inset ) {
+    @include focus-outline( $outline-offset-inset );
+  }
+
+  /* IE does not support outline-offset */
+  @include ie-only {
+    border: $outline;
+  }
+}

@@ -1,0 +1,14 @@
+.splide {
+  &__slide {
+    backface-visibility: hidden;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    list-style-type: none !important;
+    margin: 0;
+    position: relative;
+
+    img {
+      vertical-align: bottom;
+    }
+  }
+}

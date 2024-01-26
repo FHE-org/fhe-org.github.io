@@ -1,0 +1,9 @@
+.splide {
+  position: relative;
+  visibility: hidden;
+
+  &.is-initialized,
+  &.is-rendered {
+    visibility: visible;
+  }
+}

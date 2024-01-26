@@ -1,0 +1,62 @@
+$play-button-background-color: #ccc !default;
+$play-button-color: #000 !default;
+$play-button-width: 40px !default;
+$play-button-height: 40px !default;
+$play-button-border-radius: 50% !default;
+$play-icon-width: 9px !default;
+$play-icon-height: 17px !default;
+$play-button-transition: opacity .1s linear !default;
+
+.splide {
+  $root: &;
+
+  &__video {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+    &__wrapper {
+      background: #000;
+      height: inherit;
+      width: inherit;
+
+      // div is for Vimeo
+      div,
+      iframe,
+      video {
+        height: 100%;
+        width: 100%;
+      }
+    }
+
+    &__play {
+      align-items: center;
+      background: $play-button-background-color;
+      border: 0;
+      border-radius: $play-button-border-radius;
+      cursor: pointer;
+      display: flex;
+      height: $play-button-height;
+      justify-content: center;
+      left: 50%;
+      opacity: .7;
+      position: absolute;
+      top: 50%;
+      transform: translate( -50%, -50% );
+      transition: $play-button-transition;
+      width: $play-button-width;
+
+      &::after {
+        border-color: transparent;
+        border-left-color: $play-button-color;
+        border-style: solid;
+        border-width: $play-icon-width 0 $play-icon-width $play-icon-height;
+        content: '';
+        display: inline-block;
+        margin-left: 4px;
+      }
+    }
+  }
+}

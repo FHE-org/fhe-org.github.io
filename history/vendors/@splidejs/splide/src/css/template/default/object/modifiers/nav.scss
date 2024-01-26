@@ -1,0 +1,37 @@
+@use '../../foundation/colors';
+@use '../../foundation/mixins';
+
+$border: 3px solid transparent !default;
+$border-active: 3px solid colors.$main !default;
+$border-radius: false !default;
+$opacity: false !default;
+$opacity-active: false !default;
+
+.splide {
+  $root: &;
+
+  &__track--nav {
+    > #{ $root }__list {
+      > #{ $root }__slide {
+        border: $border;
+        cursor: pointer;
+
+        @if $opacity {
+          opacity: $opacity;
+        }
+
+        @if $border-radius {
+          border-radius: $border-radius;
+        }
+
+        &.is-active {
+          border: $border-active;
+
+          @if $opacity {
+            opacity: $opacity-active;
+          }
+        }
+      }
+    }
+  }
+}

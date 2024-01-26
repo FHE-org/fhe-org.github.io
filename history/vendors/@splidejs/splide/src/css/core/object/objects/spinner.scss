@@ -1,0 +1,21 @@
+$size: 20px !default;
+$border: 2px solid #999 !default;
+
+.splide {
+  &__spinner {
+    animation: splide-loading 1s infinite linear;
+    border: $border;
+    border-left-color: transparent;
+    border-radius: 50%;
+    bottom: 0;
+    contain: strict;
+    display: inline-block;
+    height: $size;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: $size;
+  }
+}

@@ -1,0 +1,32 @@
+.splide {
+  $root: &;
+
+  &__slide {
+    &--has-video {
+      cursor: pointer;
+
+      &:hover {
+        #{ $root }__video {
+          &__play {
+            opacity: 1;
+          }
+        }
+      }
+    }
+
+    &__container {
+      &--has-video {
+        cursor: pointer;
+        position: relative;
+
+        &:hover {
+          #{ $root }__video {
+            &__play {
+              opacity: 1;
+            }
+          }
+        }
+      }
+    }
+  }
+}

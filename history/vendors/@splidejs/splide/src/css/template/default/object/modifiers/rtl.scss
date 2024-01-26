@@ -1,0 +1,28 @@
+$arrow-right: 1em !default;
+$arrow-left: 1em !default;
+
+.splide {
+  $root: &;
+
+  &__arrows--rtl {
+    #{ $root }__arrow {
+      &--prev {
+        left: auto;
+        right: $arrow-right;
+
+        svg {
+          transform: scaleX( 1 );
+        }
+      }
+
+      &--next {
+        left: $arrow-left;
+        right: auto;
+
+        svg {
+          transform: scaleX( -1 );
+        }
+      }
+    }
+  }
+}
