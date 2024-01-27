@@ -3050,8 +3050,8 @@ mark{
     display:flex;
     position:relative;
     z-index:1;
-    margin-bottom:2em;
-    margin-bottom:var(--space-lg)
+    margin-bottom:9em;
+    margin-bottom:var(--space-xxl)
 }
 .cd-timeline__block:last-child{
     margin-bottom:0
@@ -3069,6 +3069,7 @@ mark{
     justify-content:center;
     -ms-flex-align:center;
     align-items:center;
+    text-align:center;
     -ms-flex-negative:0;
     flex-shrink:0;
     width:40px;
@@ -3077,9 +3078,12 @@ mark{
     box-shadow:0 0 0 4px hsl(0, 0%, 100%),inset 0 2px 0 rgba(0,0,0,0.08),0 3px 0 4px rgba(0,0,0,0.05);
     box-shadow:0 0 0 4px var(--color-white),inset 0 2px 0 rgba(0,0,0,0.08),0 3px 0 4px rgba(0,0,0,0.05)
 }
+.cd-timeline__img span {
+    font-size: 70%;
+}
 .cd-timeline__img img{
     width:24px;
-    height:24px
+    height:24px;
 }
 @media (min-width: 64rem){
     .cd-timeline__img{
