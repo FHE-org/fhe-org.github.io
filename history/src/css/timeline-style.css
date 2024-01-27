@@ -3162,7 +3162,7 @@ mark{
         position:absolute;
         width:100%;
         left:120%;
-        top:20px
+        top:0px
     }
     .cd-timeline__block:nth-child(even) .cd-timeline__date{
         left:auto;
