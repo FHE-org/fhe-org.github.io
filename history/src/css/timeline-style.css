@@ -877,8 +877,7 @@ img,video,svg{
 body{
     font-size:1em;
     font-size:var(--text-base-size, 1em);
-    font-family:'Droid Serif', serif;
-    font-family:var(--font-primary, sans-serif);
+    font-family:montserrat,Sans-serif;
     color:hsl(240, 4%, 20%);
     color:var(--color-contrast-high, #313135)
 }
@@ -3004,7 +3003,7 @@ mark{
     -moz-osx-font-smoothing:grayscale
 }
 .cd-main-header h1{
-    font-family:'Open Sans', sans-serif;
+    font-family:montserrat,Sans-serif;
     font-family:var(--font-secondary);
     color:inherit
 }
@@ -3015,11 +3014,11 @@ mark{
     color:hsl(207, 10%, 55%);
     color:var(--cd-color-3);
     background-color:#EFEFEF;
-    font-family:'Droid Serif', serif;
+    font-family:montserrat,Sans-serif;
     font-family:var(--font-primary)
 }
 .cd-timeline h2{
-    font-family:'Open Sans', sans-serif;
+    font-family:montserrat,Sans-serif;
     font-family:var(--font-secondary);
     font-weight:700
 }
