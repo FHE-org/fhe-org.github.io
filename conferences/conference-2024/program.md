@@ -103,8 +103,8 @@
 </tr>  
 <tr>
     <td>5:15 PM</td>
-    <td>Invited Speaker</td>
-    <td>More information coming soon</td>
+    <td><b>Invited Talk: Estimating the Difficulty of Breaking Lattice-Based Cryptography</b> </td>
+    <td>Prof. Martin Albrecht (Kings College London, Sandbox AQ)</td>
 </tr>  
 <tr>
     <td>6:00 PM</td>
