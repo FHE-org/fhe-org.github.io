@@ -105,7 +105,7 @@
     <td>5:15 PM</td>
     <td><b>Invited Talk: Estimating the Difficulty of Breaking Lattice-Based Cryptography</b> </td>
     <td>Prof. Martin Albrecht (Kings College London, Sandbox AQ)</td>
-</tr>  
+</tr>
 <tr>
     <td>6:00 PM</td>
     <td>Closing remarks</td>
@@ -121,6 +121,7 @@
   
 ## Accepted Talks
 
+- **A Practical Framework for Verifiable Computation over Encrypted Data.** Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez.
 - **AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE.** Vishnu Naresh Boddeti and Wei Ao.
 - **BASALISC: Programmable Hardware Accelerator for BGV and CKKS FHE - An Interim Design Update.** David Archer, Robin Geelen, and Michiel Van Beirendonck.
 - **Designs for practical Somewhat Homomorphic Encryption schemes based on Ring-LWR.** Madalina Bolboceanu, Anamaria Costache, Erin Hales, Rachel Player, Miruna Rosca, and Radu Titiu.
@@ -131,7 +132,6 @@
 - **Revisiting Oblivious Top-k Selection with Applications to Secure k-NN Classification.** Kelong Cong, Robin Geelen, Jiayi Kang, and Jeongeun Park.
 - **Security Guidelines for Implementing Homomorphic Encryption.** Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz.
 - **TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability.** Ilaria Chillotti, Sarah El Kazdadi, Damien Ligier, Arthur Meyre, Thomas Montaigu, Jean-Baptiste Orfila, and Samuel Tap.
-- **A Practical Framework for Verifiable Computation over Encrypted Data.** Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez.
 
 ## Accepted Posters
 
