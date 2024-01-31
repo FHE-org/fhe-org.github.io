@@ -47,6 +47,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://du1204.github.io/">Duhyeong Kim</a>
 * <a href="https://elkhanzada.github.io/">Elkhan Ismayilzada</a>
 * <a href="https://www.cs.tau.ac.il/~tromer/">Eran Tromer</a>
+* <a href="https://pure.royalholloway.ac.uk/en/persons/erin-hales">Erin Hales</a>
 * <a href="https://scholar.google.com/citations?user=C1lS3TUAAAAJ">Erdinç Öztürk</a>
 * <a href="https://people.sabanciuniv.edu/~erkays/">Erkay Savas</a>
 * <a href="https://scholar.google.com/citations?user=rrphxucAAAAJ">Fan Junfeng</a>
