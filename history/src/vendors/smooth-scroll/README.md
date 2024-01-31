@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # Smooth Scroll [![Build Status](https://travis-ci.org/cferdinandi/smooth-scroll.svg)](https://travis-ci.org/cferdinandi/smooth-scroll)
 A lightweight script to animate scrolling to anchor links. Smooth Scroll works great with [Gumshoe](https://github.com/cferdinandi/gumshoe).
 
@@ -388,3 +389,5 @@ Use the included polyfills version of Smooth Scroll, or include your own.
 ## License
 
 The code is available under the [MIT License](LICENSE.md).
+
+<!-- markdown-link-check-enable -->
