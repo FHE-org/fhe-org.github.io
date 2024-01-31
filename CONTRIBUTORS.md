@@ -60,6 +60,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://hilder-vitor.github.io/">Hilder V. L. Pereira</a>
 * <a href="https://dblp.org/pid/198/1353.html">Huan-Chih Wang</a>
 * <a href="https://ilachill.github.io/">Ilaria Chillotti</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/ingrid-verbauwhede/">Ingrid Verbauwhede</a>
 * <a href="https://www.researchgate.net/scientific-contributions/Jaehyung-Kim-2235342516">Jaehyung Kim</a>
 * <a href="https://crypto.fit.cvut.cz/people/jakub-klemsa">Jakub Klemsa</a>
 * <a href="https://dblp.org/pid/154/6414.html">Jean-Baptiste Orfila</a>
