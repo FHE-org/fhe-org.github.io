@@ -230,92 +230,92 @@
 </tr>
 
 <tr>
-    <>Breaking the power-of-two barrier: noise estimation for BGV in NTT-friendly rings</td>
+    <td>Breaking the power-of-two barrier: noise estimation for BGV in NTT-friendly rings</td>
     <td>Andrea Di Giusto and Chiara Marcolla.</td>
 </tr>
 
 <tr>
-    <>Convolution-friendly Image Compression in FHE</td>
+    <td>Convolution-friendly Image Compression in FHE</td>
     <td> Axel Mertens, Georgio Nicolas, and Sergi Rovira</td>
 </tr>
 
 <tr>
-    <>Edit distance in the encrypted domain</td>
+    <td>Edit distance in the encrypted domain</td>
     <td>Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Wouter Legiest</td>
 </tr>
 
 <tr>
-    <>Faster Parameter Selection for FHE</td>
+    <td>Faster Parameter Selection for FHE</td>
     <td>Chiara Marcolla, Elena Kirshanova, and Sergi Rovira</td>
 </tr>
 
 <tr>
-    <>Game of Life, Revisited</td>
+    <td>Game of Life, Revisited</td>
     <td>Benoit Chevallier-Mames and Umut Şahin</td>
 </tr>
 
 <tr>
-    <>Hardware-Accelerated Encrypted Credit Card Fraud Check</td>
+    <td>Hardware-Accelerated Encrypted Credit Card Fraud Check</td>
     <td>Florent Michel, Jakub Ziarno, Joseph Wilson, Nicholas New, Shuhao Yang, Thanh-Huyen Nguyen, and Victor Lisinski</td>
 </tr>
 
 <tr>
-    <>Homomorphic Integer Division for TFHE</td>
+    <td>Homomorphic Integer Division for TFHE</td>
     <td>Amit Deo, Marc Joye, and Olivier Bernard</td>
 </tr>
 
 <tr>
-    <>Liberate.FHE: A New FHE Library for Bridging the Gap between Theory and Practice with a Focus on Performance and Accuracy</td>
+    <td>Liberate.FHE: A New FHE Library for Bridging the Gap between Theory and Practice with a Focus on Performance and Accuracy</td>
     <td>Donghoon Yoo, Hanyul Ryu, and Juwhan Kim</td>
 </tr>
 
 <tr>
-    <>Low Latency Evaluation of AES via (leveled) TFHE</td>
+    <td>Low Latency Evaluation of AES via (leveled) TFHE</td>
     <td>Benqiang Wei, Kunpeng Wang, Ruida Wang, Xianhui Lu, and Zhihao Li</td>
 </tr>
 
 <tr>
-    <>Making FHE hardware-acceleration-friendly (and vice versa)</td>
+    <td>Making FHE hardware-acceleration-friendly (and vice versa)</td>
     <td>Furkan Turan, Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Michiel Van Beirendonck</td>
 </tr>
 
 <tr>
-    <>Multi-Objective Arithmetization and Composition of Common Primitives for Homomorphic Encryption</td>
+    <td>Multi-Objective Arithmetization and Composition of Common Primitives for Homomorphic Encryption</td>
     <td>Jelle Vos, Mauro Conti, and Zekeriya Erkin</td>
 </tr>
 
 <tr>
-    <>Neural Network Training on Encrypted Data with TFHE</td>
+    <td>Neural Network Training on Encrypted Data with TFHE</td>
     <td>Andrei Stoian, Celia Kherfallah, Jordan Frery, Luis Montero, and Roman Bredehoft</td>
 </tr>
 
 <tr>
-    <>Novel uses cases enabled by FHE in Blockchain</td>
+    <td>Novel uses cases enabled by FHE in Blockchain</td>
     <td>Remi Gai</td>
 </tr>
 
 <tr>
-    <>Optimized Homomorphic Evaluation of Boolean Functions and Concrete Application on Cryptographic Primitives</td>
+    <td>Optimized Homomorphic Evaluation of Boolean Functions and Concrete Application on Cryptographic Primitives</td>
     <td>David Pointcheval, Matthieu Rivain, Nicolas Bon, and Sonia Belaïd</td>
 </tr>
 
 <tr>
-    <>Robust FHE in Practice</td>
+    <td>Robust FHE in Practice</td>
     <td>Alexander Viand, Anwar Hithnawi, and Christian Knabenhans</td>
 </tr>
 
 <tr>
-    <>The Inhibitor: ReLU and Addition-Based Attention for Efficient Transformers under Fully Homomorphic Encryption on the Torus</td>
+    <td>The Inhibitor: ReLU and Addition-Based Attention for Efficient Transformers under Fully Homomorphic Encryption on the Torus</td>
     <td>Andrei Stoian and Rickard Brännvall</td>
 </tr>
 
 <tr>
-    <>Towards Practical FHE Calculations Integrity by Means of Rinocchio</td>
+    <td>Towards Practical FHE Calculations Integrity by Means of Rinocchio</td>
     <td>Caroline Fontaine, Marc Renard, Oana Stan, and Renaud Sirdey</td>
 </tr>
 
 <tr>
-    <>Towards Verifiable Bootstrapping in Practice - Proving Correct Execution of TFHE’s Blind Rotation using plonky2</td>
+    <td>Towards Verifiable Bootstrapping in Practice - Proving Correct Execution of TFHE’s Blind Rotation using plonky2</td>
     <td>Louis Tremblay Thibault and Michael Walter</td>
 </tr>
 </table>
