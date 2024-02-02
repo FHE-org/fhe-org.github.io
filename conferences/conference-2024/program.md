@@ -207,8 +207,8 @@
 </tr>
 
 <tr>
-    <td height = 75, width = 75>6:15 PM</td>
-    <td>After party 🍻</td>
+    <td width = 75>6:15 PM</td>
+    <td height = 75>After party 🍻</td>
     <td></td>
 </tr>
 
