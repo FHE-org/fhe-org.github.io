@@ -52,163 +52,163 @@
 
 <tr>
     <td width=100px>8:30 AM</td>
-    <td width=40%>Registration & morning refreshments 🥐</td>
+    <td width=400px>Registration & morning refreshments 🥐</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>9:00 AM</td>
-    <td width=40%>Welcome and Opening remarks</td>
+    <td width=400px>Welcome and Opening remarks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>9:05 AM</td>
-    <td width=40%><b>Invited Tutorials:</b> Tools for FHE applications</td>
+    <td width=400px><b>Invited Tutorials:</b> Tools for FHE applications</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>9:05 AM</td>
-    <td width=40%>Privacy-Preserving Functional Database Exploration with Lattigo </td>
+    <td width=400px>Privacy-Preserving Functional Database Exploration with Lattigo </td>
     <td>Jean-Philippe Bossuat (TuneInsight)</td>
 </tr>
 
 <tr>
     <td width=100px>9:30 AM</td>
-    <td width=40%>An SQL-based Data Analysis Platform using Homomorphic Encryption</td>
+    <td width=400px>An SQL-based Data Analysis Platform using Homomorphic Encryption</td>
     <td>Donghoon Yoo (Desilo) and Joohyung Lee (Desilo)</td>
 </tr>
 
 <tr>
     <td width=100px>9:55 AM</td>
-    <td width=40%>The HEIR Compiler</td>
+    <td width=400px>The HEIR Compiler</td>
     <td> Jeremy Kun (Google) and Asra Ali (Google)</td>
 </tr>
 
 <tr>
     <td width=100px>10:20 AM</td>
-    <td width=40%>Morning break ☕️</td>
+    <td width=400px>Morning break ☕️</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>10:45 AM</td>
-    <td width=40%>Session I: contributed talks</td>
+    <td width=400px>Session I: contributed talks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>10:45 AM</td>
-    <td width=40%>Designs for practical Somewhat Homomorphic Encryption schemes based on Ring-LWR</td>
+    <td width=400px>Designs for practical Somewhat Homomorphic Encryption schemes based on Ring-LWR</td>
     <td>Madalina Bolboceanu, Anamaria Costache, Erin Hales, Rachel Player, Miruna Rosca, and Radu Titiu</td>
 </tr>
 
 <tr>
     <td width=100px>11:10 AM</td>
-    <td width=40%>Large Domain Homomorphic Evaluation in Levelled Mode</td>
+    <td width=400px>Large Domain Homomorphic Evaluation in Levelled Mode</td>
     <td>Jean-Philippe Bossuat and Malika Izabachène</td>
 </tr>
 
 <tr>
     <td width=100px>11:35 AM</td>
-    <td width=40%>Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic</td>
+    <td width=400px>Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic</td>
     <td>Mariya Georgieva Belorgey, Sergiu Carpov, Nicolas Gama, Sandra Guasch, and Dimitar Jetchev</td>
 </tr>
 
 <tr>
     <td width=100px>12:00 PM</td>
-    <td width=40%>BASALISC: Programmable Hardware Accelerator for BGV and CKKS FHE - An Interim Design Update</td>
+    <td width=400px>BASALISC: Programmable Hardware Accelerator for BGV and CKKS FHE - An Interim Design Update</td>
     <td> David Archer, Robin Geelen, and Michiel Van Beirendonck</td>
 </tr>
 
 <tr>
     <td width=100px>12:30 PM</td>
-    <td width=40%>Buffet lunch and poster presentations/discussions</td>
+    <td width=400px>Buffet lunch and poster presentations/discussions</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>1:30 PM</td>
-    <td width=40%>Session II: contributed talks</td>
+    <td width=400px>Session II: contributed talks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>1:30 PM</td>
-    <td width=40%>A Practical Framework for Verifiable Computation over Encrypted Data</td>
+    <td width=400px>A Practical Framework for Verifiable Computation over Encrypted Data</td>
     <td>Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez</td>
 </tr>
 
 <tr>
     <td width=100px>1:55 PM</td>
-    <td width=40%>On Circuit Private, Multikey and Threshold Approximate Homomorphic Encryption</td>
+    <td width=400px>On Circuit Private, Multikey and Threshold Approximate Homomorphic Encryption</td>
     <td>Kamil Kluczniak and Giacomo Santato</td>
 </tr>
 
 <tr>
     <td width=100px>2:20 PM</td>
-    <td width=40%>Plug-and-play sanitization for TFHE</td>
+    <td width=400px>Plug-and-play sanitization for TFHE</td>
     <td>Florian Bourse and Malika Izabachène</td>
 </tr>
 
 <tr>
     <td width=100px>2:45 PM</td>
-    <td width=40%>Security Guidelines for Implementing Homomorphic Encryption</td>
+    <td width=400px>Security Guidelines for Implementing Homomorphic Encryption</td>
     <td>Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz</td>
 </tr>
 
 <tr>
     <td width=100px>3:15 PM</td>
-    <td width=40%>Afternoon break 🧃</td>
+    <td width=400px>Afternoon break 🧃</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>3:45 PM</td>
-    <td width=40%>Session III: contributed talks</td>
+    <td width=400px>Session III: contributed talks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>3:45 PM</td>
-    <td width=40%>TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability</td>
+    <td width=400px>TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability</td>
     <td>Ilaria Chillotti, Sarah El Kazdadi, Damien Ligier, Arthur Meyre, Thomas Montaigu, Jean-Baptiste Orfila, and Samuel Tap</td>
 </tr>
 
 <tr>
     <td width=100px>4:10 PM</td>
-    <td width=40%>AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE</td>
+    <td width=400px>AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE</td>
     <td>Wei Ao and Vishnu Naresh Boddeti</td>
 </tr>
 
 <tr>
     <td width=100px>4:35 PM</td>
-    <td width=40%>Revisiting Oblivious Top-k Selection with Applications to Secure k-NN Classification</td>
+    <td width=400px>Revisiting Oblivious Top-k Selection with Applications to Secure k-NN Classification</td>
     <td>Kelong Cong, Robin Geelen, Jiayi Kang, and Jeongeun Park</td>
 </tr>
 
 <tr>
     <td width=100px>5:05 PM</td>
-    <td width=40%>Short break</td>
+    <td width=400px>Short break</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>5:15 PM</td>
-    <td width=40%><b>Invited Talk:</b> Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
+    <td width=400px><b>Invited Talk:</b> Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
     <td>Prof. Martin Albrecht (Kings College London, Sandbox AQ)</td>
 </tr>
 
 <tr>
     <td width=100px>6:00 PM</td>
-    <td width=40%>Closing remarks</td>
+    <td width=400px>Closing remarks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>6:15 PM</td>
-    <td width=40%>After party 🍻</td>
+    <td width=400px>After party 🍻</td>
     <td></td>
 </tr>
 
