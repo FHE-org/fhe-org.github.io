@@ -47,6 +47,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://du1204.github.io/">Duhyeong Kim</a>
 * <a href="https://elkhanzada.github.io/">Elkhan Ismayilzada</a>
 * <a href="https://www.cs.tau.ac.il/~tromer/">Eran Tromer</a>
+* <a href="https://pure.royalholloway.ac.uk/en/persons/erin-hales">Erin Hales</a>
 * <a href="https://scholar.google.com/citations?user=C1lS3TUAAAAJ">Erdinç Öztürk</a>
 * <a href="https://people.sabanciuniv.edu/~erkays/">Erkay Savas</a>
 * <a href="https://scholar.google.com/citations?user=rrphxucAAAAJ">Fan Junfeng</a>
@@ -60,6 +61,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://hilder-vitor.github.io/">Hilder V. L. Pereira</a>
 * <a href="https://dblp.org/pid/198/1353.html">Huan-Chih Wang</a>
 * <a href="https://ilachill.github.io/">Ilaria Chillotti</a>
+* <a href="https://www.esat.kuleuven.be/cosic/people/ingrid-verbauwhede/">Ingrid Verbauwhede</a>
 * <a href="https://www.researchgate.net/scientific-contributions/Jaehyung-Kim-2235342516">Jaehyung Kim</a>
 * <a href="https://crypto.fit.cvut.cz/people/jakub-klemsa">Jakub Klemsa</a>
 * <a href="https://dblp.org/pid/154/6414.html">Jean-Baptiste Orfila</a>

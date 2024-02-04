@@ -1,3 +1,4 @@
+<!-- markdown-link-check-disable -->
 # WOW.js [![Build Status](https://secure.travis-ci.org/graingert/WOW.svg?branch=master)](http://travis-ci.org/graingert/WOW)
 
 Reveal CSS animation as you scroll down a page.
@@ -138,3 +139,4 @@ Thanks to everyone who has contributed to the project so far:
 - [and many others](//github.com/graingert/WOW/graphs/contributors)
 
 Initiated and designed by [Vincent Le Moign](//www.webalys.com/), [@webalys](//twitter.com/webalys)
+<!-- markdown-link-check-enable -->
