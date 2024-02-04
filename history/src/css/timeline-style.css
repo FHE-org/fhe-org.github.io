@@ -3011,8 +3011,7 @@ mark{
     overflow:hidden;
     padding:2em 0;
     padding:var(--space-lg) 0;
-    color:hsl(207, 10%, 55%);
-    color:var(--cd-color-3);
+    color:white;
     background-color:#EFEFEF;
     font-family:montserrat,Sans-serif;
     font-family:var(--font-primary)
@@ -3076,7 +3075,13 @@ mark{
     height:40px;
     border-radius:50%;
     box-shadow:0 0 0 4px hsl(0, 0%, 100%),inset 0 2px 0 rgba(0,0,0,0.08),0 3px 0 4px rgba(0,0,0,0.05);
+    box-shadow:0 0 0 4px var(--color-primary-dark),inset 0 2px 0 rgba(0,0,0,0.08),0 3px 0 4px rgba(0,0,0,0.05)
+
+    /* 
+    box-shadow:0 0 0 4px hsl(0, 0%, 100%),inset 0 2px 0 rgba(0,0,0,0.08),0 3px 0 4px rgba(0,0,0,0.05);
     box-shadow:0 0 0 4px var(--color-white),inset 0 2px 0 rgba(0,0,0,0.08),0 3px 0 4px rgba(0,0,0,0.05)
+    */
+        
 }
 .cd-timeline__img span {
     font-size: 70%;
