@@ -18,7 +18,7 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/298732824/"><img alt="Meetup #044" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ae2ab38-bee4-43cf-aac2-bdcb99d51861"/></a>
+<a href="https://www.meetup.com/fhe-org/events/298732824/"><img alt="Meetup #044" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/c334e252-dfa4-4eaf-80ed-903950bc74bf"/></a>
 
 #### Register for the next meetup, **[Towards Practical Transciphering for FHE w/ Setup Independent of Plaintext Space](https://www.meetup.com/fhe-org/events/298732824/)** by **Jeongeun Park** on **Feb 8th, 2024 at 4PM CEST**
 
