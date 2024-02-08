@@ -60,5 +60,5 @@
 - **Mehdi Tibouchi** *NTT Corporation, Japan*
 - **Juan Ramon Troncoso-Pastoriza** *Tune Insight, Switzerland*
 
-## Any question?
-- You can write the organization committee at **contact@fhe.org**
+## Any questions?
+- You can write to the organization committee at **contact@fhe.org**
