@@ -9,7 +9,7 @@
 
 # Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space
 #### by Jeongeun Park - 2024.02.08
-#### <a href="https://www.meetup.com/fhe-org/events/298732824/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=1ZqWlbje978&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/14216610/FHE.meetup_Jeongeun.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![044 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/c334e252-dfa4-4eaf-80ed-903950bc74bf)
 
