@@ -6,10 +6,9 @@
 </p>
 <!-- /Main header navigation -->
 
-
+💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>.
+<br></br>
 ## Table of Contents [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/README.md)
-
-💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>. 
 
 - [Conference Resources](#conference-resources)
 - [Tutorials and Walkthroughs](#tutorials-and-walkthroughs)
