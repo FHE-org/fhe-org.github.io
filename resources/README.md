@@ -111,7 +111,7 @@
 - [Designs for practical SHE schemes based on Ring-LWR](https://fhe.org/meetups/043-Designs_for_practical_SHE_schemes_based_on_Ring-LWR) by **Erin Hales** on **Jan 25th, 2024**
 - [High-precision RNS-CKKS on small word-size architectures](https://fhe.org/meetups/042-High-precision-RNS-CKKS-on-small-word-size-architectures) by **Duhyeong Kim** on **Jan 11th, 2024**
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
--[Homomorphic Polynomial Evaluation using Galois Structure and Applications to BFV Bootstrapping](https://www.esat.kuleuven.be/cosic/blog/asiacrypt-2023-homomorphic-polynomial-evaluation-using-galois-structure-and-applications-to-bfv-bootstrapping/) by **Jiayi Kang** on **Dec 13, 2023**
+- [Homomorphic Polynomial Evaluation using Galois Structure and Applications to BFV Bootstrapping](https://www.esat.kuleuven.be/cosic/blog/asiacrypt-2023-homomorphic-polynomial-evaluation-using-galois-structure-and-applications-to-bfv-bootstrapping/) by **Jiayi Kang** on **Dec 13, 2023**
 - [Lattigo v5: Deep Dive](https://fhe.org/meetups/040-Lattigo-v5-Deep-Dive) by **Jean-Philippe Bossuat** on **Dec, 12th, 2023**
 - [Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://fhe.org/meetups/039-Crypto_Dark_Matter_on_the_Torus) by **Alex Davidson** on **Nov, 23rd, 2023**
 - [FHE ring packing - affordable and convenient](https://fhe.org/meetups/038-HE_ring_packing_-_affordable_and_convenient) by **Jaehyung Kim** on **Nov 2nd, 2023**
