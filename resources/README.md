@@ -60,6 +60,11 @@
 - [Fully Homomorphic Encryption](https://www.ibm.com/support/z-content-solutions/fully-homomorphic-encryption) by **IBM** on **September 23, 2021**
 - [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai/) **Zama** on **Sept 15, 2021**
 - [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/) by **Ravital Solomon** on **Aug 30, 2021**
+- [Introduction to CKKS (Approximate Homomorphic Encryption)](https://www.microsoft.com/en-us/research/video/introduction-to-ckks-approximate-homomorphic-encryption/) by **Yongsoo Song** on **Jan 07, 2020**
+- [Building Applications with Microsoft SEAL](https://www.microsoft.com/en-us/research/video/building-applications-with-microsoft-seal/) by **Wei Dai** on **December 03, 2019**
+- [Techniques in PPML](https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-techniques-in-ppml/) by **Hao Chen** on **December 02, 2019**
+- [Introduction to Homomorphic Encryption](https://www.microsoft.com/en-us/research/video/intro-to-homomorphic-encryption/) by **Wei Dai** on **December 02, 2019**
+- [Microsoft SEAL](https://www.microsoft.com/en-us/research/video/microsoft-seal/) by **Kim Laine** on **December 02, 2019**
 - [GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors](https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/) by **Martin Albrecht** on **March 3, 2016**
 <br></br>
 
