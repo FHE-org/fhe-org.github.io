@@ -2,12 +2,11 @@
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
   <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
-<br></br>
 </p>
 <!-- /Main header navigation -->
 
 💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>.
-<br></br>
+
 ## Table of Contents [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/README.md)
 
 - [Conference Resources](#conference-resources)
@@ -19,13 +18,11 @@
 - [FHE Schemes](#fhe-schemes)
 - [Libraries](#libraries)
 - [Courses](#courses)
-<br></br>
 
 ## Conference Resources
 
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
-<br></br>
 
 ## Tutorials and Walkthroughs
 - [Fully Homomorphic Encryption: Introduction and Use-Cases](https://cryptographycaffe.sandboxaq.com/posts/fhe-01/) by **Nicolas Gama** and **Sandra Guasch** on **Nov 18, 2023**
@@ -66,7 +63,6 @@
 - [Introduction to Homomorphic Encryption](https://www.microsoft.com/en-us/research/video/intro-to-homomorphic-encryption/) by **Wei Dai** on **December 02, 2019**
 - [Microsoft SEAL](https://www.microsoft.com/en-us/research/video/microsoft-seal/) by **Kim Laine** on **December 02, 2019**
 - [GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors](https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/) by **Martin Albrecht** on **March 3, 2016**
-<br></br>
 
 ## Use Cases and Demos
 
@@ -82,7 +78,6 @@
 - [Private set intersection via somewhat homomorphic encryption](https://fhe.org/meetups/007-private-set-intersection-via-somewhat-homomorphic-encryption)  **Ilia Iliashenko** on **Oct 28, 2021**
 - [Concrete Boolean and Conway's Game of Life](https://medium.com/p/f2bcfd614131/) **Optalysys** on **Oct 29, 2021**
 - [Homomorphic Machine Learning using Numpy & Concrete](https://fhe.org/meetups/006-running-numpy-programs-homomorphically) **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sept 30, 2021**
-<br></br>
 
 ## Hardware
 
@@ -91,7 +86,6 @@
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe.org/meetups/020-Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - [FHE at the speed of light](https://fhe.org/meetups/009-fhe-at-the-speed-of-light) by **Florent Michel** on **Dec 21, 2021**
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
-<br></br>
 
 ## Research
 - [Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space](https://fhe.org/meetups/044-Towards_Practical_Transciphering_for_FHE_with_Setup_Independent_of_the_Plaintext_Space) by **Jeongeun Park** on **Feb 8th, 2024**
@@ -130,7 +124,6 @@
 - [TFHE deep dive](https://fhe.org/meetups/003-tfhe-deep-dive) by **Ilaria Chillotti** on **Apr 15, 2021**
 - [Introduction to MPC](https://fhe.org/meetups/002-introduction-to-mpc) by **Yehuda Lindell** on **Jan 27, 2021**
 - [Introduction to homomorphic encryption](https://fhe.org/meetups/001-introduction-to-fhe) by **Pascal Paillier** on **Nov 04, 2020**
-<br></br>
 
 ## Influential Papers
 
@@ -146,7 +139,6 @@
 - [A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms](https://doi.org/10.1109/TIT.1985.1057074) by **Taher ElGamal** in **1985**
 - [On data and privacy homomorphisms](https://luca-giuzzi.unibs.it/corsi/Support/papers-cryptography/RAD78.pdf) by **Ronald L. Rivest, Len Adleman, and Michael L. Dertouzos** in **1978**
 - [A method for obtaining digital signatures and public-key cryptosystems](https://dl.acm.org/doi/10.1145/359340.359342) by **Ronald .L. Rivest, Adi Shamir, and Leonard Adleman** in **1978**
-<br></br>
 
 ## FHE Schemes
 
@@ -155,7 +147,6 @@
 - [CKKS](https://link.springer.com/chapter/10.1007/978-3-319-70694-8_15) by **Cheon Jung Hee; Kim Andrey; Kim Miran; Song Yongsoo**
 - [FHEW](https://github.com/lducas/FHEW) by **Leo Ducas and Daniele Micciancio**
 - [TFHE](https://tfhe.github.io/tfhe/) by **Ilaria Chillotti, Nicolas Gama, Mariya Georgieva, and Malika Izabachene**
-<br></br>
 
 ## Libraries
 
@@ -169,7 +160,6 @@
 - [OpenFHE](https://github.com/openfheorg/openfhe-development) - Production-ready implementations of all major FHE schemes by **Duality Tech**
 - [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes by **Microsoft**
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs/) - A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data by **Zama**
-<br></br>
 
 ## Courses
 
@@ -180,4 +170,4 @@
 
 <!--- Footer --->
 <hr/>
-💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
+💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Git shub repo</a> to add your resources.
