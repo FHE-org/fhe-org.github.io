@@ -9,7 +9,7 @@
 
 # A New Perspective on Key Switching for BGV-like Schemes
 #### by Johannes Mono - 2024.02.22
-#### <a href="https://www.meetup.com/fhe-org/events/299032438/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=RxAcWxxTe5o&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/14388952/20240222_owl.pdf">Slides</a> (Github) | <a href="https://eprint.iacr.org/2023/1642">Paper</a> (eprint)| <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![045 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/46b9ca65-8129-442e-afe1-b4d857b0ae9d)
 
@@ -23,11 +23,6 @@ Fully homomorphic encryption is a promising solution for privacy-preserving comp
 
 Johannes Mono is a research assistant at Ruhr University Bochum pursuing a PhD in IT security within the area of homomorphic encryption. His research in homomorphic encryption tackles performance in theory and practice, the efficient mapping of use cases to the homomorphic realm and automization efforts which improve usability.
 
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/299032438/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
