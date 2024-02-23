@@ -88,6 +88,7 @@
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- [A New Perspective on Key Switching for BGV-like Schemes](https://fhe.org/meetups/045-A_New_Perspective_on_Key_Switching_for_BGV-like_Schemes) by **Johannes Mono** on **Feb 22nd, 2024**
 - [Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space](https://fhe.org/meetups/044-Towards_Practical_Transciphering_for_FHE_with_Setup_Independent_of_the_Plaintext_Space) by **Jeongeun Park** on **Feb 8th, 2024**
 - [Designs for practical SHE schemes based on Ring-LWR](https://fhe.org/meetups/043-Designs_for_practical_SHE_schemes_based_on_Ring-LWR) by **Erin Hales** on **Jan 25th, 2024**
 - [High-precision RNS-CKKS on small word-size architectures](https://fhe.org/meetups/042-High-precision-RNS-CKKS-on-small-word-size-architectures) by **Duhyeong Kim** on **Jan 11th, 2024**
