@@ -27,7 +27,7 @@ We want to thank all [FHE contributors](https://fhe.org/CONTRIBUTORS) in and out
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, **[A New Perspective on Key Switching for BGV-like Schemes](https://www.meetup.com/fhe-org/events/299032438/)** by **Johannes Mono** on **Feb 22nd, 2024 at 4PM CEST**
+- Register for the next meetup, **[Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS](https://www.meetup.com/fhe-org/events/299302789/)** by **Jinyeong Seo** on **Feb 29th, 2024 at 4PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
