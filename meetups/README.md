@@ -18,9 +18,10 @@
 
 ## Coming up
 
-<a href="https://www.meetup.com/fhe-org/events/298732824/"><img alt="Meetup #044" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ae2ab38-bee4-43cf-aac2-bdcb99d51861"/></a>
+<a href="https://www.meetup.com/fhe-org/events/299302789/"><img alt="Meetup #046" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3f8ba745-6b3b-436c-9c18-913a53eb87c0"/></a>
 
-#### Register for the next meetup, **[Towards Practical Transciphering for FHE w/ Setup Independent of Plaintext Space](https://www.meetup.com/fhe-org/events/298732824/)** by **Jeongeun Park** on **Feb 8th, 2024 at 4PM CEST**
+
+#### Register for the next meetup, **[Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS](https://www.meetup.com/fhe-org/events/299302789/)** by **Jinyeong Seo** on **Feb 29th, 2024 at 4PM CEST**
 
 <br>
 
@@ -29,6 +30,8 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [A New Perspective on Key Switching for BGV-like Schemes](https://fhe.org/meetups/045-A_New_Perspective_on_Key_Switching_for_BGV-like_Schemes) by **Johannes Mono** on **Feb 22nd, 2024**
+- [Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space](https://fhe.org/meetups/044-Towards_Practical_Transciphering_for_FHE_with_Setup_Independent_of_the_Plaintext_Space) by **Jeongeun Park** on **Feb 8th, 2024**
 - [Designs for practical SHE schemes based on Ring-LWR](https://fhe.org/meetups/043-Designs_for_practical_SHE_schemes_based_on_Ring-LWR) by **Erin Hales** on **Jan 25th, 2024**
 - [High-precision RNS-CKKS on small word-size architectures](https://fhe.org/meetups/042-High-precision-RNS-CKKS-on-small-word-size-architectures) by **Duhyeong Kim** on **Jan 11th, 2024**
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**

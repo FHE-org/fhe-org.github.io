@@ -3,35 +3,11 @@
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
   <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources"><b>Resources</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2024/">Conference 2024</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
-<hr/>
 <!-- /Main header navigation -->
 
-<!-- Resource categories links -->
-<p align="center">
-  <a href="https://fhe-org.github.io/resources#conference-resources">Conference Resources</a>
-  —
-  <a href="https://fhe-org.github.io/resources#tutorials-and-walkthroughs">Tutorials and Walkthroughs</a>
-  —
-  <a href="https://fhe-org.github.io/resources#use-cases">Use cases</a>
-  —
-  <a href="https://fhe-org.github.io/resources#hardware">Hardware</a>
-  —
-  <a href="https://fhe-org.github.io/resources#research">Research</a>
-  —
-  <a href="https://fhe-org.github.io/resources#influential-papers">Influential Papers</a>
-  —
-  <a href="https://fhe-org.github.io/resources#fhe-schemes">Schemes</a>
-  —
-  <a href="https://fhe-org.github.io/resources#libraries">Libraries</a>
-  —
-  <a href="https://fhe-org.github.io/resources#courses">Courses</a>
-</p>
-<hr/>
-<!-- /Resource categories links -->
+💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>.
 
-## Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/README.md)
-
-💡 Looking for a list of all FHE.org meetups? <a href="https://fhe.org/meetups">See the archive here</a>. 
+## Table of Contents [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/README.md)
 
 - [Conference Resources](#conference-resources)
 - [Tutorials and Walkthroughs](#tutorials-and-walkthroughs)
@@ -81,6 +57,11 @@
 - [Fully Homomorphic Encryption](https://www.ibm.com/support/z-content-solutions/fully-homomorphic-encryption) by **IBM** on **September 23, 2021**
 - [6-minute introduction to end to end encryption and try out an FHE demo for yourself](https://6min.zama.ai/) **Zama** on **Sept 15, 2021**
 - [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/) by **Ravital Solomon** on **Aug 30, 2021**
+- [Introduction to CKKS (Approximate Homomorphic Encryption)](https://www.microsoft.com/en-us/research/video/introduction-to-ckks-approximate-homomorphic-encryption/) by **Yongsoo Song** on **Jan 07, 2020**
+- [Building Applications with Microsoft SEAL](https://www.microsoft.com/en-us/research/video/building-applications-with-microsoft-seal/) by **Wei Dai** on **December 03, 2019**
+- [Techniques in PPML](https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-techniques-in-ppml/) by **Hao Chen** on **December 02, 2019**
+- [Introduction to Homomorphic Encryption](https://www.microsoft.com/en-us/research/video/intro-to-homomorphic-encryption/) by **Wei Dai** on **December 02, 2019**
+- [Microsoft SEAL](https://www.microsoft.com/en-us/research/video/microsoft-seal/) by **Kim Laine** on **December 02, 2019**
 - [GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors](https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/) by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
@@ -107,9 +88,12 @@
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- [A New Perspective on Key Switching for BGV-like Schemes](https://fhe.org/meetups/045-A_New_Perspective_on_Key_Switching_for_BGV-like_Schemes) by **Johannes Mono** on **Feb 22nd, 2024**
+- [Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space](https://fhe.org/meetups/044-Towards_Practical_Transciphering_for_FHE_with_Setup_Independent_of_the_Plaintext_Space) by **Jeongeun Park** on **Feb 8th, 2024**
 - [Designs for practical SHE schemes based on Ring-LWR](https://fhe.org/meetups/043-Designs_for_practical_SHE_schemes_based_on_Ring-LWR) by **Erin Hales** on **Jan 25th, 2024**
 - [High-precision RNS-CKKS on small word-size architectures](https://fhe.org/meetups/042-High-precision-RNS-CKKS-on-small-word-size-architectures) by **Duhyeong Kim** on **Jan 11th, 2024**
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
+- [Homomorphic Polynomial Evaluation using Galois Structure and Applications to BFV Bootstrapping](https://www.esat.kuleuven.be/cosic/blog/asiacrypt-2023-homomorphic-polynomial-evaluation-using-galois-structure-and-applications-to-bfv-bootstrapping/) by **Jiayi Kang** on **Dec 13, 2023**
 - [Lattigo v5: Deep Dive](https://fhe.org/meetups/040-Lattigo-v5-Deep-Dive) by **Jean-Philippe Bossuat** on **Dec, 12th, 2023**
 - [Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://fhe.org/meetups/039-Crypto_Dark_Matter_on_the_Torus) by **Alex Davidson** on **Nov, 23rd, 2023**
 - [FHE ring packing - affordable and convenient](https://fhe.org/meetups/038-HE_ring_packing_-_affordable_and_convenient) by **Jaehyung Kim** on **Nov 2nd, 2023**
@@ -187,4 +171,4 @@
 
 <!--- Footer --->
 <hr/>
-💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
+💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Git shub repo</a> to add your resources.
