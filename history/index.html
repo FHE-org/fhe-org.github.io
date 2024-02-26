@@ -264,6 +264,48 @@
 
         
         
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--blue">
+          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+          <span>2009</span>
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>DGHV</h2>
+          <p class="color-contrast-medium">Directly following, Marten van Dijk, Craig Gentry, Shai Halevi, and Vinod Vaikuntanathanan built DGHV ("Fully Homomorphic Encryption over the Integers") using only addition and multiplication over the integers (as opposed to more complicated algebraic structures used in e.g. Gentry’s scheme — ideal lattices). This scheme is very simple, conceptually, and is based on the approximate-GCD problem - a different hardness assumption to LWE. Served as a proof that FHE can be built in an easy-to-understand way.</p>          
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">
+               
+            </span>
+            <!--a href="#0" class="btn btn--subtle">Read more</a-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+        
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--blue">
+          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+          <span>2014</span>
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>FHEW</h2>
+          <p class="color-contrast-medium">A boolean FHE scheme was then developed that operates via evaluating boolean gates on encrypted bits. In particular, via an operation which admitted the computation of a homomorphic NAND on two ciphertexts encrypting bits. This was the first recorded instance of bootstrapping in less than a second.</p>          
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">
+               
+            </span>
+            <!--a href="#0" class="btn btn--subtle">Read more</a-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+        
+        
+        
         
         
         
@@ -271,25 +313,28 @@
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--blue">
           <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2010</span>
+          <span>2016</span>
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>i-Hop</h2>
-          <p class="color-contrast-medium">The next notable development came a year later with the introduction of the Gentry-Halevi-Vaikuntanathan (GHV) scheme via the paper "i-Hop Homomorphic Encryption and Rerandomizable Yao Circuits" by Craig Gentry, Shai Halevi, and Vinod Vaikuntanathan.</p>
-            
-          <p class="color-contrast-medium">This scheme didn't require a complex structure like a lattice but instead utilized basic arithmetic operations on modular or regular integers. It was highly inefficient and unless changing or tweaking in some way, wasn't in itself very practical.</p>
-            
-          
+          <h2>TFHE</h2>
+          <p class="color-contrast-medium">Shortly after, a scheme in a similar style was developed that considers a selection of improvements in order to increase efficiency compared to the usage of “Internal Product” in FHEW. Here, the bootstrapping process was considered as a collection of “external products” which increased efficiency. Further techniques outlined how to reduce the bootstrapping key size from ~1GB down to tens of MB. It was the first recorded instance of bootstrapping in less than 100ms.</p>          
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">
-                <img src="src/img/HGV.jpg" width=80%>
+               
             </span>
             <!--a href="#0" class="btn btn--subtle">Read more</a-->
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
+
+        
+        
+        
+        
+        
+        
 
 
         
