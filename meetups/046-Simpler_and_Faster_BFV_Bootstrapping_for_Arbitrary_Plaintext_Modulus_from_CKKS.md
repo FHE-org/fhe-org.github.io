@@ -9,7 +9,7 @@
 
 # Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS
 #### by Jinyeong Seo - 2024.02.29
-#### <a href="https://www.meetup.com/fhe-org/events/299302858/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=gsvGir-j128&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) <!-- | <a href="">Slides</a> (Github)</a --> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![046 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3f8ba745-6b3b-436c-9c18-913a53eb87c0)
 
@@ -33,11 +33,6 @@ His research interests lie in, but are not limited to, the practical instantiati
 
 His recent research focuses on improving the performance of lattice-based proof systems and homomorphic encryption schemes.
 
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/299302858/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
