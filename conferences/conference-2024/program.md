@@ -71,19 +71,19 @@
 <tr>
     <td width=100px>9:05 AM</td>
     <td width=400px>Privacy-Preserving Functional Database Exploration with Lattigo </td>
-    <td>Jean-Philippe Bossuat (TuneInsight)</td>
+    <td>Jean-Philippe Bossuat</td>
 </tr>
 
 <tr>
     <td width=100px>9:30 AM</td>
     <td width=400px>An SQL-based Data Analysis Platform using Homomorphic Encryption</td>
-    <td>Donghoon Yoo (Desilo) and Joohyung Lee (Desilo)</td>
+    <td>Donghoon Yoo and Joohyung Lee</td>
 </tr>
 
 <tr>
     <td width=100px>9:55 AM</td>
     <td width=400px>The HEIR Compiler</td>
-    <td> Jeremy Kun (Google) and Asra Ali (Google)</td>
+    <td> Jeremy Kun and Asra Ali</td>
 </tr>
 
 <tr>
