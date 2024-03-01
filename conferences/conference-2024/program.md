@@ -52,19 +52,19 @@
 
 <tr>
     <td width=100px>8:30 AM</td>
-    <td width=400px>Registration & morning refreshments 🥐</td>
+    <td width=400px>Registration & Morning Refreshments 🥐</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>9:00 AM</td>
-    <td width=400px>Welcome and Opening remarks</td>
+    <td width=400px>Welcome and Opening Remarks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>9:05 AM</td>
-    <td width=400px><b>Invited Tutorials:</b> Tools for FHE applications</td>
+    <td width=400px><b>Invited Tutorials:</b> Tools for FHE Applications</td>
     <td></td>
 </tr>
 
@@ -88,19 +88,19 @@
 
 <tr>
     <td width=100px>10:20 AM</td>
-    <td width=400px>Morning break ☕️</td>
+    <td width=400px>Morning Break ☕️</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>10:45 AM</td>
-    <td width=400px>Session I: contributed talks</td>
+    <td width=400px>Session I: Contributed Talks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>10:45 AM</td>
-    <td width=400px>Designs for practical Somewhat Homomorphic Encryption schemes based on Ring-LWR</td>
+    <td width=400px>Designs for Practical Somewhat Homomorphic Encryption Schemes Based on Ring-LWR</td>
     <td>Madalina Bolboceanu, Anamaria Costache, Erin Hales, Rachel Player, Miruna Rosca, and Radu Titiu</td>
 </tr>
 
@@ -124,13 +124,13 @@
 
 <tr>
     <td width=100px>12:30 PM</td>
-    <td width=400px>Buffet lunch and poster presentations/discussions</td>
+    <td width=400px>Buffet Lunch and Poster Presentations/Discussions </td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>1:30 PM</td>
-    <td width=400px>Session II: contributed talks</td>
+    <td width=400px>Session II: Contributed Talks</td>
     <td></td>
 </tr>
 
@@ -148,7 +148,7 @@
 
 <tr>
     <td width=100px>2:20 PM</td>
-    <td width=400px>Plug-and-play sanitization for TFHE</td>
+    <td width=400px>Plug-and-play Sanitization for TFHE</td>
     <td>Florian Bourse and Malika Izabachène</td>
 </tr>
 
@@ -160,13 +160,13 @@
 
 <tr>
     <td width=100px>3:15 PM</td>
-    <td width=400px>Afternoon break 🧃</td>
+    <td width=400px>Afternoon Break 🧃</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>3:45 PM</td>
-    <td width=400px>Session III: contributed talks</td>
+    <td width=400px>Session III: Contributed Talks</td>
     <td></td>
 </tr>
 
@@ -202,13 +202,13 @@
 
 <tr>
     <td width=100px>6:00 PM</td>
-    <td width=400px>Closing remarks</td>
+    <td width=400px>Closing Remarks</td>
     <td></td>
 </tr>
 
 <tr>
     <td width=100px>6:15 PM</td>
-    <td width=400px>After party 🍻</td>
+    <td width=400px>After Party 🍻</td>
     <td></td>
 </tr>
 
