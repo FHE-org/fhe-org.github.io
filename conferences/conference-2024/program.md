@@ -124,7 +124,7 @@
 
 <tr>
     <td width=100px>12:30 PM</td>
-    <td width=400px>Buffet Lunch and Poster Presentations/Discussions </td>
+    <td width=400px>Buffet Lunch and Poster Presentations/Discussions 🍴</td>
     <td></td>
 </tr>
 
@@ -190,7 +190,7 @@
 
 <tr>
     <td width=100px>5:05 PM</td>
-    <td width=400px>Short break</td>
+    <td width=400px>Short break 🍵</td>
     <td></td>
 </tr>
 
