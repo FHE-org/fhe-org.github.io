@@ -9,7 +9,7 @@
 
 # Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS
 #### by Jinyeong Seo - 2024.02.29
-#### <a href="https://www.youtube.com/watch?v=gsvGir-j128&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) <!-- | <a href="">Slides</a> (Github)</a --> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=gsvGir-j128&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/14463350/_FHE_org_Simpler_BFV_Bootstrapping.pdf">Slides</a> (Github)</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![046 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3f8ba745-6b3b-436c-9c18-913a53eb87c0)
 
