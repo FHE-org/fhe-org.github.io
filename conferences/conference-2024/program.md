@@ -190,7 +190,7 @@
 
 <tr>
     <td width=100px>5:05 PM</td>
-    <td width=400px>Short break 🍵</td>
+    <td width=400px>Short Break 🍵</td>
     <td></td>
 </tr>
 
