@@ -136,14 +136,14 @@
 
 <tr>
     <td width=100px>1:30 PM</td>
-    <td width=400px>Plug-and-play Sanitization for TFHE</td>
-    <td>Florian Bourse and Malika Izabachène</td>
+    <td width=400px>On Circuit Private, Multikey and Threshold Approximate Homomorphic Encryption</td>
+    <td>Kamil Kluczniak and Giacomo Santato</td>
 </tr>
 
 <tr>
     <td width=100px>1:55 PM</td>
-    <td width=400px>On Circuit Private, Multikey and Threshold Approximate Homomorphic Encryption</td>
-    <td>Kamil Kluczniak and Giacomo Santato</td>
+    <td width=400px>Plug-and-play Sanitization for TFHE</td>
+    <td>Florian Bourse and Malika Izabachène</td>
 </tr>
 
 <tr>
