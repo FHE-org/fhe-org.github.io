@@ -83,7 +83,7 @@
 <tr>
     <td width=100px>9:55 AM</td>
     <td width=400px>The HEIR Compiler</td>
-    <td> Jeremy Kun and Asra Ali</td>
+    <td> Jeremy Kun (Google) and Asra Ali</td>
 </tr>
 
 <tr>
@@ -136,8 +136,8 @@
 
 <tr>
     <td width=100px>1:30 PM</td>
-    <td width=400px>A Practical Framework for Verifiable Computation over Encrypted Data</td>
-    <td>Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez</td>
+    <td width=400px>Plug-and-play Sanitization for TFHE</td>
+    <td>Florian Bourse and Malika Izabachène</td>
 </tr>
 
 <tr>
@@ -148,8 +148,8 @@
 
 <tr>
     <td width=100px>2:20 PM</td>
-    <td width=400px>Plug-and-play Sanitization for TFHE</td>
-    <td>Florian Bourse and Malika Izabachène</td>
+    <td width=400px>A Practical Framework for Verifiable Computation over Encrypted Data</td>
+    <td>Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez</td>
 </tr>
 
 <tr>
