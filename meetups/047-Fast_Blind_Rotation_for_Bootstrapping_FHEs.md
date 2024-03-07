@@ -9,7 +9,7 @@
 
 # Fast Blind Rotation for Bootstrapping FHEs
 #### by Dai Yiran - 2024.03.07
-#### <a href="https://www.meetup.com/fhe-org/events/299310490/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=9fW8flVitC8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) <!--| <a href="">Slides (Github)</a --> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 ![047 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/634455bc-66b8-4285-938f-b12936aaa719)
@@ -25,12 +25,6 @@ In particular, the GSW-based bootstrapping algorithm has attracted much attentio
 # About the speaker
 
 Dai Yiran (1998-), a doctoral candidate at the Institute of Information Engineering, University of Chinese Academy of Sciences, is currently visiting the State Key Laboratory of Cryptozoology Science and Technology. Her research focus is on fully homomorphic encryption.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/299310490/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
