@@ -18,10 +18,15 @@
 
 ## Coming up
 
+<a href="https://lu.ma/fhe-org-conference-2024-tickets"><img alt="FHE.org 2024 Toronto" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf1be0a4-eac6-41a7-8c00-6a17306e5190"/></a>
+
 <!-- a href="https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs"><img alt="Meetup #047" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/634455bc-66b8-4285-938f-b12936aaa719"/></a -->
 
 
 <!--#### Register for the next meetup, **[Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs)** by **Dai Yiran** on **Mar 7th, 2024 at 4PM CEST**-->
+
+
+#### Register for the next event, **[FHE.org Toronto 2024](https://lu.ma/fhe-org-conference-2024-tickets)** on **Mar 24th, 2024**
 
 <br>
 
