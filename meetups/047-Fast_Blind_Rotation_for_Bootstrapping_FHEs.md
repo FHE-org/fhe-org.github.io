@@ -9,7 +9,7 @@
 
 # Fast Blind Rotation for Bootstrapping FHEs
 #### by Dai Yiran - 2024.03.07
-#### <a href="https://www.youtube.com/watch?v=9fW8flVitC8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) <!--| <a href="">Slides (Github)</a --> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=9fW8flVitC8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/14536817/CRYPTO23PPT.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 ![047 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/634455bc-66b8-4285-938f-b12936aaa719)
