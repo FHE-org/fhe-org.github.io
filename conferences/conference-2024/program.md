@@ -83,7 +83,7 @@
 <tr>
     <td width=100px>9:55 AM</td>
     <td width=400px>The HEIR Compiler</td>
-    <td> Jeremy Kun (Google) and Asra Ali</td>
+    <td> Jeremy Kun and Asra Ali</td>
 </tr>
 
 <tr>
