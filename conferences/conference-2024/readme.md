@@ -94,6 +94,26 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 
 <br><br>
 <b>We also recognize Arnav Pagidyala for their direct contribution.</b>
+<br><br>
+## Venue
+
+### Directions to the Arcadian 
+
+<b>Arcadian Loft</b><br>
+401 Bay St. 8th Floor, Toronto, ON M5H 2Y4, Canada<br>
+
+![image](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/c8306496-6955-4958-906f-f80e67cfc923)
+
+
+![image](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/be8226b1-d44e-4d8c-9255-2baeb11e4442)
+
+The Arcadian is located at 401 Bay Street in the Simpson Tower on the 8th floor. We are at the corner of  Bay and Queen street, across the street from old city hall and Nathan Philips Square. 
+
+We are conveniently located on the subway system at the Queen Street Station on the Yonge Street line. 
+
+If you are arriving to our venue from the Gardiner Expressway, exit on the Yonge/Bay exit and travel north  on Bay Street to Queen Street. If arriving from the Don Valley Parkway, exit on Richmond Street to enter  the downtown core and follow along Richmond to Bay Street and turn right.  
+
+Green P Parking is available underneath Nathan Philips Square at city hall. 
 
 <br><br>
 If you need assistance, feel free to reach out at contact@fhe.org.
