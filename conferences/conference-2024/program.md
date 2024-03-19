@@ -95,7 +95,7 @@
 <tr>
     <td width=100px>10:45 AM</td>
     <td width=400px>Session I: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Prof. Ingrid Verbauwhede</td>
 </tr>
 
 <tr>
@@ -131,7 +131,7 @@
 <tr>
     <td width=100px>1:30 PM</td>
     <td width=400px>Session II: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Prof. Daniele Micciancio</td>
 </tr>
 
 <tr>
@@ -167,7 +167,7 @@
 <tr>
     <td width=100px>3:45 PM</td>
     <td width=400px>Session III: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Prof. Nigel Smart</td>
 </tr>
 
 <tr>
