@@ -59,13 +59,14 @@
 <tr>
     <td width=100px>9:00 AM</td>
     <td width=400px>Welcome and Opening Remarks</td>
-    <td></td>
+    <td>Mariya Georgieva Belorgey and Yarkin Doroz</td>
 </tr>
 
 <tr>
     <td width=100px>9:05 AM</td>
     <td width=400px><b>Invited Tutorials:</b> Tools for FHE Applications</td>
-    <td></td>
+    <td>Session Chair: Mariya Georgieva Belorgey
+</td>
 </tr>
 
 <tr>
@@ -196,14 +197,20 @@
 
 <tr>
     <td width=100px>5:15 PM</td>
-    <td width=400px><b>Invited Talk:</b> Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
+    <td width=400px><b>Invited Talk</b> </td>
+    <td>Session Chair: Yarkin Doroz</td>
+</tr>
+
+<tr>
+    <td width=100px>5:15 PM</td>
+    <td width=400px> Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
     <td>Prof. Martin Albrecht (Kings College London, Sandbox AQ)</td>
 </tr>
 
 <tr>
     <td width=100px>6:00 PM</td>
     <td width=400px>Closing Remarks</td>
-    <td></td>
+    <td>Mariya Georgieva Belorgey and Yarkin Doroz</td>
 </tr>
 
 <tr>
