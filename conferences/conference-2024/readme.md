@@ -34,9 +34,9 @@
 
 
 # FHE.org Toronto 2024 Conference
-The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is colocated with [Real World Crypto 2024](https://rwc.iacr.org/2024/colocated.php) in Toronto (Canada) on March 24, 2024.
+The 3rd Annual FHE.org Conference on Fully Homomorphic Encryption is colocated with [Real World Crypto 2024](https://rwc.iacr.org/2024/colocated.php) and will be held at the Arcadian Loft, 401 Bay St. 8th Floor in Toronto (Canada) on March 24, 2024.
 
-The conference will feature parallel tutorial sessions and work groups, student/young researcher lightning talks, round table/panels, poster sessions, presentation sessions, invited speakers, and a DJ'ed party and dinner. 
+The conference will feature parallel tutorial sessions, poster sessions, presentation sessions, invited speakers, and a DJ'ed party and dinner. 
 
 ## Important dates
 - ~~**Submission deadline:** November 22nd, 2023 (23:59 AoE time)~~
@@ -99,8 +99,10 @@ FHE.org 2024 gratefully acknowledges the financial support of <i>(in alphebatica
 
 ### Directions to the Arcadian 
 
+<a href="https://www.google.com/maps/search/?api=1&query=Arcadian%20Loft&query_place_id=ChIJUVVS2cw0K4gR_QPFKAamCr4">
 <b>Arcadian Loft</b><br>
 401 Bay St. 8th Floor, Toronto, ON M5H 2Y4, Canada<br>
+</a>
 
 ![image](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/c8306496-6955-4958-906f-f80e67cfc923)
 
