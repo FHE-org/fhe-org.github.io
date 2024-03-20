@@ -18,10 +18,15 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs"><img alt="Meetup #047" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/634455bc-66b8-4285-938f-b12936aaa719"/></a>
+<a href="https://lu.ma/fhe-org-conference-2024-tickets"><img alt="FHE.org 2024 Toronto" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf1be0a4-eac6-41a7-8c00-6a17306e5190"/></a>
+
+<!-- a href="https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs"><img alt="Meetup #047" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/634455bc-66b8-4285-938f-b12936aaa719"/></a -->
 
 
-#### Register for the next meetup, **[Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs)** by **Dai Yiran** on **Mar 7th, 2024 at 4PM CEST**
+<!--#### Register for the next meetup, **[Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs)** by **Dai Yiran** on **Mar 7th, 2024 at 4PM CEST**-->
+
+
+#### Register for the next event, **[FHE.org Toronto 2024](https://lu.ma/fhe-org-conference-2024-tickets)** on **Mar 24th, 2024**
 
 <br>
 
@@ -30,6 +35,7 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs) by **Dai Yiran** on **Mar 7th, 2024**
 - [Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS](https://fhe.org/meetups/046-Simpler_and_Faster_BFV_Bootstrapping_for_Arbitrary_Plaintext_Modulus_from_CKKS) by **Jinyeong Seo** on **Feb 29th, 2024**
 - [A New Perspective on Key Switching for BGV-like Schemes](https://fhe.org/meetups/045-A_New_Perspective_on_Key_Switching_for_BGV-like_Schemes) by **Johannes Mono** on **Feb 22nd, 2024**
 - [Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space](https://fhe.org/meetups/044-Towards_Practical_Transciphering_for_FHE_with_Setup_Independent_of_the_Plaintext_Space) by **Jeongeun Park** on **Feb 8th, 2024**

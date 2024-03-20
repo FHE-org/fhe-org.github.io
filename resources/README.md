@@ -88,6 +88,7 @@
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- [Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs) by **Dai Yiran** on **Mar 7th, 2024**
 - [Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS](https://fhe.org/meetups/046-Simpler_and_Faster_BFV_Bootstrapping_for_Arbitrary_Plaintext_Modulus_from_CKKS) by **Jinyeong Seo** on **Feb 29th, 2024**
 - [A New Perspective on Key Switching for BGV-like Schemes](https://fhe.org/meetups/045-A_New_Perspective_on_Key_Switching_for_BGV-like_Schemes) by **Johannes Mono** on **Feb 22nd, 2024**
 - [Towards Practical Transciphering for FHE with Setup Independent of the Plaintext Space](https://fhe.org/meetups/044-Towards_Practical_Transciphering_for_FHE_with_Setup_Independent_of_the_Plaintext_Space) by **Jeongeun Park** on **Feb 8th, 2024**

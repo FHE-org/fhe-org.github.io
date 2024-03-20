@@ -59,13 +59,14 @@
 <tr>
     <td width=100px>9:00 AM</td>
     <td width=400px>Welcome and Opening Remarks</td>
-    <td></td>
+    <td>Mariya Georgieva Belorgey and Yarkin Doroz</td>
 </tr>
 
 <tr>
     <td width=100px>9:05 AM</td>
     <td width=400px><b>Invited Tutorials:</b> Tools for FHE Applications</td>
-    <td></td>
+    <td>Session Chair: Mariya Georgieva Belorgey
+</td>
 </tr>
 
 <tr>
@@ -82,8 +83,8 @@
 
 <tr>
     <td width=100px>9:55 AM</td>
-    <td width=400px>The HEIR Compiler</td>
-    <td> Jeremy Kun (Google) and Asra Ali</td>
+    <td width=400px>How to Write Optimization Passes in the HEIR Compiler</td>
+    <td> Jeremy Kun and Asra Ali</td>
 </tr>
 
 <tr>
@@ -95,7 +96,7 @@
 <tr>
     <td width=100px>10:45 AM</td>
     <td width=400px>Session I: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Prof. Ingrid Verbauwhede</td>
 </tr>
 
 <tr>
@@ -131,7 +132,7 @@
 <tr>
     <td width=100px>1:30 PM</td>
     <td width=400px>Session II: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Prof. Daniele Micciancio</td>
 </tr>
 
 <tr>
@@ -167,7 +168,7 @@
 <tr>
     <td width=100px>3:45 PM</td>
     <td width=400px>Session III: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Prof. Nigel Smart</td>
 </tr>
 
 <tr>
@@ -196,14 +197,20 @@
 
 <tr>
     <td width=100px>5:15 PM</td>
-    <td width=400px><b>Invited Talk:</b> Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
+    <td width=400px><b>Invited Talk</b> </td>
+    <td>Session Chair: Yarkin Doroz</td>
+</tr>
+
+<tr>
+    <td width=100px>5:15 PM</td>
+    <td width=400px> Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
     <td>Prof. Martin Albrecht (Kings College London, Sandbox AQ)</td>
 </tr>
 
 <tr>
     <td width=100px>6:00 PM</td>
     <td width=400px>Closing Remarks</td>
-    <td></td>
+    <td>Mariya Georgieva Belorgey and Yarkin Doroz</td>
 </tr>
 
 <tr>
