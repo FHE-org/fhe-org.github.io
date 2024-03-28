@@ -27,9 +27,7 @@ We want to thank all [FHE contributors](https://fhe.org/CONTRIBUTORS) in and out
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-<!-- - Register for the next meetup, **[Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs)** by **Dai Yiran** on **Mar 7th, 2024 at 4PM CEST** -->
-
-- Register for the **[FHE.org Toronto 2024 conference](https://lu.ma/fhe-org-conference-2024-tickets)** on **Mar 24th, 2024**
+- Register for the next meetup, **[Homomorphic Logic Gates and Integrated Circuits: Designs and Applications](https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications)** by **Song Bian** on **Apr 11th, 2024 at 6PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
