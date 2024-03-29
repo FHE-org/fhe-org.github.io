@@ -83,7 +83,7 @@
 
 <tr>
     <td width=100px>9:55 AM</td>
-    <td width=400px>How to Write Optimization Passes in the HEIR Compiler</td>
+    <td width=400px>The HEIR Compiler</td>
     <td> Jeremy Kun and Asra Ali</td>
 </tr>
 
@@ -156,7 +156,7 @@
 <tr>
     <td width=100px>2:45 PM</td>
     <td width=400px>Security Guidelines for Implementing Homomorphic Encryption</td>
-    <td>Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz</td>
+    <td>Jean-Philippe Bossuat, Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz</td>
 </tr>
 
 <tr>

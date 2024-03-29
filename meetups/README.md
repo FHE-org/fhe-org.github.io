@@ -18,15 +18,9 @@
 
 ## Coming up
 
-<a href="https://lu.ma/fhe-org-conference-2024-tickets"><img alt="FHE.org 2024 Toronto" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/bf1be0a4-eac6-41a7-8c00-6a17306e5190"/></a>
+<a href="https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/f606f3a0-2a23-4c1a-a047-86b6d3c2248a"></a>
 
-<!-- a href="https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs"><img alt="Meetup #047" src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/634455bc-66b8-4285-938f-b12936aaa719"/></a -->
-
-
-<!--#### Register for the next meetup, **[Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs)** by **Dai Yiran** on **Mar 7th, 2024 at 4PM CEST**-->
-
-
-#### Register for the next event, **[FHE.org Toronto 2024](https://lu.ma/fhe-org-conference-2024-tickets)** on **Mar 24th, 2024**
+#### Register for the next meetup, **Homomorphic Logic Gates and Integrated Circuits: Designs and Applications** by **Song Bian** on **Apr 11th, 2024 6:00PM CEST**
 
 <br>
 
