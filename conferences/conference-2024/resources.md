@@ -30,7 +30,9 @@
 </p>
 <hr/>
 <!-- /Header conference 2024 links -->
-# Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/edit/main/conferences/conference-2024/resources.md)
+
+
+# Resources [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/edit/main/conferences/conference-2023/resources.md)
 
 Presenters can add their own presentation resources here *(pdfs, powerpoints, poster images, etc)*. Videos will be added by the team directly. If you need help adding or hosting your resources, please reach out to the team at contact@fhe.org on discord.
 
@@ -44,7 +46,28 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <th data-sortas="case-insensitive">Resources</th>
   </tr>
 </thead>
+
+<tr>
+    <td>Title</td>
+    <td>Authors</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+
+
+
 </table>
+
+
 
 # Posters
 
@@ -56,4 +79,15 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <th data-sortas="case-insensitive">Resources</th>
   </tr>
 </thead>
+
+<tr>
+    <td>Title</td>
+    <td>Authors</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
 </table>
