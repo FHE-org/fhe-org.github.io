@@ -41,15 +41,225 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <table>
 <thead>
   <tr>
-      <th data-sortas="case-insensitive">Session Topic</th>
+      <th data-sortas="case-insensitive" width="50%">Session Topic</th>
       <th data-sortas="case-insensitive">Presenters/Authors</th>
       <th data-sortas="case-insensitive">Resources</th>
   </tr>
 </thead>
 
 <tr>
-    <td>Title</td>
-    <td>Authors</td>
+    <td>Privacy-Preserving Functional Database Exploration with Lattigo</td>
+    <td>Jean-Philippe Bossuat</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>An SQL-based Data Analysis Platform using Homomorphic Encryption</td>
+    <td>Donghoon Yoo and Joohyung Lee</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+
+<tr>
+    <td>The HEIR Compiler</td>
+    <td>Jeremy Kun and Asra Ali</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+
+<tr>
+    <td>Designs for Practical Somewhat Homomorphic Encryption Schemes Based on Ring-LWR</td>
+    <td>Madalina Bolboceanu, Anamaria Costache, Erin Hales, Rachel Player, Miruna Rosca, and Radu Titiu</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>Large Domain Homomorphic Evaluation in Levelled Mode</td>
+    <td>Jean-Philippe Bossuat and Malika Izabachène</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic</td>
+    <td>Mariya Georgieva Belorgey, Sergiu Carpov, Nicolas Gama, Sandra Guasch, and Dimitar Jetchev</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+<tr>
+    <td>BASALISC: Programmable Hardware Accelerator for BGV and CKKS FHE - An Interim Design Update</td>
+    <td>David Archer, Robin Geelen, and Michiel Van Beirendonck</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>On Circuit Private, Multikey and Threshold Approximate Homomorphic Encryption</td>
+    <td>Kamil Kluczniak and Giacomo Santato</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>Plug-and-play Sanitization for TFHE</td>
+    <td>Florian Bourse and Malika Izabachène</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+
+<tr>
+    <td>A Practical Framework for Verifiable Computation over Encrypted Data</td>
+    <td>Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>Security Guidelines for Implementing Homomorphic Encryption</td>
+    <td>Jean-Philippe Bossuat, Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability</td>
+    <td>Ilaria Chillotti, Sarah El Kazdadi, Damien Ligier, Arthur Meyre, Thomas Montaigu, Jean-Baptiste Orfila, and Samuel Tap</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE</td>
+    <td>Wei Ao and Vishnu Naresh Boddeti</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>Revisiting Oblivious Top-k Selection with Applications to Secure k-NN Classification</td>
+    <td>Kelong Cong, Robin Geelen, Jiayi Kang, and Jeongeun Park</td>
+    <td>
+      <a href="">
+        Slides
+      </a> /
+      <a href="">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
+    <td>Prof. Martin Albrecht (Kings College London, Sandbox AQ)</td>
     <td>
       <a href="">
         Slides
@@ -74,20 +284,220 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <table>
 <thead>
   <tr>
-    <th data-sortas="case-insensitive">Poster Topic</th>
+    <th data-sortas="case-insensitive" width="50%">Poster Topic</th>
     <th data-sortas="case-insensitive">Presenters/Authors</th>
     <th data-sortas="case-insensitive">Resources</th>
   </tr>
 </thead>
 
 <tr>
-    <td>Title</td>
-    <td>Authors</td>
+    <td>At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE</td>
+    <td>Aymen Boudguiga, Daphné Trama, Pierre-Emmanuel Clet, and Renaud Sirdey</td>
     <td>
       <a href="">
         View
       </a>
     </td>
 </tr>
+
+
+<tr>
+    <td>Breaking the power-of-two barrier: noise estimation for BGV in NTT-friendly rings</td>
+    <td>Andrea Di Giusto and Chiara Marcolla</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Convolution-friendly Image Compression in FHE</td>
+    <td>Axel Mertens, Georgio Nicolas, and Sergi Rovira</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Edit distance in the encrypted domain</td>
+    <td>Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Wouter Legiest</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Faster Parameter Selection for FHE</td>
+    <td>Chiara Marcolla, Elena Kirshanova, and Sergi Rovira</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Game of Life, Revisited</td>
+    <td>Benoit Chevallier-Mames and Umut Şahin</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Hardware-Accelerated Encrypted Credit Card Fraud Check</td>
+    <td>Florent Michel, Jakub Ziarno, Joseph Wilson, Nicholas New, Shuhao Yang, Thanh-Huyen Nguyen, and Victor Lisinski</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Homomorphic Integer Division for TFHE</td>
+    <td>Amit Deo, Marc Joye, and Olivier Bernard</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Liberate.FHE: A New FHE Library for Bridging the Gap between Theory and Practice with a Focus on Performance and Accuracy</td>
+    <td>Donghoon Yoo, Hanyul Ryu, and Juwhan Kim</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Low Latency Evaluation of AES via (leveled) TFHE</td>
+    <td>Benqiang Wei, Kunpeng Wang, Ruida Wang, Xianhui Lu, and Zhihao Li</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Making FHE hardware-acceleration-friendly (and vice versa)</td>
+    <td>Furkan Turan, Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Michiel Van Beirendonck</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Multi-Objective Arithmetization and Composition of Common Primitives for Homomorphic Encryption</td>
+    <td>Jelle Vos, Mauro Conti, and Zekeriya Erkin</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Neural Network Training on Encrypted Data with TFHE</td>
+    <td>Andrei Stoian, Celia Kherfallah, Jordan Frery, Luis Montero, and Roman Bredehoft</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Novel uses cases enabled by FHE in Blockchain</td>
+    <td>Remi Gai</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Optimized Homomorphic Evaluation of Boolean Functions and Concrete Application on Cryptographic Primitives</td>
+    <td>David Pointcheval, Matthieu Rivain, Nicolas Bon, and Sonia Belaïd</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Robust FHE in Practice</td>
+    <td>Alexander Viand, Anwar Hithnawi, and Christian Knabenhans</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>The Inhibitor: ReLU and Addition-Based Attention for Efficient Transformers under Fully Homomorphic Encryption on the Torus</td>
+    <td>Andrei Stoian and Rickard Brännvall</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Towards Practical FHE Calculations Integrity by Means of Rinocchio</td>
+    <td>Caroline Fontaine, Marc Renard, Oana Stan, and Renaud Sirdey</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
+<tr>
+    <td>Towards Verifiable Bootstrapping in Practice - Proving Correct Execution of TFHE’s Blind Rotation using plonky2</td>
+    <td>Louis Tremblay Thibault and Michael Walter</td>
+    <td>
+      <a href="">
+        View
+      </a>
+    </td>
+</tr>
+
+
 
 </table>
