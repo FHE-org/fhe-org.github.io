@@ -54,7 +54,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896247/0905-Bossuat.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=7xdx_UmCV6I&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=2">
         Video
       </a>
    </td>
@@ -69,7 +69,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896260/0930-Yoo.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=SaxmIsMAMa8&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=2">
         Video
       </a>
    </td>
@@ -85,7 +85,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896262/0955-Kun.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=ne5D_kqlxYg&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=3">
         Video
       </a>
    </td>
@@ -101,7 +101,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896263/1045-Hales.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=phlJD6ogRXY&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=4">
         Video
       </a>
    </td>
@@ -116,7 +116,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896266/1110-Bossuat.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=xYDZ2hR9HPs&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=5">
         Video
       </a>
    </td>
@@ -131,7 +131,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896267/1135-Gama.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=Yw--c7b1Ae8&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=6">
         Video
       </a>
    </td>
@@ -144,7 +144,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896268/1200-Archer.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=-12xxt5BqUU&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=7">
         Video
       </a>
    </td>
@@ -156,10 +156,8 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>On Circuit Private, Multikey and Threshold Approximate Homomorphic Encryption</td>
     <td>Kamil Kluczniak and Giacomo Santato</td>
     <td>
-      <a href="">
-        Slides
-      </a> /
-      <a href="">
+        Slides /
+      <a href="https://www.youtube.com/watch?v=9cX1TK4RYfY&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=8">
         Video
       </a>
    </td>
@@ -171,10 +169,8 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Plug-and-play Sanitization for TFHE</td>
     <td>Florian Bourse and Malika Izabachène</td>
     <td>
-      <a href="">
-        Slides
-      </a> /
-      <a href="">
+        Slides /
+      <a href="https://www.youtube.com/watch?v=E5pkpGMrXFg&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=9">
         Video
       </a>
    </td>
@@ -184,13 +180,13 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 
 
 <tr>
-    <td>A Practical Framework for Verifiable Computation over Encrypted Data</td>
+    <td>HELIOPOLIS: Verifiable Computation Over HE Data from Interactive Oracle Proofs is Practical</td>
     <td>Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez</td>
     <td>
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896273/1420-Soria-Vazquez.pptx">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=GvrJ2RjiABI&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=10">
         Video
       </a>
    </td>
@@ -205,7 +201,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896275/1445-Gong.updated.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=Mf5b05rVH_g&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=11">
         Video
       </a>
    </td>
@@ -219,7 +215,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896277/1545-Orfila.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=4NHH5MWJ9Mw&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=12">
         Video
       </a>
    </td>
@@ -234,7 +230,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896280/1610-Ao.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=5jzfeUlMPyM&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=13">
         Video
       </a>
    </td>
@@ -249,7 +245,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896282/1635-Geelen.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=ez3U61P15z0&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=14">
         Video
       </a>
    </td>
@@ -264,9 +260,9 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896283/1715-Albrecht.pdf">
         Slides
       </a> /
-      <a href="">
+      <a href="https://www.youtube.com/watch?v=TNb3-3WStc4&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=15">
         Video
-        </a-->
+        </a>
    </td>
 </tr>
 
