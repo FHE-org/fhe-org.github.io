@@ -293,22 +293,14 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE</td>
     <td>Aymen Boudguiga, Daphné Trama, Pierre-Emmanuel Clet, and Renaud Sirdey</td>
-    <td>
-      <a href="">
-        View
-      </a>
-    </td>
+    <td></td>
 </tr>
 
 
 <tr>
     <td>Breaking the power-of-two barrier: noise estimation for BGV in NTT-friendly rings</td>
     <td>Andrea Di Giusto and Chiara Marcolla</td>
-    <td>
-      <a href="">
-        View
-      </a>
-    </td>
+    <td></td>
 </tr>
 
 
@@ -316,7 +308,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Convolution-friendly Image Compression in FHE</td>
     <td>Axel Mertens, Georgio Nicolas, and Sergi Rovira</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896491/38-Mertens.pdf">
         View
       </a>
     </td>
@@ -326,11 +318,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Edit distance in the encrypted domain</td>
     <td>Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Wouter Legiest</td>
-    <td>
-      <a href="">
-        View
-      </a>
-    </td>
+    <td></td>
 </tr>
 
 
@@ -338,7 +326,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Faster Parameter Selection for FHE</td>
     <td>Chiara Marcolla, Elena Kirshanova, and Sergi Rovira</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896464/42-Kirshanova.pdf">
         View
       </a>
     </td>
@@ -349,7 +337,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Game of Life, Revisited</td>
     <td>Benoit Chevallier-Mames and Umut Şahin</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896286/Zama.03-Mames.pdf">
         View
       </a>
     </td>
@@ -360,7 +348,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Hardware-Accelerated Encrypted Credit Card Fraud Check</td>
     <td>Florent Michel, Jakub Ziarno, Joseph Wilson, Nicholas New, Shuhao Yang, Thanh-Huyen Nguyen, and Victor Lisinski</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896466/05-Michel.pdf">
         View
       </a>
     </td>
@@ -371,7 +359,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Homomorphic Integer Division for TFHE</td>
     <td>Amit Deo, Marc Joye, and Olivier Bernard</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896469/Zama.37-Deo.pdf">
         View
       </a>
     </td>
@@ -382,7 +370,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Liberate.FHE: A New FHE Library for Bridging the Gap between Theory and Practice with a Focus on Performance and Accuracy</td>
     <td>Donghoon Yoo, Hanyul Ryu, and Juwhan Kim</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896471/07-Kim.pdf">
         View
       </a>
     </td>
@@ -393,7 +381,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Low Latency Evaluation of AES via (leveled) TFHE</td>
     <td>Benqiang Wei, Kunpeng Wang, Ruida Wang, Xianhui Lu, and Zhihao Li</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896472/12-Wei.pdf">
         View
       </a>
     </td>
@@ -403,22 +391,14 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Making FHE hardware-acceleration-friendly (and vice versa)</td>
     <td>Furkan Turan, Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Michiel Van Beirendonck</td>
-    <td>
-      <a href="">
-        View
-      </a>
-    </td>
+    <td></td>
 </tr>
 
 
 <tr>
     <td>Multi-Objective Arithmetization and Composition of Common Primitives for Homomorphic Encryption</td>
     <td>Jelle Vos, Mauro Conti, and Zekeriya Erkin</td>
-    <td>
-      <a href="">
-        View
-      </a>
-    </td>
+    <td></td>
 </tr>
 
 
@@ -426,7 +406,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Neural Network Training on Encrypted Data with TFHE</td>
     <td>Andrei Stoian, Celia Kherfallah, Jordan Frery, Luis Montero, and Roman Bredehoft</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896476/Zama.30-Montero.pdf">
         View
       </a>
     </td>
@@ -437,7 +417,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Novel uses cases enabled by FHE in Blockchain</td>
     <td>Remi Gai</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896477/35-Gai.pdf">
         View
       </a>
     </td>
@@ -448,7 +428,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Optimized Homomorphic Evaluation of Boolean Functions and Concrete Application on Cryptographic Primitives</td>
     <td>David Pointcheval, Matthieu Rivain, Nicolas Bon, and Sonia Belaïd</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896481/18-Bon.pdf">
         View
       </a>
     </td>
@@ -458,11 +438,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Robust FHE in Practice</td>
     <td>Alexander Viand, Anwar Hithnawi, and Christian Knabenhans</td>
-    <td>
-      <a href="">
-        View
-      </a>
-    </td>
+    <td></td>
 </tr>
 
 
@@ -470,7 +446,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>The Inhibitor: ReLU and Addition-Based Attention for Efficient Transformers under Fully Homomorphic Encryption on the Torus</td>
     <td>Andrei Stoian and Rickard Brännvall</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896485/Zama.23-Brannvall.pdf">
         View
       </a>
     </td>
@@ -481,7 +457,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Towards Practical FHE Calculations Integrity by Means of Rinocchio</td>
     <td>Caroline Fontaine, Marc Renard, Oana Stan, and Renaud Sirdey</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896490/Zama.13-Walter.pdf">
         View
       </a>
     </td>
@@ -491,11 +467,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Towards Verifiable Bootstrapping in Practice - Proving Correct Execution of TFHE’s Blind Rotation using plonky2</td>
     <td>Louis Tremblay Thibault and Michael Walter</td>
-    <td>
-      <a href="">
-        View
-      </a>
-    </td>
+    <td></td>
 </tr>
 
 
