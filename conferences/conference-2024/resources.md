@@ -51,7 +51,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Privacy-Preserving Functional Database Exploration with Lattigo</td>
     <td>Jean-Philippe Bossuat</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896247/0905-Bossuat.pdf">
         Slides
       </a> /
       <a href="">
@@ -66,7 +66,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>An SQL-based Data Analysis Platform using Homomorphic Encryption</td>
     <td>Donghoon Yoo and Joohyung Lee</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896260/0930-Yoo.pdf">
         Slides
       </a> /
       <a href="">
@@ -82,7 +82,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>The HEIR Compiler</td>
     <td>Jeremy Kun and Asra Ali</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896262/0955-Kun.pdf">
         Slides
       </a> /
       <a href="">
@@ -98,7 +98,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Designs for Practical Somewhat Homomorphic Encryption Schemes Based on Ring-LWR</td>
     <td>Madalina Bolboceanu, Anamaria Costache, Erin Hales, Rachel Player, Miruna Rosca, and Radu Titiu</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896263/1045-Hales.pdf">
         Slides
       </a> /
       <a href="">
@@ -113,7 +113,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Large Domain Homomorphic Evaluation in Levelled Mode</td>
     <td>Jean-Philippe Bossuat and Malika Izabachène</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896266/1110-Bossuat.pdf">
         Slides
       </a> /
       <a href="">
@@ -128,7 +128,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic</td>
     <td>Mariya Georgieva Belorgey, Sergiu Carpov, Nicolas Gama, Sandra Guasch, and Dimitar Jetchev</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896267/1135-Gama.pdf">
         Slides
       </a> /
       <a href="">
@@ -141,7 +141,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>BASALISC: Programmable Hardware Accelerator for BGV and CKKS FHE - An Interim Design Update</td>
     <td>David Archer, Robin Geelen, and Michiel Van Beirendonck</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896268/1200-Archer.pdf">
         Slides
       </a> /
       <a href="">
@@ -187,7 +187,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>A Practical Framework for Verifiable Computation over Encrypted Data</td>
     <td>Diego F. Aranha, Anamaria Costache, Antonio Guimarães, and Eduardo Soria-Vazquez</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896273/1420-Soria-Vazquez.pptx">
         Slides
       </a> /
       <a href="">
@@ -202,7 +202,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Security Guidelines for Implementing Homomorphic Encryption</td>
     <td>Jean-Philippe Bossuat, Rosario Cammarota, Jung Hee Cheon, Ilaria Chillotti, Benjamin R. Curtis, Wei Dai, Huijing Gong, Erin Hales, Duhyeong Kim, Bryan Kumara, Changmin Lee, Xianhui Lu, Carsten Maple, Alberto Pedrouzo-Ulloa, Rachel Player, Luis Antonio Ruiz Lopez, Yongsoo Song, Donggeon Yhee, and Bahattin Yildiz</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896275/1445-Gong.updated.pdf">
         Slides
       </a> /
       <a href="">
@@ -216,7 +216,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>TFHE Simplified: A Practical Guide to Integer Arithmetic and Reliability</td>
     <td>Ilaria Chillotti, Sarah El Kazdadi, Damien Ligier, Arthur Meyre, Thomas Montaigu, Jean-Baptiste Orfila, and Samuel Tap</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896277/1545-Orfila.pdf">
         Slides
       </a> /
       <a href="">
@@ -231,7 +231,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>AutoFHE: Automated Adaption of CNNs for Efficient Evaluation over FHE</td>
     <td>Wei Ao and Vishnu Naresh Boddeti</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896280/1610-Ao.pdf">
         Slides
       </a> /
       <a href="">
@@ -246,7 +246,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Revisiting Oblivious Top-k Selection with Applications to Secure k-NN Classification</td>
     <td>Kelong Cong, Robin Geelen, Jiayi Kang, and Jeongeun Park</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896282/1635-Geelen.pdf">
         Slides
       </a> /
       <a href="">
@@ -261,12 +261,12 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Estimating the Difficulty of Breaking Lattice-Based Cryptography </td>
     <td>Prof. Martin Albrecht (Kings College London, Sandbox AQ)</td>
     <td>
-      <a href="">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896283/1715-Albrecht.pdf">
         Slides
       </a> /
       <a href="">
         Video
-      </a>
+        </a-->
    </td>
 </tr>
 
