@@ -9,7 +9,7 @@
 
 # Homomorphic Logic Gates and Integrated Circuits: Designs and Applications
 #### by Song Bian - 2024.04.11
-#### <a href="https://www.meetup.com/fhe-org/events/299902889/">Register for meetup</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/299902889/">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![048 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/f606f3a0-2a23-4c1a-a047-86b6d3c2248a)
 
