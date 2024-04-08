@@ -28,7 +28,7 @@ He received M.S. and Ph.D. from Kyoto University, in 2017 and 2019, respectively
 
 # Register for the meetup
 
-RSVP for the meetup at https://www.meetup.com/fhe-org/events/299902889/
+RSVP for the meetup at <a href="https://www.meetup.com/fhe-org/events/299902889/">https://www.meetup.com/fhe-org/events/299902889/</a>.
 
 # Never miss an update
 
