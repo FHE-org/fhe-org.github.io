@@ -26,6 +26,10 @@ Song Bian is currently an associate professor at Beihang University. His main ar
 
 He received M.S. and Ph.D. from Kyoto University, in 2017 and 2019, respectively, and served as an assistant professor at Kyoto University until 2021. He served as technical committee members/reviewers for top-tier international conferences/journals across different fields of studies, including CVPR, IEEE TIFS and IEEE TCAD. He is a member of ACM and IEEE.
 
+# Register for the meetup
+
+RSVP for the meetup at https://www.meetup.com/fhe-org/events/299902889/
+
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
