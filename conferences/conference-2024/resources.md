@@ -293,7 +293,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>At Last! A Homomorphic AES Evaluation in Less than 30 Seconds by Means of TFHE</td>
     <td>Aymen Boudguiga, Daphné Trama, Pierre-Emmanuel Clet, and Renaud Sirdey</td>
-    <td></td>
+    <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14918411/09-Trama.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 
@@ -318,7 +322,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Edit distance in the encrypted domain</td>
     <td>Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Wouter Legiest</td>
-    <td></td>
+    <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14918445/21-Legiest.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 
@@ -391,7 +399,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Making FHE hardware-acceleration-friendly (and vice versa)</td>
     <td>Furkan Turan, Ingrid Verbauwhede, Jan-Pieter D'Anvers, and Michiel Van Beirendonck</td>
-    <td></td>
+    <td>      
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14918427/17-Verbauwhede.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 
@@ -457,7 +469,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Towards Practical FHE Calculations Integrity by Means of Rinocchio</td>
     <td>Caroline Fontaine, Marc Renard, Oana Stan, and Renaud Sirdey</td>
     <td>
-      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896490/Zama.13-Walter.pdf">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14918452/45-Renard.pdf">
         View
       </a>
     </td>
@@ -467,7 +479,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Towards Verifiable Bootstrapping in Practice - Proving Correct Execution of TFHE’s Blind Rotation using plonky2</td>
     <td>Louis Tremblay Thibault and Michael Walter</td>
-    <td></td>
+    <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896490/Zama.13-Walter.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 
