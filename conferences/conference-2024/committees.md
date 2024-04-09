@@ -22,7 +22,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2024/contact">Contact</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2024/sponsor">Sponsor</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2024/resources">Resources</a>
   —
   <strike>Resources</strike>
 </p>
