@@ -208,7 +208,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>An Optical Hardware Accelerator for FHE</td>
     <td>Florent Michel (Optalysys), Joseph Wilson (Optalysys), Imon Kundu (Optalysys), Nick New (Optalysys)</td>
     <td>
-      <a href="https://drive.google.com/file/d/1fMroQMcaTnR_9Ic0isUc1d769oBub1-k/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1XS_Gm-PizYQF0leDyZ2E5GSCNV_OsLuh/view?usp=sharing">
         View
       </a>
     </td>
