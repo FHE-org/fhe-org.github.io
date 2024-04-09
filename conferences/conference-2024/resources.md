@@ -156,7 +156,9 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>On Circuit Private, Multikey and Threshold Approximate Homomorphic Encryption</td>
     <td>Kamil Kluczniak and Giacomo Santato</td>
     <td>
-        Slides /
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14917722/1330-Santato.pdf">
+        Slides 
+      </a> /
       <a href="https://www.youtube.com/watch?v=9cX1TK4RYfY&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=8">
         Video
       </a>
@@ -169,7 +171,9 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Plug-and-play Sanitization for TFHE</td>
     <td>Florian Bourse and Malika Izabachène</td>
     <td>
-        Slides /
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14917748/1355-Bourse.pdf">
+        Slides 
+      </a> /
       <a href="https://www.youtube.com/watch?v=E5pkpGMrXFg&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=9">
         Video
       </a>
