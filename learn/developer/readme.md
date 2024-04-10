@@ -546,7 +546,7 @@ Libraries are the software developers use to perform FHE operations easily, simi
 - [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
 - [OpenFHE](https://github.com/openfheorg/openfhe-development) - Production-ready implementations of all major FHE schemes by **Duality Tech**
 - [SEAL](https://github.com/microsoft/SEAL) - C++ FHE library implementing BFV and CKKS schemes by **Microsoft**
-- [TFHE-rs](https://github.com/zama-ai/tfhe-rs/) - A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data by **Zama**
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs/) - A pure Rust implementation of the TFHE scheme for boolean and integer arithmetics over encrypted data by **Zama**
 
 
 </td>
