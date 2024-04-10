@@ -810,11 +810,11 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 - WASM-API #JS #tfhe-rs #tfhe #tutorial
 [view](https://docs.zama.ai/tfhe-rs/how-to/js_on_wasm_api)
 - FHE SHA256 #Rust #tfhe-rs #tfhe #tutorial
-[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/application_tutorials/sha256_bool.md)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/sha256_bool)
 - Encrypted Regular Expression engine #Rust #tfhe-rs #tfhe #application
-[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/application_tutorials/regex.md)
+[view](https://www.zama.ai/post/regex-engine-tfhe-rs)
 - Dark Market in FHE #Rust #tfhe-rs #tfhe #application
-[view](https://github.com/zama-ai/tfhe-rs/blob/main/tfhe/docs/application_tutorials/dark_market.md)
+[view](https://www.zama.ai/post/dark-market-tfhe-rs)
 
 
 
