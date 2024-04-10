@@ -1,499 +1,376 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <!-- Required meta tags -->
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <!-- Title  -->
-  <title>FHE.org: History of FHE</title>
-  <meta name="description" content="FHE.org: The History of FHE">
-
-  <!-- Development css -->
-  <link rel="stylesheet" href="src/css/style.css">
-  <link rel="stylesheet" href="src/css/timeline-style.css">
-
-  <!-- Production css -->
-  <!-- <link rel="stylesheet" href="dist/css/style.css"> -->
-
-  <!-- google font -->
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;700&amp;display=swap" rel="stylesheet">
-
-  <!-- Favicon  -->
-  <link rel="icon" href="https://user-images.githubusercontent.com/5758427/185646241-575e27c5-f0b0-4d4f-9f4f-c9f0c61c24f8.png">
-</head>
-<body class="text-gray-700">
-	<!-- preloader -->
-	<div class="preloader loaded-success fixed inset-0 z-50 bg-gray-50">
-	  <div class="absolute left-1/2 top-1/2 transform -translate-y-1/2">
-	    <div class="relative mx-auto my-12">
-	      <div class="inline-block">
-	        <svg class="animate-spin h-8 w-8 text-blue-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-	          <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-	          <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-	        </svg>
-	      </div>
-	    </div>
-	  </div>
-	</div>
-
-  <!-- ========== { HEADER }==========  -->
-  <header class="fixed top-0 left-0 right-0 z-40">
-     <nav class="main-nav">
-        <div class="container xl:max-w-6xl mx-auto px-4">
-          <div class="lg:flex lg:justify-between">
-          	<div class="flex justify-between">
-	            <div class="mx-w-10 text-4xl font-bold capitalize text-gray-900 flex items-center "><a href="https://fhe.org"><img src="./src/img/fhe-logo.png" width=250em style=" border:none; margin-right:4em"></a></div>
-	            <div class=" text-sm font-bold capitalize text-white flex items-center justify-center size-auto">
-                    <a href="https://fhe-org.github.io" style="min-width:2em; margin:1em; text-decoration: none; color:white">Home</a><span> | </span><a href="https://fhe-org.github.io/resources" style="min-width:2em; margin:1em; text-decoration: none; color:white">Resources</a><span> | </span><a href="https://fhe-org.github.io/conferences/conference-2024/" style="min-width:9em; margin:1em; text-decoration: none; color:white">Conference 2024</a><span> | </span><a href="https://fhe-org.github.io/community" style="min-width:12em; margin:1em; text-decoration: none; color:white">Join the community</a>
-                </div>
-		          <!-- mobile nav -->
-	            <div class="flex flex-row items-center py-4 lg:py-0">
-                    
-	              <div class="relative text-gray-900 hover:text-black block lg:hidden">
-	                <button type="button" class="menu-mobile block py-3 px-6 border-b-2 border-transparent">
-	                  <span class="sr-only">Mobile menu</span>
-	                  <svg class="open h-8 w-8" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-	                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
-	                  </svg>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="close bi bi-x-lg h-8 w-8" viewBox="0 0 16 16">
-                      <path fill-rule="evenodd" d="M13.854 2.146a.5.5 0 0 1 0 .708l-11 11a.5.5 0 0 1-.708-.708l11-11a.5.5 0 0 1 .708 0Z"/>
-                      <path fill-rule="evenodd" d="M2.146 2.146a.5.5 0 0 0 0 .708l11 11a.5.5 0 0 0 .708-.708l-11-11a.5.5 0 0 0-.708 0Z"/>
-                    </svg>
-	                </button>
-	              </div>
-	            </div>
-	          </div>
-          </div>
-        </div>
-     </nav>
-  </header><!-- end header -->
-
-  <!-- =========={ MAIN }==========  -->
-  <main id="content">
-    <!-- hero start -->
-		<div id="hero" class="section relative z-0 py-12 md:pt-32 md:pb-12 bg-white">
-		  <div class="container xl:max-w-6xl mx-auto p-24">
-		    <div class="flex flex-wrap flex-row -mx-4 justify-center">
-		      <!-- content -->
-		      <div class="flex-shrink max-w-full px-4 sm:px-12 lg:px-18 w-full sm:w-9/12 lg:w-1/2 self-center">
-		        <img src="src/img/lattice-grid.png" class="w-full max-w-full h-auto" alt="Lattice">
-		      </div><!-- end content -->
-
-		      <!-- text -->
-		      <div class="flex-shrink max-w-full px-4 w-full md:w-9/12 lg:w-1/2 self-center lg:pr-12">
-		        <div class="lg:text-left mt-6 lg:mt-0">
-		          <div class="mb-12">
-		            <h1 class="text-2xl leading-normal text-black font-bold mb-4">The History of FHE</h1>
-
-	
-		            <p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2"><img src="src/img/timeline.svg" width="50%"></p>
-		            <p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2">Since the 1970s there had been a dream of Fully Homomorphic Encryption, a dream that was questioned as even possible.</p>
-		            <p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2">
-                        Fast forward to 2009, when Craig Gentry described the first feasible construction for a Fully Homomorphic Encryption scheme using lattice-based cryptography. Since then FHE has grown from a research fascination to a sprawling community of schemes, libraries, developers, and increasing public interest in its application.</p>
-		            <p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2">Here we take a look at where it all started and just how far it's come.</p>
-
-                      
-		          </div>
-		        </div>
-		      </div>
-		    </div>
-		  </div>
-
-      
-      </div><!-- end Hero -->
-
-
-      
-    	<!-- start introduction and video -->
-      
-        <div class="flex p-12 bg-gray-300">
-            <div class="w-1/2 flex items-center ">
-                <p style="width:50%">
-                        <div class="py-8 px-12 mb-12 bg-gray-50 border-b border-gray-100 transform transition duration-300 ease-in-out hover:-translate-y-2">
-                            <h3 class="text-2xl leading-normal mb-2 font-semibold text-black">What is FHE?</h3>
-                            <p class="text-gray-500 text-md2">FHE is the first form of cryptography that enables you to run computations on encrypted data without needing to first decrypt it.<br><br></p>
-                            <p class="text-gray-500 text-md2">Check out this clip from the very first FHE.org meetup featuring Pascal Paillier explaining where FHE comes from.</p>
-                    </div> <!-- end service block -->
-                </p>
-            </div>
-            <div class="w-1/2 flex justify-center">
-
-                
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/umqz7kKWxyw?si=FJZBBJwpXrp1WhWg&amp;clip=UgkxDMdksliN51hcWJh3_AaSxQEfR5izhOWf&amp;clipt=ENiIIRi43SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                
-            </div>
-        </div>
-
-    	<!-- end introduction and video -->
-    
-    
-    
-    
-    
-    <!-- start timeline -->
-    
-        <div style="display: flex; align-items: center; justify-content: center; padding-top:1em; background:#0000FF">
-            <h1 class="text-2xl leading-normal text-white font-bold mb-4">Timeline</h1>
-        </div>
-
-                      
-
-   <section class="cd-timeline js-cd-timeline">
-
-    
-    
-    <!--
-
-        # USE THE TEMPLATE BELOW TO MAKE YOUR OWN ENTRY
-        # MAKE SURE TO ADD IT IN THE RIGHT CHRONOLOGICAL ORDER!
-
-    
-    
-        <section class="cd-timeline js-cd-timeline">
-    <div class="container max-width-lg cd-timeline__container">
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-            YEAR GOES HERE
-        </div>
-
-        <div class="cd-timeline__content text-component">
-          <h2>TITLE GOES HERE</h2>
-            <p class="color-contrast-medium">DESCRIPTION GOES HERE</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-                OPTIONAL IMAGE GOES HERE
-            </span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
-          </div>
-        </div>
-      </div> 
-
-     End of entry -->
-    
-    
-        
-        
-        
-        
-        
-    <div class="container max-width-lg cd-timeline__container">
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/braces.svg" alt="Lattice"-->
-            1970s
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Privacy Homomorphisms</h2>
-            <p class="color-contrast-medium">FHE emerged approximately forty years ago within the field of cryptography, initially a concept at the time termed 'privacy homomorphism'. The idea involved an encryption function acting as a homomorphism (e.g. it preserves specific operations like addition or multiplication), but to perform operations on encrypted data (ciphertext) such that these operations, in turn, would have a corresponding effect on the original, unencrypted data (plaintext).</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-        
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-            1977
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>RSA scheme</h2>
-          <p class="color-contrast-medium">The RSA cryptosystem, founded in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman, was a pivotal cryptographic algorithm that laid foundational concepts for the field of homomorphic encryption. It was the first instance of a partially homomorphic encryption scheme and allowed the multiplication of two ciphertexts to result in an encrypted form of the product of their respective plaintexts.</p>
-          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-                <img src="src/img/RSA.jpg">
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-        
-
-        
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>1978 ~ 2008</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Partially Homomorphic Encryption (HE)</h2>
-          <p class="color-contrast-medium">Over the next three decades there was a lot of progress as researchers focused on designing encryption schemes that supported homomorphic operations, predominantly addition or multiplication, each modulated by specific constraints. There were no schemes supporting both operations simultaneously though.</p>
-
-          <p class="color-contrast-medium">The dream within the cryptographic community was to develop an encryption scheme capable of homomorphically supporting both addition and multiplication. This aspiration seemed elusive and many in the field had begun to doubt the feasibility of true homomorphic encryption.</p>
-          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-        
-        
-        
-
-        
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2009</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Gentry's Breakthrough</h2>
-          <p class="color-contrast-medium">In 2009, a breakthrough occurred. Craig Gentry published the first example of a secure encryption scheme that supported both addition and multiplication homomorphically. This development was unexpected and revolutionary, reigniting interest and opening new avenues in the research of FHE. Gentry's contribution marked a pivotal moment in the evolution of Fully Homomorphic Encryption, transforming it from a theoretical concept into a practical reality.</p>
-          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-                <img src="src/img/craig-gentry.jpg">
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2009</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>DGHV</h2>
-          <p class="color-contrast-medium">Directly following, Marten van Dijk, Craig Gentry, Shai Halevi, and Vinod Vaikuntanathanan built DGHV ("Fully Homomorphic Encryption over the Integers") using only addition and multiplication over the integers (as opposed to more complicated algebraic structures used in e.g. Gentry’s scheme — ideal lattices). This scheme is very simple, conceptually, and is based on the approximate-GCD problem - a different hardness assumption to LWE. Served as a proof that FHE can be built in an easy-to-understand way.</p>          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-               
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-        
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2011</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>BGV</h2>
-          <p class="color-contrast-medium">The BGV scheme was introduced by Zvika Brakerski, Craig Gentry, and Vinod Vaikuntanathan in 2011 based on the hardness of the Ring-Learning with Errors (RLWE) problem. What distinguishes it is its handling of encryption error or "noise," which, like in BFV, increases with homomorphic operations, but BGV is designed to manage this growth, especially after homomorphic multiplications, to maintain security and practicality.</p>          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-               
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-       
-        
-        
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2012</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>BFV</h2>
-          <p class="color-contrast-medium">The BFV scheme was introduced in two works by (Barkerski) and (Fan and Vercauteren) in 2012. Brakerski introduced an LWE-based scheme and Fan and Vercauteren ported Brakerski’s scheme to the Ring-LWE setting. One interesting aspect of the BFV scheme was its scale-invariant nature. Unlike in BGV, in BFV the message-bits are encoding into the higher-order-bits of a plaintext.</p>          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-               
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-       
-        
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2014</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>FHEW</h2>
-          <p class="color-contrast-medium">A boolean FHE scheme was then developed that operates via evaluating boolean gates on encrypted bits. In particular, via an operation which admitted the computation of a homomorphic NAND on two ciphertexts encrypting bits. This was the first recorded instance of bootstrapping in less than a second.</p>          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-               
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-        
-        
-        
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2016</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>CKKS</h2>
-          <p class="color-contrast-medium">In 2016, the CKKS scheme was introduced by Chen, Kim, Kim, and Song. This scheme was the first FHE scheme to perform approximate arithmetic over complex, and therefore real, numbers. It used a new encoding technique to map a vector of complex values into a polynomial ring. A new “rescaling” procedure was introduced, allowing for more compact ciphertexts throughout homomorphic evaluation.</p>          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-               
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-        
-        
-        
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--blue">
-          <!--img src="src/img/cryptography.svg" alt="Cryptography"-->
-          <span>2016</span>
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>TFHE</h2>
-          <p class="color-contrast-medium">Shortly after, a scheme in a similar style as FHEW was developed by Ilaria Chillotti, Nicolas Gama, Mariya Georgieva, and Malika Izabachène that considers a selection of improvements in order to increase efficiency compared to the usage of “Internal Product” in FHEW. Here, the bootstrapping process was considered as a collection of “external products” which increased efficiency. Further techniques outlined how to reduce the bootstrapping key size from ~1GB down to tens of MB. It was the first recorded instance of bootstrapping in less than 100ms.</p>          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">
-               
-            </span>
-            <!--a href="#0" class="btn btn--subtle">Read more</a-->
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->        
-        
-
-
-        
-        
-
-        
-        
-        
-        
-        
-
-
-        
-        
-        
-        
-
-
-        
-        
-            
-    <br><br>
-
-        
-        
-    </div>
-  </section> <!-- cd-timeline -->
-  <script src="src/js/timeline-main.js"></script>
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <!-- end timeline -->
-      
-      
-      
-      
-	
-            
-        </div>
-    </main><!-- end main -->
-
-  <!-- =========={ FOOTER }==========  -->
-  <footer class="bg-gray-50 text-gray-700">
-    <div class="footer-dark">
-      <div class="container xl:max-w-6xl mx-auto px-4 py-4 border-t border-gray-200 border-opacity-10">
-        <div class="row">
-          <div class="col-12 col-md">
-            <p class="d-block my-3">
-                <p class="text-sm">💙 This website is a resource provided and contributed by the FHE.org community. Some parts are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Some assets retain their own copyright, including any libraries used to render this page, images, or videos. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.</p>  
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer><!-- end footer -->
-
-  <!-- =========={ SCROLL TO TOP }==========  -->
-  <a href="#" class="back-top fixed p-4 rounded bg-gray-100 border border-gray-100 text-gray-500 dark:bg-gray-900 dark:border-gray-800 right-4 bottom-4 hidden" aria-label="Scroll To Top">
-    <svg width="1rem" height="1rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-      <path fill-rule="evenodd" d="M8 3.5a.5.5 0 01.5.5v9a.5.5 0 01-1 0V4a.5.5 0 01.5-.5z" clip-rule="evenodd"></path>
-      <path fill-rule="evenodd" d="M7.646 2.646a.5.5 0 01.708 0l3 3a.5.5 0 01-.708.708L8 3.707 5.354 6.354a.5.5 0 11-.708-.708l3-3z" clip-rule="evenodd"></path>
-    </svg>
-  </a>
-
-  <!--Vendor js-->
-  <script src="src/vendors/@splidejs/splide/dist/js/splide.min.js"></script>
-  <script src="src/vendors/wow.js/dist/wow.min.js"></script>
-  <script src="src/vendors/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
-  
-  <!-- Start development js -->
-  <script src="src/js/theme.js"></script>
-  <!-- End development js -->
-
-  <!-- Production js -->
-  <!-- <script src="dist/js/scripts.js"></script> -->
-</body>
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Title  -->
+		<title>FHE.org: History of FHE</title>
+		<meta name="description" content="FHE.org: The History of FHE">
+		<!-- Development css -->
+		<link rel="stylesheet" href="src/css/style.css">
+		<link rel="stylesheet" href="src/css/timeline-style.css">
+		<!-- Production css -->
+		<!-- <link rel="stylesheet" href="dist/css/style.css"> -->
+		<!-- google font -->
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;700&amp;display=swap" rel="stylesheet">
+		<!-- Favicon  -->
+		<link rel="icon" href="https://user-images.githubusercontent.com/5758427/185646241-575e27c5-f0b0-4d4f-9f4f-c9f0c61c24f8.png">
+	</head>
+	<body class="text-gray-700">
+		<!-- preloader -->
+		<div class="preloader loaded-success fixed inset-0 z-50 bg-gray-50">
+			<div class="absolute left-1/2 top-1/2 transform -translate-y-1/2">
+				<div class="relative mx-auto my-12">
+					<div class="inline-block">
+						<svg class="animate-spin h-8 w-8 text-blue-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+							<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+							<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+						</svg>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- ========== { HEADER }==========  -->
+		<header class="fixed top-0 left-0 right-0 z-40">
+			<nav class="main-nav">
+				<div class="container xl:max-w-6xl mx-auto px-4">
+					<div class="lg:flex lg:justify-between">
+						<div class="flex justify-between">
+							<div class="mx-w-10 text-4xl font-bold capitalize text-gray-900 flex items-center "><a href="https://fhe.org"><img src="./src/img/fhe-logo.png" width=250em style=" border:none; margin-right:4em"></a></div>
+							<div class=" text-sm font-bold capitalize text-white flex items-center justify-center size-auto">
+								<a href="https://fhe-org.github.io" style="min-width:2em; margin:1em; text-decoration: none; color:white">Home</a><span> | </span><a href="https://fhe-org.github.io/resources" style="min-width:2em; margin:1em; text-decoration: none; color:white">Resources</a><span> | </span><a href="https://fhe-org.github.io/conferences/conference-2024/" style="min-width:9em; margin:1em; text-decoration: none; color:white">Conference 2024</a><span> | </span><a href="https://fhe-org.github.io/community" style="min-width:12em; margin:1em; text-decoration: none; color:white">Join the community</a>
+							</div>
+							<!-- mobile nav -->
+							<div class="flex flex-row items-center py-4 lg:py-0">
+								<div class="relative text-gray-900 hover:text-black block lg:hidden">
+									<button type="button" class="menu-mobile block py-3 px-6 border-b-2 border-transparent">
+										<span class="sr-only">Mobile menu</span>
+										<svg class="open h-8 w-8" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+											<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+										</svg>
+										<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="close bi bi-x-lg h-8 w-8" viewBox="0 0 16 16">
+											<path fill-rule="evenodd" d="M13.854 2.146a.5.5 0 0 1 0 .708l-11 11a.5.5 0 0 1-.708-.708l11-11a.5.5 0 0 1 .708 0Z"/>
+											<path fill-rule="evenodd" d="M2.146 2.146a.5.5 0 0 0 0 .708l11 11a.5.5 0 0 0 .708-.708l-11-11a.5.5 0 0 0-.708 0Z"/>
+										</svg>
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</header>
+		<!-- end header -->
+		<!-- =========={ MAIN }==========  -->
+		<main id="content">
+			<!-- hero start -->
+			<div id="hero" class="section relative z-0 py-12 md:pt-32 md:pb-12 bg-white">
+				<div class="container xl:max-w-6xl mx-auto p-24">
+					<div class="flex flex-wrap flex-row -mx-4 justify-center">
+						<!-- content -->
+						<div class="flex-shrink max-w-full px-4 sm:px-12 lg:px-18 w-full sm:w-9/12 lg:w-1/2 self-center">
+							<img src="src/img/lattice-grid.png" class="w-full max-w-full h-auto" alt="Lattice">
+						</div>
+						<!-- end content -->
+						<!-- text -->
+						<div class="flex-shrink max-w-full px-4 w-full md:w-9/12 lg:w-1/2 self-center lg:pr-12">
+							<div class="lg:text-left mt-6 lg:mt-0">
+								<div class="mb-12">
+									<h1 class="text-2xl leading-normal text-black font-bold mb-4">The History of FHE: A Timeline</h1>
+									<p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2"><img src="src/img/timeline.svg" width="50%"></p>
+									<p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2">Since the 1970s there had been a dream of Fully Homomorphic Encryption, a dream that was questioned as even possible.</p>
+									<p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2">
+										Fast forward to 2009, when Craig Gentry described the first feasible construction for a Fully Homomorphic Encryption scheme using lattice-based cryptography. Since then FHE has grown from a research fascination to a sprawling community of schemes, libraries, developers, and increasing public interest in its application.
+									</p>
+									<p class="text-gray-500 leading-relaxed font-light text-md2 mx-auto pb-2">Here we take a look at where it all started and just how far it's come.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end Hero -->
+			<!-- start introduction and video -->
+			<div class="flex p-12 bg-gray-300">
+				<div class="w-1/2 flex items-center ">
+					<p style="width:50%">
+					<div class="py-8 px-12 mb-12 bg-gray-50 border-b border-gray-100 transform transition duration-300 ease-in-out hover:-translate-y-2">
+						<h3 class="text-2xl leading-normal mb-2 font-semibold text-black">What is FHE?</h3>
+						<p class="text-gray-500 text-md2">FHE is the first form of cryptography that enables you to run computations on encrypted data without needing to first decrypt it.<br><br></p>
+						<p class="text-gray-500 text-md2">Check out this clip from the very first FHE.org meetup featuring Pascal Paillier explaining where FHE comes from.</p>
+					</div>
+					<!-- end service block -->
+					</p>
+				</div>
+				<div class="w-1/2 flex justify-center">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/umqz7kKWxyw?si=FJZBBJwpXrp1WhWg&amp;clip=UgkxDMdksliN51hcWJh3_AaSxQEfR5izhOWf&amp;clipt=ENiIIRi43SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+			</div>
+			<!-- end introduction and video -->
+			<!-- start timeline -->
+			<div style="display: flex; align-items: center; justify-content: center; padding-top:1em; background:#0000FF">
+				<h1 class="text-2xl leading-normal text-white font-bold mb-4">Timeline</h1>
+			</div>
+			<section class="cd-timeline js-cd-timeline">
+
+
+
+				
+				<!--
+					# USE THE TEMPLATE BELOW TO MAKE YOUR OWN ENTRY
+					# MAKE SURE TO ADD IT IN THE RIGHT CHRONOLOGICAL ORDER!
+					
+					# START TEMPLATE
+					
+					<section class="cd-timeline js-cd-timeline">
+					<div class="container max-width-lg cd-timeline__container">
+					<div class="cd-timeline__block">
+					<div class="cd-timeline__img cd-timeline__img--blue">
+					    YEAR GOES HERE
+					</div>
+					
+					<div class="cd-timeline__content text-component">
+					  <h2>TITLE GOES HERE</h2>
+					    <p class="color-contrast-medium">DESCRIPTION GOES HERE</p>
+					
+					  <div class="flex justify-between items-center">
+					    <span class="cd-timeline__date">
+					        OPTIONAL IMAGE GOES HERE
+					    </span>
+					    <a href="#0" class="btn btn--subtle">Read more</a>
+					  </div>
+					</div>
+					</div>
+
+					# END TEMPLATE
+					
+				 -->
+
+				
+				<div class="container max-width-lg cd-timeline__container">
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/braces.svg" alt="Lattice"-->
+							1970s
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>Privacy Homomorphisms</h2>
+							<p class="color-contrast-medium">FHE emerged approximately forty years ago within the field of cryptography, initially a concept at the time termed 'privacy homomorphism'. The idea involved an encryption function acting as a homomorphism (e.g. it preserves specific operations like addition or multiplication), but to perform operations on encrypted data (ciphertext) such that these operations, in turn, would have a corresponding effect on the original, unencrypted data (plaintext).</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							1977
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>RSA scheme</h2>
+							<p class="color-contrast-medium">The RSA cryptosystem, founded in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman, was a pivotal cryptographic algorithm that laid foundational concepts for the field of homomorphic encryption. It was the first instance of a partially homomorphic encryption scheme and allowed the multiplication of two ciphertexts to result in an encrypted form of the product of their respective plaintexts.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								<img src="src/img/RSA.jpg">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>1978 ~ 2008</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>Partially Homomorphic Encryption (HE)</h2>
+							<p class="color-contrast-medium">Over the next three decades there was a lot of progress as researchers focused on designing encryption schemes that supported homomorphic operations, predominantly addition or multiplication, each modulated by specific constraints. There were no schemes supporting both operations simultaneously though.</p>
+							<p class="color-contrast-medium">The dream within the cryptographic community was to develop an encryption scheme capable of homomorphically supporting both addition and multiplication. This aspiration seemed elusive and many in the field had begun to doubt the feasibility of true homomorphic encryption.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>2009</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>Gentry's Breakthrough</h2>
+							<p class="color-contrast-medium">In 2009, a breakthrough occurred. Craig Gentry published the first example of a secure encryption scheme that supported both addition and multiplication homomorphically. This development was unexpected and revolutionary, reigniting interest and opening new avenues in the research of FHE. Gentry's contribution marked a pivotal moment in the evolution of Fully Homomorphic Encryption, transforming it from a theoretical concept into a practical reality.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								<img src="src/img/craig-gentry.jpg">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>2009</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>DGHV</h2>
+							<p class="color-contrast-medium">Directly following, Marten van Dijk, Craig Gentry, Shai Halevi, and Vinod Vaikuntanathanan built DGHV ("Fully Homomorphic Encryption over the Integers") using only addition and multiplication over the integers (as opposed to more complicated algebraic structures used in e.g. Gentry’s scheme — ideal lattices). This scheme is very simple, conceptually, and is based on the approximate-GCD problem - a different hardness assumption to LWE. Served as a proof that FHE can be built in an easy-to-understand way.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>2011</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>BGV</h2>
+							<p class="color-contrast-medium">The BGV scheme was introduced by Zvika Brakerski, Craig Gentry, and Vinod Vaikuntanathan in 2011 based on the hardness of the Ring-Learning with Errors (RLWE) problem. What distinguishes it is its handling of encryption error or "noise," which, like in BFV, increases with homomorphic operations, but BGV is designed to manage this growth, especially after homomorphic multiplications, to maintain security and practicality.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>2012</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>BFV</h2>
+							<p class="color-contrast-medium">The BFV scheme was introduced in two works by (Barkerski) and (Fan and Vercauteren) in 2012. Brakerski introduced an LWE-based scheme and Fan and Vercauteren ported Brakerski’s scheme to the Ring-LWE setting. One interesting aspect of the BFV scheme was its scale-invariant nature. Unlike in BGV, in BFV the message-bits are encoding into the higher-order-bits of a plaintext.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>2014</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>FHEW</h2>
+							<p class="color-contrast-medium">A boolean FHE scheme was then developed that operates via evaluating boolean gates on encrypted bits. In particular, via an operation which admitted the computation of a homomorphic NAND on two ciphertexts encrypting bits. This was the first recorded instance of bootstrapping in less than a second.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>2016</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>CKKS</h2>
+							<p class="color-contrast-medium">In 2016, the CKKS scheme was introduced by Chen, Kim, Kim, and Song. This scheme was the first FHE scheme to perform approximate arithmetic over complex, and therefore real, numbers. It used a new encoding technique to map a vector of complex values into a polynomial ring. A new “rescaling” procedure was introduced, allowing for more compact ciphertexts throughout homomorphic evaluation.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->
+					<div class="cd-timeline__block">
+						<div class="cd-timeline__img cd-timeline__img--blue">
+							<!--img src="src/img/cryptography.svg" alt="Cryptography"-->
+							<span>2016</span>
+						</div>
+						<!-- cd-timeline__img -->
+						<div class="cd-timeline__content text-component">
+							<h2>TFHE</h2>
+							<p class="color-contrast-medium">Shortly after, a scheme in a similar style as FHEW was developed by Ilaria Chillotti, Nicolas Gama, Mariya Georgieva, and Malika Izabachène that considers a selection of improvements in order to increase efficiency compared to the usage of “Internal Product” in FHEW. Here, the bootstrapping process was considered as a collection of “external products” which increased efficiency. Further techniques outlined how to reduce the bootstrapping key size from ~1GB down to tens of MB. It was the first recorded instance of bootstrapping in less than 100ms.</p>
+							<div class="flex justify-between items-center">
+								<span class="cd-timeline__date">
+								</span>
+								<!--a href="#0" class="btn btn--subtle">Read more</a-->
+							</div>
+						</div>
+						<!-- cd-timeline__content -->
+					</div>
+					<!-- cd-timeline__block -->        
+					<br><br>
+				</div>
+			</section>
+			<script src="src/js/timeline-main.js"></script>
+			<!-- end timeline -->
+			</div>
+		</main>
+		<!-- end main -->
+		<!-- =========={ FOOTER }==========  -->
+		<footer class="bg-gray-50 text-gray-700">
+			<div class="footer-dark">
+				<div class="container xl:max-w-6xl mx-auto px-4 py-4 border-t border-gray-200 border-opacity-10">
+					<div class="row">
+						<div class="col-12 col-md">
+							<p class="d-block my-3">
+							<p class="text-sm">💙 This website is a resource provided and contributed by the FHE.org community. Some parts are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Some assets retain their own copyright, including any libraries used to render this page, images, or videos. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.</p>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- end footer -->
+		<!-- =========={ SCROLL TO TOP }==========  -->
+		<a href="#" class="back-top fixed p-4 rounded bg-gray-100 border border-gray-100 text-gray-500 dark:bg-gray-900 dark:border-gray-800 right-4 bottom-4 hidden" aria-label="Scroll To Top">
+			<svg width="1rem" height="1rem" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" d="M8 3.5a.5.5 0 01.5.5v9a.5.5 0 01-1 0V4a.5.5 0 01.5-.5z" clip-rule="evenodd"></path>
+				<path fill-rule="evenodd" d="M7.646 2.646a.5.5 0 01.708 0l3 3a.5.5 0 01-.708.708L8 3.707 5.354 6.354a.5.5 0 11-.708-.708l3-3z" clip-rule="evenodd"></path>
+			</svg>
+		</a>
+		<!--Vendor js-->
+		<script src="src/vendors/@splidejs/splide/dist/js/splide.min.js"></script>
+		<script src="src/vendors/wow.js/dist/wow.min.js"></script>
+		<script src="src/vendors/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+		<!-- Start development js -->
+		<script src="src/js/theme.js"></script>
+		<!-- End development js -->
+		<!-- Production js -->
+		<!-- <script src="dist/js/scripts.js"></script> -->
+	</body>
 </html>
