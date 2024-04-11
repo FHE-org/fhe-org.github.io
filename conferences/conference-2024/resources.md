@@ -304,7 +304,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Breaking the power-of-two barrier: noise estimation for BGV in NTT-friendly rings</td>
     <td>Andrea Di Giusto and Chiara Marcolla</td>
-    <td></td>
+    <td>
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14943386/06-DiGiusto.pdf">
+        View
+      </a>
+    </td>
 </tr>
 
 
