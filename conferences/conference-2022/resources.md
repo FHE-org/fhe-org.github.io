@@ -28,32 +28,174 @@
 
 # FHE.org conference 2022 - Resources from the conference
 
-## Presentations
 
-- <a href="https://drive.google.com/file/d/1YhHaX_0ZxPcI6_dsFWc8e1RpP55PQ2T8/view?usp=sharing">FINAL: Faster FHE instantiated with NTRU and LWE</a> -  Charlotte Bonte (Intel Labs), Ilia Iliashenko (CipherMode Labs &
-  KU Leuven), Jeongeun Park (KU Leuven), Hilder V. L. Pereira (KU Leuven), and Nigel P. Smart (KU Leuven & Zama)
-- <a href="https://drive.google.com/file/d/1-9nM7gw0xTp0UsNAo8qzFvZsAvhUvVZL/view?usp=sharing">Optical computing and the future of FHE</a> - Joseph Wilson (Optalysys) and Florent Michel (Optalysys)
-- <a href="https://drive.google.com/file/d/19PGJ4denywfutilJp70JuLxIdizt1QLM/view?usp=sharing">Privacy preserving collection of data for investigation</a> - Jung Hee Cheon (Seoul National University), Eungyu Jang (Seoul National University), Wootae Kim (Seoul National University), Eunbin Lee (Changwon District Court, Korea), and Sangwon Lee (Seoul National University)
-- <a href="https://drive.google.com/file/d/18ZHk8BlPLeDkgJAoA8HeEl-Te1a05TVg/view?usp=sharing">Pasta: A case for hybrid homomorphic encryption</a> - Christoph Dobraunig (Lamarr Security Research), Lorenzo Grassi
-  (Radboud University), Lukas Helminger (TU Graz & Know-Center GmbH), Christian Rechberger (TU Graz), Markus Schofnegger (TU Graz), and Roman Walch (TU Graz & Know-Center GmbH)
-- <a href="https://drive.google.com/file/d/1FAsl5k44QkCs5bv9bWJ2tpQkU-HrMEpV/view?usp=sharing">HECO: Automatic code optimizations for efficient fully homomorphic encryption</a> - Alexander Viand (ETH Zurich), Patrick Jattke (ETH Zurich), Miro Haller (ETH Zurich), and Anwar Hithnawi (ETH Zurich)
-- <a href="https://drive.google.com/file/d/1pPE2VO_Es85U8uJJvnATZhyjaFyWAMjb/view?usp=sharing">Encrypted multinomial logistic regression training with softmax approximation</a> - Seewoo Lee (CryptoLab), Garam Lee (CryptoLab), Jung Hee Cheon (CryptoLab & Seoul National University), and Junbum Shin (CryptoLab)
-- <a href="https://drive.google.com/file/d/1_5VRi2cyWsK1zW9Ehb_prmkjyExxcFZk/view?usp=sharing">FHE.org competition announcement</a> - Pascal Paillier
-- <a href="https://www.youtube.com/watch?v=wVfMkdNe9FM">Unexpected applications of FHE</a> - Chris Peikert (Algorand & U. Michigan) 
-- <a href="https://drive.google.com/file/d/1Bx59ARNV7InE8-L4SbNwExCC-CnbMlQt/view?usp=sharing">BASALISC: Flexible asynchronous hardware accelerator for fully homomorphic encryption</a> - Robin Geelen (KU Leuven), Hilder Vitor Lima Pereira (KU Leuven), Michiel Van Beirendonck (KU Leuven), Ingrid Verbauwhede (KU Leuven), Frederik Vercauteren (KU Leuven), David W. Archer (Galois), 
+# Talks
+
+<table>
+<thead>
+  <tr>
+      <th data-sortas="case-insensitive" width="50%">Session Topic</th>
+      <th data-sortas="case-insensitive">Presenters/Authors</th>
+      <th data-sortas="case-insensitive">Resources</th>
+  </tr>
+</thead>
+
+<tr>
+    <td>FINAL: Faster FHE instantiated with NTRU and LWE </td>
+    <td>Charlotte Bonte (Intel Labs), Ilia Iliashenko (CipherMode Labs &
+  KU Leuven), Jeongeun Park (KU Leuven), Hilder V. L. Pereira (KU Leuven), and Nigel P. Smart (KU Leuven & Zama)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1YhHaX_0ZxPcI6_dsFWc8e1RpP55PQ2T8/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Optical computing and the future of FHE </td>
+    <td>Joseph Wilson (Optalysys) and Florent Michel (Optalysys)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1-9nM7gw0xTp0UsNAo8qzFvZsAvhUvVZL/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Privacy preserving collection of data for investigation</td>
+    <td>Jung Hee Cheon (Seoul National University), Eungyu Jang (Seoul National University), Wootae Kim (Seoul National University), Eunbin Lee (Changwon District Court, Korea), and Sangwon Lee (Seoul National University)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/19PGJ4denywfutilJp70JuLxIdizt1QLM/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Pasta: A case for hybrid homomorphic encryption</td>
+    <td>Christoph Dobraunig (Lamarr Security Research), Lorenzo Grassi
+  (Radboud University), Lukas Helminger (TU Graz & Know-Center GmbH), Christian Rechberger (TU Graz), Markus Schofnegger (TU Graz), and Roman Walch (TU Graz & Know-Center GmbH)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/18ZHk8BlPLeDkgJAoA8HeEl-Te1a05TVg/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>HECO: Automatic code optimizations for efficient fully homomorphic encryption</td>
+    <td>Alexander Viand (ETH Zurich), Patrick Jattke (ETH Zurich), Miro Haller (ETH Zurich), and Anwar Hithnawi (ETH Zurich)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1FAsl5k44QkCs5bv9bWJ2tpQkU-HrMEpV/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Encrypted multinomial logistic regression training with softmax approximation</td>
+    <td>Seewoo Lee (CryptoLab), Garam Lee (CryptoLab), Jung Hee Cheon (CryptoLab & Seoul National University), and Junbum Shin (CryptoLab)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1pPE2VO_Es85U8uJJvnATZhyjaFyWAMjb/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>FHE.org competition announcement</td>
+    <td>Pascal Paillier</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1_5VRi2cyWsK1zW9Ehb_prmkjyExxcFZk/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Unexpected applications of FHE</td>
+    <td>Chris Peikert (Algorand & U. Michigan)</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=wVfMkdNe9FM">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>BASALISC: Flexible asynchronous hardware accelerator for fully homomorphic encryption</td>
+    <td>Robin Geelen (KU Leuven), Hilder Vitor Lima Pereira (KU Leuven), Michiel Van Beirendonck (KU Leuven), Ingrid Verbauwhede (KU Leuven), Frederik Vercauteren (KU Leuven), David W. Archer (Galois), 
   Brian Huffman (Galois), Georgios Dimou (Niobium Microelectronics),
   Tynan McAuley (Niobium Microelectronics), Ben Selfridge (Galois),
   Daniel Wagner (Galois), and Jason Graalum (Niobium
-  Microelectronics)
-- <a href="https://drive.google.com/file/d/1Xp-PEUL7zXA4-k9ZyQnKq7UEBDNFB6Gt/view?usp=sharing">Hybrid attacks on LWE and the lattice estimator</a> - Martin Albrecht (Royal Holloway, University of London), Benjamin R.
-  Curtis (Zama), and Michael Walter (Zama) 
-- <a href="https://drive.google.com/file/d/1wemJvuqR4NDHsuNPu2hEiOcDhhGUjuZ4/view?usp=sharing">Achievable CCA2 relaxation for homomorphic encryption</a> - Adi Akavia (University of Haifa), Craig Gentry (Algorand
+  Microelectronics)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1Bx59ARNV7InE8-L4SbNwExCC-CnbMlQt/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Hybrid attacks on LWE and the lattice estimator</td>
+    <td>Martin Albrecht (Royal Holloway, University of London), Benjamin R.
+  Curtis (Zama), and Michael Walter (Zama)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1Xp-PEUL7zXA4-k9ZyQnKq7UEBDNFB6Gt/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+
+<tr>
+    <td>Achievable CCA2 relaxation for homomorphic encryption</td>
+    <td>Adi Akavia (University of Haifa), Craig Gentry (Algorand
   Foundation), Shai Halevi (Algorand Foundation), and Margarita Vald
-  (Intuit Inc.) 
-- <a href="https://www.youtube.com/watch?v=18XIGLLn1EM">Towards a correct-by-construction FHE model</a> - Zhenkun Yang (Intel Labs), Wen Wang (Intel Labs), Jeremy Casas
+  (Intuit Inc.)</td>
+    <td>
+      <a href="https://drive.google.com/file/d/1wemJvuqR4NDHsuNPu2hEiOcDhhGUjuZ4/view?usp=sharing">
+        Slides
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Towards a correct-by-construction FHE model</td>
+    <td> Zhenkun Yang (Intel Labs), Wen Wang (Intel Labs), Jeremy Casas
   (Intel Labs), Pasquale Cocchini (Intel Labs), and Jin
-  Yang (Intel Labs) 
-- <a href="https://youtu.be/b24WJyS0dmg">Fully Homomorphic Encryption: Definitional issues and open problems</a> - Daniele Micciancio (UCSD)
+  Yang (Intel Labs)</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=18XIGLLn1EM">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+<tr>
+    <td>Fully Homomorphic Encryption: Definitional issues and open problems</td>
+    <td> Daniele Micciancio (UCSD)</td>
+    <td>
+      <a href="https://youtu.be/b24WJyS0dmg">
+        Video
+      </a>
+   </td>
+</tr>
+
+
+</table>
 
 
 ## Posters
