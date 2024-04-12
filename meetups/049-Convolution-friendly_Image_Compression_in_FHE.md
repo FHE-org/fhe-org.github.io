@@ -9,7 +9,7 @@
 
 # Convolution-friendly Image Compression in FHE
 #### by Sergi Rovira and Axel Mertens - 2024.04.25
-#### <a href="https://www.meetup.com/fhe-org/">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/300373074/">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![049 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ef815fc9-73b2-4f65-bdc1-ae99bd1f4829)
 
@@ -31,7 +31,7 @@ Axel Mertens is a PhD student in cryptography at COSIC, KU Leuven, under supervi
 
 # Register for the meetup
 
-RSVP for the meetup at <a href="https://www.meetup.com/fhe-org/">https://www.meetup.com/fhe-org/</a>.
+RSVP for the meetup at <a href="https://www.meetup.com/fhe-org/events/300373074/">https://www.meetup.com/fhe-org/events/300373074/</a>.
 
 # Never miss an update
 
