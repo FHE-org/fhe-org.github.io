@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/f606f3a0-2a23-4c1a-a047-86b6d3c2248a"></a>
+<a href="https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ef815fc9-73b2-4f65-bdc1-ae99bd1f4829"></a>
 
-#### Register for the next meetup, **Homomorphic Logic Gates and Integrated Circuits: Designs and Applications** by **Song Bian** on **Apr 11th, 2024 6:00PM CEST**
+#### Register for the next meetup, **Convolution-friendly Image Compression in FHE** by **Sergi Rovira and Axel Mertens** on **Apr 25th, 2024 6:00PM CEST**
 
 <br>
 
@@ -29,6 +29,8 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
+
+- [Homomorphic Logic Gates and Integrated Circuits Designs and Applications](https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications) by **Song Bian** on **Apr 11th, 2024**
 - [Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs) by **Dai Yiran** on **Mar 7th, 2024**
 - [Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS](https://fhe.org/meetups/046-Simpler_and_Faster_BFV_Bootstrapping_for_Arbitrary_Plaintext_Modulus_from_CKKS) by **Jinyeong Seo** on **Feb 29th, 2024**
 - [A New Perspective on Key Switching for BGV-like Schemes](https://fhe.org/meetups/045-A_New_Perspective_on_Key_Switching_for_BGV-like_Schemes) by **Johannes Mono** on **Feb 22nd, 2024**
