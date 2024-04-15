@@ -18,7 +18,7 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ef815fc9-73b2-4f65-bdc1-ae99bd1f4829"></a>
+<a href="https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/63b8407e-1d87-4fd7-97ab-ff6e46569fb5"></a>
 
 #### Register for the next meetup, **Convolution-friendly Image Compression in FHE** by **Sergi Rovira and Axel Mertens** on **Apr 25th, 2024 6:00PM CEST**
 
