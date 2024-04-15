@@ -11,7 +11,7 @@
 #### by Sergi Rovira and Axel Mertens - 2024.04.25
 #### <a href="https://www.meetup.com/fhe-org/events/300373074/">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![049 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ef815fc9-73b2-4f65-bdc1-ae99bd1f4829)
+![049 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/63b8407e-1d87-4fd7-97ab-ff6e46569fb5)
 
 
 # Abstract
