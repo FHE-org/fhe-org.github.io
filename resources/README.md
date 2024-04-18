@@ -83,6 +83,7 @@
 ## Hardware
 
 - [BASALISC: Integrated Hardware Acceleration for BGV, CKKS, and BFV FHE](https://www.youtube.com/watch?v=-12xxt5BqUU&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=8) by **David Archer, Robin Geelen, and Michiel Van Beirendonck** on **March 24, 2024**
+- [FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption](https://github.com/KULeuven-COSIC/fpt-demo) by **Michiel Van Beirendonck, Jan-Pieter D'Anvers, Furkan Turan, and Ingrid Verbauwhede** on **Nov 29, 2023**
 - [An Optical Hardware Accelerator for FHE](https://fhe.org/meetups/027-An_Optical_Hardware_Accelerator_for_FHE) by **Joseph Wilson** on **June 15, 2023**
 - [Hardware accelerator for FHEW](https://fhe.org/meetups/024-Hardware_accelerator_for_FHEW) by **Jonas Bertels** on **May 25, 2023**
 - [Medha: Microcoded Hardware Accelerator for computing on Encrypted Data](https://fhe.org/meetups/020-Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data) by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
