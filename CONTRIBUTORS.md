@@ -106,6 +106,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://councils.forbes.com/profile/Rand-Hindi-CEO-Zama/d4e65cd0-63e5-4232-ab36-f4bcb7b43e98">Rand Hindi</a>
 * <a href="https://ravital.github.io/">Ravital Solomon</a>
 * <a href="https://scholar.google.com/citations?user=Der7mNMAAAAJ">Rob Springer</a>
+* <a href="https://scholar.google.com/citations?user=zFIUuiIAAAAJ&hl=en&oi=ao">Robert Lois</a>
 * <a href="https://www.esat.kuleuven.be/cosic/people/robin-geelen/">Robin Geelen</a>
 * <a href="https://people.csail.mit.edu/rivest/">Ronald L. Rivest</a>
 * <a href="https://scholar.google.com/citations?user=u-g_b4MAAAAJ">Rosario Camarota</a>
