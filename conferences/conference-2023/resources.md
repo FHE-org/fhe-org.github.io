@@ -111,7 +111,10 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Invited Talk: Bringing FHE to production: Lessons learned at Google</td>
     <td>Miguel Guevara (Google)</td>
-    <td>Slides /
+    <td>    
+      <a href="https://github.com/FHE-org/fhe-org.github.io/files/15080261/Tokyo.Talk.pdf">
+      Slides </a>
+      /
       <a href="https://www.youtube.com/watch?v=-QoPKZi-5l4&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=6">
         Video
       </a>
