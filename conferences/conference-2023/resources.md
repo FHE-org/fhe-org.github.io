@@ -281,7 +281,8 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>HE Is All You Need: Compressing FHE Ciphertexts Using Additive HE</td>
     <td>Rasoul Akhavan Mahdavi (University of Waterloo), Abdulrahman Diaa (University of Waterloo), Florian Kerschbaum (University of Waterloo)</td>
-    <td>View</td>
+    <td>      <a href="https://github.com/FHE-org/fhe-org.github.io/files/15080276/poster-fhe-a1-1.pdf">
+      View</td>
 </tr>
 
 <tr>
