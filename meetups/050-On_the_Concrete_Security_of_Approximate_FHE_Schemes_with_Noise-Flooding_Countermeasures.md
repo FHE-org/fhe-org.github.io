@@ -7,7 +7,7 @@
 <!-- /Main header navigation -->
 
 
-#### On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures
+# On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures
 #### by Hunter Kippen - 2024.05.02
 #### <a href="https://www.meetup.com/fhe-org/events/300633812/">Register to attend</a> | <!-- Video recording (Youtube) --> <!--| <a href="">Poster</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
