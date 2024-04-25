@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/63b8407e-1d87-4fd7-97ab-ff6e46569fb5"></a>
+<a href="https://fhe.org/meetups/050-On_the_Concrete_Security_of_Approximate_FHE_Schemes_with_Noise-Flooding_Countermeasures"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/52f882d2-66d4-471b-92a8-f86867d51ead"></a>
 
-#### Register for the next meetup, **Convolution-friendly Image Compression in FHE** by **Sergi Rovira and Axel Mertens** on **Apr 25th, 2024 6:00PM CEST**
+#### 🎉 Register for our 50th meetup, **On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures** by **Hunter Kippen** on **May 2nd, 2024 5:00PM CEST**
 
 <br>
 
@@ -30,6 +30,7 @@ FHE.org meetups archive, latest first.
 
 ### 2024
 
+- [Convolution-friendly Image Compression in FHE](https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE) by **Sergi Rovira** and **Axel Mertens** on **Apr 26th, 2024**
 - [Homomorphic Logic Gates and Integrated Circuits Designs and Applications](https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications) by **Song Bian** on **Apr 11th, 2024**
 - [Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs) by **Dai Yiran** on **Mar 7th, 2024**
 - [Simpler and Faster BFV Bootstrapping for Arbitrary Plaintext Modulus from CKKS](https://fhe.org/meetups/046-Simpler_and_Faster_BFV_Bootstrapping_for_Arbitrary_Plaintext_Modulus_from_CKKS) by **Jinyeong Seo** on **Feb 29th, 2024**

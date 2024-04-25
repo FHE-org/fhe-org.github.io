@@ -27,7 +27,7 @@ We want to thank all [FHE contributors](https://fhe.org/CONTRIBUTORS) in and out
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, **[Convolution-friendly Image Compression in FHE](https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE)** by **Sergi Rovira and Axel Mertens** on **Apr 25th, 2024 at 6PM CEST**
+- Register for the next meetup, **[On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures](https://fhe.org/meetups/050-On_the_Concrete_Security_of_Approximate_FHE_Schemes_with_Noise-Flooding_Countermeasures)** by **Hunter Kippen** on **May 2nd, 2024 at 5PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
