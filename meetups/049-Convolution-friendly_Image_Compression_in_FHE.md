@@ -9,7 +9,7 @@
 
 # Convolution-friendly Image Compression in FHE
 #### by Sergi Rovira and Axel Mertens - 2024.04.25
-#### <a href="https://www.youtube.com/watch?v=yV51Bprtol0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=yV51Bprtol0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video</a> (Youtube) | <a href="">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![049 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/63b8407e-1d87-4fd7-97ab-ff6e46569fb5)
 
