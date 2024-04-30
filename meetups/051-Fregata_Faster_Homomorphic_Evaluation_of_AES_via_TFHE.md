@@ -9,10 +9,10 @@
 
 # Fregata: Faster Homomorphic Evaluation of AES via TFHE
 #### by Benqiang Wei - 2024.05.09
-#### <a href="">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://link.springer.com/chapter/10.1007/978-3-031-49187-0_20">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/300734099">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://link.springer.com/chapter/10.1007/978-3-031-49187-0_20">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
-![051 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a0a89c6e-003b-4a7c-8e3e-9f0f772f676b)
+![051 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/be20d957-ac0d-4cf7-9114-72520489d3a3)
 
 
 
@@ -27,7 +27,7 @@ Benqiang Wei is a final year PhD student at the Institute of Information Enginee
 
 # Register to attend
 
-Visit FHE.org's [meetup.com]() event page to attend.
+Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/300734099) event page to attend.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
