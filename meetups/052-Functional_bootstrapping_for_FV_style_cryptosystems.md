@@ -11,6 +11,8 @@
 #### by Sonheong Min - 2024.05.30
 #### <a href="">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://eprint.iacr.org/2024/181">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
+![052 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/e6b60626-5fe6-49f0-bfe5-d5e90a05fcef)
+
 
 # Abstract
 
