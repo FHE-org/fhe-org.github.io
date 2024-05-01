@@ -86,5 +86,11 @@ Here are some photos of the FHE.org 2024 Toronto conference graciously shared by
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">What a great day in <a href="https://t.co/P8i1I5nJPe">https://t.co/P8i1I5nJPe</a> hosted by <a href="https://twitter.com/zama_fhe?ref_src=twsrc%5Etfw">@zama_fhe</a>. Interesting movements inside the industry is happening from both hardware and software toolchain perspectives! <a href="https://twitter.com/Privasea_ai?ref_src=twsrc%5Etfw">@Privasea_ai</a> is excited to be one of them! <a href="https://t.co/OZlEArrGuA">pic.twitter.com/OZlEArrGuA</a></p>&mdash; David Jiao (@DavidJiaoEth) <a href="https://twitter.com/DavidJiaoEth/status/1771993661263561201?ref_src=twsrc%5Etfw">March 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+![image](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/d03c86e0-5f4d-41b4-b45b-70b620a1f1d1)
+
+![image](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/73a9da73-d5d5-408d-8bbd-b232b4e2a9fe)
+
+![image](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/b3e20ad1-ebc8-44c8-8e72-7105be55e741)
+
 
 
