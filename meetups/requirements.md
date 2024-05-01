@@ -30,12 +30,13 @@ If you've already provided these, *great*! Otherwise, make sure to provide them 
 
 ## Notes for the Meetup
 
-* Arrive up to 10 minutes early for connection / equipment / screen sharing test
+* Arrive up to 15 minutes early for connection / equipment / screen sharing test and short interview for bonus material
 * **Disable annotations on your presentation for security.**
-* First 10 minutes of meetup is a *virtual coffee break*. Relax and get to know the community better!
 * Introduce yourself again when recording starts for the benefit of people watching later
-* Presentations should last between 20-40 minutes
+* Presentations should last between 15-50 minutes
 * Q&A time follows from the chat and ends 60 seconds after the last question answerred. Q&A is not recorded.
+* After the Q&A and meetup are completely finished, we will stay on for another 10+ minutes for a  *virtual coffee break*. Feel free to leave as you need as this portion is *not* required participation in any way, but this is time when the community gets a chance to relax, get to know each other better, and discuss other topics. It can last anywhere between 10~60 minutes.
+
 
 ## Post-meetup resources
 
