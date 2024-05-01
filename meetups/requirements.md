@@ -10,7 +10,7 @@
   
 Here are some things we'll need from any presenter for a successful meetup.
 
-If you've already provided these, *great*! Otherwise, make sure to provide them at least **2 weeks before** the scheduled meetup to be safe.
+If you've already provided these, *great*! Otherwise, make sure to provide them at least **3 weeks before** the scheduled meetup to be safe to give time for preparations and announcements.
 
 ## Presenter(s) information
 
