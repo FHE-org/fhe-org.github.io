@@ -36,4 +36,5 @@
 
 Here are some photos of the FHE.org 2024 Toronto conference graciously shared by the community: 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What a week at <a href="https://twitter.com/RealWorldCrypto?ref_src=twsrc%5Etfw">@RealWorldCrypto</a> in Toronto! A week with great talks, meeting amazing people and of course, Beaver triplets😁 <a href="https://t.co/0Dhj1Sny4d">pic.twitter.com/0Dhj1Sny4d</a></p>&mdash; Rasoul A Mahdavi (@RasoulAMahdavi) <a href="https://twitter.com/RasoulAMahdavi/status/1773341522097774958?ref_src=twsrc%5Etfw">March 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">What a week at <a href="https://twitter.com/RealWorldCrypto?ref_src=twsrc%5Etfw">@RealWorldCrypto</a> in Toronto! A week with great talks, meeting amazing people and of course, Beaver triplets😁 <a href="https://t.co/0Dhj1Sny4d">pic.twitter.com/0Dhj1Sny4d</a></p>&mdash; Rasoul A Mahdavi (@RasoulAMahdavi) <a href="https://twitter.com/RasoulAMahdavi/status/1773341522097774958?ref_src=twsrc%5Etfw">March 28, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
