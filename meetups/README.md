@@ -20,7 +20,7 @@
 
 <a href="https://fhe.org/meetups/051"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/be20d957-ac0d-4cf7-9114-72520489d3a3"></a>
 
-#### Register for our next meetup, **Fregata: Faster Homomorphic Evaluation of AES via TFHE** by **Benqiang Wei** on **May 9th, 2024 4:00PM CEST**
+#### [Register for our next meetup](https://fhe.org/meetups/051), **Fregata: Faster Homomorphic Evaluation of AES via TFHE** by **Benqiang Wei** on **May 9th, 2024 4:00PM CEST**
 
 <br>
 
