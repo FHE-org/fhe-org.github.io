@@ -33,7 +33,7 @@
 
 
 
-# FHE.org Sofia 2025 Conference
+# FHE.org 2025 conference
 
 The 4th Annual FHE.org Conference on Fully Homomorphic Encryption is tentatively being planned for Sofia, Bulgaria. The venue location and exact dates will be announced at a later date.
 
