@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/050-On_the_Concrete_Security_of_Approximate_FHE_Schemes_with_Noise-Flooding_Countermeasures"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/52f882d2-66d4-471b-92a8-f86867d51ead"></a>
+<a href="https://fhe.org/meetups/051"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/be20d957-ac0d-4cf7-9114-72520489d3a3"></a>
 
-#### 🎉 Register for our 50th meetup, **On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures** by **Hunter Kippen** on **May 2nd, 2024 5:00PM CEST**
+#### Register for our next meetup, **Fregata: Faster Homomorphic Evaluation of AES via TFHE** by **Benqiang Wei** on **May 9th, 2024 4:00PM CEST**
 
 <br>
 
@@ -30,6 +30,7 @@ FHE.org meetups archive, latest first.
 
 ### 2024
 
+- [On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures](https://fhe.org/meetups/050) by **Hunter Kippen** on **May 2nd, 2024**
 - [Convolution-friendly Image Compression in FHE](https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE) by **Sergi Rovira** and **Axel Mertens** on **Apr 26th, 2024**
 - [Homomorphic Logic Gates and Integrated Circuits Designs and Applications](https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications) by **Song Bian** on **Apr 11th, 2024**
 - [Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs) by **Dai Yiran** on **Mar 7th, 2024**
