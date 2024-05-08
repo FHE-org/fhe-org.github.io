@@ -66,8 +66,8 @@
 - [GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors](https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/) by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
-
 - [Encrypted image filtering](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) by **Zama** on **Feb 23, 2023**
+- [Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring) by **Zama** on **Jan 31, 2024**
 <!-- markdown-link-check-disable-next-line -->
 - [Private password checker](https://playground.blyss.dev/passwords) by **Blyss** on **Feb 21, 2023** [Requires sign-up]
 - [Sentiment analysis over encrypted data](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) by **Zama**  on **Nov 17, 2022**
