@@ -25,12 +25,6 @@ In this talk, Benqiang Wei will present a low-latency homomorphic evaluation of 
 
 Benqiang Wei is a final year PhD student at the Institute of Information Engineering, Chinese Academy of Sciences. His research interests focus on the design and application of fully homomorphic encryption. He is advised by Xianhui Lu.
 
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/300734099) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
