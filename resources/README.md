@@ -91,6 +91,7 @@
 - [Why we need revolutionary hardware for FHE](https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe) by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- [Fregata: Faster Homomorphic Evaluation of AES via TFHE](https://fhe.org/meetups/051) by **Benqiang Wei** on **May 9th, 2024**
 - [Convolution-friendly Image Compression in FHE](https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE) by **Sergi Rovira** and **Axel Mertens** on **Apr 26th, 2024**
 - [Homomorphic Logic Gates and Integrated Circuits Designs and Applications](https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications) by **Song Bian** on **Apr 11th, 2024**
 - [Fast Blind Rotation for Bootstrapping FHEs](https://fhe.org/meetups/047-Fast_Blind_Rotation_for_Bootstrapping_FHEs) by **Dai Yiran** on **Mar 7th, 2024**
