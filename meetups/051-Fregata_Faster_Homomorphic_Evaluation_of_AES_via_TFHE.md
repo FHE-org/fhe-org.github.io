@@ -9,7 +9,7 @@
 
 # Fregata: Faster Homomorphic Evaluation of AES via TFHE
 #### by Benqiang Wei - 2024.05.09
-#### <a href="https://www.meetup.com/fhe-org/events/300734099">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://link.springer.com/chapter/10.1007/978-3-031-49187-0_20">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=fd344awlhsk&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://link.springer.com/chapter/10.1007/978-3-031-49187-0_20">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 ![051 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/be20d957-ac0d-4cf7-9114-72520489d3a3)
