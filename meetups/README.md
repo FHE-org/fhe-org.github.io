@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/051"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/be20d957-ac0d-4cf7-9114-72520489d3a3"></a>
+<a href="https://fhe.org/meetups/052"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1d8a1cd5-1844-450e-b04f-b74564e368e0"></a>
 
-#### [Register for our next meetup](https://fhe.org/meetups/051), **Fregata: Faster Homomorphic Evaluation of AES via TFHE** by **Benqiang Wei** on **May 9th, 2024 4:00PM CEST**
+#### Register for the next meetup, **[Functional bootstrapping for FV style cryptosystems](https://fhe.org/meetups/052)** by **Seonhong Min** on **May 30th, 2024 at 4PM CEST**
 
 <br>
 
@@ -29,7 +29,7 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
-
+- [Fregata: Faster Homomorphic Evaluation of AES via TFHE](https://fhe.org/meetups/051) by **Benqiang Wei** on **May 9th, 2024**
 - [On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures](https://fhe.org/meetups/050) by **Hunter Kippen** on **May 2nd, 2024**
 - [Convolution-friendly Image Compression in FHE](https://fhe.org/meetups/049-Convolution-friendly_Image_Compression_in_FHE) by **Sergi Rovira** and **Axel Mertens** on **Apr 26th, 2024**
 - [Homomorphic Logic Gates and Integrated Circuits Designs and Applications](https://fhe.org/meetups/048-Homomorphic_Logic_Gates_and_Integrated_Circuits_Designs_and_Applications) by **Song Bian** on **Apr 11th, 2024**
