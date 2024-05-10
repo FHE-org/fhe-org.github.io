@@ -6,14 +6,11 @@
 <hr/>
 <!-- /Main header navigation -->
 
+[FHE_org_Presentation_hk.pptx](https://github.com/FHE-org/fhe-org.github.io/files/15272958/FHE_org_Presentation_hk.pptx)
 
 # On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures
 #### by Hunter Kippen - 2024.05.02
-#### <a href="https://www.youtube.com/watch?v=ZhGAxFyj-ao&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://eprint.iacr.org/2024/424">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-
-
-![050 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/52f882d2-66d4-471b-92a8-f86867d51ead)
-
+#### <a href="https://www.youtube.com/watch?v=ZhGAxFyj-ao&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://eprint.iacr.org/2024/424">Paper</a> (eprint) | <a href="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/52f882d2-66d4-471b-92a8-f86867d51ead">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 # Abstract
 
