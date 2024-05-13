@@ -12,7 +12,8 @@
 #### <a href="https://www.meetup.com/fhe-org/events/300735642/">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
-![053 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/126c5f30-94f7-4f1c-8a5f-8a75f055f36b)
+
+![053 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1fa3b4d4-a129-48bb-88cd-bfd60516d414)
 
 
 
