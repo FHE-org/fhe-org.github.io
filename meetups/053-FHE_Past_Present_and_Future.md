@@ -9,7 +9,7 @@
 
 # FHE: Past, Present and Future
 #### by Craig Gentry - 2024.06.13
-#### <a href="https://www.meetup.com/fhe-org/events/300735642/">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/300735642/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 
@@ -27,7 +27,7 @@ Craig Gentry is the CTO of TripleBlind, known for pioneering fully homomorphic e
 
 # Register to attend
 
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/300735642/) event page to attend.
+Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/300735642/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) event page to attend.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
