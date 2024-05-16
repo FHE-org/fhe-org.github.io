@@ -6,12 +6,6 @@
 <hr/>
 <!-- /Main header navigation -->
 
-
-<p align="center">
-Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">FHE.org Toronto 2024</a> is officially announced and <a href="https://rwc.iacr.org/2024/colocated.php">co-locating with Real World Crypto 2024</a> on March 24th 2024.
-</p>
-<hr/>
-
 # Welcome [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io)
   
 We are a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
