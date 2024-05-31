@@ -9,7 +9,7 @@
 
 # Functional bootstrapping for FV style cryptosystems
 #### by Sonheong Min - 2024.05.30
-#### <a href="https://www.meetup.com/fhe-org/events/300735539/">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://eprint.iacr.org/2024/181">Paper</a> (eprint) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/15502016/Functional.Bootstrapping.pdf">Slides</a> (github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=ngOQGLvBsCw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://eprint.iacr.org/2024/181">Paper</a> (eprint) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/15502016/Functional.Bootstrapping.pdf">Slides</a> (github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![052 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1d8a1cd5-1844-450e-b04f-b74564e368e0)
 
@@ -21,12 +21,6 @@ A new bootstrapping framework for the Fan-Vercuteren (FV) scheme, called the fun
 # About the speaker
 
 Seonhong Min is in 2nd year Ph.D student in Computer science (Cryptography) at Seoul National University. His main research area is Homomorphic Encryption (FHE) / Multi-party Computation (MPC).
-
-# Register to attend
-
-Visit FHE.org's [meetup.com]() event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
