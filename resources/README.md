@@ -92,6 +92,7 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a href="https://fhe.org/meetups/052" id="00134">Functional bootstrapping for FV style cryptosystems</a> by **Seonhong Min** on **May 30th, 2024**
 - <a href="https://www.youtube.com/watch?v=ON23DV3d0U4" id="00133">Towards robust FHE for the real world</a> by **Christian Knabenhans and Alexander Viand** on **April 24th, 2024**
 - <a href="https://github.com/FHE-org/fhe-org.github.io/files/15331918/Privacy-Preserving.ML.with.Fully.Homomorphic.Encryption.presentation.done.at.the.MIT.CSAIL.Zama.pdf" id="00132">Privacy-Preserving ML with Fully Homomorphic Encryption, presentation done at the MIT (CSAIL)</a> by **Zama** on **April 30th, 2024**
 - <a href="https://fhe.org/meetups/051" id="00058">Fregata: Faster Homomorphic Evaluation of AES via TFHE</a> by **Benqiang Wei** on **May 9th, 2024**
