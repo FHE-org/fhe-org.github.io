@@ -21,7 +21,7 @@ We want to thank all [FHE contributors](https://fhe.org/CONTRIBUTORS) in and out
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, **[Functional bootstrapping for FV style cryptosystems](https://fhe.org/meetups/052)** by **Seonhong Min** on **May 30th, 2024 at 4PM CEST**
+- Register for the next meetup, **[FHE: Past, Present and Future](https://fhe.org/meetups/053)** by **Craig Gentry** on **Jun 13th, 2024 at 4PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
