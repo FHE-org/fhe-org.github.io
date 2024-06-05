@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/052"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1d8a1cd5-1844-450e-b04f-b74564e368e0"></a>
+<a href="https://fhe.org/meetups/053"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1fa3b4d4-a129-48bb-88cd-bfd60516d414"></a>
 
-#### Register for the next meetup, **[Functional bootstrapping for FV style cryptosystems](https://fhe.org/meetups/052)** by **Seonhong Min** on **May 30th, 2024 at 4PM CEST**
+#### Register for the next meetup, **[FHE: Past, Present and Future](https://fhe.org/meetups/053)** by **Craig Gentry** on **Jun 13th, 2024 at 4PM CEST**
 
 <br>
 
