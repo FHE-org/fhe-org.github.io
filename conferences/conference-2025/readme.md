@@ -18,7 +18,7 @@
   —
   Call for presentations
   —
-  Committees
+  <a href="https://fhe-org.github.io/conferences/conference-2025/committees">Committees</a>
   —
   Submissions
   —
