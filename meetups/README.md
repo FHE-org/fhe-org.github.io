@@ -29,6 +29,7 @@
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [FHE: Past, Present and Future](https://fhe.org/meetups/053) by **Craig Gentry** on **Jun 13th, 2024**
 - [Functional bootstrapping for FV style cryptosystems](https://fhe.org/meetups/052) by **Seonhong Min** on **May 30th, 2024**
 - [Fregata: Faster Homomorphic Evaluation of AES via TFHE](https://fhe.org/meetups/051) by **Benqiang Wei** on **May 9th, 2024**
 - [On the Concrete Security of Approximate FHE Schemes with Noise-Flooding Countermeasures](https://fhe.org/meetups/050) by **Hunter Kippen** on **May 2nd, 2024**
