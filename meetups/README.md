@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/053"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1fa3b4d4-a129-48bb-88cd-bfd60516d414"></a>
+<a href="https://fhe.org/meetups/054"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3265bf84-ff0f-4762-b840-3d3fc2823f4f"></a>
 
-#### Register for the next meetup, **[FHE: Past, Present and Future](https://fhe.org/meetups/053)** by **Craig Gentry** on **Jun 13th, 2024 at 4PM CEST**
+#### Register for the next meetup, **[Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://fhe.org/meetups/054)** by **Enrico Bottazzi** on **Jun 27th, 2024 at 5PM CEST**
 
 <br>
 
