@@ -21,7 +21,7 @@ We want to thank all [FHE contributors](https://fhe.org/CONTRIBUTORS) in and out
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, **[FHE: Past, Present and Future](https://fhe.org/meetups/053)** by **Craig Gentry** on **Jun 13th, 2024 at 4PM CEST**
+- Register for the next meetup, **[Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://fhe.org/meetups/054)** by **Enrico Bottazzi** on **Jun 27th, 2024 at 5PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 
