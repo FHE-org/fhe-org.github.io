@@ -101,7 +101,9 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Invited Talk: Computation models for FHE: Mixing integer, boolean and floating point operations. Applications to TFHE and Chimera</td>
     <td>Nicolas Gama (SandboxAQ), Mariya Georgieva (Inpher)</td>
-    <td>Slides /
+    <td>
+      <a href="https://github.com/user-attachments/files/15866030/Fhe_org_Tokyo.pdf">
+      Slides </a> /
       <a href="https://www.youtube.com/watch?v=u6XQP04Zq_c&list=PLnbmMskCVh1ei6AkXHDTAefkGZaBmtUQO&index=5">
         Video
       </a>
