@@ -13,9 +13,6 @@ If you want to learn more about FHE, make sure to:
 
 - Check out the [resources page](https://fhe-org.github.io/resources)
 - Join the [FHE.org community](https://fhe-org.github.io/community)
-- [Help us grow the FHE.org community](https://fhe-org.github.io/volunteer)
-
-We want to thank all [FHE contributors](https://fhe.org/CONTRIBUTORS) in and outside of the community, our [committees](https://fhe.org/conferences/conference-2024/committees) and [sponsors](https://fhe.org/sponsor) for this year's conference, and the FHE.org [advisory board](https://fhe.org/advisory-board).  
 
 ## Here for meetups?
 
@@ -27,4 +24,7 @@ FHE.org hosts regular community meetups featuring presentations from community m
 
 <!--- Footer --->
 <hr/>
+
+We want to thank all <a href="https://fhe.org/CONTRIBUTORS">FHE contributors</a> in and outside of the community, our <a href="https://fhe.org/conferences/conference-2024/committees">committees</a> and <a href="https://fhe.org/sponsor">sponsors</a> for this year's conference, and the FHE.org <a href="https://fhe.org/advisory-board">advisory board</a>.
+
 💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
