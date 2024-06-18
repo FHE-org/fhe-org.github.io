@@ -3,3 +3,6 @@ description: We are a community of researchers and developers interested in adva
 collections:
   resources:
     output: true
+
+plugins:
+- jekyll-seo-tag
