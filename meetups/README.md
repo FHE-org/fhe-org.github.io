@@ -24,6 +24,11 @@
 
 <br>
 
+## Looking for speaker interviews?
+
+As a part of the meetups, we interview presenters (and other community members) to get their thoughts on FHE. You may find a "Meet the Speaker" link in the meetups below, or [see the whole playlist here](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4).
+
+
 ## Past meetups
 
 FHE.org meetups archive, latest first.
