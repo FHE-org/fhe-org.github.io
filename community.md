@@ -8,20 +8,25 @@
 
 # Join the FHE.org community
 
-You can participate in the community via any of its official social channels and platforms:
+The FHE.org community hosts the following regular events and groups anyone can participate in:
 
-- <a href="https://discord.fhe.org/" target="_blank">Discord</a>
-- <a href="https://twitter.com/fhe_org" target="_blank">Twitter</a>
-- <a href="https://reddit.com/r/FHE" target="_blank">Reddit</a>
-- <a href="https://ioc.exchange/FHE" target="_blank">Mastodon</a>
-- <a href="https://www.linkedin.com/company/fhe-org/" target="_blank">Linkedin</a>
-- <a href="https://fheorg.substack.com/" target="_blank">Newsletter</a>
+- <a href="https://fhe.org/conferences/" target="_blank">FHE.org annual conferences</a>
+- PhD student group (`#🎓│phd-students` on Discord)
+- Reading Group (`#📙│reading-group` on Discord)
+
+You can participate directly with the community via Discord:
+
+- <a href="https://discord.fhe.org/" target="_blank">Discord</a> - `discord.fhe.org`
+
+You can follow news and announcements from FHE.org and the community via the official social channels and platforms:
+
+- <a href="https://twitter.com/fhe_org" target="_blank">Twitter</a> - `@fhe_org`
+- <a href="https://reddit.com/r/FHE" target="_blank">Reddit</a> - `/r/fhe`
+- <a href="https://ioc.exchange/FHE" target="_blank">Mastodon</a> - `@fhe@ioc.exchange`
+- <a href="https://www.linkedin.com/company/fhe-org/" target="_blank">Linkedin</a> - `fhe-org`
+- <a href="https://fheorg.substack.com/" target="_blank">Newsletter</a> `fheorg.substack.com`
 
 But more importantly, <b>we encourage anyone from the community to contribute to our website</b> by adding resources and use cases to our Github repo. Read on how to contribute to FHE.org on the <a href="https://fhe.org/contrib">Contribution page</a>.
-
-# Volunteer
-
-Interested in [volunteering to help the FHE.org team](https://fhe-org.github.io/volunteer) with community, meetups, the website and conferences?
 
 <!--- Footer --->
 <hr/>
