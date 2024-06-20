@@ -16,7 +16,7 @@ The FHE.org community hosts the following regular events and groups anyone can p
 
 You can participate directly with the community via Discord:
 
-- <a href="https://discord.fhe.org/" target="_blank">Discord</a> - `discord.fhe.org`
+- <a href="https://discord.fhe.org/" target="_blank">Discord</a> - `discord.fhe.org` <img src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscord.com%2Fapi%2Fguilds%2F901152454077452399%2Fwidget.json&style=flat">
 
 You can follow news and announcements from FHE.org and the community via the official social channels and platforms:
 
