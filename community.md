@@ -1,5 +1,9 @@
 {%
 title: FHE.org / Join the community!
+
+author:
+  name: FHE Contributors
+  url: https://fhe.org/CONTRIBUTORS
 %}
 <!-- Main header navigation -->
 <p align="center">
