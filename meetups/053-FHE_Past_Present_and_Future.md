@@ -9,8 +9,7 @@
 
 # FHE: Past, Present and Future
 #### by Craig Gentry - 2024.06.13
-#### <a href="https://www.youtube.com/watch?v=184NHhE3Kq0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
-
+#### <a href="https://www.youtube.com/watch?v=184NHhE3Kq0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/15918028/fheorg.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 ![053 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1fa3b4d4-a129-48bb-88cd-bfd60516d414)
