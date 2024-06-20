@@ -1,3 +1,6 @@
+{%
+title: FHE.org / Join the community!
+%}
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
