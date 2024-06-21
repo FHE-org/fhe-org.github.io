@@ -24,12 +24,6 @@ This talk will look at the past, present and future of FHE.
 
 Craig Gentry is the CTO of TripleBlind, known for pioneering fully homomorphic encryption (FHE). While a PhD student at Stanford, he constructed the first plausibly secure FHE scheme, enabling computations on encrypted data. While at IBM Research, Gentry collaborated with many other researchers on the second and third generations of FHE that base security on well-studied lattice problems and make FHE significantly more practical. He also contributed to the first plausible program obfuscation schemes and practical zero-knowledge proofs used in blockchains. For his work, Gentry has received the ACM Doctoral Dissertation Award, the MacArthur Award, the Gödel Prize, and was named an IACR Fellow.
 
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/300735642/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
