@@ -1,5 +1,5 @@
 ---
-  title: FHE.org / Join the community!
+  title: FHE.org | Join the community!
   author:
     name: FHE Contributors
     url: https://fhe.org/CONTRIBUTORS
