@@ -1,6 +1,6 @@
 ---
   title: FHE.org | Join the community!
-  author: none
+  author:
     name: FHE Contributors
     url: https://fhe.org/CONTRIBUTORS
 ---
