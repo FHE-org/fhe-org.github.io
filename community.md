@@ -1,10 +1,8 @@
 ---
-  title: FHE.org | Join the community! 2
+  title: FHE.org | Join the community!
   author:
     name: FHE Contributors
     url: https://fhe.org/CONTRIBUTORS
-  redirect_from:
-    - /community2
 ---
 <!-- Main header navigation -->
 <p align="center">
