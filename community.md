@@ -1,9 +1,11 @@
-<!---
+---
   title: FHE.org | Join the community! 2
   author:
     name: FHE Contributors
     url: https://fhe.org/CONTRIBUTORS
---->
+    redirect_from:
+     - /community2
+---
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
