@@ -9,9 +9,10 @@
 
 # FHE Beyond IND-CCA1 Security
 #### by  Jérôme Nguyen - 2024.07.11
-#### <a href="">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.meetup.com/fhe-org/events/301894586/?slug=fhe-org&eventId=301894586">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
+<a href="https://www.meetup.com/fhe-org/events/301894586/?slug=fhe-org&eventId=301894586"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5c5a7f05-3269-4b19-8255-a0e690849b06"></a>
 
 
 
@@ -25,7 +26,7 @@ Jérôme is a PhD student at the Universität der Bundeswehr in Munich. His rese
 
 # Register to attend
 
-Visit FHE.org's [meetup.com]() event page to attend.
+Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/301894586/?slug=fhe-org&eventId=301894586) event page to attend.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
