@@ -9,7 +9,7 @@
 
 # Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation
 #### by Enrico Bottazzi - 2024.06.27
-#### <a href="https://www.meetup.com/fhe-org/events/301465187/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UeV1zhbdVPI&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 
