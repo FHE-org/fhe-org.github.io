@@ -1,5 +1,12 @@
 ---
-  title: FHE.org | Join the community!
+  title: Join the community! | FHE.org
+  tagline: Community and social media page for FHE.org
+  description: Find out how to join the community and follow our social media at FHE.org, a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
+  url: https://fhe.org/community
+  twitter:
+    username: fhe_org
+    card: summary
+  logo: https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png
   author:
     name: FHE Contributors
     url: https://fhe.org/CONTRIBUTORS
