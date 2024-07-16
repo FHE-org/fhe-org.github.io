@@ -9,7 +9,7 @@
 
 # FHE Beyond IND-CCA1 Security
 #### by  Jérôme Nguyen - 2024.07.11
-#### <a href="https://www.meetup.com/fhe-org/events/301894586/?slug=fhe-org&eventId=301894586">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=ssLXxH22xqQ&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 <a href="https://www.meetup.com/fhe-org/events/301894586/?slug=fhe-org&eventId=301894586"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5c5a7f05-3269-4b19-8255-a0e690849b06"></a>
@@ -23,12 +23,6 @@ It is standard to consider a fully homomorphic encryption (FHE) scheme secure if
 # About the speaker
 
 Jérôme is a PhD student at the Universität der Bundeswehr in Munich. His research focuses on fully homomorphic encryption, as well as lattice-based cryptography in general. He is also broadly interested in all themes of cryptography ranging from theoretical foundations to multi-party computations.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/301894586/?slug=fhe-org&eventId=301894586) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
