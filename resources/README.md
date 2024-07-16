@@ -92,6 +92,7 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a href="https://fhe.org/meetups/055" id="00137">FHE Beyond IND-CCA1 Security</a> by **Jérôme Nguyen** on **Jul 11th, 2024**
 - <a href="https://fhe.org/meetups/054" id="00136">Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation</a> by **Enrico Bottazzi** on **Jun 27th, 2024**
 - <a href="https://fhe.org/meetups/053" id="00135">FHE: Past, Present and Future</a> by **Craig Gentry** on **Jun 13th, 2024**
 - <a href="https://fhe.org/meetups/052" id="00134">Functional bootstrapping for FV style cryptosystems</a> by **Seonhong Min** on **May 30th, 2024**
