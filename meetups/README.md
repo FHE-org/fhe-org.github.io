@@ -18,9 +18,9 @@
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/055"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5c5a7f05-3269-4b19-8255-a0e690849b06"></a>
+<a href="https://fhe.org/meetups/056"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/32ecf8f7-6380-45ae-b907-6bb13ecabb64"></a>
 
-#### Register for the next meetup, **[FHE Beyond IND-CCA1 Security](https://fhe.org/meetups/055)** by **Jérôme Nguyen** on **Jul 11th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption](https://fhe.org/meetups/056)** by **Lea Nürnberger** on **Jul 18th, 2024 at 5PM CEST**
 
 <br>
 
@@ -34,6 +34,7 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [FHE Beyond IND-CCA1 Security](https://fhe.org/meetups/055) by **Jérôme Nguyen** on **Jul 11th, 2024**
 - [Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://fhe.org/meetups/054) by **Enrico Bottazzi** on **Jun 27th, 2024**
 - [FHE: Past, Present and Future](https://fhe.org/meetups/053) by **Craig Gentry** on **Jun 13th, 2024**
 - [Functional bootstrapping for FV style cryptosystems](https://fhe.org/meetups/052) by **Seonhong Min** on **May 30th, 2024**
