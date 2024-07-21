@@ -9,7 +9,7 @@
 
 # Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption
 #### by Lea Nürnberger - 2024.07.18
-#### <a href="https://www.meetup.com/fhe-org/events/301895758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register to attend</a> | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=zUssLoKcngE&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/301895758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/32ecf8f7-6380-45ae-b907-6bb13ecabb64"></a>
 
@@ -20,12 +20,6 @@ At Eurocrypt 2021 Li and Micciancio presented a passive key recovery attack on C
 # About the speaker
 
 Lea is a third year PhD student at the Norwegian University of Technology and Science (NTNU). Her main research area is Fully Homomorphic Encryption.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/301895758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
