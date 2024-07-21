@@ -18,10 +18,11 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, **[Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption](https://fhe.org/meetups/056)** by **Lea Nürnberger** on **Jul 18th, 2024 at 5PM CEST**
-- [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
+<!-- - Register for the next meetup, **[Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption](https://fhe.org/meetups/056)** by **Lea Nürnberger** on **Jul 18th, 2024 at 5PM CEST** -->
+
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
+- [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
 
 <!--- Footer --->
 <hr/>
