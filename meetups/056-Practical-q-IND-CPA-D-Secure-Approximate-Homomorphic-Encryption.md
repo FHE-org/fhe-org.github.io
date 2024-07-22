@@ -1,7 +1,7 @@
 ---
   title: Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption w/ Lea Nürnberger | FHE.org Meetup
-  tagline: FHE.org Meetup: Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption w/ Lea Nürnberger
-  description: FHE.org Meetup: Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption w/ Lea Nürnberger
+  tagline: FHE.org Meetup | Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption w/ Lea Nürnberger
+  description: FHE.org Meetup | Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption w/ Lea Nürnberger
   url: https://fhe.org/meetups/056
   twitter:
     username: fhe_org
