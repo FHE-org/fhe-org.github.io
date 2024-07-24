@@ -67,7 +67,7 @@
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
-- <a id="00139" href="https://github.com/Memento-Research/human-in-picture-concrete-ml"> Human In Picture (HIP) using Concrete ML</a> by **Memento Research** on **Jun 19, 2023**
+- <a id="00140" href="https://github.com/Memento-Research/human-in-picture-concrete-ml"> Human In Picture (HIP) using Concrete ML</a> by **Memento Research** on **Jun 19, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
