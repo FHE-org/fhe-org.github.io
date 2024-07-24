@@ -22,7 +22,6 @@
 - [Courses](#courses)
 
 ## Conference Resources
-
 - [FHE.org Toronto 2024 Conference Resources](https://fhe-org.github.io/conferences/conference-2024/resources) by **FHE.org** on **Apr 09, 2024**
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
@@ -68,6 +67,7 @@
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
+- <a id="00139" href="https://github.com/Memento-Research/human-in-picture-concrete-ml"> Human In Picture (HIP) using Concrete ML</a> by **Memento Research** on **Jun 19, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
@@ -82,7 +82,6 @@
 - <a href="https://fhe.org/meetups/006-running-numpy-programs-homomorphically" id="00050">Homomorphic Machine Learning using Numpy & Concrete</a> **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sept 30, 2021**
 
 ## Hardware
-
 - <a href="https://www.youtube.com/watch?v=-12xxt5BqUU&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=8" id="00051">BASALISC: Integrated Hardware Acceleration for BGV, CKKS, and BFV FHE</a> by **David Archer, Robin Geelen, and Michiel Van Beirendonck** on **March 24, 2024**
 - <a href="https://github.com/KULeuven-COSIC/fpt-demo" id="00052">FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption</a> by **Michiel Van Beirendonck, Jan-Pieter D'Anvers, Furkan Turan, and Ingrid Verbauwhede** on **Nov 29, 2023**
 - <a href="https://fhe.org/meetups/027-An_Optical_Hardware_Accelerator_for_FHE" id="00053">An Optical Hardware Accelerator for FHE</a> by **Joseph Wilson** on **June 15, 2023**
@@ -92,7 +91,7 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
-- <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024 at 5PM CEST**
+- <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt24-from-null-to-large-p-acceleration-in-bgv-bootstrapping/" id="00138"> Eurocrypt24: From Null to Large P, Acceleration in BGV Bootstrapping</a> by **Barry van Leeuwen** on **May 30th, 2024**
 - <a href="https://fhe.org/meetups/055" id="00137">FHE Beyond IND-CCA1 Security</a> by **Jérôme Nguyen** on **Jul 11th, 2024**
 - <a href="https://fhe.org/meetups/054" id="00136">Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation</a> by **Enrico Bottazzi** on **Jun 27th, 2024**
