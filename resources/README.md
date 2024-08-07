@@ -27,6 +27,7 @@
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
+- <a href="https://www.jeremykun.com/2024/05/04/fhe-overview/" id="00142">A High-Level Technical Overview of Fully Homomorphic Encryption</a> by **Jeremy Kun** on **May 04, 2024**
 - <a href="https://cryptographycaffe.sandboxaq.com/posts/fhe-01/" id="00001">Fully Homomorphic Encryption: Introduction and Use-Cases</a> by **Nicolas Gama** and **Sandra Guasch** on **Nov 18, 2023**
 - <a href="https://jeremykun.com/2023/09/18/encoding-schemes-in-fhe/" id="00002">Encoding Schemes in FHE</a> by **Jeremy Kun** on **September 18, 2023**
 - <a href="https://blog.sunscreen.tech/introducing-sunscreens-zkp-compiler/" id="00003">Introducing Sunscreen's ZKP compiler</a> by **Ravital Solomon** on **Aug 24, 2023**
