@@ -188,7 +188,8 @@
 - <a href="https://courses.openmined.org/courses/foundations-of-private-computation" id="00130">Foundations of Private Computation</a> by **Openmined** in **2022**
 - <a href="https://shaih.github.io/lattices-and-HE-class/index.html" id="00131">Homomorphic Encryption and Lattices</a> by **Shai Halevi** in **2011**
 
-
+## Projects
+- <a href="https://fhe.org/history" id="00143">History of FHE</a> by **FHE.org** on **April 17, 2024**
 
 <!--- Footer --->
 <hr/>
