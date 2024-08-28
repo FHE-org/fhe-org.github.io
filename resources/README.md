@@ -20,6 +20,7 @@
 - [FHE Schemes](#fhe-schemes)
 - [Libraries](#libraries)
 - [Courses](#courses)
+- [Projects](#projects)
 
 ## Conference Resources
 - [FHE.org Toronto 2024 Conference Resources](https://fhe-org.github.io/conferences/conference-2024/resources) by **FHE.org** on **Apr 09, 2024**
@@ -189,6 +190,7 @@
 - <a href="https://shaih.github.io/lattices-and-HE-class/index.html" id="00131">Homomorphic Encryption and Lattices</a> by **Shai Halevi** in **2011**
 
 ## Projects
+
 - <a href="https://fhe.org/history" id="00143">History of FHE</a> by **FHE.org** on **April 17, 2024**
 
 <!--- Footer --->
