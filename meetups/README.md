@@ -16,17 +16,15 @@
 </p>
 <hr/>
 
-<!--
 
 ## Coming up
 
- <a href="https://fhe.org/meetups/056"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/32ecf8f7-6380-45ae-b907-6bb13ecabb64"></a> 
+ <a href="https://fhe.org/meetups/057"><img src="https://github.com/user-attachments/assets/80fda8d2-11bb-4d1c-a370-ffd470ef197f"></a> 
 
-#### Register for the next meetup, **[Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption](https://fhe.org/meetups/056)** by **Lea Nürnberger** on **Jul 18th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[New Secret Keys for Enhanced Performance in (T)FHE](https://fhe.org/meetups/057)** by **Loris Bergerat** on **Sept 12th, 2024 at 5PM CEST**
 
 <br>
 
--->
 
 ## Looking for speaker interviews?
 
