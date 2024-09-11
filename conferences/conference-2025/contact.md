@@ -24,7 +24,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2025/contact"><b>Contact</b></a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2025/">Sponsor</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2025/sponsor">Sponsor</a>
   —
   Resources
 </p>
