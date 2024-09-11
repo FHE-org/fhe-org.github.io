@@ -24,7 +24,7 @@
   —
   Contact
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2025/sponsors">Sponsors</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2025/sponsor">Sponsors</a>
   —
   Resources
 </p>
