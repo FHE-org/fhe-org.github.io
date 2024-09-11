@@ -34,3 +34,4 @@
 
 # FHE.org conference 2025 — Call for Presentations
 
+To be announced soon!
