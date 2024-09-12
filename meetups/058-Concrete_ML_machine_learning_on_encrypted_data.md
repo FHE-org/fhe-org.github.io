@@ -21,7 +21,7 @@
 <!-- /Main header navigation -->
 
 
-# Concrete ML - machine learning on encrypted data
+# Concrete ML - Machine Learning on Encrypted Data
 #### by Andrei Stoian - 2024.09.26 5PM CEST
 #### <!-- <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) --> <a href="">Register for meetup</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
