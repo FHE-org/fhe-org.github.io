@@ -25,7 +25,7 @@
 #### by Andrei Stoian - 2024.09.26 5PM CEST
 #### <!-- <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) --> <a href="">Register for meetup</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<a href="><img src=""></a>
+<a href=""><img src="https://github.com/user-attachments/assets/4c21f7e0-de91-430e-a6ce-11793d6c4830"></a>
 
 # Abstract
 
