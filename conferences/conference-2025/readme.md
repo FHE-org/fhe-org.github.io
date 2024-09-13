@@ -35,11 +35,16 @@
 
 # FHE.org 2025 conference
 
-The 4th Annual FHE.org Conference on Fully Homomorphic Encryption is tentatively being planned for Sofia, Bulgaria. The venue location and exact dates will be announced at a later date.
+The 4th Annual FHE.org Conference on Fully Homomorphic Encryption is colocated with Real World Crypto 2025 and will be held in Sofia (Bulgaria) on March 25, 2025.
 
 For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.substack.com/).
 
 The conference will feature presentation sessions, poster sessions, invited speakers, and a DJ'ed party and dinner. 
+
+## Important dates
+- **Submission deadline:** November 23, 2024 (23:58 AoE time)
+- **Notification:** January 24, 2024
+- **Conference date:** March 25, 2025
 
 
 ## Sponsors
