@@ -23,7 +23,7 @@
 
 # Concrete ML - Machine Learning on Encrypted Data
 #### by Andrei Stoian - 2024.09.26 5PM CEST
-#### <!-- <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) --> <a href="">Register for meetup</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <!-- <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) --> <a href="https://www.meetup.com/fhe-org/events/303389758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href=""><img src="https://github.com/user-attachments/assets/4c21f7e0-de91-430e-a6ce-11793d6c4830"></a>
 
@@ -35,6 +35,9 @@ Concrete ML is an open-source framework developed by Zama, that enables AI to us
 
 Andrei obtained an Engineering degree in Computer Systems from the Politehnica University of Bucharest, then a PhD in Machine Learning for image and video analysis at the Conservatoire National des Arts et Metiers in Paris, France, in 2015. Since 2021 he has been working for Zama on building Concrete-ML, a machine learning toolkit to perform model inference on encrypted data. His research interests are centred on adapting deep learning models to FHE computation, especially in the areas of image classification and recognition. He has published more than 20 papers on various machine learning topics and holds several patents.
 
+# Register for meetup
+
+If you'd like to RSVP for the meetup via meetup.com, <a href="https://www.meetup.com/fhe-org/events/303389758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">click here</a>.
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
