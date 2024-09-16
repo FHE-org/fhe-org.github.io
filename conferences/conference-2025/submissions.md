@@ -18,7 +18,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2025/call-for-presentations">Call for presentations</a>
   —
-  Committees
+  <a href="https://fhe-org.github.io/conferences/conference-2025/committees">Committees</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2025/submissions"><b>Submissions</b></a>
   —
@@ -32,4 +32,4 @@
 <!-- /Header conference 2025 links -->
 
 # FHE.org conference 2025
-To be announced
+Submissions can be made via the easychair server here: https://easychair.org/my/conference?conf=fheorg2025
