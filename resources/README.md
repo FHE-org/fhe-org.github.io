@@ -94,6 +94,8 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+
+- <a id="00144" href="https://fhe.org/meetups/057">New Secret Keys for Enhanced Performance in (T)FHE</a> by **Loris Bergerat** on **Sept 12th, 2024**
 - <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt24-from-null-to-large-p-acceleration-in-bgv-bootstrapping/" id="00138"> Eurocrypt24: From Null to Large P, Acceleration in BGV Bootstrapping</a> by **Barry van Leeuwen** on **May 30th, 2024**
 - <a href="https://fhe.org/meetups/055" id="00137">FHE Beyond IND-CCA1 Security</a> by **Jérôme Nguyen** on **Jul 11th, 2024**
