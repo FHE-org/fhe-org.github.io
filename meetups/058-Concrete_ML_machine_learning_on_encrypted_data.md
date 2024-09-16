@@ -25,7 +25,7 @@
 #### by Andrei Stoian - 2024.09.26 5PM CEST
 #### <!-- <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) --> <a href="https://www.meetup.com/fhe-org/events/303389758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<a href=""><img src="https://github.com/user-attachments/assets/4c21f7e0-de91-430e-a6ce-11793d6c4830"></a>
+<a href="https://www.meetup.com/fhe-org/events/303389758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/0415e1a0-11c7-45be-b9ed-5199db7f96b9"></a>
 
 # Abstract
 
