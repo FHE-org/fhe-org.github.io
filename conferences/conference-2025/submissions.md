@@ -32,4 +32,4 @@
 <!-- /Header conference 2025 links -->
 
 # FHE.org conference 2025
-Submissions can be made via the easychair server here: https://easychair.org/my/conference?conf=fheorg2025
+Submissions can be made via the easychair server here: [https://easychair.org/my/conference?conf=fheorg2025](https://easychair.org/my/conference?conf=fheorg2025)
