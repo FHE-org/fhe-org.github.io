@@ -18,7 +18,7 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, **[New Secret Keys for Enhanced Performance in (T)FHE](https://fhe.org/meetups/057)** by **Loris Bergerat** on **Sept 12th, 2024 at 5PM CEST**
+- Register for the next meetup, **[Concrete ML - Machine Learning on Encrypted Data](https://fhe.org/meetups/058)** by **Andrei Stoian** on **Sept 26th, 2024 at 5PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
