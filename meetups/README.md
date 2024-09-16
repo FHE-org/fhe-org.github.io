@@ -19,7 +19,7 @@
 
 ## Coming up
 
- <a href="https://fhe.org/meetups/058"><img src="https://github.com/user-attachments/assets/4c21f7e0-de91-430e-a6ce-11793d6c4830"></a> 
+ <a href="https://fhe.org/meetups/058"><img src="https://github.com/user-attachments/assets/0415e1a0-11c7-45be-b9ed-5199db7f96b9"></a> 
 
 #### Register for the next meetup, **[Concrete ML - Machine Learning on Encrypted Data](https://fhe.org/meetups/058)** by **Andrei Stoian** on **Sept 26th, 2024 at 5PM CEST**
 
