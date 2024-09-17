@@ -13,7 +13,7 @@
   —
   Register
   —
-  Program
+  <a href="https://fhe-org.github.io/conferences/conference-2025/program">Program</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2025/call-for-presentations"><b>Call for presentations</b></a>
   —
