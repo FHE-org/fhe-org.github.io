@@ -45,6 +45,9 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **Notification:** January 24, 2024
 - **Conference date:** March 25, 2025
 
+## Latest updates
+- **2025.09.17** Announced program chairs (Miran Kim and Shai Halevi)
+
 
 ## Sponsors
 
