@@ -72,6 +72,7 @@
 
 ## Use Cases and Demos
 - <a id="00141" href="https://www.zama.ai/post/build-an-end-to-end-encrypted-23andme-genetic-testing-application-using-concrete-ml-fully-homomorphic-encryption"> Build an End-to-End Encrypted 23andMe-like Genetic Testing Application using Concrete ML</a> by **Zama** on **July 17, 2024**
+- <a id="00145" href="https://github.com/apple/live-caller-id-lookup-example"> Live Caller ID Lookup Example</a> by **Apple** on **July 10, 2024** 
 - <a id="00140" href="https://github.com/Memento-Research/human-in-picture-concrete-ml"> Human In Picture (HIP) using Concrete ML</a> by **Memento Research** on **Jun 19, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
@@ -96,6 +97,8 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+
+- <a id="00144" href="https://fhe.org/meetups/057">New Secret Keys for Enhanced Performance in (T)FHE</a> by **Loris Bergerat** on **Sept 12th, 2024**
 - <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt24-from-null-to-large-p-acceleration-in-bgv-bootstrapping/" id="00138"> Eurocrypt24: From Null to Large P, Acceleration in BGV Bootstrapping</a> by **Barry van Leeuwen** on **May 30th, 2024**
 - <a href="https://fhe.org/meetups/055" id="00137">FHE Beyond IND-CCA1 Security</a> by **Jérôme Nguyen** on **Jul 11th, 2024**

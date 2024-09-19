@@ -23,7 +23,7 @@
 
 # New Secret Keys for Enhanced Performance in (T)FHE
 #### by Loris Bergerat - 2024.09.12 5PM CEST
-#### <!-- <a href="">Video recording</a> (Youtube) | <a href="">Slides</a> (Github) --> <a href="https://www.meetup.com/fhe-org/events/302686791/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=faC1nwk7ACA&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM">Video recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/17013513/Meet-up.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/302686791/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/80fda8d2-11bb-4d1c-a370-ffd470ef197f"></a>
 

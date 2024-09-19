@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2025/">Conference 2025</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/"><b>Meetups</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2025/">Conference 2025</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -19,9 +19,9 @@
 
 ## Coming up
 
- <a href="https://fhe.org/meetups/057"><img src="https://github.com/user-attachments/assets/80fda8d2-11bb-4d1c-a370-ffd470ef197f"></a> 
+ <a href="https://fhe.org/meetups/058"><img src="https://github.com/user-attachments/assets/0415e1a0-11c7-45be-b9ed-5199db7f96b9"></a> 
 
-#### Register for the next meetup, **[New Secret Keys for Enhanced Performance in (T)FHE](https://fhe.org/meetups/057)** by **Loris Bergerat** on **Sept 12th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[Concrete ML - Machine Learning on Encrypted Data](https://fhe.org/meetups/058)** by **Andrei Stoian** on **Sept 26th, 2024 at 5PM CEST**
 
 <br>
 
@@ -36,6 +36,7 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [New Secret Keys for Enhanced Performance in (T)FHE](https://fhe.org/meetups/057) by **Loris Bergerat** on **Sept 12th, 2024**
 - [Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption](https://fhe.org/meetups/056) by **Lea Nürnberger** on **Jul 18th, 2024**
 - [FHE Beyond IND-CCA1 Security](https://fhe.org/meetups/055) by **Jérôme Nguyen** on **Jul 11th, 2024**
 - [Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation](https://fhe.org/meetups/054) by **Enrico Bottazzi** on **Jun 27th, 2024**
