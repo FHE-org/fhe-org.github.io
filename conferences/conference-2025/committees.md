@@ -40,6 +40,38 @@
 - **Miran Kim** *Hanyang University, South Korea*
 - **Shai Halevi** *AWS, USA*
 
+## General chair
+- **Benjamin Curtis** *Zama, France*
+
+## Program committee
+- **Adi	Akavia** *University of Haifa*
+- **Flavio Bergamaschi** *Intel Labs*
+- **Song Bian**	*Beihang University*
+- **Fabian Boemer** *Apple*
+- **Sergiu Carpov**	*Arcium*
+- **Sylvain	Chatel** *CISPA*
+- **Ilaria Chillotti** *FHE enthusiast*
+- **Anamaria Costache** *NTNU*
+- **Wei	Dai**	*TikTok*
+- **Yarkin Doroz** *NVIDIA*
+- **Mariya Georgieva** *Tune Insight*
+- **Marc Joye**	*Zama*
+- **Hanjun Kim** *Yonsei University*
+- **Jung Woo Kim** *CryptoLab Inc.*
+- **Andrey Kim** *Altbridge, Inc.*
+- **Young-Sik	Kim**	*DGIST*
+- **Joon-Woo Lee** *Chung-Ang University*
+- **Yongwoo	Lee**	*Inha University*
+- **Feng-Hao Liu** *Washington State University*
+- **Dimitris Mouris**	*Nillion*
+- **Rachel Player**	*Royal Holloway, University of London*
+- **Yuriy	Polyakov** *Duality Technologies*
+- **Hayim	Shaul**	*IBM Research*
+- **Mehdi	Tibouchi** *NTT*
+- **Juan Ramón Troncoso-Pastoriza**	*Tune Insight*
+- **Ingrid Verbauwhede** *KU Leuven*
+- **Yang Yu**	*Tsinghua University*
+
 
 ## Any questions?
 - You can write to the organization committee at **contact@fhe.org**
