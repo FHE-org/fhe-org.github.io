@@ -36,14 +36,14 @@
 
 # FHE.org conference 2025 — Committees
 
-## Program Chairs
+## Program co-chairs
 - **Miran Kim** *Hanyang University, South Korea*
 - **Shai Halevi** *AWS, USA*
 
-## General Chair
+## General chair
 - **Benjamin Curtis** *Zama, France*
 
-## Program Committee
+## Program committee
 - **Adi	Akavia** *University of Haifa*
 - **Flavio Bergamaschi** *Intel Labs*
 - **Song Bian**	*Beihang University*
