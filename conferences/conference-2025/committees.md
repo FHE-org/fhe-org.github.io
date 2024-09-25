@@ -47,6 +47,7 @@
 - **Adi	Akavia** *University of Haifa*
 - **Flavio Bergamaschi** *Intel Labs*
 - **Song Bian**	*Beihang University*
+- **Fabian Boemer** *Apple*
 - **Sergiu Carpov**	*Arcium*
 - **Sylvain	Chatel** *CISPA*
 - **Ilaria Chillotti** *FHE enthusiast*
