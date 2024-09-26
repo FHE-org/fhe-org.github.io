@@ -23,7 +23,7 @@
 
 # Concrete ML - Machine Learning on Encrypted Data
 #### by Andrei Stoian - 2024.09.26 5PM CEST
-#### <!-- <a href="">Video recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/17154677/Concrete.ML.-.fhe.org.Sept.2024.1.pdf">Slides</a> (Github) --> <a href="https://www.meetup.com/fhe-org/events/303389758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=DP_4OBNf3WY">Video recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/17154677/Concrete.ML.-.fhe.org.Sept.2024.1.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/303389758/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/0415e1a0-11c7-45be-b9ed-5199db7f96b9"></a>
 
