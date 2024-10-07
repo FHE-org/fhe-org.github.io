@@ -50,7 +50,7 @@
 - **Fabian Boemer** *Apple*
 - **Sergiu Carpov**	*Arcium*
 - **Sylvain	Chatel** *CISPA*
-- **Ilaria Chillotti** *FHE enthusiast*
+- **Ilaria Chillotti**
 - **Anamaria Costache** *NTNU*
 - **Wei	Dai**	*TikTok*
 - **Yarkin Doroz** *NVIDIA*
