@@ -70,5 +70,5 @@ Submissions can be made via the following link: [https://easychair.org/conferenc
 ## **Important dates**
 
 * Submission deadline: Fibonacci Day, November 23, 2024 (23:58 AoE time)  
-* Notification (tentative): January 24, 2025  
+* Notification: January 24, 2025  
 * Conference date: March 25, 2025
