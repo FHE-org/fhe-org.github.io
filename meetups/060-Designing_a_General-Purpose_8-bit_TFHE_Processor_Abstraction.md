@@ -25,7 +25,7 @@
 #### by Daphné Trama - 2024.10.17 4PM CEST
 #### <a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/286bca5f-d228-4a4c-95c3-001767bb34bb"></a>
+<a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/45a37307-2183-42d9-9ae2-9bd5735169c4"></a>
 
 # Abstract
 
