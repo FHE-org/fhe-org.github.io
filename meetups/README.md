@@ -19,9 +19,9 @@
 
 ## Coming up
 
- <a href="https://fhe.org/meetups/059"><img src="https://github.com/user-attachments/assets/7897dd12-c33e-407a-9f5e-b6dd1ee7e75c"></a> 
+ <a href="https://fhe.org/meetups/060"><img src="https://github.com/user-attachments/assets/286bca5f-d228-4a4c-95c3-001767bb34bb"></a> 
 
-#### Register for the next meetup, **[Private and Secure Fuzzy Name Matching](https://fhe.org/meetups/059)** by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[Designing a General-Purpose 8-bit (T)FHE Processor Abstraction](https://fhe.org/meetups/060)** by **Daphné Trama** on **Nov 17th, 2024 at 4PM CEST**
 
 <br>
 
@@ -36,6 +36,7 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [Private and Secure Fuzzy Name Matching](https://fhe.org/meetups/059) by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
 - [Concrete ML - Machine Learning on Encrypted Data](https://fhe.org/meetups/058) by **Andrei Stoian** on **Sept 26th, 2024**
 - [New Secret Keys for Enhanced Performance in (T)FHE](https://fhe.org/meetups/057) by **Loris Bergerat** on **Sept 12th, 2024**
 - [Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption](https://fhe.org/meetups/056) by **Lea Nürnberger** on **Jul 18th, 2024**
