@@ -19,7 +19,7 @@
 
 ## Coming up
 
- <a href="https://fhe.org/meetups/060"><img src="https://github.com/user-attachments/assets/286bca5f-d228-4a4c-95c3-001767bb34bb"></a> 
+ <a href="https://fhe.org/meetups/060"><img src="https://github.com/user-attachments/assets/45a37307-2183-42d9-9ae2-9bd5735169c4"></a> 
 
 #### Register for the next meetup, **[Designing a General-Purpose 8-bit (T)FHE Processor Abstraction](https://fhe.org/meetups/060)** by **Daphné Trama** on **Nov 17th, 2024 at 4PM CEST**
 
