@@ -23,7 +23,7 @@
 
 # Private and Secure Fuzzy Name Matching
 #### by Harsh Kasyap and Ugur Atmaca - 2024.10.10 5PM CEST
-#### <a href="https://www.meetup.com/fhe-org/events/303724680/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=psoAyKd3z84&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/303724680/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/7897dd12-c33e-407a-9f5e-b6dd1ee7e75c"></a>
 
