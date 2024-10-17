@@ -39,6 +39,8 @@ Daphné Trama is a second-year PhD student at CEA LIST. She is currently working
 
 If you'd like to RSVP for the meetup via meetup.com, <a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">click here</a>.
 
+Unable to find the Zoom link? To join the meetup call, use https://fhe.org/meetups/join
+
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
