@@ -99,6 +99,7 @@
 
 ## Research
 
+- <a id="00150" href="https://fhe.org/meetups/060">Designing a General-Purpose 8-bit (T)FHE Processor Abstraction</a> by **Daphné Trama** on **Nov 17th, 2024**
 - <a id="00149" href="https://fhe.org/meetups/059">Private and Secure Fuzzy Name Matching</a> by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
 - <a id="00144" href="https://fhe.org/meetups/057">New Secret Keys for Enhanced Performance in (T)FHE</a> by **Loris Bergerat** on **Sept 12th, 2024**
 - <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
