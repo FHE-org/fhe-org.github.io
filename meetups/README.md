@@ -21,7 +21,7 @@
 
  <a href="https://fhe.org/meetups/061"><img src="https://github.com/user-attachments/assets/dbb50b84-f57b-47a3-9d7d-be47a316b751"></a> 
 
-#### Register for the next meetup, **[Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061)** by **Zhihao Li** on **Nov 24th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061)** by **Zhihao Li** on **Oct 24th, 2024 at 5PM CEST**
 
 <br>
 
