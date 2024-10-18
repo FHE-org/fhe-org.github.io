@@ -23,7 +23,7 @@
 
 # Designing a General-Purpose 8-bit (T)FHE Processor Abstraction
 #### by Daphné Trama - 2024.10.17 4PM CEST
-#### <a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UCksDHiCxls&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=2">Video</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/45a37307-2183-42d9-9ae2-9bd5735169c4"></a>
 
@@ -34,12 +34,6 @@ Making the most of TFHE programmable bootstrapping to evaluate functions or oper
 # About the speakers
 
 Daphné Trama is a second-year PhD student at CEA LIST. She is currently working on homomorphic encryption, particularly optimizing methods for fast computing over encrypted data with TFHE.
-
-# Register for meetup
-
-If you'd like to RSVP for the meetup via meetup.com, <a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">click here</a>.
-
-Unable to find the Zoom link? To join the meetup call, use https://fhe.org/meetups/join
 
 # Never miss an update
 
