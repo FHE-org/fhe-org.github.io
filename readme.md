@@ -19,7 +19,6 @@ If you want to learn more about FHE, make sure to:
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
 - Register for the next meetup, **[Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061)** by **Zhihao Li** on **Nov 24th, 2024 at 5PM CEST**
-2024 at 4PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
