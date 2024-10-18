@@ -22,7 +22,7 @@
 
 
 # Faster NTRU-based Bootstrapping in less than 4 ms
-#### by Zhihao Li - 2024.10.17 4PM CEST
+#### by Zhihao Li - 2024.10.24 5PM CEST
 #### <a href="https://www.meetup.com/fhe-org/events/304079865/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/304079865/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/dbb50b84-f57b-47a3-9d7d-be47a316b751"></a>
