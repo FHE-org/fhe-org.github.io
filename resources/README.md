@@ -68,6 +68,7 @@
 - <a href="https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-techniques-in-ppml/" id="00035">Techniques in PPML</a> by **Hao Chen** on **December 02, 2019**
 - <a href="https://www.microsoft.com/en-us/research/video/intro-to-homomorphic-encryption/" id="00036">Introduction to Homomorphic Encryption</a> by **Wei Dai** on **December 02, 2019**
 - <a href="https://www.microsoft.com/en-us/research/video/microsoft-seal/" id="00037">Microsoft SEAL</a> by **Kim Laine** on **December 02, 2019**
+- <a href="https://www.youtube.com/watch?v=pXb39wj5ShI" id="00151">How would you explain homomorphic encryption?</a> by **Craig Gentry** on **Jan 11, 2018**
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
