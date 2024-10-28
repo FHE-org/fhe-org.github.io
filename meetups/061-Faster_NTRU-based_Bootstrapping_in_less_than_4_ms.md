@@ -23,7 +23,7 @@
 
 # Faster NTRU-based Bootstrapping in less than 4 ms
 #### by Zhihao Li - 2024.10.24 5PM CEST
-#### <a href="https://www.meetup.com/fhe-org/events/304079865/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://github.com/user-attachments/files/17519871/Faster.NTRU.based.bootstrapping.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=dB8Mcuh5mC0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video</a> (Youtube) | <a href="https://github.com/user-attachments/files/17519871/Faster.NTRU.based.bootstrapping.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/304079865/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/dbb50b84-f57b-47a3-9d7d-be47a316b751"></a>
 
@@ -34,12 +34,6 @@ Bootstrapping is a critical technique in constructing fully homomorphicencryptio
 # About the speakers
 
 Zhihao Li is privacy preserving computation engineer at Ant group. He received his PhD from the Institute of Information Engineering, Chinese Academy of Sciences. His research interests focus on the design and application of fully homomorphic encryption.
-
-# Register for meetup
-
-If you'd like to RSVP for the meetup via meetup.com, <a href="https://www.meetup.com/fhe-org/events/304079865/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">click here</a>.
-
-Unable to find the Zoom link? To join the meetup call, use https://fhe.org/meetups/join
 
 # Never miss an update
 
