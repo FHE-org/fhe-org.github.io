@@ -206,7 +206,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Towards Mixed Multi-Key Homomorphic Encryption</td>
     <td>Thomas Schneider (TU Darmstadt), Hossein Yalame (TU Darmstadt), Michael Yonli (TU Darmstadt)</td>
-    <td>View</td>
+    <td>
+     <a href="https://github.com/user-attachments/files/17575846/mixed-key.pdf">
+        View
+     </a>
+    </td>
 </tr>
 
 <tr>
