@@ -336,7 +336,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice</td>
     <td>Kamil Kluczniak (CISPA)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/user-attachments/files/17575899/circuit-privacy.pdf">
+        View
+      </a>a>
+    </td>
 </tr>
 
 <tr>
