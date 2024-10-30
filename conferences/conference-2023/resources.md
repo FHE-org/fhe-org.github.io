@@ -307,7 +307,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>A Fast Convolution Algorithm for Accelerating Encrypted Domain Model Inference</td>
     <td>Huan-Chih Wang (National Taiwan University), Ja-Ling Wu (National Taiwan University)</td>
     <td>
-      <a href="https://github.com/whcjimmy/fhe-org.github.io/blob/main/conferences/conference-2023/media/fast_convolution.pdf">
+      <a href="https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/fast_convolution.pdf">
       View
       </td>
 </tr>
