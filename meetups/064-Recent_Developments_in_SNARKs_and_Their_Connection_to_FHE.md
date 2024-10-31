@@ -1,8 +1,8 @@
 ---
-  title: Recent Developments in SNARKs and Their Connection to FHE w/ Dan Boneh | FHE.org Meetup 062
-  tagline: FHE.org Meetup 062| Recent Developments in SNARKs and Their Connection to FHE w/ Dan Boneh
-  description: FHE.org Meetup 062 | Recent Developments in SNARKs and Their Connection to FHE w/ Dan Boneh
-  url: https://fhe.org/meetups/062
+  title: Recent Developments in SNARKs and Their Connection to FHE w/ Dan Boneh | FHE.org Meetup 064
+  tagline: FHE.org Meetup 064| Recent Developments in SNARKs and Their Connection to FHE w/ Dan Boneh
+  description: FHE.org Meetup 064 | Recent Developments in SNARKs and Their Connection to FHE w/ Dan Boneh
+  url: https://fhe.org/meetups/064
   twitter:
     username: fhe_org
     card: summary
@@ -25,7 +25,7 @@
 #### by Dan Boneh - 2024.11.07 6PM CEST
 #### <a href="https://www.meetup.com/fhe-org/events/303899967/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<a href="https://www.meetup.com/fhe-org/events/303899967/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/75195c34-e2e1-40e7-af09-4fd5de400eb0"></a>
+<a href="https://www.meetup.com/fhe-org/events/303899967/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/a0f3b400-cc29-4669-909d-38373a90fb83"></a>
 
 # Abstract
 
