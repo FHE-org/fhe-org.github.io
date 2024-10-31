@@ -206,7 +206,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Towards Mixed Multi-Key Homomorphic Encryption</td>
     <td>Thomas Schneider (TU Darmstadt), Hossein Yalame (TU Darmstadt), Michael Yonli (TU Darmstadt)</td>
-    <td>View</td>
+    <td>
+     <a href="https://github.com/user-attachments/files/17575846/mixed-key.pdf">
+        View
+     </a>
+    </td>
 </tr>
 
 <tr>
@@ -302,7 +306,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>HLG: A Framework For Computing Graphs In RNS And Its Application In FHE</td>
     <td> Shuang Wu (Huawei International), Chunhuan Zhao (Huawei Technologies), Ye Yuan (Huawei International), Shuzhou Sun (Huawei Technologies), Jie Li (Huawei Technologies), Yamin Liu (Huawei International)</td>
-    <td>View</td>
+    <td>
+     <a href="https://github.com/user-attachments/files/17575888/HLG.pdf">
+        View
+     </a>
+    </td>
 </tr>
 
 <tr>
@@ -328,7 +336,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 <tr>
     <td>Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice</td>
     <td>Kamil Kluczniak (CISPA)</td>
-    <td>View</td>
+    <td>
+      <a href="https://github.com/user-attachments/files/17575899/circuit-privacy.pdf">
+        View
+      </a>a>
+    </td>
 </tr>
 
 <tr>
