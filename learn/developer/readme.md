@@ -391,7 +391,7 @@ For approximate schemes, such as CKKS, the homomorphic encryption scheme carries
 <table>
 <tr>
 <td colspan=2>
-The speed of FHE-based operations is constantly improving. However, there is still a large slow-down compared to plaintext operations, and it is important to consider this when getting started. There are a variety of open-source implementations of various algorithims implemented in FHE, and looking at benchmarks for these applications can give a good indication of where FHE is at.
+The speed of FHE-based operations is constantly improving. However, there is still a large slow-down compared to plaintext operations, and it is important to consider this when getting started. There are a variety of open-source implementations of various algorithms implemented in FHE, and looking at benchmarks for these applications can give a good indication of where FHE is at.
 </td>
 </tr>
 <tr>
