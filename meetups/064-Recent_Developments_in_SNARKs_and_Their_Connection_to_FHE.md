@@ -22,7 +22,7 @@
 
 
 # Recent Developments in SNARKs and Their Connection to FHE
-#### by Dan Boneh - 2024.11.07 6PM CEST
+#### by Dan Boneh - 2024.12.05 6PM CEST
 #### <a href="https://www.meetup.com/fhe-org/events/303899967/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/303899967/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/a0f3b400-cc29-4669-909d-38373a90fb83"></a>
