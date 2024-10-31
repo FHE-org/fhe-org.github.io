@@ -23,6 +23,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2022/resources">Resources</a>
 </p>
+<hr/>
 <!-- /header conference 2022 links -->
 
 # FHE.org conference 2022
