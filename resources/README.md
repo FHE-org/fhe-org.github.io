@@ -81,7 +81,7 @@
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis" id="00042">Sentiment analysis over encrypted data</a> by **Zama** on **Nov 17, 2022**
-- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**
+[//]: # "- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
 - <a href="https://github.com/ldsec/lattigo-polls-demo" id="00044">Lattigo-polls: schedule meeting using Lattigo</a> by **Lattigo** on **Sept 2, 2022**
 - <a href="https://www.nature.com/articles/s41467-022-32168-5" id="00045">Human action recognition</a> by **Miran Kim, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, and Shayan Shams** on **Aug 15, 2022**
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X" id="00046">Ensuring security of artificial pancreas device system using homomorphic encryption</a> by **Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, and Artem Lenskiy** on **Jan 15, 2022**
