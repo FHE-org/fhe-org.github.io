@@ -191,7 +191,7 @@
 - <a href="https://github.com/ldsec/lattigo" id="00124">Lattigo</a> - Lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
 - <a href="https://github.com/openfheorg/openfhe-development" id="00125">OpenFHE</a> - Production-ready implementations of all major FHE schemes by **Duality Tech**
 - <a href="https://github.com/microsoft/SEAL" id="00126">SEAL</a> - C++ FHE library implementing BFV and CKKS schemes by **Microsoft**
-- <a href="https://github.com/apple/swift-homomorphic-encryption" id="00153">Swift Homomorphic Encryption</a> - Swift implementation of homomorphic encryption (HE) and applications including Private Information Retrieval (PIR) by **Apple**
+- <a href="https://github.com/apple/swift-homomorphic-encryption" id="00153">Swift Homomorphic Encryption</a> - Swift implementation of homomorphic encryption and applications including Private Information Retrieval (PIR) by **Apple**
 - <a href="https://github.com/zama-ai/tfhe-rs/" id="00127">TFHE-rs</a> - A pure Rust implementation of TFHE for booleans and small integer arithmetics over encrypted data by **Zama**
 
 ## Courses
