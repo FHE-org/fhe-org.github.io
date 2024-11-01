@@ -1,3 +1,17 @@
+---
+  title: Previous FHE.org Digest Issues | FHE.org
+  tagline: Collection of all FHE.org Digests
+  description: Check out the digest posted by FHE.org, a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
+  url: https://fhe.org/digest
+  twitter:
+    username: fhe_org
+    card: summary
+  logo: https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png
+  author:
+    name: FHE Digest
+    url: https://fhe.org/digest
+---
+
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
@@ -7,9 +21,11 @@
 
 <hr/>
 
-## FHE.org Digest Issues [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
+Have a suggestion for our next digest? Let us know on the FHE.org <a href="https://discord.fhe.org/" target="_blank">Discord</a> at `discord.fhe.org` <!-- img src="https://img.shields.io/discord/901152454077452399" -->!
 
 <hr/>
+
+## FHE.org Digest Issues [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
 
 - <a href="https://fheorg.substack.com/p/fheorg-digest-23" id="00023">FHE.org Digest - Issue 23</a> by **FHE.org** on **Oct 31, 2024**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-22" id="00022">FHE.org Digest - Issue 22</a> by **FHE.org** on **Sep 30, 2024**<br>
