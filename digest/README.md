@@ -1,3 +1,11 @@
+<!-- Main header navigation -->
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2025/">Conference 2025</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+</p>
+<!-- /Main header navigation -->
+
+
 - <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-2" id="00002">FHE.org Digest - Issue 2</a> by **FHE.org** on **Oct 21, 2022**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
