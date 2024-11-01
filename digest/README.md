@@ -5,8 +5,11 @@
 </p>
 <!-- /Main header navigation -->
 
+<hr/>
 
 ## FHE.org Digest Issues [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
+
+<hr/>
 
 
 - <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
