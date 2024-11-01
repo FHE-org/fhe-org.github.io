@@ -6,6 +6,9 @@
 <!-- /Main header navigation -->
 
 
+## FHE.org Digest Issues of Contents [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
+
+
 - <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-2" id="00002">FHE.org Digest - Issue 2</a> by **FHE.org** on **Oct 21, 2022**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
