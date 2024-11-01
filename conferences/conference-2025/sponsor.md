@@ -33,7 +33,7 @@
 
 # FHE.org 2025 — Sponsor
 
-FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphebatical order)</i>:
+FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetical order)</i>:
 
 <span style="padding-right:10px"><a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="150px"></a></span>
