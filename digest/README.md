@@ -1,1 +1,1 @@
-TBA
+- <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sept 26, 2022**
