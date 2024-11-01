@@ -1,2 +1,13 @@
 - <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-2" id="00002">FHE.org Digest - Issue 2</a> by **FHE.org** on **Oct 21, 2022**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-2" id="00002">FHE.org Digest - Issue 2</a> by **FHE.org** on **Oct 21, 2022**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-3" id="00003">FHE.org Digest - Issue 3</a> by **FHE.org** on **Nov 16, 2022**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-4" id="00004">FHE.org Digest - Issue 4</a> by **FHE.org** on **Dec 22, 2022**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-5" id="00005">FHE.org Digest - Issue 5</a> by **FHE.org** on **Jan 23, 2023**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-6" id="00006">FHE.org Digest - Issue 6</a> by **FHE.org** on **Feb 24, 2023**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-7" id="00007">FHE.org Digest - Issue 7</a> by **FHE.org** on **Apr 13, 2023**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-8" id="00008">FHE.org Digest - Issue 8</a> by **FHE.org** on **May 25, 2023**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-9" id="00009">FHE.org Digest - Issue 9</a> by **FHE.org** on **Jun 29, 2023**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-10" id="00010">FHE.org Digest - Issue 10</a> by **FHE.org** on **Aug 08, 2023**<br>
+
