@@ -1,1 +1,2 @@
-- <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sept 26, 2022**
+- <a href="https://fheorg.substack.com/p/fheorg-digest-1" id="00001">FHE.org Digest - Issue 1</a> by **FHE.org** on **Sep 26, 2022**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-2" id="00002">FHE.org Digest - Issue 2</a> by **FHE.org** on **Oct 21, 2022**<br>
