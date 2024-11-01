@@ -44,7 +44,7 @@ The FHE.org conference aims at being the premier forum gathering researchers, te
 The program committee is seeking original contributions on all aspects of fully homomorphic encryption. Submissions across a broad range of the development phases are encouraged, from exploratory research and proof-of-concept studies to practical applications and deployment of fully homomorphic encryption and related technologies. Topics of interest include, but are not limited to:
 
 * Fully homomorphic encryption and its applications  
-* Efficient and secure implementations of cryptographic algorithms Software for fully homomorphic encryption  
+* Efficient and secure implementations of cryptographic algorithms and software for fully homomorphic encryption  
 * Hardware architectures for fully homomorphic encryption  
 * Compilers for fully homomorphic encryption  
 * Cryptanalysis, attacks and countermeasures  
