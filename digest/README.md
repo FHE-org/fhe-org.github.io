@@ -1,17 +1,3 @@
----
-  title: Previous FHE.org Digest Issues | FHE.org
-  tagline: Collection of all FHE.org Digests
-  description: Check out the digest posted by FHE.org, a community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
-  url: https://fhe.org/digest
-  twitter:
-    username: fhe_org
-    card: summary
-  logo: https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png
-  author:
-    name: FHE Digest
-    url: https://fhe.org/digest
----
-
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
