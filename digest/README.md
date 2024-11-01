@@ -11,7 +11,16 @@ Have a suggestion for our next digest? Let us know on the FHE.org <a href="https
 
 <hr/>
 
-## FHE.org Digest Issues [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
+# FHE.org Digest [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
+
+## Latest Edition
+
+Our October digest has been released! Click the image below to take a look.
+
+ <a href="https://fheorg.substack.com/p/fheorg-digest-23"><img src="https://github.com/user-attachments/assets/a3a564a4-543d-4a4d-86b6-66f25530e633"></a> 
+
+
+## Previous FHE.org Digest Issues 
 
 - <a href="https://fheorg.substack.com/p/fheorg-digest-23" id="00023">FHE.org Digest - Issue 23</a> by **FHE.org** on **Oct 31, 2024**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-22" id="00022">FHE.org Digest - Issue 22</a> by **FHE.org** on **Sep 30, 2024**<br>
