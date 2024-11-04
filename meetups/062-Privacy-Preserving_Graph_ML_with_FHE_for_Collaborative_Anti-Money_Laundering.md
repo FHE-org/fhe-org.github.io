@@ -22,7 +22,7 @@
 
 
 # Privacy-Preserving Graph ML with FHE for Collaborative Anti-Money Laundering
-#### by Fabrianne Effendi - 2024.12.05 6PM CEST
+#### by Fabrianne Effendi - 2024.11.14 1PM CEST
 #### <a href="https://www.meetup.com/fhe-org/events/304379481/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/304379481/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/a7ed2176-a178-4947-80ba-b813546c1eb5"></a>
