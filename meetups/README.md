@@ -36,7 +36,7 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2024
-- [Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061) by **Zhihao Li ** on **Oct 24th, 2024**
+- [Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061) by **Zhihao Li** on **Oct 24th, 2024**
 - [Designing a General-Purpose 8-bit (T)FHE Processor Abstraction](https://fhe.org/meetups/060) by **Daphné Trama** on **Nov 17th, 2024**
 - [Private and Secure Fuzzy Name Matching](https://fhe.org/meetups/059) by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
 - [Concrete ML - Machine Learning on Encrypted Data](https://fhe.org/meetups/058) by **Andrei Stoian** on **Sept 26th, 2024**
