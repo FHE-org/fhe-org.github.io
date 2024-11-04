@@ -19,9 +19,9 @@
 
 ## Coming up
 
- <a href="https://fhe.org/meetups/061"><img src="https://github.com/user-attachments/assets/dbb50b84-f57b-47a3-9d7d-be47a316b751"></a> 
+<a href="https://fhe.org/meetups/062"><img src="https://github.com/user-attachments/assets/a7ed2176-a178-4947-80ba-b813546c1eb5"></a> 
 
-#### Register for the next meetup, **[Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061)** by **Zhihao Li** on **Oct 24th, 2024 at 5PM CEST**
+#### Register for the next meetup, **[Privacy-Preserving Graph ML with FHE for Collaborative Anti-Money Laundering](https://fhe.org/meetups/062)** by **Fabrianne Effendi** on **Nov 14th, 2024 at 1PM CEST**
 
 <br>
 
@@ -36,6 +36,7 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2024
+- [Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061) by **Zhihao Li ** on **Oct 24th, 2024**
 - [Designing a General-Purpose 8-bit (T)FHE Processor Abstraction](https://fhe.org/meetups/060) by **Daphné Trama** on **Nov 17th, 2024**
 - [Private and Secure Fuzzy Name Matching](https://fhe.org/meetups/059) by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
 - [Concrete ML - Machine Learning on Encrypted Data](https://fhe.org/meetups/058) by **Andrei Stoian** on **Sept 26th, 2024**
