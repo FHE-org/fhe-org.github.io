@@ -38,6 +38,8 @@ The 4th Annual FHE.org Conference on Fully Homomorphic Encryption is collocated 
 
 The conference will feature presentation sessions, poster sessions, invited speakers, and a DJ'ed party and dinner. 
 
+### [Register here](https://lu.ma/fhe-org-conference-2025-tickets)
+
 For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.substack.com/).
 
 ## Important dates
