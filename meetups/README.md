@@ -6,36 +6,26 @@
 <hr/>
 <!-- /Main header navigation -->
 
-
 ## Meetups [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/README.md)
 
-
-<hr/>
-<p align="center">
-<b><a href="https://fhe.org/submit">Interested to present your latest paper, poster, slides, implementation or use case to the FHE.org community of researchers and developers?</a></b>
-</p>
-<hr/>
-
+Interested to present your latest paper, poster, slides, implementation or use case to the FHE.org community of researchers and developers? Submit your presentation [here](https://fhe.org/submit)
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/062"><img src="https://github.com/user-attachments/assets/a7ed2176-a178-4947-80ba-b813546c1eb5"></a> 
-
-#### Register for the next meetup, **[Privacy-Preserving Graph ML with FHE for Collaborative Anti-Money Laundering](https://fhe.org/meetups/062)** by **Fabrianne Effendi** on **Nov 14th, 2024 at 1PM CEST**
-
-<br>
-
+<a href="https://fhe.org/meetups/062"><img src="https://github.com/user-attachments/assets/e81cf0f0-c6a7-4b37-86ca-ba0b5464eaa8"></a>
+<br/>
+Register for the next meetup, **[Privacy-Preserving Graph ML with FHE for Collaborative Anti-Money Laundering](https://fhe.org/meetups/062)** by **Fabrianne Effendi** on **Nov 14th, 2024 at 1PM CEST**
 
 ## Looking for speaker interviews?
 
 As a part of the meetups, we interview presenters (and other community members) to get their thoughts on FHE. You may find a "Meet the Speaker" link in the meetups below, or [see the whole playlist here](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4).
-
 
 ## Past meetups
 
 FHE.org meetups archive, latest first.
 
 ### 2024
+
 - [Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061) by **Zhihao Li** on **Oct 24th, 2024**
 - [Designing a General-Purpose 8-bit (T)FHE Processor Abstraction](https://fhe.org/meetups/060) by **Daphné Trama** on **Nov 17th, 2024**
 - [Private and Secure Fuzzy Name Matching](https://fhe.org/meetups/059) by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
@@ -59,6 +49,7 @@ FHE.org meetups archive, latest first.
 - [Efficient Pruning for Machine Learning under Homomorphic Encryption](https://fhe.org/meetups/041-Efficient_Pruning_for_Machine_Learning_under_Homomorphic_Encryption) by **Subhankar Pal** on **Jan 4th, 2024**
 
 ### 2023
+
 - [Lattigo v5: Deep Dive](https://fhe.org/meetups/040-Lattigo-v5-Deep-Dive) by **Jean-Philippe Bossuat** on **Dec, 12th, 2023**
 - [Crypto Dark Matter on the Torus: Oblivious PRFs from shallow PRFs and FHE](https://fhe.org/meetups/039-Crypto_Dark_Matter_on_the_Torus) by **Alex Davidson** on **Nov, 23rd, 2023**
 - [FHE ring packing - affordable and convenient](https://fhe.org/meetups/038-HE_ring_packing_-_affordable_and_convenient) by **Jaehyung Kim** on **Nov 2nd, 2023**
@@ -113,5 +104,3 @@ FHE.org meetups archive, latest first.
 <!--- Footer --->
 <hr/>
 💙 This website is a resource provided and contributed by the FHE.org community and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. We welcome any contributions to this website! Read the <a href="https://fhe-org.github.io/contrib">contribution guidelines</a> first and simply open a PR on the <a href="https://github.com/fhe-org/fhe-org">Github repo</a> to add your resources.
-
-
