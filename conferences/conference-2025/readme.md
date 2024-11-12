@@ -64,6 +64,7 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphebatica
 <span style="padding-right:10px"><a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://www.olvid.io/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/9a62d077-fd7e-4cd7-8869-2ad0e7bd1e86" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://ostif.org"><img src="https://github.com/user-attachments/assets/cb23b5c0-a0d4-40ea-8d4d-7d87841416af" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
 <br><br>
