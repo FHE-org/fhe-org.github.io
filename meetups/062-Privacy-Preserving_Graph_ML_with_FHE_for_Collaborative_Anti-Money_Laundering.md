@@ -23,9 +23,9 @@
 
 # Privacy-Preserving Graph ML with FHE for Collaborative Anti-Money Laundering
 #### by Fabrianne Effendi - 2024.11.14 1PM CEST
-#### <a href="https://www.meetup.com/fhe-org/events/304379481/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=EAVS6lWXCvM&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<a href="https://www.meetup.com/fhe-org/events/304379481/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/a7ed2176-a178-4947-80ba-b813546c1eb5"></a>
+<a href="https://www.youtube.com/watch?v=EAVS6lWXCvM&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1"><img src="https://github.com/user-attachments/assets/a7ed2176-a178-4947-80ba-b813546c1eb5"></a>
 
 # Abstract
 
@@ -48,9 +48,6 @@ Fabrianne Effendi is an Associate Solutions Architect at Amazon Web Services. Sh
 
 In Summer 2023, Fabrianne interned as a Software Engineer at JPMorgan Chase & Co., focusing on anti-money laundering (AML) detection in the Financial Crimes department. This experience inspired her university final year project, “Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti-Money Laundering”, completed under the supervision and mentorship of Assoc Prof Anupam Chattopadhyay.
 
-# Register for meetup
-
-If you'd like to RSVP for the meetup via meetup.com, <a href="https://www.meetup.com/fhe-org/events/304379481/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">click here</a>.
 
 # Never miss an update
 
