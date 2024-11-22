@@ -10,11 +10,13 @@
 
 Interested to present your latest paper, poster, slides, implementation or use case to the FHE.org community of researchers and developers? Submit your presentation [here](https://fhe.org/submit)
 
+<!--
 ## Coming up
 
 <a href="https://fhe.org/meetups/063"><img src="https://github.com/user-attachments/assets/9baba8bd-21b3-4b25-a04c-86e5f12f12bd"></a>
 <br/>
 Register for the next meetup, **[A Fast Heuristic for Mapping Boolean Circuits to Functional Bootstrapping](https://fhe.org/meetups/063)** by **Sergiu Carpov** on **Nov 21st, 2024 at 4PM CEST**
+-->
 
 ## Looking for speaker interviews?
 
@@ -26,6 +28,7 @@ FHE.org meetups archive, latest first.
 
 ### 2024
 
+- [A Fast Heuristic for Mapping Boolean Circuits to Functional Bootstrapping](https://fhe.org/meetups/063) by **Sergiu Carpov** on **Nov 21st, 2024**
 - [Privacy-Preserving Graph ML with FHE for Collaborative Anti-Money Laundering](https://fhe.org/meetups/062) by **Fabrianne Effendi** on **Nov 14th, 2024**
 - [Faster NTRU-based Bootstrapping in less than 4 ms](https://fhe.org/meetups/061) by **Zhihao Li** on **Oct 24th, 2024**
 - [Designing a General-Purpose 8-bit (T)FHE Processor Abstraction](https://fhe.org/meetups/060) by **Daphné Trama** on **Nov 17th, 2024**
