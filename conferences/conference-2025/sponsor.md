@@ -61,10 +61,6 @@ We want the conferences to be a fair and diverse representation within the FHE c
 This past year we succeeded in upping our efforts to ensure that funding for the conference was not limited to a small number of sponsors. With 27 sponsors from the FHE, cryptography, and security industry, we were able to cover registration costs for all student attendees and cover all costs related to the conference venue.
 FHE.org relies entirely on annual sponsor contributions to fund our initiatives and ensure the success of the conference. This model underscores the importance of each sponsor's commitment as we strive to advance the field of Fully Homomorphic Encryption.
 
-## Special Gift
-
-This year we wanted to do something extra special to our supporting sponsors – For those who request it, we’ll be adding sponsor logo pins mixed into the goodie bags we give to attendees as a way of showing support. If you’d like your logo pin included, make sure to give us your logo and permission!
-
 ## Reach out to us!
 
 Sponsors may use the opportunity to increase their brand recognition, to get in touch with likeminded people, or to simply support progress in the field. The sponsorship funds are used to pay for event costs, support guest speakers and student attendees, and to host an after-conference reception.
