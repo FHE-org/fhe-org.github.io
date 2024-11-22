@@ -45,8 +45,26 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetica
 
 <br>
 
-The conference will bring together researchers, developers, and businesses from the global FHE community. Previous years were Trondheim, Norway (2022), Tokyo, Japan (2023), and Toronto, Canada (2024), which received 223 registrations.
+## FHE.org 2025 Sofia is coming up!
 
-Detailed information can be found on the conference webpage: https://fhe.org/2025
+We are thrilled to be hosting the 4th Annual FHE.org Conference on Fully Homomorphic Encryption, in-association with IACR and collocated with Real World Crypto 2025. It will be held at the Grand Hotel Millennium Sofia, 89B Vitosha Blvd, 1463, Sofia (Bulgaria) on March 25, 2025.
 
-We are inviting sponsors for the conference. Sponsors may use the opportunity to increase their brand recognition, to get in touch with likeminded people, or to simply support progress in the field. The sponsorship funds are used to pay for event costs, support guest speakers and student attendees, and to host an after-conference reception.
+The previous conference was a success with 223 registrations and was our biggest yet! The overwhelmingly positive feedback we received from attendees was that this event was both fun and meaningful with great presentations, discussions and networking opportunities for everyone from research to industry. We collected a few social media posts from the event here as well.
+
+We look forward to the increased and diverse audience for this coming conference as it is more accessible to those from all over Europe.
+
+## Mission of Independence and Neutrality
+
+We want the conferences to be a fair and diverse representation within the FHE community, to maintain independence and neutrality. This commitment is upheld through the guidance of an independent programme committee for the conference every year – and an advisory board for the FHE.org organization – responsible for all posters and  presentations and strategic directions, respectively.
+This past year we succeeded in upping our efforts to ensure that funding for the conference was not limited to a small number of sponsors. With 27 sponsors from the FHE, cryptography, and security industry, we were able to cover registration costs for all student attendees and cover all costs related to the conference venue.
+FHE.org relies entirely on annual sponsor contributions to fund our initiatives and ensure the success of the conference. This model underscores the importance of each sponsor's commitment as we strive to advance the field of Fully Homomorphic Encryption.
+
+## Special Gift
+
+This year we wanted to do something extra special to our supporting sponsors – For those who request it, we’ll be adding sponsor logo pins mixed into the goodie bags we give to attendees as a way of showing support. If you’d like your logo pin included, make sure to give us your logo and permission!
+
+## Reach out to us!
+
+Sponsors may use the opportunity to increase their brand recognition, to get in touch with likeminded people, or to simply support progress in the field. The sponsorship funds are used to pay for event costs, support guest speakers and student attendees, and to host an after-conference reception.
+
+Reach out to us at contact @ fhe.org to get started!
