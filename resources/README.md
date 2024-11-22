@@ -102,6 +102,7 @@
 
 ## Research
 
+- <a id="00155" href="https://fhe.org/meetups/063">A Fast Heuristic for Mapping Boolean Circuits to Functional Bootstrapping</a> by **Sergiu Carpov** on **Nov 21st, 2024**
 - <a id="00151" href="https://fhe.org/meetups/061">Faster NTRU-based Bootstrapping in less than 4 ms</a> by **Zhihao Li** on **Nov 24th, 2024**
 - <a id="00150" href="https://fhe.org/meetups/060">Designing a General-Purpose 8-bit (T)FHE Processor Abstraction</a> by **Daphné Trama** on **Nov 17th, 2024**
 - <a id="00149" href="https://fhe.org/meetups/059">Private and Secure Fuzzy Name Matching</a> by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
