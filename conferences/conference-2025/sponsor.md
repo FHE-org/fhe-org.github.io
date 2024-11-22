@@ -55,11 +55,6 @@ The previous conference was a success with 223 registrations and was our biggest
 
 We look forward to the increased and diverse audience for this coming conference as it is more accessible to those from all over Europe.
 
-## Mission of Independence and Neutrality
-
-We want the conferences to be a fair and diverse representation within the FHE community, to maintain independence and neutrality. This commitment is upheld through the guidance of an independent programme committee for the conference every year – and an advisory board for the FHE.org organization – responsible for all posters and  presentations and strategic directions, respectively.
-This past year we succeeded in upping our efforts to ensure that funding for the conference was not limited to a small number of sponsors. With 27 sponsors from the FHE, cryptography, and security industry, we were able to cover registration costs for all student attendees and cover all costs related to the conference venue.
-FHE.org relies entirely on annual sponsor contributions to fund our initiatives and ensure the success of the conference. This model underscores the importance of each sponsor's commitment as we strive to advance the field of Fully Homomorphic Encryption.
 
 ## Reach out to us!
 
