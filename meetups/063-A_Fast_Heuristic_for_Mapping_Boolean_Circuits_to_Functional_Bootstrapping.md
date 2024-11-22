@@ -23,7 +23,7 @@
 
 # A Fast Heuristic for Mapping Boolean Circuits to Functional Bootstrapping
 #### by Sergiu Carpov - 2024.11.21 4PM CEST
-#### <a href="https://www.meetup.com/fhe-org/events/304521997/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">Register for meetup</a> (Meetup) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=1gS5TdLpeKw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Meetup Recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/304521997/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/9baba8bd-21b3-4b25-a04c-86e5f12f12bd"></a>
 
@@ -34,10 +34,6 @@ This presentation aims to highlight some of the recent advances in tools fof aut
 # About the speakers
 
 Sergiu Carpov is a senior cryptography engineer at Arcium. His main interests include applied cryptography for privacy-preserving computations and optimisation/compilation techniques for FHE/MPC programs. He participated in the development of Cingulata, the first FHE compiler, as well as tools for optimisation of Boolean circuits, and is a contributor to the TFHE library.
-
-# Register for meetup
-
-If you'd like to RSVP for the meetup via meetup.com, <a href="https://www.meetup.com/fhe-org/events/304521997/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">click here</a>.
 
 # Never miss an update
 
