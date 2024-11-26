@@ -50,7 +50,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 ## Latest updates
 - **2025.09.13** Announced conference venue - Grand Hotel Millennium Sofia
 - **2025.09.17** Announced program chairs (Miran Kim and Shai Halevi)
-- **2025.09.18** Registration page is open - register [here](https://lu.ma/fhe-org-conference-2024-tickets). Students can apply for free registration by sending an email from their academic email address to contact@fhe.org with their name and institution
+- **2025.09.18** Registration page is open - register [here](https://lu.ma/fhe-org-conference-2025-tickets). Students can apply for free registration by sending an email from their academic email address to contact@fhe.org with their name and institution
 - **2025.09.25** Announced program committee
 
 
