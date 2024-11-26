@@ -31,7 +31,7 @@
 
 This presentation aims to highlight some of the recent advances in tools fof automatic Boolean circuit mapping to TFHE functional bootstrapping (FBS). One approach to using FBS is to map Boolean circuits to generic k-input LUTs, which is a straightforward method and extensive tools from the circuit synthesis field are available for this. However, manual optimisations may be necessary to fully leverage the potential of FBS. A fast and automatic method to perform this task will be presented together with empirical results on a set of representative benchmark circuits.
 
-# About the speakers
+# About the speaker
 
 Sergiu Carpov is a senior cryptography engineer at Arcium. His main interests include applied cryptography for privacy-preserving computations and optimisation/compilation techniques for FHE/MPC programs. He participated in the development of Cingulata, the first FHE compiler, as well as tools for optimisation of Boolean circuits, and is a contributor to the TFHE library.
 
