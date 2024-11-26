@@ -44,7 +44,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 ## Important dates
 - **Submission deadline:** November 23, 2024 (23:58 AoE time)
-- **Notification:** January 24, 2024
+- **Notification:** January 24, 2025
 - **Conference date:** March 25, 2025
 
 ## Latest updates
