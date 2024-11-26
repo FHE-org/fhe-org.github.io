@@ -31,7 +31,7 @@
 
 Making the most of TFHE programmable bootstrapping to evaluate functions or operators otherwise challenging to perform with only the native addition and multiplication of the scheme is a very active line of research. In this talk, Daphné Trama will present a systematization of TFHE's functional bootstrapping to build an 8-bit FHE processor abstraction, i.e., a software entity that works over FHE-encrypted 8-bits data.
 
-# About the speakers
+# About the speaker
 
 Daphné Trama is a second-year PhD student at CEA LIST. She is currently working on homomorphic encryption, particularly optimizing methods for fast computing over encrypted data with TFHE.
 
