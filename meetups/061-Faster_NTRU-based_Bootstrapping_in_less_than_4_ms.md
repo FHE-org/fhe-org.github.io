@@ -31,7 +31,7 @@
 
 Bootstrapping is a critical technique in constructing fully homomorphicencryption (FHE), which serves to refresh the noise in FHE ciphertexts, enabling anarbitrary number of homomorphic operations. This talk will present an efficient bootstrapping algorithm based on NTRU. The improvement consists of two main aspects, including algorithmic innovation and implementation optimization.
 
-# About the speakers
+# About the speaker
 
 Zhihao Li is privacy preserving computation engineer at Ant group. He received his PhD from the Institute of Information Engineering, Chinese Academy of Sciences. His research interests focus on the design and application of fully homomorphic encryption.
 
