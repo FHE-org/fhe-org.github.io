@@ -31,7 +31,7 @@
 
 The talk will survey several recent developments in SNARKs and their connection to FHE.
 
-# About the speakers
+# About the speaker
 
 Dr. Boneh is a Professor of Computer Science at Stanford University where he heads the applied cryptography group and co-directs the Center for Blockchain Research. Dr. Boneh's research focuses on applications of cryptography to blockchains and to computer security. He is the author of over 200 publications in the field, and loves to see advanced cryptography used in the real world.
 
