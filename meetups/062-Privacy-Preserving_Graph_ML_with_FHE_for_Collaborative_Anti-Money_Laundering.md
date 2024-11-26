@@ -42,7 +42,7 @@ Leveraging Fully Homomorphic Encryption over the Torus (TFHE), computations are 
 2. Development of a privacy-preserving graph-based XGBoost pipeline that pre-processes the data using Graph Feature Preprocessor (GFP), with experimental results demonstrating strong performance.
 
 
-# About the speakers
+# About the speaker
 
 Fabrianne Effendi is an Associate Solutions Architect at Amazon Web Services. She recently graduated from Nanyang Technological University with a Double Bachelor's Degree in Computer Science and Business, specializing in Artificial Intelligence and Data Science and Analytics.
 
