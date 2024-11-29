@@ -9,7 +9,7 @@
 
 # Functional bootstrapping for FV style cryptosystems
 #### by Sonheong Min - 2024.05.30
-#### <a href="https://www.youtube.com/watch?v=ngOQGLvBsCw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://eprint.iacr.org/2024/181">Paper</a> (eprint) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/15502016/Functional.Bootstrapping.pdf">Slides</a> (github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=ngOQGLvBsCw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Meetup Rercoding</a> (Youtube) | <a href="https://www.youtube.com/watch?v=9sTO83gDvu8&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker Interview</a> (Youtube) | <a href="https://eprint.iacr.org/2024/181">Paper</a> (eprint) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/15502016/Functional.Bootstrapping.pdf">Slides</a> (github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![052 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/1d8a1cd5-1844-450e-b04f-b74564e368e0)
 
