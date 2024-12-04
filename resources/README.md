@@ -101,11 +101,11 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
-
 - <a id="00155" href="https://fhe.org/meetups/063">A Fast Heuristic for Mapping Boolean Circuits to Functional Bootstrapping</a> by **Sergiu Carpov** on **Nov 21st, 2024**
 - <a id="00151" href="https://fhe.org/meetups/061">Faster NTRU-based Bootstrapping in less than 4 ms</a> by **Zhihao Li** on **Nov 24th, 2024**
 - <a id="00150" href="https://fhe.org/meetups/060">Designing a General-Purpose 8-bit (T)FHE Processor Abstraction</a> by **Daphné Trama** on **Nov 17th, 2024**
 - <a id="00149" href="https://fhe.org/meetups/059">Private and Secure Fuzzy Name Matching</a> by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
+- <a id="00156" href="https://www.esat.kuleuven.be/cosic/blog/ches-2024-fast-transciphering-via-reconfigurable-and-batched-lut-evaluation/">Fast Transciphering Via Reconfigurable And Batched LUT Evaluation</a> by **Leonard Schild** on **Sept 25, 2024**
 - <a id="00144" href="https://fhe.org/meetups/057">New Secret Keys for Enhanced Performance in (T)FHE</a> by **Loris Bergerat** on **Sept 12th, 2024**
 - <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt24-from-null-to-large-p-acceleration-in-bgv-bootstrapping/" id="00138"> Eurocrypt24: From Null to Large P, Acceleration in BGV Bootstrapping</a> by **Barry van Leeuwen** on **May 30th, 2024**
