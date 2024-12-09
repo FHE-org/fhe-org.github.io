@@ -59,7 +59,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 *If your company would like to sponsor this or future conferences, please contact contact@fhe.org.*
 
-FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphebatical order)</i>:
+FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetical order)</i>:
 
 <span style="padding-right:10px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="150px"></a></span>
