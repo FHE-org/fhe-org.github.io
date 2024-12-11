@@ -64,6 +64,7 @@
 - <a href="https://www.ibm.com/support/z-content-solutions/fully-homomorphic-encryption" id="00030">Fully Homomorphic Encryption</a> by **IBM** on **September 23, 2021**
 - <a href="https://6min.zama.ai/" id="00031">6-minute introduction to end to end encryption and try out an FHE demo for yourself</a> **Zama** on **Sept 15, 2021**
 - <a href="https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/" id="00032">An Intro to Fully Homomorphic Encryption for Engineers</a> by **Ravital Solomon** on **Aug 30, 2021**
+- <a href="https://www.openfhe.org/portfolio-item/homomorphic-encryption-for-palisade-users/" id="00158"> Introduction to Approximate Homomorphic Encryption</a> by **Yuriy Polyakov** on **March 26, 2021**
 - <a href="https://www.microsoft.com/en-us/research/video/introduction-to-ckks-approximate-homomorphic-encryption/" id="00033">Introduction to CKKS (Approximate Homomorphic Encryption)</a> by **Yongsoo Song** on **Jan 07, 2020**
 - <a href="https://www.microsoft.com/en-us/research/video/building-applications-with-microsoft-seal/" id="00034">Building Applications with Microsoft SEAL</a> by **Wei Dai** on **December 03, 2019**
 - <a href="https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-techniques-in-ppml/" id="00035">Techniques in PPML</a> by **Hao Chen** on **December 02, 2019**
