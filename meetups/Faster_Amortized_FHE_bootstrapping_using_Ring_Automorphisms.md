@@ -1,4 +1,0 @@
----
-layout: forward
-target: 021-Faster_Amortized_FHE_bootstrapping_using_Ring_Automorphisms
----
