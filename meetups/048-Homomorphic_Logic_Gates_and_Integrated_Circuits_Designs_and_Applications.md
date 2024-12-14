@@ -9,7 +9,7 @@
 
 # Homomorphic Logic Gates and Integrated Circuits: Designs and Applications
 #### by Song Bian - 2024.04.11
-#### <a href="https://www.youtube.com/watch?v=QeBFLtTkFXU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video</a> (Youtube) | <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/matsuoka">Slides</a> (Usenix) | <a href="https://dl.acm.org/doi/abs/10.1145/3474366.3486927">Paper</a> (acm) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=QeBFLtTkFXU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=Q8MWB6gs2xE&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=9">Speaker interview</a> (Youtube) | <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/matsuoka">Slides</a> (Usenix) | <a href="https://dl.acm.org/doi/abs/10.1145/3474366.3486927">Paper</a> (acm) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![048 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/f606f3a0-2a23-4c1a-a047-86b6d3c2248a)
 
