@@ -9,7 +9,7 @@
 
 # Convolution-friendly Image Compression in FHE
 #### by Sergi Rovira and Axel Mertens - 2024.04.25
-#### <a href="https://www.youtube.com/watch?v=yV51Bprtol0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=ba2Z-oc_MKc&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=8">Speaker interview</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/15128279/presentation_fheorg.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=yV51Bprtol0&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | Speaker interviews (<a href="https://www.youtube.com/watch?v=ba2Z-oc_MKc&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=8">Mertens</a> / <a href="https://www.youtube.com/watch?v=acaB8k5FsDI&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=7">Rovira</a>) (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/15128279/presentation_fheorg.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![049 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/63b8407e-1d87-4fd7-97ab-ff6e46569fb5)
 
