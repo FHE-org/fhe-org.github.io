@@ -9,7 +9,7 @@
 
 # High-precision RNS-CKKS on small word-size architectures
 #### by Duhyeong Kim - 2024.01.11
-#### <a href="https://www.youtube.com/watch?v=plbZy6UR9OI&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/13906454/compositescaling_fheorg.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=plbZy6UR9OI&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=IGCmgYd9EBc&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=14">Speaker interview</a> (Youtube) | <a href="https://github.com/FHE-org/fhe-org.github.io/files/13906454/compositescaling_fheorg.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![042 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5e8a7737-3ef4-46a1-bf86-84bae4aad959)
 
