@@ -61,21 +61,21 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetical order)</i>:
 
-<span style="padding-right:10px"><a href="https://aws.amazon.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5b6eaaaf-d115-41ff-b2da-e3643bb06db1" width="150px"></a></span> 
-<span style="padding-right:10px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://cornami.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5501b8c7-c676-4527-b00f-f4b97e8e19f9" width="150px"></a></span> 
-<span style="padding-right:10px"><a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://mindnetwork.xyz"><img src="https://github.com/user-attachments/assets/ae8ff467-0443-4823-8bf8-e5ac2c2bd5bf" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://www.olvid.io/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/9a62d077-fd7e-4cd7-8869-2ad0e7bd1e86" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/604f8663-a8de-4619-939f-f35d8c166d7f" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://ostif.org"><img src="https://github.com/user-attachments/assets/cb23b5c0-a0d4-40ea-8d4d-7d87841416af" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
+<span style="padding-right:40px"><a href="https://aws.amazon.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5b6eaaaf-d115-41ff-b2da-e3643bb06db1" width="150px"></a></span> 
+<span style="padding-right:40px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://cornami.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5501b8c7-c676-4527-b00f-f4b97e8e19f9" width="150px"></a></span> 
+<span style="padding-right:40px"><a href="https://desilo.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/fd3f8a34-c3c3-4f79-ae17-deb2cc93374f" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://heaan.it/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://www.inco.network/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/386095b7-306b-45b0-baa3-d6a1d2d6bca1" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://mindnetwork.xyz"><img src="https://github.com/user-attachments/assets/ae8ff467-0443-4823-8bf8-e5ac2c2bd5bf" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://www.olvid.io/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/9a62d077-fd7e-4cd7-8869-2ad0e7bd1e86" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/604f8663-a8de-4619-939f-f35d8c166d7f" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://ostif.org"><img src="https://github.com/user-attachments/assets/cb23b5c0-a0d4-40ea-8d4d-7d87841416af" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
+<span style="padding-right:40px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
 <br><br>
