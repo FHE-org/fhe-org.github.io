@@ -23,7 +23,7 @@
 
 # A Fast Heuristic for Mapping Boolean Circuits to Functional Bootstrapping
 #### by Sergiu Carpov - 2024.11.21 4PM CEST
-#### <a href="https://www.youtube.com/watch?v=1gS5TdLpeKw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Meetup Recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/17916901/Boolean_circuit_mapping_to_functional_bootstrapping.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=1gS5TdLpeKw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=FNd-l8JcHA0&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker interview</a> (Youtube) | <a href="https://github.com/user-attachments/files/17916901/Boolean_circuit_mapping_to_functional_bootstrapping.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/304521997/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/9baba8bd-21b3-4b25-a04c-86e5f12f12bd"></a>
 
