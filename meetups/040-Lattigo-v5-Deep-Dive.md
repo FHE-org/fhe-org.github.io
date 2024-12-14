@@ -9,7 +9,7 @@
 
 # Lattigo v5: Deep Dive
 #### by Jean-Philippe Bossuat - 2023.12.07
-#### <a href="https://www.youtube.com/watch?v=6A3jhwuqmNU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <!-- <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=6A3jhwuqmNU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <!-- <a href="">Slides</a> (Github) |--> <a href="https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=17">Speaker interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![040 Meetup cover](https://github.com/FHE-org/fhe-org.github.io/assets/37557436/32f9997b-3528-4f00-bfdd-b95cef9b9474)
 
