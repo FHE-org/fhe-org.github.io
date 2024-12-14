@@ -17,6 +17,7 @@ Save the date! <a href="https://fhe-org.github.io/conferences/conference-2024/">
 We humbly thank the FHE community for their contributions in various forms including repo contributions, event volunteering, organization and participation, meetup presentations, authoring works that further educate the community, and sponsoring events <i>(listed alphabetically)</i>: 
 
 
+* <a href="https://cris.haifa.ac.il/en/persons/adi-akavia">Adi Akavia</a>
 * <a href="https://theorg.com/org/zama/org-chart/agathe-prepin">Agathe Prepin</a>
 * <a href="https://github.com/aquint-zama">Alexandre Quint</a> 
 * <a href="https://github.com/AlexanderViand">Alexander Viand</a>
@@ -43,6 +44,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://scholar.google.com/citations?user=8rjreLIAAAAJ">Daniele Micciancio</a>
 * <a href="https://scholar.google.com/citations?user=t9wZJU0AAAAJ">Damien Ligier</a>
 * <a href="http://perso.ens-lyon.fr/damien.stehle/">Damien Stehlé</a>
+* Dimitris Mouris
 * <a href="https://dwkim606.github.io/">Dongwoo Kim</a>
 * <a href="https://du1204.github.io/">Duhyeong Kim</a>
 * <a href="https://elkhanzada.github.io/">Elkhan Ismayilzada</a>
@@ -50,12 +52,16 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://pure.royalholloway.ac.uk/en/persons/erin-hales">Erin Hales</a>
 * <a href="https://scholar.google.com/citations?user=C1lS3TUAAAAJ">Erdinç Öztürk</a>
 * <a href="https://people.sabanciuniv.edu/~erkays/">Erkay Savas</a>
+* Fabian Boemer
 * <a href="https://scholar.google.com/citations?user=rrphxucAAAAJ">Fan Junfeng</a>
+* Feng-Hao Liu
+* <a href="https://www.linkedin.com/in/flavio-bergamaschi">Flavio Bergamaschi</a>
 * <a href="https://scholar.google.com/citations?user=nSYWx_QAAAAJ">Florent Michel</a>
 * <a href="https://www.esat.kuleuven.be/cosic/people/frederik-vercauteren/">Frederik Vercauteren</a>
 * <a href="https://scholar.google.com/citations?user=WM8RQJ0AAAAJ">Furkan Aydin</a>
 * <a href="https://gmicheli.github.io/">Gabrielle De Micheli</a>
 * <a href="https://georgio.xyz/">Georgio Nicolas</a>
+* Hanjun Kim
 * <a href="https://scholar.google.com/citations?user=dXPJRw4AAAAJ">Haotian Weng</a>
 * <a href="https://hayim4.wixsite.com/hayimshaul">Hayim Shaul</a>
 * <a href="https://hilder-vitor.github.io/">Hilder V. L. Pereira</a>
@@ -74,10 +80,12 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://www.esat.kuleuven.be/cosic/people/jiayi-kang/">Jiayi Kang</a>
 * <a href="https://www.iacr.org/cryptodb/data/author.php?authorkey=9294">Jihoon Cho</a>
 * <a href="https://www.esat.kuleuven.be/cosic/people/jonas-bertels/">Jonas Bertels</a>
+* Joon-Woo Lee
 * <a href="https://medium.com/@joseph.wilson_17990">Joseph Wilson</a>
 * <a href="https://scholar.google.com/citations?user=VhDiT9YAAAAJ">Juan Ramon Troncoso-Pastoriza</a>
-* <a href="https://scholar.google.com/citations?user=KlTc3U4AAAAJ">Jung Hee Cheon</a>
 * <a href="https://scholar.google.com/citations?user=rrphxucAAAAJ">Junfeng Fan</a>
+* <a href="https://scholar.google.com/citations?user=KlTc3U4AAAAJ">Jung Hee Cheon</a>
+* Jung Woo Kim
 * <a href="https://keldefrawy.github.io/">Karim Eldefrawy</a>
 * <a href="https://www.esat.kuleuven.be/cosic/people/kelong-cong/">Kelong Cong</a>
 * <a href="https://dblp.org/pid/119/3540.html">Kamil Kluczniak</a>
@@ -120,7 +128,9 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://sbmi.uth.edu/faculty-and-staff/shayan-shams.htm">Shayan Shams</a>
 * <a href="https://dl.acm.org/profile/99660787420">Shruthi Gorantala</a>
 * <a href="https://pure.royalholloway.ac.uk/en/persons/simon-pohmann">Simon Pohmann</a>
+* Song Bian
 * <a href="https://research.ibm.com/people/subhankar-pal">Subhankar Pal</a>
+* Sylvain Chatel
 * <a href="https://scholar.google.com/citations?user=XEVjf0gAAAAJ">Tabitha Ogilvie</a>
 * <a href="https://www.rsaconference.com/experts/dr-taherelgamal">Taher ElGamal</a>
 * <a href="https://www.researchgate.net/scientific-contributions/Jaehyung-Kim-2235342516">Taekyung Kim</a>
@@ -131,9 +141,12 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://research.nvidia.com/person/vinu-joseph">Vinu Joseph</a>
 * <a href="https://scholar.google.com/citations?user=Q87Y92YAAAAJ">Wei Dai</a>
 * <a href="https://scholar.google.com/citations?user=DSmxHuMAAAAJ">Xiaoqian Jiang</a>
+* Yang Yu
 * <a href="https://scholar.google.com/citations?user=pbZhvFwAAAAJ">Yarkin Doroz</a>
-* <a href="https://yongsoosong.github.io/">Yongsoo Song</a>
 * <a href="https://scholar.google.co.uk/citations?user=53eQuxwAAAAJ">Yoga Rahulamathavan</a>
+* <a href="https://yongsoosong.github.io/">Yongsoo Song</a>
+* Yongwoo Lee
+* Young-Sik Kim
 * <a href="https://ypolyakov.gitlab.io/">Yuriy Polyakov</a>
 * <a href="https://yehudalindell.com/">Yehuda Lindell</a>
 * <a href="https://zvikab.bitbucket.io/">Zvika Brakerski</a>
