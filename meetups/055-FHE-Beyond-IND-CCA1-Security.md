@@ -9,7 +9,7 @@
 
 # FHE Beyond IND-CCA1 Security
 #### by  Jérôme Nguyen - 2024.07.11
-#### <a href="https://www.youtube.com/watch?v=ssLXxH22xqQ&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=ssLXxH22xqQ&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=3h-Tui6pljk&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=2">Speaker interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 <a href="https://www.meetup.com/fhe-org/events/301894586/?slug=fhe-org&eventId=301894586"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5c5a7f05-3269-4b19-8255-a0e690849b06"></a>
