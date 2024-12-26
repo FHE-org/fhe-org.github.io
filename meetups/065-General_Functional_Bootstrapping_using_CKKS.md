@@ -9,7 +9,7 @@
 
 # General Functional Bootstrapping using CKKS
 #### by Yuriy Polyakov - 2025.01.16
-#### <a href="https://lu.ma/y8xxykm5">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) --> <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://lu.ma/km1im7e9">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) --> <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![065 Meetup](https://github.com/user-attachments/assets/ef616b8c-4650-4d3b-aa1e-ca4ec80269eb)
 
@@ -23,7 +23,7 @@ Yuriy Polyakov is the Vice President of Cryptography and a Principal Scientist a
 
 # Register to attend
 
-Visit FHE.org's [lu.ma](https://lu.ma/y8xxykm5) event page to RSVP and have the event added to your calendar.
+Visit FHE.org's [lu.ma](https://lu.ma/km1im7e9) event page to RSVP and have the event added to your calendar.
 
 After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
