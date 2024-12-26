@@ -10,6 +10,7 @@
 
 Interested to present your latest paper, poster, slides, implementation or use case to the FHE.org community of researchers and developers? Submit your presentation [here](https://fhe.org/submit)
 
+Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://lu.ma/fhe) for updates!
 <!--
 
 ## Coming up
