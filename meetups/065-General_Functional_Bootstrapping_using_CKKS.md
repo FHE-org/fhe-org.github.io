@@ -8,10 +8,10 @@
 
 
 # General Functional Bootstrapping using CKKS
-#### by Yuriy Polyakov - 2025.01.09
+#### by Yuriy Polyakov - 2025.01.16
 #### <a href="https://lu.ma/y8xxykm5">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) --> <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![065 Meetup](https://github.com/user-attachments/assets/25a8768b-f7b0-41b3-b8f4-d5f4ff3d62f2)
+![065 Meetup](https://github.com/user-attachments/assets/ef616b8c-4650-4d3b-aa1e-ca4ec80269eb)
 
 # Abstract
 
