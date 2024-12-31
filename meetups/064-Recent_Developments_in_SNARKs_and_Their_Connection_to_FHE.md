@@ -23,7 +23,7 @@
 
 # Recent Developments in SNARKs and Their Connection to FHE
 #### by Dan Boneh - 2024.12.05 6PM CEST
-#### <a href="https://www.youtube.com/watch?v=udXborpn-Bg&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM">Meetup Recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/18059991/FHE-seminar-dec-2024.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=udXborpn-Bg&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=-7PcReEQPZw&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker interview</a> (Youtube) | <a href="https://github.com/user-attachments/files/18059991/FHE-seminar-dec-2024.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/303899967/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/a0f3b400-cc29-4669-909d-38373a90fb83"></a>
 
