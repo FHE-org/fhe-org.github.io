@@ -74,6 +74,7 @@
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
+- <a id="00160" href="https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm">Suffragium: An Encrypted Onchain Voting System Leveraging ZK and FHE Using Zama's fhEVM</a> by **Alessandro Manfredi** on **Nov 6, 2024**
 - <a id="00152" href="https://machinelearning.apple.com/research/homomorphic-encryption">Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem</a> by **Apple** on **October 24, 2024**
 - <a id="00148" href="https://fhe.org/meetups/058">Concrete ML - Machine Learning on Encrypted Data</a> by **Andrei Stoian** on **Sept 26th, 2024 at 5PM CEST**
 - <a id="00141" href="https://www.zama.ai/post/build-an-end-to-end-encrypted-23andme-genetic-testing-application-using-concrete-ml-fully-homomorphic-encryption"> Build an End-to-End Encrypted 23andMe-like Genetic Testing Application using Concrete ML</a> by **Zama** on **July 17, 2024**
