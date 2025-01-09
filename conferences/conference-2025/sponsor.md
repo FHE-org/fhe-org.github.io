@@ -53,8 +53,22 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://ostif.org"><img src="https://github.com/user-attachments/assets/cb23b5c0-a0d4-40ea-8d4d-7d87841416af" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://scrt.network/"><img src="https://github.com/user-attachments/assets/55cd0288-62ab-4d61-9862-36b152bb3903" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
+FHE.org also gratefully acknowledges financial support of previous editions by <i>(in alphabetical order)</i>:
+
+<span style="padding-right:10px"><a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="125px"></a></span> 
+<span style="padding-right:10px"><a href="https://fabriccryptography.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/695f8ca7-87ec-4173-b790-c8d01426f52a" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://www.ingonyama.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ed42c7a5-22cf-446a-8478-403726db85d1" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://loricacyber.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/0ea1412f-75eb-46ba-a940-71289fd53d21" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://shostack.org/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a1d21430-aefe-49dd-b0e8-3ae7747fad96" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://tekkare.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7f5a5c0d-415b-4450-b7ba-4e670461014d" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://tt-logic.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/aa76cacd-a5d5-491c-837f-b2e7b2fda593" width="125px"></a></span>
+<span style="padding-right:10px"><a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="125px"></a></span>
 
 <br>
 
