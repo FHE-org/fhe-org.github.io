@@ -1,0 +1,10 @@
+ignorePatterns:
+  - pattern: '^https://fheorg.substack.com/'
+aliveStatusCodes:
+  - 200
+  - 206
+  - 400
+  - 503
+dirs:
+  - .
+useGitIgnore: true
