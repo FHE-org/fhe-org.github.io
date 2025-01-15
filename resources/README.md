@@ -108,6 +108,7 @@
 - <a id="00151" href="https://fhe.org/meetups/061">Faster NTRU-based Bootstrapping in less than 4 ms</a> by **Zhihao Li** on **Nov 24th, 2024**
 - <a id="00150" href="https://fhe.org/meetups/060">Designing a General-Purpose 8-bit (T)FHE Processor Abstraction</a> by **Daphné Trama** on **Nov 17th, 2024**
 - <a id="00149" href="https://fhe.org/meetups/059">Private and Secure Fuzzy Name Matching</a> by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
+- <a id="00161" href="https://csrc.nist.gov/Events/2024/wpec2024">  NIST Workshop on Privacy-Enhancing Cryptography 2024 (slide decks)</a> by **NIST** on **Sept 25, 2024**
 - <a id="00156" href="https://www.esat.kuleuven.be/cosic/blog/ches-2024-fast-transciphering-via-reconfigurable-and-batched-lut-evaluation/">Fast Transciphering Via Reconfigurable And Batched LUT Evaluation</a> by **Leonard Schild** on **Sept 25, 2024**
 - <a id="00144" href="https://fhe.org/meetups/057">New Secret Keys for Enhanced Performance in (T)FHE</a> by **Loris Bergerat** on **Sept 12th, 2024**
 - <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
