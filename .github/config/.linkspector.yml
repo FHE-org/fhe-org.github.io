@@ -8,3 +8,7 @@ aliveStatusCodes:
 dirs:
   - .
 useGitIgnore: true
+excludedFiles:
+ - code-of-conduct.md
+excludedDirs:
+  - history/src
