@@ -47,6 +47,7 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://lambdaclass.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5ce3c1d2-dbbe-4556-a2e1-9e3e1d271e0a" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://mindnetwork.xyz"><img src="https://github.com/user-attachments/assets/ae8ff467-0443-4823-8bf8-e5ac2c2bd5bf" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://nillion.com/"><img src="https://github.com/user-attachments/assets/35ba0f71-d5d1-45bc-9721-ad4c01b49418" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://niobiummicrosystems.com/"><img src="https://github.com/user-attachments/assets/3baddb71-48eb-41fc-b8d1-133d985100b5" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://www.olvid.io/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/9a62d077-fd7e-4cd7-8869-2ad0e7bd1e86" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/604f8663-a8de-4619-939f-f35d8c166d7f" width="150px"></a></span>
