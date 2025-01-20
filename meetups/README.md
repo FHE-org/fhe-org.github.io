@@ -30,6 +30,10 @@ As a part of the meetups, we interview presenters (and other community members) 
 
 FHE.org meetups archive, latest first.
 
+### 2025
+
+- [General Functional Bootstrapping using CKKS](https://fhe.org/meetups/065) by **Yuriy Polyakov** on **Jan 16th, 2025**
+
 ### 2024
 
 - [Recent Developments in SNARKs and Their Connection to FHE](https://fhe.org/meetups/064) by **Dan Boneh** on **Dec 5th, 2024**
