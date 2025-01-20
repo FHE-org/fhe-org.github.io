@@ -21,12 +21,6 @@ The talk will present a general functional/programmable bootstrapping method bas
 
 Yuriy Polyakov is the Vice President of Cryptography and a Principal Scientist at Duality Technologies, Inc. His current research interests are applied lattice-based cryptography, fully homomorphic encryption, and privacy-preserving machine learning. He is a co-founder and project lead of the OpenFHE software cryptography library project, which implements fully homomorphic encryption and other lattice cryptography primitives. Yuriy is the author of over 100 publications in cryptography, physics, and chemical engineering.
 
-# Register to attend
-
-Visit FHE.org's [lu.ma](https://lu.ma/km1im7e9) event page to RSVP and have the event added to your calendar.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
