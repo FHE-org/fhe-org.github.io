@@ -12,15 +12,14 @@ Interested to present your latest paper, poster, slides, implementation or use c
 
 Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://lu.ma/fhe) for updates!
 
-<!--
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/064"><img src="https://github.com/user-attachments/assets/a0f3b400-cc29-4669-909d-38373a90fb83"></a>
-<br/>
-- Register for the next meetup, **[Recent Developments in SNARKs and Their Connection to FHE](https://fhe.org/meetups/064)** by **Dan Boneh** on **Dec 5th, 2024 at 6PM CEST**
 
--->
+<a href="https://fhe.org/meetups/066"><img src="https://github.com/user-attachments/assets/72cee378-a70a-461a-ba78-0926711f099a"></a>
+<br/>
+- Register for the next meetup, **[Homomorphic Sign Evaluation with a RNS Representation of Integers](https://fhe.org/meetups/065)** by **Philippe Chartier** on **Jan 16th, 2025 at 2PM CEST**
+
 
 ## Looking for speaker interviews?
 
