@@ -18,9 +18,8 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-<!--
-- Register for the next meetup, **[Recent Developments in SNARKs and Their Connection to FHE](https://fhe.org/meetups/064)** by **Dan Boneh** on **Dec 5th, 2024 at 6PM CEST**
--->
+- Register for the next meetup, [Homomorphic Sign Evaluation with a RNS Representation of Integers](https://fhe.org/meetups/066) by **Philippe Chartier** on **Jan 30th, 2025 at 2PM CEST**
+
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
