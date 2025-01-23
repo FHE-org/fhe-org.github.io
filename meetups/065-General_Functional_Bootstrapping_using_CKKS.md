@@ -9,7 +9,7 @@
 
 # General Functional Bootstrapping using CKKS
 #### by Yuriy Polyakov - 2025.01.16
-#### <a href="https://www.youtube.com/watch?v=kRDij3TJROs&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Video recording</a> (Youtube) <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=kRDij3TJROs&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=EIc2YVizSdw&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker interview</a> (Youtube) | <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![065 Meetup](https://github.com/user-attachments/assets/ef616b8c-4650-4d3b-aa1e-ca4ec80269eb)
 
