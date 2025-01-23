@@ -18,7 +18,7 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 
 <a href="https://fhe.org/meetups/066"><img src="https://github.com/user-attachments/assets/72cee378-a70a-461a-ba78-0926711f099a"></a>
 <br/>
-- Register for the next meetup, **[Homomorphic Sign Evaluation with a RNS Representation of Integers](https://fhe.org/meetups/065)** by **Philippe Chartier** on **Jan 16th, 2025 at 2PM CEST**
+- Register for the next meetup, **[Homomorphic Sign Evaluation with a RNS Representation of Integers](https://fhe.org/meetups/066)** by **Philippe Chartier** on **Jan 16th, 2025 at 2PM CEST**
 
 
 ## Looking for speaker interviews?
