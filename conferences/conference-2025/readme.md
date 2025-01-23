@@ -54,6 +54,21 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **2024.09.17** Announced program chairs (Miran Kim and Shai Halevi)
 - **2024.09.13** Announced conference venue - Grand Hotel Millennium Sofia
 
+## Venue
+
+<a href="https://www.google.com/maps/search/?api=1&query=Grand%20Hotel%20Millennium%20Sofia&query_place_id=ChIJdXtu_6OFqkAR1JmitDfJZlE">
+<b>Grand Hotel Millennium Sofia</b><br>
+Милениум център, Ivan Vazov, bul. "Vitosha" 89B, 1463 Sofia, Bulgaria<br><br>
+  
+![image](https://github.com/user-attachments/assets/caa74cd4-c708-4e1f-9f41-af81919148c6)
+
+![image](https://github.com/user-attachments/assets/95fc832f-49e4-4b0e-a7a8-151d7174140d)
+
+</a>
+
+Grand Hotel Millenium Sofia – Bulgaria’s capital’s newest hospitality jewel. It is located in a stand-alone plot of the highest building in the city center offering undisturbed views of the city’s skyline and Vitosha mountain. It is the city’s largest upscale conference hotel with 400 rooms and 5000 sq. m. convention centre. You need only to raise your sight to see Grand Hotel Millennium overlooking the National Palace of Culture and the entire city. Coziness, style and luxury that redefine the standards of what modern living should fell like. Experience true privacy and comfort, complemented by recharging energy of the breathtaking views of the Vitosha mountain. 
+
+
 
 ## Sponsors
 
