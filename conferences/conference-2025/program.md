@@ -113,3 +113,49 @@
 </tr>
 
 </table>
+
+# Accepted Talks
+
+| Talk Title | Authors |
+|------------|---------|
+| Homomorphic Matrix Operations under Bicyclic Encoding | Jingwei Chen |
+| Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data | Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, and Frederik Vercauteren |
+| Fully Homomorphic Encryption for Cyclotomic Prime Moduli | Robin Geelen and Frederik Vercauteren |
+| Strong IND-CPAD Security for FHE (Essentially) for Free | Olivier Bernard, Marc Joye, Nigel Smart, and Michael Walter |
+| Compact 1-Round Threshold Multiparty Homomorphic Encryption Setup From Public Aggregatable Transcripts | Jean-Philippe Bossuat, Christian Mouchet, and Janmajaya Mall |
+| QRYPT: End-to-End Encrypted Audio Calls via Blind Audio Mixing | Emad Heydari Beni and Lode Hoste |
+| Privacy-Preserving Collision-Risk Assessment for LEO Satellites | Svenja Lage, Felicitas Hoermann, Felix Hanke, and Michael Karl |
+| Precision Tools for FHE Parameter Selection | Beatrice Biasioli, Elena Kirshanova, Chiara Marcolla, and Sergi Rovira |
+| Verifiable Computation for Approximate Homomorphic Encryption Schemes | Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, and Eduardo Soria-Vazquez |
+| Updates on the HEIR compiler project | Jeremy Kun |
+| OpenFHE: Open-Source Fully Homomorphic Encryption Library | Yuriy Polyakov and Kurt Rohloff |
+| FHE Deployment Challenges for Secure Cloud Computing | Flavio Bergamaschi, Anamaria Costache, Tikaram Sanyashi, and Alexander Viand |
+| Reducing Encrypted Matrix Multiplication to Plaintext Matrix Multiplication | Craig Gentry |
+| Ciphertext-Simulatable HE from BFV with Randomized Evaluation | Intak Hwang, Seonhong Min, and Yongsoo Song |
+
+# Accepted Posters
+
+| Poster Title | Authors |
+|------------|---------|
+| FINALLY: A Multi-Key FHE Scheme Based on NTRU and LWE | Jeongeun Park, Barry van Leeuwen, and Oliver Zajonc |
+| Adaptive Successive Over-Relaxation Method for a Faster Iterative Approximation of Homomorphic Operations | Jungho Moon, Zhanibek Omarov, Donghoon Yoo, Yongdae An, and Heewon Chung |
+| Designing a General-Purpose 8-bit (T)FHE Processor Abstraction | Daphné Trama, Pierre-Emmanuel Clet, Aymen Boudguiga, Renaud Sirdey, and Nicolas Ye |
+| AES Is Not Enough: Let's Run Other Block Ciphers Over TFHE | Daphné Trama, Aymen Boudguiga, and Renaud Sirdey |
+| Relations Among New CCA Security Notions for Approximate FHE | Sébastien Canard, Caroline Fontaine, Duong Hieu Phan, David Pointcheval, Marc Renard, and Renaud Sirdey |
+| Ecosystems, Business Models and Market Demand for PETs: Insights from Homomorphic Encryption and Synthetic Data | Nicholas Martin and Frederik M. Metzger |
+| Fast Homomorphic Evaluation of LWR-based PRFs and Application to Transciphering | Amit Deo, Marc Joye, Benoit Libert, Benjamin R. Curtis, and Mayeul de Bellabre |
+| On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR | Hiroki Okada, Rachel Player, Simon Pohmann, and Christian Weinert |
+| Extended External Products of Ciphertexts with Automorphisms and Applications | Olivier Bernard and Marc Joye |
+| RevoLUT : Rust Efficient Versatile Oblivious Look-Up-Tables | Sofiane Azogagh, Aubin Birba, Marc-Olivier Killijian, and Félix Larose-Gervais |
+| Confidential ERC20 Framework using Fully Homomorphic Encryption (FHE) | Remi Gai, Darren Kong, Deep Gandhi, Kaili Wang, and Jacob Hirshman |
+| Phantom zone library | Janmajaya Mall and Jean-Philippe Bossuat |
+| SoK: Fully-homomorphic encryption in smart contracts | Daniel Aronoff, Adithya Bhat, Panagiotis Chatzigiannis, Mohsen Minaei, Srinivasan Raghuraman, Robert Townsend, and Nicolas Zhang |
+| PowerSoftmax: Towards secure LLM Inference Over FHE | Itamar Zimerman, Allon Adir, Ehud Aharoni, Matan Avitan, Moran Baruch, Nir Drucker, Ramy Masalha, Reut Meiri, and Omri Soceanu |
+| DSP Optimized Fully Pipelined NTT Architecture for FHE Applications | Emre Kocer, Tolun Tosun, Selim Kırbıyık, Ersin Alaybeyoğlu, and Erkay Savas |
+| A Matter of Correctness: Selecting Optimal BFV Parameters and Preventing Key-Recovery Attacks | Beatrice Biasioli and Chiara Marcolla |
+| Fully Homomorphic Encryption from Slot Blind Rotation Technique | Seonhong Min and Yongsoo Song |
+| Practical Sanitization for TFHE | Intak Hwang, Seonhong Min, and Yongsoo Song |
+| TopGear 2.0: Accelerated Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing | Hyunho Cha, Intak Hwang, Seonhong Min, Jinyeong Seo, and Yongsoo Song |
+| Poster submission: Arithmetization for BFV & BGV Circuits Exploiting the Polynomial Ring | Jelle Vos, Mauro Conti, and Zekeriya Erkin |
+
+
