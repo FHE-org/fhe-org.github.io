@@ -156,6 +156,6 @@
 | Fully Homomorphic Encryption from Slot Blind Rotation Technique | Seonhong Min and Yongsoo Song |
 | Practical Sanitization for TFHE | Intak Hwang, Seonhong Min, and Yongsoo Song |
 | TopGear 2.0: Accelerated Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing | Hyunho Cha, Intak Hwang, Seonhong Min, Jinyeong Seo, and Yongsoo Song |
-| Poster submission: Arithmetization for BFV & BGV Circuits Exploiting the Polynomial Ring | Jelle Vos, Mauro Conti, and Zekeriya Erkin |
+| Arithmetization for BFV & BGV Circuits Exploiting the Polynomial Ring | Jelle Vos, Mauro Conti, and Zekeriya Erkin |
 
 
