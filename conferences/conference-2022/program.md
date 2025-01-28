@@ -69,7 +69,7 @@
 
 <b>4.35pm - 5.00pm:</b> Towards a correct-by-construction FHE model - Zhenkun Yang (Intel Labs), Wen Wang (Intel Labs), Jeremy Casas (Intel Labs), Pasquale Cocchini (Intel Labs), and Jin Yang (Intel Labs)
 
-<b>5.00pm - 5.45pm:</b> Invited talk II - Fully Homomorphic Encryption: Definitional issues and open problems - Daniele Micciancio (UCSD)
+<b>5.00pm - 5.45pm:</b> Invited talk II - Fully Homomorphic Encryption: Definitional issues and open problems [(related paper)](https://eprint.iacr.org/2024/1545) - Daniele Micciancio (UCSD) 
 
 <b>5.45pm - 6.00pm:</b> Closing remarks
 
