@@ -123,7 +123,6 @@
 | Fully Homomorphic Encryption for Cyclotomic Prime Moduli | Robin Geelen and Frederik Vercauteren |
 | Strong IND-CPAD Security for FHE (Essentially) for Free | Olivier Bernard, Marc Joye, Nigel Smart, and Michael Walter |
 | Compact 1-Round Threshold Multiparty Homomorphic Encryption Setup From Public Aggregatable Transcripts | Jean-Philippe Bossuat, Christian Mouchet, and Janmajaya Mall |
-| QRYPT: End-to-End Encrypted Audio Calls via Blind Audio Mixing | Emad Heydari Beni and Lode Hoste |
 | Privacy-Preserving Collision-Risk Assessment for LEO Satellites | Svenja Lage, Felicitas Hoermann, Felix Hanke, and Michael Karl |
 | Precision Tools for FHE Parameter Selection | Beatrice Biasioli, Elena Kirshanova, Chiara Marcolla, and Sergi Rovira |
 | Verifiable Computation for Approximate Homomorphic Encryption Schemes | Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, and Eduardo Soria-Vazquez |
