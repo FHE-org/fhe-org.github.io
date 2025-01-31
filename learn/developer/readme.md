@@ -396,7 +396,6 @@ The speed of FHE-based operations is constantly improving. However, there is sti
 <td markdown="1">
 
 - [tfhe-rs benchmarks](https://docs.zama.ai/tfhe-rs/getting-started/benchmarks) by **Zama** in **2023**.
-- Slide deck containing [HEAAN benchmarks](https://github.com/snucrypto/HEAAN/blob/master/slide-HEAAN.pdf) by **SNU** in **2018**.
 - Demo paper containing [Lattigo benchmars](https://homomorphicencryption.org/wp-content/uploads/2020/12/wahc20_demo_christian.pdf) by **Mouchet et al.** in **2020**.
 </td>
 </tr>
@@ -696,10 +695,6 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 <!-- [view](https://github.com/tuneinsight/lattigo/blob/master/examples/ring/vOLE/main.go) -->
 
 
-### HEAAN
-
-- Get started #C++ #HEAAN #ckks # tutorial
-[view](https://github.com/snucrypto/HEAAN/blob/master/README.md)
 
 ### HELIB
 
