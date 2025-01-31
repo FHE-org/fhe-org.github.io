@@ -22,7 +22,7 @@ Samir Menon is a co-founder of Spiral Privacy, which uses FHE to enable private 
 
 
 # Related links
-You can privately check any Bitcoin balance at https://btc.usespiral.com/, or privately read a Wikipedia article at https://spiralwiki.com. The scheme underlying our systems is outlined in this paper: https://eprint.iacr.org/2022/368.
+You can privately check any Bitcoin balance at btc.usespiral.com, or privately read a Wikipedia article at spiralwiki.com. The scheme underlying our systems is outlined in this paper: https://eprint.iacr.org/2022/368.
 
 # Important links
 - <a href="https://discord.fhe.org">Join the community on Discord</a>
