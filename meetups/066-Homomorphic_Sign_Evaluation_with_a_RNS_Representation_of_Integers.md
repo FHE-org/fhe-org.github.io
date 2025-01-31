@@ -9,7 +9,7 @@
 
 # Homomorphic Sign Evaluation with a RNS Representation of Integers
 #### by Philippe Chartier - 2025.01.30
-#### <a href="https://lu.ma/zkr8xaqw">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) --> <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=JXp31FhgSwY&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![066 Meetup](https://github.com/user-attachments/assets/574a3034-fce1-4ad0-b7c2-456722b9e4a1)
 
@@ -20,12 +20,6 @@ In the context of fully-homomorphic-encryption, we consider the representation o
 # About the speaker
 
 Senior researcher at Inria. Previously at Ravel Technologies for the last three years.
-
-# Register to attend
-
-Visit FHE.org's [lu.ma](https://lu.ma/zkr8xaqw) event page to RSVP and have the event added to your calendar.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
