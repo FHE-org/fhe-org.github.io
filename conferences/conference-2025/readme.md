@@ -48,7 +48,8 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **Conference date:** March 25, 2025
 
 ## Latest updates
-- **2024.11.23** The submission server is now closed, 56 submissions were recieved.
+- **2025.01.24** The accepted submissions have been announced, check out the full list [here](https://fhe.org/conferences/conference-2025/program)
+- **2024.11.23** The submission server is now closed, 56 submissions were recieved
 - **2024.09.25** Announced program committee
 - **2024.09.18** Registration page is open - register [here](https://lu.ma/fhe-org-conference-2025-tickets). Students can apply for free registration by sending an email from their academic email address to contact@fhe.org with their name and institution
 - **2024.09.17** Announced program chairs (Miran Kim and Shai Halevi)
