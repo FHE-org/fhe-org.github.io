@@ -16,10 +16,10 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 ## Coming up
 
 
-<a href="https://fhe.org/meetups/066"><img src="https://github.com/user-attachments/assets/72cee378-a70a-461a-ba78-0926711f099a"></a>
+<a href="https://fhe.org/meetups/067"><img src="https://github.com/user-attachments/assets/8208a6a4-5c56-4ea6-9cad-d210a0b8cb2e"></a>
 <br/>
-- Register for the next meetup, **[Homomorphic Sign Evaluation with a RNS Representation of Integers](https://fhe.org/meetups/066)** by **Philippe Chartier** on **Jan 16th, 2025 at 2PM CEST**
 
+- Register for the next meetup, [Relaxed Functional Bootstrapping: A New Perspective on BGV and BFV Bootstrapping](https://fhe.org/meetups/067) by **Zeyu Liu** on **Feb 20th, 2025 at 4PM CEST**
 
 ## Looking for speaker interviews?
 
