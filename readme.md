@@ -18,7 +18,7 @@ If you want to learn more about FHE, make sure to:
 
 The 4th Annual FHE.org Conference on Fully Homomorphic Encryption is collocated with [Real World Crypto 2025](https://rwc.iacr.org/2025/) and will be held at the Grand Hotel Millennium Sofia, 89B Vitosha Blvd, 1463, Sofia (Bulgaria) on March 25, 2025.
 
-The conference will feature presentation sessions, poster sessions, invited speakers, and a DJ'ed party and dinner.  For more information, check out the conference [webpage](fhe.org/2025).
+The conference will feature presentation sessions, poster sessions, invited speakers, and a DJ'ed party and dinner.  For more information, check out the conference [webpage](https://fhe.org/2025).
 
 ### [Register here](https://lu.ma/fhe-org-conference-2025-tickets)
 
