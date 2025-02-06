@@ -58,12 +58,14 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 ## Venue
 
 <a href="https://www.google.com/maps/search/?api=1&query=Grand%20Hotel%20Millennium%20Sofia&query_place_id=ChIJdXtu_6OFqkAR1JmitDfJZlE">
+  
 <b>Grand Hotel Millennium Sofia</b><br>
 Милениум център, Ivan Vazov, bul. "Vitosha" 89B, 1463 Sofia, Bulgaria<br><br>
   
 ![image](https://github.com/user-attachments/assets/caa74cd4-c708-4e1f-9f41-af81919148c6)
 
 ![image](https://github.com/user-attachments/assets/95fc832f-49e4-4b0e-a7a8-151d7174140d)
+
 
 </a>
 
