@@ -96,6 +96,7 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://www.olvid.io/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/9a62d077-fd7e-4cd7-8869-2ad0e7bd1e86" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://optalysys.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/604f8663-a8de-4619-939f-f35d8c166d7f" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://ostif.org"><img src="https://github.com/user-attachments/assets/cb23b5c0-a0d4-40ea-8d4d-7d87841416af" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://phantom.zone/"><img src="https://github.com/user-attachments/assets/01646cc6-aca2-4110-a1ec-4a1151c2c122" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://scrt.network/"><img src="https://github.com/user-attachments/assets/55cd0288-62ab-4d61-9862-36b152bb3903" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://sightai.io/"><img src="https://github.com/user-attachments/assets/35541a29-a223-4984-9bd5-a6abb5dcd5c1" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
