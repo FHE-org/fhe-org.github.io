@@ -63,7 +63,6 @@ In addition to any recurring sponsors above, previous editions were also sponsor
 
 <span style="padding-right:10px"><a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="125px"></a></span> 
 <span style="padding-right:10px"><a href="https://fabriccryptography.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/695f8ca7-87ec-4173-b790-c8d01426f52a" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://flashbots.net/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a35b379f-bfc6-4abc-99a7-9a3c7f1a3e38" width="125px"></a></span>
 <span style="padding-right:10px"><a href="https://www.ingonyama.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ed42c7a5-22cf-446a-8478-403726db85d1" width="125px"></a></span>
 <span style="padding-right:10px"><a href="https://loricacyber.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/0ea1412f-75eb-46ba-a940-71289fd53d21" width="125px"></a></span>
 <span style="padding-right:10px"><a href="https://omniatech.io/"><img src="https://github.com/user-attachments/assets/a673dbc1-3269-4d38-84ec-2b17cd90a976" width="125px"></a></span>
