@@ -115,6 +115,7 @@
 - <a id="00156" href="https://www.esat.kuleuven.be/cosic/blog/ches-2024-fast-transciphering-via-reconfigurable-and-batched-lut-evaluation/">Fast Transciphering Via Reconfigurable And Batched LUT Evaluation</a> by **Leonard Schild** on **Sept 25, 2024**
 - <a id="00144" href="https://fhe.org/meetups/057">New Secret Keys for Enhanced Performance in (T)FHE</a> by **Loris Bergerat** on **Sept 12th, 2024**
 - <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
+- <a id="00165" href="https://encrypt-project.eu/communication/blog/encrypt-blog-series-16-homomorphic-encryption-applied-to-various-use-cases/">Homomorphic Encryption Applied to Various Use Cases</a> by **ENCRYPT blog** on **June 27th, 2024**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt24-from-null-to-large-p-acceleration-in-bgv-bootstrapping/" id="00138"> Eurocrypt24: From Null to Large P, Acceleration in BGV Bootstrapping</a> by **Barry van Leeuwen** on **May 30th, 2024**
 - <a href="https://fhe.org/meetups/055" id="00137">FHE Beyond IND-CCA1 Security</a> by **Jérôme Nguyen** on **Jul 11th, 2024**
 - <a href="https://fhe.org/meetups/054" id="00136">Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation</a> by **Enrico Bottazzi** on **Jun 27th, 2024**
