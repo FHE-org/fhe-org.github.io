@@ -39,7 +39,7 @@
     <tr>
       <th data-sortas="case-insensitive">Time</th>
       <th data-sortas="case-insensitive">Session Topic</th>
-      <th data-sortas="case-insensitive">Presenters/Authors/Description</th>
+      <th data-sortas="case-insensitive">Authors</th>
     </tr>
   </thead>
 
