@@ -30,7 +30,7 @@
 <!-- /Header conference 2025 links -->
 
 
-# FHE.org conference 2025 - Program (Tentative)
+# FHE.org conference 2025 - Program
 
 ## March 25, 2025
 
