@@ -195,25 +195,6 @@
 
 </table>
 
-
-# Accepted Talks
-
-| Talk Title | Authors |
-|------------|---------|
-| Homomorphic Matrix Operations under Bicyclic Encoding | Jingwei Chen |
-| Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data | Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, and Frederik Vercauteren |
-| Fully Homomorphic Encryption for Cyclotomic Prime Moduli | Robin Geelen and Frederik Vercauteren |
-| Strong IND-CPAD Security for FHE (Essentially) for Free | Olivier Bernard, Marc Joye, Nigel Smart, and Michael Walter |
-| Compact 1-Round Threshold Multiparty Homomorphic Encryption Setup From Public Aggregatable Transcripts | Jean-Philippe Bossuat, Christian Mouchet, and Janmajaya Mall |
-| Privacy-Preserving Collision-Risk Assessment for LEO Satellites | Svenja Lage, Felicitas Hoermann, Felix Hanke, and Michael Karl |
-| Precision Tools for FHE Parameter Selection | Beatrice Biasioli, Elena Kirshanova, Chiara Marcolla, and Sergi Rovira |
-| Verifiable Computation for Approximate Homomorphic Encryption Schemes | Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, and Eduardo Soria-Vazquez |
-| Updates on the HEIR compiler project | Jeremy Kun |
-| OpenFHE: Open-Source Fully Homomorphic Encryption Library | Yuriy Polyakov and Kurt Rohloff |
-| FHE Deployment Challenges for Secure Cloud Computing | Flavio Bergamaschi, Anamaria Costache, Tikaram Sanyashi, and Alexander Viand |
-| Reducing Encrypted Matrix Multiplication to Plaintext Matrix Multiplication | Craig Gentry |
-| Ciphertext-Simulatable HE from BFV with Randomized Evaluation | Intak Hwang, Seonhong Min, and Yongsoo Song |
-
 # Accepted Posters
 
 | Poster Title | Authors |
