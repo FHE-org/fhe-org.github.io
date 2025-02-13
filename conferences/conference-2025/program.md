@@ -35,84 +35,166 @@
 ## March 25, 2025
 
 <table>
-
-
   <thead>
-        <tr>
-            <th data-sortas="case-insensitive">Time</th>
-            <th data-sortas="case-insensitive">Session Topic</th>
-            <th data-sortas="case-insensitive">Presenters/Authors/Description</th>
-        </tr>
-    </thead>
+    <tr>
+      <th data-sortas="case-insensitive">Time</th>
+      <th data-sortas="case-insensitive">Session Topic</th>
+      <th data-sortas="case-insensitive">Presenters/Authors/Description</th>
+    </tr>
+  </thead>
 
-<tr>
+  <tr>
     <td width=100px>8:30 AM</td>
     <td width=400px>Registration & Morning Refreshments 🥐</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
+  <tr>
     <td width=100px>9:00 AM</td>
     <td width=400px>Welcome and Opening Remarks</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
+  <tr>
     <td width=100px>9:05 AM</td>
-    <td width=400px>Session I: Contributed Posters and Talks</td>
-    <td>
-</td>
-</tr>
+    <td width=400px>Session I: Contributed Talks and Posters</td>
+    <td></td>
+  </tr>
 
-<tr>
-    <td width=100px>10:30 AM</td>
+  <tr>
+    <td width=100px>9:05 AM</td>
+    <td width=400px>Fully Homomorphic Encryption for Cyclotomic Prime Moduli</td>
+    <td>Robin Geelen and Frederik Vercauteren</td>
+  </tr>
+
+  <tr>
+    <td width=100px>9:30 AM</td>
+    <td width=400px>Reducing Encrypted Matrix Multiplication to Plaintext Matrix Multiplication</td>
+    <td>Craig Gentry</td>
+  </tr>
+
+  <tr>
+    <td width=100px>9:55 AM</td>
+    <td width=400px>Poster Session</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td width=100px>10:55 AM</td>
     <td width=400px>Morning Break ☕️</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
-    <td width=100px>10:45 AM</td>
+  <tr>
+    <td width=100px>11:20 AM</td>
     <td width=400px>Session II: Contributed Talks</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
-    <td width=100px>12:30 PM</td>
+  <tr>
+    <td width=100px>11:20 AM</td>
+    <td width=400px>OpenFHE: Open-Source Fully Homomorphic Encryption Library</td>
+    <td>Yuriy Polyakov and Kurt Rohloff</td>
+  </tr>
+
+  <tr>
+    <td width=100px>11:45 AM</td>
+    <td width=400px>Updates on the HEIR compiler project</td>
+    <td>Jeremy Kun</td>
+  </tr>
+
+  <tr>
+    <td width=100px>12:10 PM</td>
+    <td width=400px>Precision Tools for FHE Parameter Selection</td>
+    <td>Beatrice Biasioli, Elena Kirshanova, Chiara Marcolla, and Sergi Rovira</td>
+  </tr>
+
+  <tr>
+    <td width=100px>12:35 PM</td>
     <td width=400px>Buffet Lunch 🍴</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
-    <td width=100px>1:30 PM</td>
+  <tr>
+    <td width=100px>1:35 PM</td>
     <td width=400px>Session III: Contributed Talks</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
+  <tr>
+    <td width=100px>1:35 PM</td>
+    <td width=400px>FHE Deployment Challenges for Secure Cloud Computing</td>
+    <td>Flavio Bergamaschi, Anamaria Costache, Tikaram Sanyashi, and Alexander Viand</td>
+  </tr>
+
+  <tr>
+    <td width=100px>2:00 PM</td>
+    <td width=400px>Privacy-Preserving Collision-Risk Assessment for LEO Satellites</td>
+    <td>Svenja Lage, Felicitas Hoermann, Felix Hanke, and Michael Karl</td>
+  </tr>
+
+  <tr>
+    <td width=100px>2:25 PM</td>
+    <td width=400px>Compact 1-Round Threshold Multiparty Homomorphic Encryption Setup From Public Aggregatable Transcripts</td>
+    <td>Jean-Philippe Bossuat, Christian Mouchet, and Janmajaya Mall</td>
+  </tr>
+
+  <tr>
+    <td width=100px>2:50 PM</td>
+    <td width=400px>Ciphertext-Simulatable HE from BFV with Randomized Evaluation</td>
+    <td>Intak Hwang, Seonhong Min, and Yongsoo Song</td>
+  </tr>
+
+  <tr>
     <td width=100px>3:15 PM</td>
     <td width=400px>Afternoon Break 🧃</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
+  <tr>
     <td width=100px>3:45 PM</td>
     <td width=400px>Session IV: Contributed Talks, Invited Talk</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
+  <tr>
+    <td width=100px>3:45 PM</td>
+    <td width=400px>Strong IND-CPAD Security for FHE (Essentially) for Free</td>
+    <td>Olivier Bernard, Marc Joye, Nigel Smart, and Michael Walter</td>
+  </tr>
+
+  <tr>
+    <td width=100px>4:10 PM</td>
+    <td width=400px>Verifiable Computation for Approximate Homomorphic Encryption Schemes</td>
+    <td>Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães, and Eduardo Soria-Vazquez</td>
+  </tr>
+
+  <tr>
+    <td width=100px>4:35 PM</td>
+    <td width=400px>Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data</td>
+    <td>Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, and Frederik Vercauteren</td>
+  </tr>
+
+  <tr>
+    <td width=100px>5:00 PM</td>
+    <td width=400px>Keynote Talk</td>
+    <td>Craig Gentry</td>
+  </tr>
+
+  <tr>
     <td width=100px>6:00 PM</td>
     <td width=400px>Closing Remarks</td>
     <td></td>
-</tr>
+  </tr>
 
-<tr>
+  <tr>
     <td width=100px>6:15 PM</td>
     <td width=400px>After Party 🍻</td>
     <td></td>
-</tr>
+  </tr>
 
 </table>
+
 
 # Accepted Talks
 
