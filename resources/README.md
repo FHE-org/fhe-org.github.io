@@ -165,6 +165,7 @@
 - <a href="https://fhe.org/meetups/004-fhe-development-tools" id="00097">Developer Tools & Compilers</a> by **Alexander Viand** on **May 20, 2021**
 - <a href="https://fhe.org/meetups/003-tfhe-deep-dive" id="00098">TFHE deep dive</a> by **Ilaria Chillotti** on **Apr 15, 2021**
 - <a href="https://fhe.org/meetups/002-introduction-to-mpc" id="00099">Introduction to MPC</a> by **Yehuda Lindell** on **Jan 27, 2021**
+- <a id="00165" href="https://www.microsoft.com/en-us/research/blog/password-monitor-safeguarding-passwords-in-microsoft-edge/"> Password Monitor: Safeguarding passwords in Microsoft Edge </a> by **Kristin Lauter** on **Jan 21st, 2021**
 - <a href="https://fhe.org/meetups/001-introduction-to-fhe" id="00100">Introduction to homomorphic encryption</a> by **Pascal Paillier** on **Nov 04, 2020**
 - <a href="https://www.youtube.com/watch?v=O8IvJAIvGJo" id="00159">Fully Homomorphic Encryption</a> by **Zvika Brakerski** on **July 15 2015**
 
