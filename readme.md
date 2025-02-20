@@ -26,7 +26,7 @@ The conference will feature presentation sessions, poster sessions, invited spea
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, [Relaxed Functional Bootstrapping: A New Perspective on BGV and BFV Bootstrapping](https://fhe.org/meetups/067) by **Zeyu Liu** on **Feb 20th, 2025 at 4PM CEST**
+- Register for the next meetup, [Low Communication Threshold Fully Homomorphic Encryption](https://fhe.org/meetups/068) by **Alain Passelègue** on **Feb 27th, 2025 at 3PM CEST**
 
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
