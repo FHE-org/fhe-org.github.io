@@ -9,7 +9,7 @@
 
 # Relaxed Functional Bootstrapping: A New Perspective on BGV and BFV Bootstrapping
 #### by Zeyu Liu - 2025.02.20
-#### <a href="https://lu.ma/wih1t96j">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) --> <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=LceWK6XxXqA&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <!-- <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![067 Meetup](https://github.com/user-attachments/assets/8208a6a4-5c56-4ea6-9cad-d210a0b8cb2e)
 
@@ -28,11 +28,6 @@ Of independent interest, we show that our technique can be used to improve the b
 
 Zeyu Liu is a PhD student at Yale University, advised by Ben Fisch. He obtained his MS from Columbia University, advised by Tal Malkin and Eran Tromer. His main research focus is on lattice-based cryptography (including lattice-based fully homomorphic encryption and its applications) and blockchain-related protocols.
 
-# Register to attend
-
-Visit FHE.org's [lu.ma](https://lu.ma/wih1t96j) event page to RSVP and have the event added to your calendar.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
