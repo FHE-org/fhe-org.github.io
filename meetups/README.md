@@ -32,6 +32,7 @@ FHE.org meetups archive, latest first.
 ### 2025
 
 - [Relaxed Functional Bootstrapping: A New Perspective on BGV and BFV Bootstrapping](https://fhe.org/meetups/067) by **Zeyu Liu** on **Feb 20th, 2025**
+- [Homomorphic Sign Evaluation with a RNS Representation of Integers](https://fhe.org/meetups/066) by **Philippe Chartier** on **Jan 30th, 2025**
 - [General Functional Bootstrapping using CKKS](https://fhe.org/meetups/065) by **Yuriy Polyakov** on **Jan 16th, 2025**
 
 ### 2024
