@@ -9,7 +9,7 @@
 
 # Low Communication Threshold Fully Homomorphic Encryption
 #### by Alain Passelègue - 2025.02.27
-#### <a href="https://lu.ma/zbei1mdj">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) --> <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/reOlD8adB5o">Presentation recording</a> (Youtube) <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![068 Meetup](https://github.com/user-attachments/assets/3c333bc0-edc8-4b13-b684-ca983a9bdca6)
 
@@ -24,11 +24,6 @@ This is based on a joint work with Damien Stehlé, published at Asiacrypt 2024.
 
 Alain Passelègue is a researcher at CryptoLab Inc., in Lyon, currently on leave from academia. He has worked on a broad spectrum of cryptography over the last 10 years. He has recently focused on lattice-based primitives, and specifically on fully homomorphic encryption and its applications over the last year.
 
-# Register to attend
-
-Visit FHE.org's [lu.ma](https://lu.ma/zbei1mdj) event page to RSVP and have the event added to your calendar.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
