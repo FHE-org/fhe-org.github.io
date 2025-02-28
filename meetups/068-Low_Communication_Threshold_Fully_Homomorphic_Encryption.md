@@ -9,7 +9,7 @@
 
 # Low Communication Threshold Fully Homomorphic Encryption
 #### by Alain Passelègue - 2025.02.27
-#### <a href="https://youtu.be/reOlD8adB5o">Presentation recording</a> (Youtube) | <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/reOlD8adB5o">Presentation recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/19029120/threshold_fhe.org.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![068 Meetup](https://github.com/user-attachments/assets/3c333bc0-edc8-4b13-b684-ca983a9bdca6)
 
