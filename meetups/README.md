@@ -16,10 +16,10 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 ## Coming up
 
 
-<a href="https://fhe.org/meetups/068"><img src="https://github.com/user-attachments/assets/3c333bc0-edc8-4b13-b684-ca983a9bdca6"></a>
+<a href="https://fhe.org/meetups/069"><img src="https://github.com/user-attachments/assets/3bb29de9-2c3f-4265-bba3-45de5a1dd424"></a>
 <br/>
 
-- Register for the next meetup, [Low Communication Threshold Fully Homomorphic Encryption](https://fhe.org/meetups/068) by **Alain Passelègue** on **Feb 27th, 2025 at 3PM CEST**
+- Register for the next meetup, [Discussions on Implementing FHE on GPUs](https://fhe.org/meetups/069) by **Agnes Leroy** on **Mar 13th, 2025 at 3PM CEST**
 
 ## Looking for speaker interviews?
 
@@ -31,6 +31,7 @@ FHE.org meetups archive, latest first.
 
 ### 2025
 
+- [Low Communication Threshold Fully Homomorphic Encryption](https://fhe.org/meetups/068) by **Alain Passelègue** on **Feb 27th, 2025**
 - [Relaxed Functional Bootstrapping: A New Perspective on BGV and BFV Bootstrapping](https://fhe.org/meetups/067) by **Zeyu Liu** on **Feb 20th, 2025**
 - [Homomorphic Sign Evaluation with a RNS Representation of Integers](https://fhe.org/meetups/066) by **Philippe Chartier** on **Jan 30th, 2025**
 - [General Functional Bootstrapping using CKKS](https://fhe.org/meetups/065) by **Yuriy Polyakov** on **Jan 16th, 2025**
