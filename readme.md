@@ -27,7 +27,6 @@ The conference will feature presentation sessions, poster sessions, invited spea
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
 - Register for the next meetup, [Discussions on Implementing FHE on GPUs](https://fhe.org/meetups/069) by **Agnes Leroy** on **Mar 13th, 2025 at 3PM CEST**
-
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
