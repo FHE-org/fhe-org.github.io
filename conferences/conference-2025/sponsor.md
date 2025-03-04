@@ -59,6 +59,7 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://sightai.io/"><img src="https://github.com/user-attachments/assets/35541a29-a223-4984-9bd5-a6abb5dcd5c1" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://trailofbits.com"><img src="https://github.com/user-attachments/assets/146bc163-a900-4949-bdd0-6df35375b22b" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
 In addition to any recurring sponsors above, previous editions were also sponsored by <i>(in alphabetical order)</i>:
