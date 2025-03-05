@@ -6,10 +6,9 @@
 <hr/>
 <!-- /Main header navigation -->
 
-
 # Relaxed Functional Bootstrapping: A New Perspective on BGV and BFV Bootstrapping
 #### by Zeyu Liu - 2025.02.20
-#### <a href="https://www.youtube.com/watch?v=LceWK6XxXqA&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <!-- <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=LceWK6XxXqA&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) |  <a href="https://github.com/user-attachments/files/19092490/relaxed_bfv_boot.pptx">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![067 Meetup](https://github.com/user-attachments/assets/8208a6a4-5c56-4ea6-9cad-d210a0b8cb2e)
 
