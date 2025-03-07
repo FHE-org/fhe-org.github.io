@@ -177,7 +177,7 @@
 
   <tr>
     <td width=100px>5:00 PM</td>
-    <td width=400px>Keynote Talk</td>
+    <td width=400px>[Invited Talk] FHE: Inside Out </td>
     <td>Craig Gentry</td>
   </tr>
 
