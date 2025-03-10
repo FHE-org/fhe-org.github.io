@@ -6,10 +6,9 @@
 <hr/>
 <!-- /Main header navigation -->
 
-
 # Homomorphic Sign Evaluation with a RNS Representation of Integers
 #### by Philippe Chartier - 2025.01.30
-#### <a href="https://www.youtube.com/watch?v=JXp31FhgSwY&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <!--| <a href="">Slides</a> (Github) |--> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=JXp31FhgSwY&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/19161165/Talk_FHE-org_30-01-25.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![066 Meetup](https://github.com/user-attachments/assets/574a3034-fce1-4ad0-b7c2-456722b9e4a1)
 
