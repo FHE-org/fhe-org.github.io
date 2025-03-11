@@ -15,10 +15,13 @@ Have a suggestion for our next digest? Let us know on the FHE.org <a href="https
 
 ## Latest FHE.org Digest Issue
 
-- <a href="https://fheorg.substack.com/p/fheorg-digest-23" id="00023">FHE.org Digest - Issue 23</a> by **FHE.org** on **Oct 31, 2024**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-27-conference-upcoming" id="00027">FHE.org Digest - Issue 27</a> by **FHE.org** on **Feb 28, 2025**<br>
 
 ## Previous FHE.org Digest Issues
-
+- <a href="https://fheorg.substack.com/p/fheorg-digest-26-conference-updates" id="00026">FHE.org Digest - Issue 26</a> by **FHE.org** on **Jan 31, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-25-2024-one-year-review" id="00025">FHE.org Digest - Issue 25</a> by **FHE.org** on **Dec 30, 2024**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-24-fheorg-2025-submissions" id="00024">FHE.org Digest - Issue 24</a> by **FHE.org** on **Nov 29, 2024**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-23" id="00023">FHE.org Digest - Issue 23</a> by **FHE.org** on **Oct 31, 2024**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-22" id="00022">FHE.org Digest - Issue 22</a> by **FHE.org** on **Sep 30, 2024**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-21" id="00021">FHE.org Digest - Issue 21</a> by **FHE.org** on **Aug 30, 2024**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-20" id="00020">FHE.org Digest - Issue 20</a> by **FHE.org** on **Jul 31, 2024**<br>
