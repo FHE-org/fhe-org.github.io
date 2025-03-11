@@ -50,6 +50,7 @@ First time attending and curious what it will be like? [Read this](https://fheor
 - **Conference date:** March 25, 2025
 
 ## Latest updates
+- **2025.02.13** The finalized program is online, see [here](https://fhe.org/conferences/conference-2025/program)
 - **2025.01.24** The accepted submissions have been announced, check out the full list [here](https://fhe.org/conferences/conference-2025/program)
 - **2024.11.23** The submission server is now closed, 56 submissions were recieved
 - **2024.09.25** Announced program committee
