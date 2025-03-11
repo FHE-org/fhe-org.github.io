@@ -42,6 +42,8 @@ The conference will feature presentation sessions, poster sessions, invited spea
 
 For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.substack.com/).
 
+First time attending and curious what it will be like? [Read this](https://fheorg.substack.com/p/fheorg-2025-conference-guide) handy guide!
+
 ## Important dates
 - ~~**Submission deadline:** November 23, 2024 (23:58 AoE time)~~
 - ~~**Notification:** January 24, 2025~~
