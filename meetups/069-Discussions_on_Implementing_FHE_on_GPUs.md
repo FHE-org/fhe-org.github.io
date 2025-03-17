@@ -24,6 +24,10 @@ She started out as a researcher in Computational Fluid Dynamics, where she worke
 
 Before joining Zama, Agnès worked at EDF (Electricity of France) as a researcher, then at RTE (France's Transmission System Operator) as a software developer. She holds a Mechanical Engineering degree from Ecole des Ponts ParisTech and a Civil engineering degree from Universidade de Minas Gerais (Brazil). She also holds a PhD from Université Paris-Est.
 
+# Meet the Community
+
+Agnes was gracious enough to give us their time for a short interview for a Meet the Community series. <a href="https://www.youtube.com/watch?v=EwRVnIMqRiM">Watch it here!</a>
+
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
