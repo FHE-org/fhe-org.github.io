@@ -8,7 +8,7 @@
 
 # Discussions on Implementing FHE on GPUs
 #### by Agnes Leroy - 2025.03.13
-#### <a href="https://lu.ma/lrei3oi8">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) --> <a href="https://github.com/user-attachments/files/19233920/FHE.org.GPU.discussion.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=PGEWGCsRI1o">Presentation Recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/19233920/FHE.org.GPU.discussion.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![069 Meetup cover](https://github.com/user-attachments/assets/3bb29de9-2c3f-4265-bba3-45de5a1dd424)
 
@@ -23,12 +23,6 @@ Agnès is a software engineer and expert in GPU programming currently working as
 She started out as a researcher in Computational Fluid Dynamics, where she worked on the GPU acceleration of a particle-based simulation method. She is the author of several publications in this field, and won several awards in the course of her PhD. After a few years contributing to various open source software projects, Agnès decided to focus on software development.
 
 Before joining Zama, Agnès worked at EDF (Electricity of France) as a researcher, then at RTE (France's Transmission System Operator) as a software developer. She holds a Mechanical Engineering degree from Ecole des Ponts ParisTech and a Civil engineering degree from Universidade de Minas Gerais (Brazil). She also holds a PhD from Université Paris-Est.
-
-# Register to attend
-
-Visit FHE.org's [lu.ma](https://lu.ma/lrei3oi8/) event page to RSVP and have the event added to your calendar.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
