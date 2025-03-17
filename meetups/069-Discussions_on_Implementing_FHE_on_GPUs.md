@@ -8,7 +8,7 @@
 
 # Discussions on Implementing FHE on GPUs
 #### by Agnes Leroy - 2025.03.13
-#### <a href="https://www.youtube.com/watch?v=PGEWGCsRI1o">Presentation Recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/19233920/FHE.org.GPU.discussion.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=PGEWGCsRI1o">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=EwRVnIMqRiM">Speaker Interview</a> (Youtube) | <a href="https://github.com/user-attachments/files/19233920/FHE.org.GPU.discussion.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![069 Meetup cover](https://github.com/user-attachments/assets/3bb29de9-2c3f-4265-bba3-45de5a1dd424)
 
