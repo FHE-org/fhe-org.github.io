@@ -58,7 +58,7 @@
   <tr>
     <td width=100px>9:05 AM</td>
     <td width=400px>Session I: Contributed Talks and Posters</td>
-    <td></td>
+    <td>Session Chair: Damien Stehlé (CryptoLab)</td>
   </tr>
 
   <tr>
@@ -88,7 +88,7 @@
   <tr>
     <td width=100px>11:20 AM</td>
     <td width=400px>Session II: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Ben Curtis (Zama)</td>
   </tr>
 
   <tr>
@@ -118,7 +118,7 @@
   <tr>
     <td width=100px>1:35 PM</td>
     <td width=400px>Session III: Contributed Talks</td>
-    <td></td>
+    <td>Session Chair: Ingrid Verbauwhede (KU Leuven & BELFORT)</td>
   </tr>
 
   <tr>
@@ -153,8 +153,8 @@
 
   <tr>
     <td width=100px>3:45 PM</td>
-    <td width=400px>Session IV: Contributed Talks, Invited Talk</td>
-    <td></td>
+    <td width=400px>Session IV: Contributed Talks</td>
+    <td>Session Chair: Shai Halevi (AWS)</td>
   </tr>
 
   <tr>
@@ -177,7 +177,14 @@
 
   <tr>
     <td width=100px>5:00 PM</td>
-    <td width=400px>[Invited Talk] FHE: Inside Out </td>
+    <td width=400px>Session V: Invited Talk</td>
+    <td>Session Chair: Miran Kim (Hanyang University)</td>
+  </tr>
+
+
+  <tr>
+    <td width=100px>5:00 PM</td>
+    <td width=400px>FHE: Inside Out </td>
     <td>Craig Gentry</td>
   </tr>
 
@@ -209,7 +216,6 @@
 | On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR | Hiroki Okada, Rachel Player, Simon Pohmann, and Christian Weinert |
 | Extended External Products of Ciphertexts with Automorphisms and Applications | Olivier Bernard and Marc Joye |
 | RevoLUT : Rust Efficient Versatile Oblivious Look-Up-Tables | Sofiane Azogagh, Aubin Birba, Marc-Olivier Killijian, and Félix Larose-Gervais |
-| Confidential ERC20 Framework using Fully Homomorphic Encryption (FHE) | Remi Gai, Darren Kong, Deep Gandhi, Kaili Wang, and Jacob Hirshman |
 | Phantom zone library | Janmajaya Mall and Jean-Philippe Bossuat |
 | SoK: Fully-homomorphic encryption in smart contracts | Daniel Aronoff, Adithya Bhat, Panagiotis Chatzigiannis, Mohsen Minaei, Srinivasan Raghuraman, Robert Townsend, and Nicolas Zhang |
 | PowerSoftmax: Towards secure LLM Inference Over FHE | Itamar Zimerman, Allon Adir, Ehud Aharoni, Matan Avitan, Moran Baruch, Nir Drucker, Ramy Masalha, Reut Meiri, and Omri Soceanu |
