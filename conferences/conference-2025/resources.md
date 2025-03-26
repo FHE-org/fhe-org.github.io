@@ -65,6 +65,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Reducing Encrypted Matrix Multiplication to Plaintext Matrix Multiplication</td>
     <td>Craig Gentry</td>
     <td>
+      <a>
         Slides
       </a> / 
       <a>
@@ -80,6 +81,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>OpenFHE: Open-Source Fully Homomorphic Encryption Library</td>
     <td>Yuriy Polyakov and Kurt Rohloff</td>
     <td>
+      <a>
         Slides
       </a> /
       <a>
@@ -242,6 +244,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464528/FHE.org.Keynote.Craig.pdf">
         Slides
       </a> /
+        <a>
         Video
         </a>
    </td>
