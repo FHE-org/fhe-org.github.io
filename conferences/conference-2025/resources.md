@@ -252,13 +252,4 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 
 
 
-
-
-
-</table>
-
-
-
-
-
 </table>
