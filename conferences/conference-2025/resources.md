@@ -76,12 +76,11 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 
 
 
-
 <tr>
     <td>OpenFHE: Open-Source Fully Homomorphic Encryption Library</td>
     <td>Yuriy Polyakov and Kurt Rohloff</td>
     <td>
-      <a>
+      <a href="https://github.com/user-attachments/files/19475930/OPENFHE-2025.pdf">
         Slides
       </a> /
       <a>
