@@ -222,8 +222,8 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 
 
 <tr>
-    <td>Revisiting Oblivious Top-k Selection with Applications to Secure k-NN Classification</td>
-    <td>Kelong Cong, Robin Geelen, Jiayi Kang, and Jeongeun Park</td>
+    <td>Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data</td>
+    <td>Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, and Frederik Vercauteren</td>
     <td>
       <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896282/1635-Geelen.pdf">
         Slides
