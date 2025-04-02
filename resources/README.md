@@ -28,6 +28,7 @@
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
+- <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2025-a-new-fhe-scheme-for-high-precision-arithmetic/">A new FHE scheme for high-precision arithmetic</a> by **Robin Geelen** on **April 28, 2025**
 - <a href="https://research.ibm.com/blog/fhe-cc-security" id="00154">Protecting user data with fully homomorphic encryption and confidential computing</a> by **IBM** on **July 24, 2024**
 - <a href="https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/" id="00147">Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption</a> by **Jeremy Kun** on **Sept 06, 2024**
 - <a href="https://www.jeremykun.com/2024/09/02/shift-networks/" id="00146">Shift Networks</a> by **Jeremy Kun** on **Sept 02, 2024**
