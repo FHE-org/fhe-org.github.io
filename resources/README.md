@@ -104,6 +104,7 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a id ="00167" href="https://www.youtube.com/live/R1NEfuv3iMk?feature=shared&t=16963"> Apple's Deployment of Homomorphic Encryption at Scale</a> by **Rehan Rishi, Haris Mughees, Fabian Boemer, Karl Tarbe, Nicholas Genise, Akshay Wadia, and Ruiyu Zhu** on **March 26, 2025**
 - <a id="00166" href="https://fhe.org/meetups/068">Low Communication Threshold Fully Homomorphic Encryption</a> by **Alain Passelègue** on **Feb 27th, 2025**
 - <a id="00163" href="https://www.zama.ai/the-state-of-fhe-report">The State of FHE Report — Q4 2024</a> by **Zama** on **Jan 21st, 2025**
 - <a id="00162" href="https://fhe.org/meetups/065">General Functional Bootstrapping using CKKS</a> by **Yuriy Polyakov** on **Jan 16th, 2025**
