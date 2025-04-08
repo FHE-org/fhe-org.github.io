@@ -26,7 +26,7 @@ The conference will feature presentation sessions, poster sessions, invited spea
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, [Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis](https://fhe.org/meetups/070) by **Daniele Micciancio** on **Apr 3th, 2025 at 2PM CEST**
+- Register for the next meetup, [Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **Apr 17th, 2025 at 3PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
