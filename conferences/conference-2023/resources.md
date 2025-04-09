@@ -339,7 +339,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>
       <a href="https://github.com/user-attachments/files/17575899/circuit-privacy.pdf">
         View
-      </a>a>
+      </a>
     </td>
 </tr>
 
