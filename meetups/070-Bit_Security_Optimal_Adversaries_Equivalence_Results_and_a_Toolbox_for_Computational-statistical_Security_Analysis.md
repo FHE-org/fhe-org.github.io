@@ -8,7 +8,7 @@
 
 # Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis
 #### by Daniele Micciancio - 2025.04.03
-#### <a href="https://lu.ma/sahiap4q">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=L5xYDjMGqzk&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![070 Meetup cover](https://github.com/user-attachments/assets/32c3b640-caad-4f58-883a-ef627c10bba6)
 
@@ -35,12 +35,6 @@ Daniele Micciancio received his PhD in computer science from the Massachusetts I
 ​He received the Matchey Award (FOCS 1998), Sprowls Award (MIT EECS, 1999), CAREER Award (NSF, 2001), Hellman Fellowship (2001), Sloan Fellowship (2003), and two 20-years Test of Time Awards (FOCS 2022, FOCS 2024).
 
 ​In 1999 he was appointed Fellow of the IACR for his pioneering work on lattice cryptography and the complexity of lattice problems.
-
-# Register to attend
-
-Visit FHE.org's [lu.ma](https://lu.ma/sahiap4q/) event page to RSVP and have the event added to your calendar.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
