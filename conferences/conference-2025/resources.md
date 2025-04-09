@@ -65,7 +65,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
     <td>Reducing Encrypted Matrix Multiplication to Plaintext Matrix Multiplication</td>
     <td>Craig Gentry</td>
     <td>
-      <a>
+      <a href="https://github.com/user-attachments/files/19668624/0930_GENTRY.pdf">
         Slides
       </a> / 
       <a>
