@@ -220,22 +220,6 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
 </tr>
 
 
-
-<tr>
-    <td>Blind zkSNARKs for Private Proof Delegation and Verifiable Computation over Encrypted Data</td>
-    <td>Mariana Gama, Emad Heydari Beni, Jiayi Kang, Jannik Spiessens, and Frederik Vercauteren</td>
-    <td>
-      <a href="https://github.com/FHE-org/fhe-org.github.io/files/14896282/1635-Geelen.pdf">
-        Slides
-      </a> /
-      <a>
-        Video
-      </a>
-   </td>
-</tr>
-
-
-
 <tr>
     <td>FHE: Inside Out </td>
     <td>Craig Gentry</td>
@@ -249,6 +233,29 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
    </td>
 </tr>
 
-
-
 </table>
+
+
+
+| Poster Title | Authors | Resource |
+|------------|---------|--------|
+| FINALLY: A Multi-Key FHE Scheme Based on NTRU and LWE | Jeongeun Park, Barry van Leeuwen, and Oliver Zajonc | |
+| Adaptive Successive Over-Relaxation Method for a Faster Iterative Approximation of Homomorphic Operations | Jungho Moon, Zhanibek Omarov, Donghoon Yoo, Yongdae An, and Heewon Chung |
+| Designing a General-Purpose 8-bit (T)FHE Processor Abstraction | Daphné Trama, Pierre-Emmanuel Clet, Aymen Boudguiga, Renaud Sirdey, and Nicolas Ye |
+| AES Is Not Enough: Let's Run Other Block Ciphers Over TFHE | Daphné Trama, Aymen Boudguiga, and Renaud Sirdey |
+| Relations Among New CCA Security Notions for Approximate FHE | Sébastien Canard, Caroline Fontaine, Duong Hieu Phan, David Pointcheval, Marc Renard, and Renaud Sirdey |
+| Ecosystems, Business Models and Market Demand for PETs: Insights from Homomorphic Encryption and Synthetic Data | Nicholas Martin and Frederik M. Metzger |
+| Fast Homomorphic Evaluation of LWR-based PRFs and Application to Transciphering | Amit Deo, Marc Joye, Benoit Libert, Benjamin R. Curtis, and Mayeul de Bellabre |
+| On Algebraic Homomorphic Encryption and its Applications to Doubly-Efficient PIR | Hiroki Okada, Rachel Player, Simon Pohmann, and Christian Weinert |
+| Extended External Products of Ciphertexts with Automorphisms and Applications | Olivier Bernard and Marc Joye |
+| RevoLUT : Rust Efficient Versatile Oblivious Look-Up-Tables | Sofiane Azogagh, Aubin Birba, Marc-Olivier Killijian, and Félix Larose-Gervais |
+| Phantom zone library | Janmajaya Mall and Jean-Philippe Bossuat |
+| SoK: Fully-homomorphic encryption in smart contracts | Daniel Aronoff, Adithya Bhat, Panagiotis Chatzigiannis, Mohsen Minaei, Srinivasan Raghuraman, Robert Townsend, and Nicolas Zhang |
+| PowerSoftmax: Towards secure LLM Inference Over FHE | Itamar Zimerman, Allon Adir, Ehud Aharoni, Matan Avitan, Moran Baruch, Nir Drucker, Ramy Masalha, Reut Meiri, and Omri Soceanu |
+| DSP Optimized Fully Pipelined NTT Architecture for FHE Applications | Emre Kocer, Tolun Tosun, Selim Kırbıyık, Ersin Alaybeyoğlu, and Erkay Savas |
+| A Matter of Correctness: Selecting Optimal BFV Parameters and Preventing Key-Recovery Attacks | Beatrice Biasioli and Chiara Marcolla |
+| Fully Homomorphic Encryption from Slot Blind Rotation Technique | Seonhong Min and Yongsoo Song |
+| Practical Sanitization for TFHE | Intak Hwang, Seonhong Min, and Yongsoo Song |
+| TopGear 2.0: Accelerated Authenticated Matrix Triple Generation with Scalable Prime Fields via Optimized HE Packing | Hyunho Cha, Intak Hwang, Seonhong Min, Jinyeong Seo, and Yongsoo Song |
+| Arithmetization for BFV & BGV Circuits Exploiting the Polynomial Ring | Jelle Vos, Mauro Conti, and Zekeriya Erkin |
+
