@@ -1,0 +1,10 @@
+title: "Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances"
+speaker: "Mohammed Lemou"
+date: "Apr 17th, 2025"
+time: "3PM CEST"
+url: "https://fhe.org/meetups/071"
+image_url: "https://github.com/user-attachments/assets/ec2e018d-c3fd-4e95-aad2-e6f36409084b"
+
+# Add old meetups in meetups/README.md, e.g.:
+# - [Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis](https://fhe.org/meetups/070) by **Daniele Micciancio** on **Apr 3rd, 2025**
+# - [{{ site.data.next_meetup.title }}]({{ site.data.next_meetup.url }}) by **{{ site.data.next_meetup.speaker }}** on **{{ site.data.next_meetup.date }}**

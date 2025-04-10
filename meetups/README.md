@@ -16,10 +16,10 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 ## Coming up
 
 
-<a href="https://fhe.org/meetups/071"><img src="https://github.com/user-attachments/assets/ec2e018d-c3fd-4e95-aad2-e6f36409084b"></a>
+<a href="{{ site.data.next_meetup.url }}"><img src="{{ site.data.next_meetup.image_url }}"></a>
 <br/>
 
-- Register for the next meetup, [Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **Apr 17th, 2025 at 3PM CEST**
+- Register for the next meetup, [{{ site.data.next_meetup.title }}]({{ site.data.next_meetup.url }}) by **{{ site.data.next_meetup.speaker }}** on **{{ site.data.next_meetup.date }} at {{ site.data.next_meetup.time }}**
 
 ## Looking for speaker interviews?
 
