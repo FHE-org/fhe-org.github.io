@@ -53,7 +53,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19463977/FHE_org_GBFV.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=oGhi5QC6uZc&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=1">
         Video
       </a>
    </td>
@@ -68,7 +68,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19668624/0930_GENTRY.pdf">
         Slides
       </a> / 
-      <a>
+      <a href="https://www.youtube.com/watch?v=ebwaE1mGY3E&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=2">
         Video
       </a>
    </td>
@@ -83,7 +83,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19475930/OPENFHE-2025.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=uiI8bSdNkrg&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=3">
         Video
       </a>
    </td>
@@ -98,7 +98,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464051/HEIR.Community.Update.2025-1.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=6JPwpTOcydM&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=4">
         Video
       </a>
    </td>
@@ -112,7 +112,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464088/slides_tool_security.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=3CKGn-JMgz4&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=5">
         Video
       </a>
    </td>
@@ -125,7 +125,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464129/FHE.Deployment.Challenges.-.final.draft.3.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=7Ns6nl4iI_Y&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=6">
         Video
       </a>
    </td>
@@ -139,7 +139,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464144/Privacy-Prserving_Collision-Risk_Assessment_for_LEO_Satellites.pdf">
         Slides 
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=S7dmbaTR2ps&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=7">
         Video
       </a>
    </td>
@@ -154,7 +154,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464170/1425_Bossuat_Bouchet_Mall.pdf">
         Slides 
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=9Jsk6b4mFy0&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=8">
         Video
       </a>
    </td>
@@ -170,7 +170,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464485/FHEorg.SimCT.final.2.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=xz1y5bmML5M&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=9">
         Video
       </a>
    </td>
@@ -184,7 +184,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464405/1545_JOYE.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=zKw41oxN4ok&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=10">
         Video
       </a>
    </td>
@@ -198,7 +198,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464429/1610_Guimaraes.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=nAdAs56TxvE&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=11">
         Video
       </a>
    </td>
@@ -213,7 +213,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464447/1635_KANG.pdf">
         Slides
       </a> /
-      <a>
+      <a href="https://www.youtube.com/watch?v=5qss29TCmts&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=12">
         Video
       </a>
    </td>
@@ -227,7 +227,7 @@ Presenters can add their own presentation resources here *(pdfs, powerpoints, po
       <a href="https://github.com/user-attachments/files/19464528/FHE.org.Keynote.Craig.pdf">
         Slides
       </a> /
-        <a>
+        <a href="https://www.youtube.com/watch?v=V3FcM1B4mcg&list=PLnbmMskCVh1cCnWbmgxI0BM0UD2JHH9fz&index=13">
         Video
         </a>
    </td>
