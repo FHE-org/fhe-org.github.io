@@ -47,7 +47,7 @@ First time attending and curious what it will be like? [Read this](https://fheor
 ## Important dates
 - ~~**Submission deadline:** November 23, 2024 (23:58 AoE time)~~
 - ~~**Notification:** January 24, 2025~~
-- **Conference date:** March 25, 2025
+- ~~**Conference date:** March 25, 2025~~
 
 ## Latest updates
 - **2025.04.16** All conference resources are now online, see [here](https://fhe-org.github.io/conferences/conference-2025/resources)
