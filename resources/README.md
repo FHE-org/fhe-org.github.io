@@ -23,7 +23,8 @@
 - [Projects](#projects)
 
 ## Conference Resources
-- [FHE.org Toronto 2024 Conference Resources](https://fhe-org.github.io/conferences/conference-2024/resources) by **FHE.org** on **Apr 09, 2024**
+- [FHE.org Sofia 2025 Conference Resources](https://fhe-org.github.io/conferences/conference-2025/resources) by **FHE.org** on **Mar 25, 2025**
+- [FHE.org Toronto 2024 Conference Resources](https://fhe-org.github.io/conferences/conference-2024/resources) by **FHE.org** on **Mar 24, 2024**
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
