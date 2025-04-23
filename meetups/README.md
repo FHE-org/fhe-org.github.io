@@ -31,6 +31,7 @@ FHE.org meetups archive, latest first.
 
 ### 2025
 
+- [Exploring General Cyclotomic Rings in Torus-Based FHE: Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **April 17, 2025**
 - [Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis](https://fhe.org/meetups/070) by **Daniele Micciancio** on **Apr 3rd, 2025**
 - [Discussions on Implementing FHE on GPUs](https://fhe.org/meetups/069) by **Agnes Leroy** on **Mar 13th, 2025**
 - [Low Communication Threshold Fully Homomorphic Encryption](https://fhe.org/meetups/068) by **Alain Passelègue** on **Feb 27th, 2025**
