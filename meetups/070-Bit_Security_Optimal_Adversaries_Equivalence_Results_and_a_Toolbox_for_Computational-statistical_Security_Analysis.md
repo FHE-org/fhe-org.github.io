@@ -8,7 +8,7 @@
 
 # Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis
 #### by Daniele Micciancio - 2025.04.03
-#### <a href="https://www.youtube.com/watch?v=L5xYDjMGqzk&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=L5xYDjMGqzk&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/19868604/FHEorg-4.pdf">Slides</a> (Github) | <a href="https://eprint.iacr.org/2024/1506"> Paper</a> (ePrint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![070 Meetup cover](https://github.com/user-attachments/assets/32c3b640-caad-4f58-883a-ef627c10bba6)
 
