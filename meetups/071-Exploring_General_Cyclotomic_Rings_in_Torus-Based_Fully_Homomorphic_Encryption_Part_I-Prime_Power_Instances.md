@@ -8,7 +8,7 @@
 
 # Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances
 #### by Mohammed Lemou - 2025.04.17
-#### <a href="https://lu.ma/th03bf7u">Register to attend</a> (Lu.ma) | <!-- Video recording (Youtube) | --> <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UMLeO_-0Mk8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![071 Meetup cover](https://github.com/user-attachments/assets/ec2e018d-c3fd-4e95-aad2-e6f36409084b)
 
@@ -26,11 +26,6 @@ Mohammed Lemou is currently a Senior Researcher (Directeur de Recherche) at the 
 
 He is also interested in the interplay between machine learning and numerical methods for PDEs, as well as investigating the feasibility of leveraging FHE techniques for secure and privacy-preserving machine learning.
 
-# Register to attend
-
-Visit FHE.org's [lu.ma](https://lu.ma/th03bf7u/) event page to RSVP and have the event added to your calendar.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 
