@@ -16,10 +16,10 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 ## Coming up
 
 
-<a href="https://fhe.org/meetups/070"><img src="https://github.com/user-attachments/assets/32c3b640-caad-4f58-883a-ef627c10bba6"></a>
+<a href="https://fhe.org/meetups/071"><img src="https://github.com/user-attachments/assets/ec2e018d-c3fd-4e95-aad2-e6f36409084b"></a>
 <br/>
 
-- Register for the next meetup, [Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis](https://fhe.org/meetups/070) by **Daniele Micciancio** on **Apr 3rd, 2025 at 2PM CEST**
+- Register for the next meetup, [Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **Apr 17th, 2025 at 3PM CEST**
 
 ## Looking for speaker interviews?
 
@@ -31,6 +31,8 @@ FHE.org meetups archive, latest first.
 
 ### 2025
 
+- [Exploring General Cyclotomic Rings in Torus-Based FHE: Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **April 17, 2025**
+- [Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis](https://fhe.org/meetups/070) by **Daniele Micciancio** on **Apr 3rd, 2025**
 - [Discussions on Implementing FHE on GPUs](https://fhe.org/meetups/069) by **Agnes Leroy** on **Mar 13th, 2025**
 - [Low Communication Threshold Fully Homomorphic Encryption](https://fhe.org/meetups/068) by **Alain Passelègue** on **Feb 27th, 2025**
 - [Relaxed Functional Bootstrapping: A New Perspective on BGV and BFV Bootstrapping](https://fhe.org/meetups/067) by **Zeyu Liu** on **Feb 20th, 2025**

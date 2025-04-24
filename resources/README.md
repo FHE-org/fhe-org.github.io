@@ -23,7 +23,8 @@
 - [Projects](#projects)
 
 ## Conference Resources
-- [FHE.org Toronto 2024 Conference Resources](https://fhe-org.github.io/conferences/conference-2024/resources) by **FHE.org** on **Apr 09, 2024**
+- [FHE.org Sofia 2025 Conference Resources](https://fhe-org.github.io/conferences/conference-2025/resources) by **FHE.org** on **Mar 25, 2025**
+- [FHE.org Toronto 2024 Conference Resources](https://fhe-org.github.io/conferences/conference-2024/resources) by **FHE.org** on **Mar 24, 2024**
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
@@ -105,6 +106,9 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a id="00169" href="https://www.youtube.com/watch?v=UMLeO_-0Mk8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Exploring General Cyclotomic Rings in Torus-Based FHE: Prime Power Instances</a> by **Mohammed Lemou** on **April 17, 2025**
+- <a id="00168" href="https://youtu.be/6FQX2otSbuE?t=2447"> 007: End-to-End Encrypted Audio Calls via Blind Audio Mixing</a> by **Emad Heydari Beni, Lode Hoste, Geert Heyman, Paschalis Tsiaflakis, Barry van Leeuwen, Robin Geelen, Marc Rivinius and Claudia Bartoli** on **March 28, 2025**
+- <a id="00167" href="https://www.youtube.com/live/R1NEfuv3iMk?feature=shared&t=16963"> Apple's Deployment of Homomorphic Encryption at Scale</a> by **Rehan Rishi, Haris Mughees, Fabian Boemer, Karl Tarbe, Nicholas Genise, Akshay Wadia, and Ruiyu Zhu** on **March 26, 2025**
 - <a id="00166" href="https://fhe.org/meetups/068">Low Communication Threshold Fully Homomorphic Encryption</a> by **Alain Passelègue** on **Feb 27th, 2025**
 - <a id="00163" href="https://www.zama.ai/the-state-of-fhe-report">The State of FHE Report — Q4 2024</a> by **Zama** on **Jan 21st, 2025**
 - <a id="00162" href="https://fhe.org/meetups/065">General Functional Bootstrapping using CKKS</a> by **Yuriy Polyakov** on **Jan 16th, 2025**
