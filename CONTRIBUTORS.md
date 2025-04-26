@@ -34,7 +34,6 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://scholar.google.com/citations?user=wPnZUOkAAAAJ">Benjamin Curtis</a>
 * Benqiang Wei
 * <a href="https://www.cs.utexas.edu/~bwaters/">Brent Waters</a>
-* <a href="https://github.com/carrotcypher">carrotcypher</a>
 * <a href="https://cathieyun.github.io/">Cathie Yun</a>
 * <a href="https://scholar.google.com/citations?user=tk4g8iwAAAAJ">Charlotte Bonte</a>
 * <a href="https://scholar.google.com/citations?user=KlTc3U4AAAAJ">Cheon Jung Hee</a>
@@ -44,17 +43,17 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://scholar.google.com/citations?user=XYghPVAAAAAJ">Clément Hoffmann</a>
 * <a href="https://scholar.google.com/citations?user=ZIlzcYcAAAAJ">Craig Gentry</a>
 * <a href="https://scholar.google.com/citations?user=jQi1CVcAAAAJ">Cristian Lupascu</a>
-* Dai Yiran
+* <a href="https://iacr.org/cryptodb/data/author.php?authorkey=12520">Dai Yiran</a>
 * <a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a>
 * <a href="https://scholar.google.com/citations?user=t9wZJU0AAAAJ">Damien Ligier</a>
 * <a href="http://perso.ens-lyon.fr/damien.stehle/">Damien Stehlé</a>
 * <a href="https://scholar.google.com/citations?user=8rjreLIAAAAJ">Daniele Micciancio</a>
-* Daphné Trama
+* <a href="https://dblp.org/pid/350/2492.html">Daphné Trama</a>
 * Dimitris Mouris
 * <a href="https://dwkim606.github.io/">Dongwoo Kim</a>
 * <a href="https://du1204.github.io/">Duhyeong Kim</a>
 * <a href="https://elkhanzada.github.io/">Elkhan Ismayilzada</a>
-* Enrico Bottazzi
+* <a href="https://hackmd.io/@letargicus/B1kD4vqns">Enrico Bottazzi</a>
 * <a href="https://www.cs.tau.ac.il/~tromer/">Eran Tromer</a>
 * <a href="https://pure.royalholloway.ac.uk/en/persons/erin-hales">Erin Hales</a>
 * <a href="https://scholar.google.com/citations?user=C1lS3TUAAAAJ">Erdinç Öztürk</a>
