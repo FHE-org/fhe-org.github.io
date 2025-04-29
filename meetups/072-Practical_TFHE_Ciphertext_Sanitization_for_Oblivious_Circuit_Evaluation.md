@@ -10,7 +10,7 @@
 #### by Intak Hwang - 2025.05.22
 #### <a href="https://lu.ma/avgxkr3h">Register for meetup</a> (lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-![FHE org Meetup 072 cover](https://github.com/user-attachments/assets/890af489-6322-48f7-aa60-cb52c1e162d6)
+![FHE org Meetup 072 cover](https://github.com/user-attachments/assets/4121536d-6cb4-417c-a1c1-d509a61c7c23)
 
 # Abstract
 
