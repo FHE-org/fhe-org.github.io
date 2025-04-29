@@ -15,11 +15,10 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 
 ## Coming up
 
-
-<a href="https://fhe.org/meetups/071"><img src="https://github.com/user-attachments/assets/ec2e018d-c3fd-4e95-aad2-e6f36409084b"></a>
+<a href="https://fhe.org/meetups/072"><img src="https://github.com/user-attachments/assets/c95a6e9a-56f4-4d79-a969-7bd606fe16c5"></a>
 <br/>
 
-- Register for the next meetup, [Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **Apr 17th, 2025 at 3PM CEST**
+- Register for the next meetup, [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025 at 4PM CEST**
 
 ## Looking for speaker interviews?
 
