@@ -14,19 +14,11 @@ If you want to learn more about FHE, make sure to:
 - Check out the [resources page](https://fhe-org.github.io/resources)
 - Join the [FHE.org community](https://fhe-org.github.io/community)
 
-## FHE.org 2025 conference
-
-The 4th Annual FHE.org Conference on Fully Homomorphic Encryption is collocated with [Real World Crypto 2025](https://rwc.iacr.org/2025/) and will be held at the Grand Hotel Millennium Sofia, 89B Vitosha Blvd, 1463, Sofia (Bulgaria) on March 25, 2025.
-
-The conference will feature presentation sessions, poster sessions, invited speakers, and a DJ'ed party and dinner.  For more information, check out the conference [webpage](https://fhe.org/2025).
-
-### [Register here](https://lu.ma/fhe-org-conference-2025-tickets)
-
 ## Here for meetups?
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, [Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **Apr 17th, 2025 at 3PM CEST**
+- Register for the next meetup, [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025 at 4PM CEST**
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews
