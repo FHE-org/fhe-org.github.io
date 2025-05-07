@@ -111,3 +111,8 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
 <br><br>
+
+## ICW-IACR
+
+FHE.org 2025 is held in cooperation with [IACR](https://iacr.org/) (ICW-IACR). \
+<a href="https://iacr.org/"><img src="https://github.com/user-attachments/assets/7789fe65-87ec-4368-bf3c-7af71254b9bf" width="150px"></a>
