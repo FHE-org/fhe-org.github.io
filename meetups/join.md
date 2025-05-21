@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://zama-ai.zoom.us/j/88182436502
+target: https://meet.google.com/mew-xoqt-qhw
 ---
