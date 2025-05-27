@@ -20,6 +20,7 @@
 - [FHE Schemes](#fhe-schemes)
 - [Libraries](#libraries)
 - [Courses](#courses)
+- [Textbooks](#textbooks)
 - [Projects](#projects)
 
 ## Conference Resources
@@ -81,10 +82,11 @@
 - <a id="00152" href="https://machinelearning.apple.com/research/homomorphic-encryption">Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem</a> by **Apple** on **October 24, 2024**
 - <a id="00148" href="https://fhe.org/meetups/058">Concrete ML - Machine Learning on Encrypted Data</a> by **Andrei Stoian** on **Sept 26th, 2024 at 5PM CEST**
 - <a id="00141" href="https://www.zama.ai/post/build-an-end-to-end-encrypted-23andme-genetic-testing-application-using-concrete-ml-fully-homomorphic-encryption"> Build an End-to-End Encrypted 23andMe-like Genetic Testing Application using Concrete ML</a> by **Zama** on **July 17, 2024**
-- <a id="00145" href="https://github.com/apple/live-caller-id-lookup-example"> Live Caller ID Lookup Example</a> by **Apple** on **July 10, 2024** 
+- <a id="00145" href="https://github.com/apple/live-caller-id-lookup-example"> Live Caller ID Lookup Example</a> by **Apple** on **July 10, 2024**
+- <a href="https://www.ibm.com/case-studies/blog/intesa-sanpaolo-ibm-secure-digital-transactions-fhe"> Intesa Sanpaolo and IBM secure digital transactions with fully homomorphic encryption</a> by **Memento Research** on **Jun 24, 2024**
+- - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
 - <a id="00140" href="https://github.com/Memento-Research/human-in-picture-concrete-ml"> Human In Picture (HIP) using Concrete ML</a> by **Memento Research** on **Jun 19, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
-- <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis" id="00042">Sentiment analysis over encrypted data</a> by **Zama** on **Nov 17, 2022**
 [//]: # "- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
@@ -205,6 +207,7 @@
 - <a href="https://heaan.it/" id="00120">HEaaN</a> - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
 - <a href="https://github.com/google/heir" id="00121">HEIR</a> - An MLIR-based compiler toolchain for FHE by **Google**
 - <a href="https://github.com/HomEnc/HElib" id="00122">HElib</a> - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
+- <a href="https://ibm.github.io/helayers/index.html" id="00127">HElayers</a> - an SDK for the practical and efficient execution of encrypted workloads using FHE by **IBM**
 - <a href="https://github.com/google/jaxite" id="00123">Jaxite</a> - A TFHE implementation targeting TPUs, written in JAX. By **Google**
 - <a href="https://github.com/ldsec/lattigo" id="00124">Lattigo</a> - Lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
 - <a href="https://github.com/openfheorg/openfhe-development" id="00125">OpenFHE</a> - Production-ready implementations of all major FHE schemes by **Duality Tech**
@@ -218,6 +221,10 @@
 - <a href="https://cseweb.ucsd.edu/classes/wi23/cse208-a/" id="00129">CSE208: Advanced Cryptography (FHE)</a> by **Daniele Micciancio** in **2023**
 - <a href="https://courses.openmined.org/courses/foundations-of-private-computation" id="00130">Foundations of Private Computation</a> by **Openmined** in **2022**
 - <a href="https://shaih.github.io/lattices-and-HE-class/index.html" id="00131">Homomorphic Encryption and Lattices</a> by **Shai Halevi** in **2011**
+
+## Textbooks
+
+- <a href="https://link.springer.com/book/10.1007/978-3-031-65494-7" id="00128">Homomorphic Encryption for Data Science (HE4DS)</a> by IBM in **2024**
 
 ## Projects
 
