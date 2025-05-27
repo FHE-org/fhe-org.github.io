@@ -15,10 +15,10 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/072"><img src="https://github.com/user-attachments/assets/c95a6e9a-56f4-4d79-a969-7bd606fe16c5"></a>
+<a href="https://fhe.org/meetups/073"><img src="https://github.com/user-attachments/assets/9903c3be-099a-4489-b095-10946c66cc61"></a>
 <br/>
 
-- Register for the next meetup, [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025 at 4PM CEST**
+- Register for the next meetup, [Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices](https://fhe.org/meetups/073) by **Jai Hyun Park** on **Jun 5th, 2025 at 2PM CEST**
 
 ## Looking for speaker interviews?
 
