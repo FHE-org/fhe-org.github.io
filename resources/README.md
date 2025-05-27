@@ -224,7 +224,7 @@
 
 ## Textbooks
 
-- <a href="https://link.springer.com/book/10.1007/978-3-031-65494-7" id="00128">Homomorphic Encryption for Data Science (HE4DS)</a> by IBM in **2024**
+- <a href="https://link.springer.com/book/10.1007/978-3-031-65494-7" id="00128">Homomorphic Encryption for Data Science (HE4DS)</a> by **IBM** in **2024**
 
 ## Projects
 
