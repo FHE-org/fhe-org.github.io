@@ -84,7 +84,7 @@
 - <a id="00141" href="https://www.zama.ai/post/build-an-end-to-end-encrypted-23andme-genetic-testing-application-using-concrete-ml-fully-homomorphic-encryption"> Build an End-to-End Encrypted 23andMe-like Genetic Testing Application using Concrete ML</a> by **Zama** on **July 17, 2024**
 - <a id="00145" href="https://github.com/apple/live-caller-id-lookup-example"> Live Caller ID Lookup Example</a> by **Apple** on **July 10, 2024**
 - <a href="https://www.ibm.com/case-studies/blog/intesa-sanpaolo-ibm-secure-digital-transactions-fhe"> Intesa Sanpaolo and IBM secure digital transactions with fully homomorphic encryption</a> by **Memento Research** on **Jun 24, 2024**
-- - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
+- <a href="https://huggingface.co/spaces/zama-fhe/encrypted_credit_scoring" id="00040">Encrypted Credit Card Approval Prediction Using Fully Homomorphic Encryption</a> by **Zama** on **Jan 31, 2024**
 - <a id="00140" href="https://github.com/Memento-Research/human-in-picture-concrete-ml"> Human In Picture (HIP) using Concrete ML</a> by **Memento Research** on **Jun 19, 2023**
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
