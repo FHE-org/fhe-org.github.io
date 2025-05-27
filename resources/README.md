@@ -207,7 +207,7 @@
 - <a href="https://heaan.it/" id="00120">HEaaN</a> - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
 - <a href="https://github.com/google/heir" id="00121">HEIR</a> - An MLIR-based compiler toolchain for FHE by **Google**
 - <a href="https://github.com/HomEnc/HElib" id="00122">HElib</a> - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
-- <a href="https://ibm.github.io/helayers/index.html" id="00127">HElayers</a> - an SDK for the practical and efficient execution of encrypted workloads using FHE by **IBM**
+- <a href="https://ibm.github.io/helayers/index.html" id="00127">HElayers</a> - An SDK for the practical and efficient execution of encrypted workloads using FHE by **IBM**
 - <a href="https://github.com/google/jaxite" id="00123">Jaxite</a> - A TFHE implementation targeting TPUs, written in JAX. By **Google**
 - <a href="https://github.com/ldsec/lattigo" id="00124">Lattigo</a> - Lattice-based multiparty homomorphic encryption library in Go by **Tune Insight**
 - <a href="https://github.com/openfheorg/openfhe-development" id="00125">OpenFHE</a> - Production-ready implementations of all major FHE schemes by **Duality Tech**
