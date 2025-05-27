@@ -8,7 +8,7 @@
 
 #  Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation
 #### by Intak Hwang - 2025.05.22
-#### <a href="https://lu.ma/avgxkr3h">Register for meetup</a> (lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/playlist?list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM">Presentation recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![FHE org Meetup covers](https://github.com/user-attachments/assets/c95a6e9a-56f4-4d79-a969-7bd606fe16c5)
 
@@ -25,10 +25,6 @@ In addition, we design a zero-knowledge argument of knowledge (ZKAoK) for TFHE p
 # About the speaker
 
 Intak Hwang is a Ph.D. student at Seoul National University. His research interests include, but are not limited to, Fully Homomorphic Encryption and Zero-Knowledge Proofs.
-
-# Register for meetup
-
-To register for this meetup, visit [our lu.ma page here](https://lu.ma/avgxkr3h).
 
 # Never miss an update
 
