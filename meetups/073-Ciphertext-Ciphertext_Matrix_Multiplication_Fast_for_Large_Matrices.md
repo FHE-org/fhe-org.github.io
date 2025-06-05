@@ -8,7 +8,7 @@
 
 #  Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices
 #### by Jai Hyun Park - 2025.06.05
-#### <a href="https://lu.ma/by3c2f2g">Register for meetup</a> (lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://lu.ma/by3c2f2g">Register for meetup</a> (lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord) | <a href ="https://github.com/user-attachments/files/20612563/fheorg_20250605.pdf"> Slides<a/> (Github)
 
 ![073 Meetup Cover)](https://github.com/user-attachments/assets/9903c3be-099a-4489-b095-10946c66cc61)
 
