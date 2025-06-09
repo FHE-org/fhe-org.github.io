@@ -15,10 +15,10 @@ Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://l
 
 ## Coming up
 
-<a href="https://fhe.org/meetups/073"><img src="https://github.com/user-attachments/assets/9903c3be-099a-4489-b095-10946c66cc61"></a>
+<a href="https://fhe.org/meetups/074"><img src="https://github.com/user-attachments/assets/1af775be-54dc-4f87-9623-47ce29cecfdc"></a>
 <br/>
 
-- Register for the next meetup, [Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices](https://fhe.org/meetups/073) by **Jai Hyun Park** on **Jun 5th, 2025 at 2PM CEST**
+- Register for the next meetup, [Oblivious Message Retrieval](https://fhe.org/meetups/074) by **Zeyu Liu** on **Jun 12th, 2025 at 4PM CEST**
 
 ## Looking for speaker interviews?
 
@@ -30,6 +30,7 @@ FHE.org meetups archive, latest first.
 
 ### 2025
 
+- [Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices](https://fhe.org/meetups/073) by **Jai Hyun Park** on **Jun 5th, 2025**
 - [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025**
 - [Exploring General Cyclotomic Rings in Torus-Based FHE: Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **April 17, 2025**
 - [Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis](https://fhe.org/meetups/070) by **Daniele Micciancio** on **Apr 3rd, 2025**
