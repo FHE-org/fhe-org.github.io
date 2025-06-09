@@ -10,7 +10,7 @@
 #### by Zeyu Liu - 2025.06.12
 #### <a href="https://lu.ma/w6qnv4zz">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<img width="900" alt="074 Meetup cover" src="https://github.com/user-attachments/assets/1af775be-54dc-4f87-9623-47ce29cecfdc" />
+<a href="https://lu.ma/w6qnv4zz"><img width="900" alt="074 Meetup cover" src="https://github.com/user-attachments/assets/1af775be-54dc-4f87-9623-47ce29cecfdc" /></a>
 
 # Abstract
 
