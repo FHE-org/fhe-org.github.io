@@ -8,7 +8,7 @@
 
 #  Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation
 #### by Intak Hwang - 2025.05.22
-#### <a href="https://www.youtube.com/watch?v=UfPE8P_Zh78&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=ywUTnzdicMc">Presenter interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UfPE8P_Zh78&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=ywUTnzdicMc">Presenter interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord) | <a href="https://github.com/user-attachments/files/20668829/fheorg-5.pdf">Slides</a> (Github)
 
 ![FHE org Meetup covers](https://github.com/user-attachments/assets/c95a6e9a-56f4-4d79-a969-7bd606fe16c5)
 
