@@ -53,7 +53,7 @@ First time attending and curious what it will be like? [Read this](https://fheor
 - **2025.04.16** All conference resources are now online, see [here](https://fhe-org.github.io/conferences/conference-2025/resources)
 - **2025.02.13** The finalized program is online, see [here](https://fhe.org/conferences/conference-2025/program)
 - **2025.01.24** The accepted submissions have been announced, check out the full list [here](https://fhe.org/conferences/conference-2025/program)
-- **2024.11.23** The submission server is now closed, 56 submissions were recieved
+- **2024.11.23** The submission server is now closed, 56 submissions were received
 - **2024.09.25** Announced program committee
 - **2024.09.18** Registration page is open - register [here](https://lu.ma/fhe-org-conference-2025-tickets). Students can apply for free registration by sending an email from their academic email address to contact@fhe.org with their name and institution
 - **2024.09.17** Announced program chairs (Miran Kim and Shai Halevi)
@@ -71,7 +71,7 @@ First time attending and curious what it will be like? [Read this](https://fheor
 ![image](https://github.com/user-attachments/assets/95fc832f-49e4-4b0e-a7a8-151d7174140d)
 
 
-Grand Hotel Millenium Sofia – Bulgaria’s capital’s newest hospitality jewel. It is located in a stand-alone plot of the highest building in the city center offering undisturbed views of the city’s skyline and Vitosha mountain. It is the city’s largest upscale conference hotel with 400 rooms and 5000 sq. m. convention centre. You need only to raise your sight to see Grand Hotel Millennium overlooking the National Palace of Culture and the entire city. Coziness, style and luxury that redefine the standards of what modern living should fell like. Experience true privacy and comfort, complemented by recharging energy of the breathtaking views of the Vitosha mountain. 
+Grand Hotel Millenium Sofia – Bulgaria’s capital’s newest hospitality jewel. It is located in a stand-alone plot of the highest building in the city center offering undisturbed views of the city’s skyline and Vitosha mountain. It is the city’s largest upscale conference hotel with 400 rooms and 5000 sq. m. convention centre. You need only to raise your sight to see Grand Hotel Millennium overlooking the National Palace of Culture and the entire city. Coziness, style and luxury that redefine the standards of what modern living should fell like. Experience true privacy and comfort, complemented by the recharging energy of the breathtaking views of the Vitosha mountain. 
 
 
 
