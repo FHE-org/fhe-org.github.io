@@ -8,7 +8,7 @@
 
 # Somewhat Homomorphic Encryption from Sparse LPN
 #### by Alexandra Henzinger - 2025.06.19
-#### <a href="https://lu.ma/opf2g5sj">Register for meetup</a> (Lu.ma) | <a href="https://eprint.iacr.org/2024/1760">Relevant paper</a> (eprint) <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://lu.ma/opf2g5sj">Register for meetup</a> (Lu.ma) | <a href="https://eprint.iacr.org/2024/1760">Relevant paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://lu.ma/opf2g5sj"><img width="900" alt="075 Meetup cover" src="https://github.com/user-attachments/assets/52b89415-e9cf-4c81-b24c-b6aaaf8acf5e" /></a>
 
