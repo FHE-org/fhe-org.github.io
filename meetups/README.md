@@ -12,14 +12,6 @@ Interested to present your latest paper, poster, slides, implementation or use c
 
 Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://lu.ma/fhe) for updates!
 
-
-## Coming up
-
-<a href="https://fhe.org/meetups/074"><img src="https://github.com/user-attachments/assets/1af775be-54dc-4f87-9623-47ce29cecfdc"></a>
-<br/>
-
-- Register for the next meetup, [Oblivious Message Retrieval](https://fhe.org/meetups/074) by **Zeyu Liu** on **Jun 12th, 2025 at 4PM CEST**
-
 ## Looking for speaker interviews?
 
 As a part of the meetups, we interview presenters (and other community members) to get their thoughts on FHE. You may find a "Meet the Speaker" link in the meetups below, or [see the whole playlist here](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4).
