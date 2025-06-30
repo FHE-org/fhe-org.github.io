@@ -8,7 +8,7 @@
 
 # Somewhat Homomorphic Encryption from Sparse LPN
 #### by Alexandra Henzinger - 2025.06.19
-#### <a href="https://lu.ma/opf2g5sj">Register for meetup</a> (Lu.ma) | <a href="https://eprint.iacr.org/2024/1760">Relevant paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/t9Ov7tPxzF8">Presentation recording</a> (Youtube) | <a href="https://eprint.iacr.org/2024/1760">Relevant paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://lu.ma/opf2g5sj"><img width="900" alt="075 Meetup cover" src="https://github.com/user-attachments/assets/52b89415-e9cf-4c81-b24c-b6aaaf8acf5e" /></a>
 
@@ -21,10 +21,6 @@ Joint work with Henry Corrigan-Gibbs, Yael Kalai, and Vinod Vaikuntanathan (to a
 # About the speaker
 
 Alexandra Henzinger is a Ph.D. student in the Parallel and Distributed Operating Systems group at MIT, advised by Henry Corrigan-Gibbs. Alexandra works on building computer systems that protect their users’ security and privacy. Much of her recent work has focused on private information retrieval, from designing cryptographic protocols to building a private search engine. She has received an NSF GRFP fellowship and an MIT EECS Great Educators fellowship, and she was selected as a 2024 EECS Rising Star. 
-
-# Register for the meetup
-
-RSVP for the meetup [here](https://lu.ma/opf2g5sj).
 
 # Never miss an update
 
