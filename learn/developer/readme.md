@@ -798,8 +798,6 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 [view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/boolean/serialization)
 - C-API #C #tfhe-rs #tfhe #tutorial
 [view](https://docs.zama.ai/tfhe-rs/how-to/c_api)
-- WASM-API #JS #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/how-to/js_on_wasm_api)
 - FHE SHA256 #Rust #tfhe-rs #tfhe #tutorial
 [view](https://docs.zama.ai/tfhe-rs/tutorials/sha256_bool)
 - Encrypted Regular Expression engine #Rust #tfhe-rs #tfhe #application
