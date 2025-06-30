@@ -8,7 +8,7 @@
 
 #  Oblivious Message Retrieval
 #### by Zeyu Liu - 2025.06.12
-#### <a href="https://lu.ma/w6qnv4zz">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/rAU5m8RtrxI">Presentation recording</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://lu.ma/w6qnv4zz"><img width="900" alt="074 Meetup cover" src="https://github.com/user-attachments/assets/1af775be-54dc-4f87-9623-47ce29cecfdc" /></a>
 
@@ -27,10 +27,6 @@ We also consider the case of group messaging, where each message may have multip
 # About the speaker
 
 Zeyu Liu is a PhD student at Yale University, advised by Ben Fisch. He obtained his MS from Columbia University, advised by Tal Malkin and Eran Tromer. His main research focus is on lattice-based cryptography (including lattice-based fully homomorphic encryption and its applications) and blockchain-related protocols.
-
-# Register for the meetup
-
-RSVP for the meetup [here](https://lu.ma/w6qnv4zz).
 
 # Never miss an update
 
