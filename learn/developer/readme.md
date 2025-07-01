@@ -660,15 +660,15 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 ### Concrete
 
 - Table Lookup #Python #concrete #tfhe #tutorial
-[view](https://docs.zama.ai/concrete/tutorials/table_lookups)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - Rounded Table Lookup #Python #concrete #tfhe #tutorial
-[view](https://docs.zama.ai/concrete/tutorials/rounding)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - TFHE floating points #Python #concrete #tfhe #tutorial
-[view](https://docs.zama.ai/concrete/tutorials/floating_points)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - Encrypted Key value database #Python #concrete #tfhe #application
-[view](https://docs.zama.ai/concrete/application-tutorials/key_value_database)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - Client Server deployment #Python #concrete #tfhe #deployment
-[view](https://docs.zama.ai/concrete/how-to/deploy)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 
 ### Lattigo
 
@@ -789,21 +789,21 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 ### TFHE-rs
 
 - Integer operations #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/integer/operations)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 - Integer Serialization/Deserialization
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/integer/serialization)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 - Boolean operations #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/boolean/operations)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 - Boolean serialization #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/fine-grained-apis/boolean/serialization)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 - C-API #C #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/how-to/c_api)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 - FHE SHA256 #Rust #tfhe-rs #tfhe #tutorial
-[view](https://docs.zama.ai/tfhe-rs/tutorials/sha256_bool)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 - Encrypted Regular Expression engine #Rust #tfhe-rs #tfhe #application
-[view](https://www.zama.ai/post/regex-engine-tfhe-rs)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 - Dark Market in FHE #Rust #tfhe-rs #tfhe #application
-[view](https://www.zama.ai/post/dark-market-tfhe-rs)
+[view](https://docs.zama.ai/tfhe-rs/tutorials/see-all-tutorials)
 
 
 
