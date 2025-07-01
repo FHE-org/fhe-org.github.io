@@ -395,7 +395,7 @@ The speed of FHE-based operations is constantly improving. However, there is sti
 <td>Further Reading</td>
 <td markdown="1">
 
-- [tfhe-rs benchmarks](https://docs.zama.ai/tfhe-rs/getting-started/benchmarks) by **Zama** in **2023**.
+- [tfhe-rs benchmarks](https://docs.zama.ai/tfhe-rs/get-started/benchmarks) by **Zama** in **2025**.
 - Demo paper containing [Lattigo benchmars](https://homomorphicencryption.org/wp-content/uploads/2020/12/wahc20_demo_christian.pdf) by **Mouchet et al.** in **2020**.
 </td>
 </tr>
