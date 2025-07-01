@@ -660,15 +660,15 @@ Here is a list of examples and tutorials from each libraries, with some keywords
 ### Concrete
 
 - Table Lookup #Python #concrete #tfhe #tutorial
-[view](https://docs.zama.ai/concrete/tutorials/table_lookups)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - Rounded Table Lookup #Python #concrete #tfhe #tutorial
-[view](https://docs.zama.ai/concrete/tutorials/rounding)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - TFHE floating points #Python #concrete #tfhe #tutorial
-[view](https://docs.zama.ai/concrete/tutorials/floating_points)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - Encrypted Key value database #Python #concrete #tfhe #application
-[view](https://docs.zama.ai/concrete/application-tutorials/key_value_database)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 - Client Server deployment #Python #concrete #tfhe #deployment
-[view](https://docs.zama.ai/concrete/how-to/deploy)
+[view](https://docs.zama.ai/concrete/tutorials/see-all-tutorials)
 
 ### Lattigo
 
