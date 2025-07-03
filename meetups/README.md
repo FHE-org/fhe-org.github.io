@@ -24,6 +24,9 @@ FHE.org meetups archive, latest first.
 
 ### 2025
 
+- [Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys](https://fhe.org/meetups/076) by **Olivier Bernard** on **Jul 3, 2025**
+- [Somewhat Homomorphic Encryption from Sparse LPN](https://fhe.org/meetups/075) by **Alexandra Henzinger** on **Jun 19, 2025**
+- [Oblivious Message Retrieval](https://fhe.org/meetups/074) by **Zeyu Liu** on **Jun 12th, 2025**
 - [Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices](https://fhe.org/meetups/073) by **Jai Hyun Park** on **Jun 5th, 2025**
 - [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025**
 - [Exploring General Cyclotomic Rings in Torus-Based FHE: Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **April 17, 2025**
