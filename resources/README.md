@@ -106,6 +106,9 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a id="00175" href="https://ckks.org/blog/2025/threshold/">Low Communication Threshold Fully Homomorphic Encryption  </a> by **Alain Passelègue** on **July 13th, 2025**
+- <a id="00174" href="https://ckks.org/blog/2025/bootstrapping-discrete-data-with-ckks/">Bootstrapping Discrete Data with CKKS</a> by **Jaehyung Kim** on **Jun 8th, 2025**
+- <a id="00173" href="https://ckks.org/blog/2025/grafting/">Grafting: Improving Performance and Usability of Homomorphic Encryption </a> by **Johannes Mono** on **Jun 8th, 2025**
 - <a id="00172" href="https://fhe.org/meetups/073">Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices</a> by **Jai Hyun Park** on **Jun 5th, 2025**
 - <a id="00171" href="https://fhe.org/meetups/072">Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation</a> by **Intak Hwang** on **May 22nd, 2025**
 - <a id="00169" href="https://www.youtube.com/watch?v=UMLeO_-0Mk8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Exploring General Cyclotomic Rings in Torus-Based FHE: Prime Power Instances</a> by **Mohammed Lemou** on **April 17, 2025**
