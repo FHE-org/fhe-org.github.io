@@ -24,6 +24,7 @@ FHE.org meetups archive, latest first.
 
 ### 2025
 
+- [Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead](https://fhe.org/meetups/077) by **Antonio Guimarães** on **Jul 17th, 2025**
 - [Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys](https://fhe.org/meetups/076) by **Olivier Bernard** on **Jul 3, 2025**
 - [Somewhat Homomorphic Encryption from Sparse LPN](https://fhe.org/meetups/075) by **Alexandra Henzinger** on **Jun 19, 2025**
 - [Oblivious Message Retrieval](https://fhe.org/meetups/074) by **Zeyu Liu** on **Jun 12th, 2025**
