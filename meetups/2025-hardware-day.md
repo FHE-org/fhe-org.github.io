@@ -27,7 +27,7 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
 
 * 1830 CEST: Michiel van Beirendonck (Belfort)
 
-* 1900 CET: Panel hosted by Nigel Smart (Zama), featuring: Ingrid Verbauwhde (Belfort), Paul Master (Cornami), Rosario Cammarota (Intel)
+* 1900 CET: Panel hosted by Nigel Smart (Zama), featuring: Ingrid Verbauwhede (Belfort), Paul Master (Cornami), Rosario Cammarota (Intel)
 
 * 2000 CEST: Pierre Gardrat (Zama)
 
