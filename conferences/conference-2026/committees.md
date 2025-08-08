@@ -17,7 +17,7 @@
   —
   Call for Presentations
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2026/committees/"><b>Committees</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2026/committees"><b>Committees</b></a>
   —
   Submissions
   —
