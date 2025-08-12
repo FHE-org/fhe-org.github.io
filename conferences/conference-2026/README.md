@@ -34,7 +34,7 @@
 
 # FHE.org 2026 conference
 
-The 5th Annual FHE.org Conference on Fully Homomorphic Encryption is collocated with [Real World Crypto 2026](https://rwc.iacr.org/2026/). The conference will be held in Taipei, Taiwan, on March 8th 2026.
+The 5th Annual FHE.org Conference on Fully Homomorphic Encryption is collocated with [Real World Crypto 2026](https://rwc.iacr.org/2026/) and takes place in cooperation with [IACR](https://iacr.org/) (ICW-IACR). The conference will be held in Taipei, Taiwan, on March 8th 2026.
 
 The conference will feature presentation sessions, poster sessions, invited speakers, and a DJ'ed party with cocktails. 
 
