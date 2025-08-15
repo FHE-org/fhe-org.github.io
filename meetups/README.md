@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/"><b>Meetups</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2025/">Conference 2025</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/"><b>Meetups</b></a> | <a href="https://fhe-org.github.io/conferences/conference-2026/">Conference 2026</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -10,15 +10,9 @@
 
 Interested to present your latest paper, poster, slides, implementation or use case to the FHE.org community of researchers and developers? Submit your presentation [here](https://fhe.org/submit)
 
+## Next Meetup
+
 Don't miss new meetups, conferences and more! Subscribe to [lu.ma/fhe](https://lu.ma/fhe) for updates!
-
-
-## Coming up
-
-<a href="https://fhe.org/meetups/072"><img src="https://github.com/user-attachments/assets/c95a6e9a-56f4-4d79-a969-7bd606fe16c5"></a>
-<br/>
-
-- Register for the next meetup, [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025 at 4PM CEST**
 
 ## Looking for speaker interviews?
 
@@ -30,6 +24,12 @@ FHE.org meetups archive, latest first.
 
 ### 2025
 
+- [Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead](https://fhe.org/meetups/077) by **Antonio Guimarães** on **Jul 17th, 2025**
+- [Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys](https://fhe.org/meetups/076) by **Olivier Bernard** on **Jul 3, 2025**
+- [Somewhat Homomorphic Encryption from Sparse LPN](https://fhe.org/meetups/075) by **Alexandra Henzinger** on **Jun 19, 2025**
+- [Oblivious Message Retrieval](https://fhe.org/meetups/074) by **Zeyu Liu** on **Jun 12th, 2025**
+- [Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices](https://fhe.org/meetups/073) by **Jai Hyun Park** on **Jun 5th, 2025**
+- [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025**
 - [Exploring General Cyclotomic Rings in Torus-Based FHE: Prime Power Instances](https://fhe.org/meetups/071) by **Mohammed Lemou** on **April 17, 2025**
 - [Bit Security: Optimal Adversaries, Equivalence Results, and a Toolbox for Computational-statistical Security Analysis](https://fhe.org/meetups/070) by **Daniele Micciancio** on **Apr 3rd, 2025**
 - [Discussions on Implementing FHE on GPUs](https://fhe.org/meetups/069) by **Agnes Leroy** on **Mar 13th, 2025**

@@ -1,7 +1,7 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2025/">Conference 2025</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io"><b>Home</b></a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2026/">Conference 2026</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
@@ -18,7 +18,7 @@ If you want to learn more about FHE, make sure to:
 
 FHE.org hosts regular community meetups featuring presentations from community members on various FHE related topics. Here you can:
 
-- Register for the next meetup, [Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation](https://fhe.org/meetups/072) by **Intak Hwang** on **May 22nd, 2025 at 4PM CEST**
+- [Register](https://lu.ma/fhe) for upcoming meetups
 - [Browse resources](https://fhe.org/meetups) from all past meetups
 - [Submit your own idea](https://fhe.org/submit) for a meetup
 - [Meet the community](https://www.youtube.com/watch?v=2qb1KdPxlPU&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4) through recorded interviews

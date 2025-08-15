@@ -1,14 +1,14 @@
 <!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
-  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2025/">Conference 2025</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
+  <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2026/">Conference 2026</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
 </p>
 <hr/>
 <!-- /Main header navigation -->
 
 #  Practical TFHE Ciphertext Sanitization for Oblivious Circuit Evaluation
 #### by Intak Hwang - 2025.05.22
-#### <a href="https://lu.ma/avgxkr3h">Register for meetup</a> (lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UfPE8P_Zh78&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=ywUTnzdicMc">Presenter interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord) | <a href="https://github.com/user-attachments/files/20668829/fheorg-5.pdf">Slides</a> (Github)
 
 ![FHE org Meetup covers](https://github.com/user-attachments/assets/c95a6e9a-56f4-4d79-a969-7bd606fe16c5)
 
@@ -25,10 +25,6 @@ In addition, we design a zero-knowledge argument of knowledge (ZKAoK) for TFHE p
 # About the speaker
 
 Intak Hwang is a Ph.D. student at Seoul National University. His research interests include, but are not limited to, Fully Homomorphic Encryption and Zero-Knowledge Proofs.
-
-# Register for meetup
-
-To register for this meetup, visit [our lu.ma page here](https://lu.ma/avgxkr3h).
 
 # Never miss an update
 
