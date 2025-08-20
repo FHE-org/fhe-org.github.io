@@ -31,7 +31,7 @@
 <!-- /Header conference 2025 links -->
 
 # FHE.org conference 2026 — Call for Presentations
-The 5th Annual FHE.org Conference on Fully Homomorphic Encryption is affiliated with Real World Crypto 2026 and will be held on March 8, 2026 in Taipei, Taiwan.
+The 5th Annual FHE.org Conference on Fully Homomorphic Encryption is co-located with Real World Crypto 2026. The conference will be held at the Taipei Marriott Hotel in Taipei, Taiwan, on March 8th 2026.
 
 ## **Motivation and scope**
 
