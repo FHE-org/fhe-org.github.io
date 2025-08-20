@@ -15,7 +15,7 @@
   —
   Program
   —
-  Call for Presentations
+  <a href="https://fhe-org.github.io/conferences/conference-2026/call-for-presentations">Call for presentations</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/committees">Committees</a>
   —
