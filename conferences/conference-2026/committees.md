@@ -15,13 +15,13 @@
   —
   Program
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2026/call-for-presentations"><b>Call for presentations</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2026/call-for-presentations">Call for presentations</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/committees"><b>Committees</b></a>
   —
   Submissions
   —
-  Contact
+  <a href="https://fhe-org.github.io/conferences/conference-2026/contact">Contact</a>
   —
   Sponsor
   —
