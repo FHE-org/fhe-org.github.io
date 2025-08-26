@@ -48,5 +48,4 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **Conference date:** March 8, 2026
 
 ## Sponsors
-
-*Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences [like these sponsors have](https://fhe.org/sponsor). Reach out to us at contact@fhe.org.*
+*Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences just as our [2025 sponsors](https://fhe.org/conferences/conference-2025/sponsor) have. Reach out to us at contact@fhe.org.*
