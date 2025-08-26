@@ -21,7 +21,7 @@
   —
   Submissions
   —
-  Contact
+  <a href="https://fhe-org.github.io/conferences/conference-2026/contact">Contact</a>
   —
   Sponsor
   —
