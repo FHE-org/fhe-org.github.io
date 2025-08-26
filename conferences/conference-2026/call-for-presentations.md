@@ -19,7 +19,7 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/committees">Committees</a>
   —
-  Submissions
+  <a href="https://fhe-org.github.io/conferences/conference-2026/submissions">Submissions</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/contact">Contact</a>
   —
