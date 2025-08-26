@@ -63,18 +63,6 @@ FHE.org 2025 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://trailofbits.com"><img src="https://github.com/user-attachments/assets/146bc163-a900-4949-bdd0-6df35375b22b" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
 
-In addition to any recurring sponsors above, previous editions were also sponsored by <i>(in alphabetical order)</i>:
-
-<span style="padding-right:10px"><a href="https://fabriccryptography.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/695f8ca7-87ec-4173-b790-c8d01426f52a" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://www.ingonyama.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/ed42c7a5-22cf-446a-8478-403726db85d1" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://loricacyber.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/0ea1412f-75eb-46ba-a940-71289fd53d21" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://omniatech.io/"><img src="https://github.com/user-attachments/assets/a673dbc1-3269-4d38-84ec-2b17cd90a976" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://privasea.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/29fa56ac-562e-48f5-9924-2deaf4025e9d" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://shostack.org/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/a1d21430-aefe-49dd-b0e8-3ae7747fad96" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://tekkare.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7f5a5c0d-415b-4450-b7ba-4e670461014d" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://tt-logic.ai/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/aa76cacd-a5d5-491c-837f-b2e7b2fda593" width="125px"></a></span>
-<span style="padding-right:10px"><a href="https://vaultchem.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/25977b87-d294-4868-8acb-f3193fa42ace" width="125px"></a></span>
-
 <br>
 
 ## FHE.org 2025 Sofia is coming up!
