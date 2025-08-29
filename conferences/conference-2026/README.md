@@ -49,3 +49,10 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 ## Sponsors
 *Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences just as our [2025 sponsors](https://fhe.org/conferences/conference-2025/sponsor) have. Reach out to us at contact@fhe.org.*
+
+
+## ICW-IACR
+
+FHE.org 2026 is held in cooperation with [IACR](https://iacr.org/) (ICW-IACR).
+
+<a href="https://iacr.org/"><img src="https://github.com/user-attachments/assets/7789fe65-87ec-4368-bf3c-7af71254b9bf" width="150px"></a>
