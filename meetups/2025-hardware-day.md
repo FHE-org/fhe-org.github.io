@@ -23,16 +23,15 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
 
 # Schedule
 
-* 1800 CEST: Flavio Bergamaschi (Optalysys)
+* 1800 CEST: Flavio Bergamaschi (Optalysys) and Imon Kundu (Optalysys)
 
 * 1830 CEST: Michiel van Beirendonck (Belfort)
 
 * 1900 CET: Panel hosted by Nigel Smart (Zama), featuring: Ingrid Verbauwhede (Belfort), Paul Master (Cornami), Rosario Cammarota (Intel)
 
-* 2000 CEST: Pierre Gardrat (Zama)
+* 2000 CEST: Jing-Jing Duflot (Zama)
 
-* 2030 CEST: Shruthi Gorantala (Google)
-
+* 2030 CEST: Shruthi Gorantala (Google) and Wouter Legiest (KU Leuven)
 
 
 # Register for Hardware Day
