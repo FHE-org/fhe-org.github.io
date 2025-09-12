@@ -29,7 +29,7 @@
 
 # Abstract
 
-This presentation aims to highlight some of the recent advances in tools fof automatic Boolean circuit mapping to TFHE functional bootstrapping (FBS). One approach to using FBS is to map Boolean circuits to generic k-input LUTs, which is a straightforward method and extensive tools from the circuit synthesis field are available for this. However, manual optimisations may be necessary to fully leverage the potential of FBS. A fast and automatic method to perform this task will be presented together with empirical results on a set of representative benchmark circuits.
+This presentation aims to highlight some of the recent advances in tools for automatic Boolean circuit mapping to TFHE functional bootstrapping (FBS). One approach to using FBS is to map Boolean circuits to generic k-input LUTs, which is a straightforward method and extensive tools from the circuit synthesis field are available for this. However, manual optimisations may be necessary to fully leverage the potential of FBS. A fast and automatic method to perform this task will be presented together with empirical results on a set of representative benchmark circuits.
 
 # About the speaker
 
