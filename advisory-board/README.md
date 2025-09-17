@@ -8,7 +8,7 @@
 
 
 <p align="center">
-Save the date! <a href="https://fhe-org.github.io/conferences/conference-2026/">FHE.org Taipei 2026</a> is officially announced and is co-locating with Real World Crypto 2026</a> on March 8th 2026.
+Save the date! <a href="https://fhe-org.github.io/conferences/conference-2026/">FHE.org Taipei 2026</a> is officially announced and is co-locating with Real World Crypto 2026 on March 8th 2026.
 </p>
 <hr/>
 
