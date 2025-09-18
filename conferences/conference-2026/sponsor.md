@@ -45,7 +45,7 @@ FHE.org 2026 gratefully acknowledges the financial support of <i>(in alphabetica
 
 <br><br>
 
-## FHE.org 2026 Taipei is coming up!
+## FHE.org 2026 Taipei is coming up
 
 We are thrilled to be hosting the 5th Annual FHE.org Conference on Fully Homomorphic Encryption, in-association with IACR and collocated with Real World Crypto 2026.
 
