@@ -8,9 +8,9 @@
 
 # InsPIRe: Communication-Efficient PIR with Silent Preprocessing
 #### by Rasoul Akhavan Mahdavi - 2025.10.09
-#### <a href="https://luma.com/FHE.org-087-Rasoul-Akhavan-Mahdavi">Register for meetup</a> (Lu.ma) | <a href="https://eprint.iacr.org/2025/1352">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://luma.com/FHE.org-087">Register for meetup</a> (Lu.ma) | <a href="https://eprint.iacr.org/2025/1352">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<a href="https://luma.com/FHE.org-087-Rasoul-Akhavan-Mahdavi"><img width="900" alt="Meetup 078" src="https://github.com/user-attachments/assets/4615ec23-0c56-4361-8fbd-7737a6c6f1b1" /></a>
+<a href="https://luma.com/FHE.org-087"><img width="900" alt="Meetup 078" src="https://github.com/user-attachments/assets/4615ec23-0c56-4361-8fbd-7737a6c6f1b1" /></a>
 
 # Abstract
 
@@ -22,7 +22,7 @@ Rasoul is a fourth-year PhD candidate at the University of Waterloo and a member
 
 # Register for the meetup
 
-RSVP for the meetup [here](https://luma.com/FHE.org-087-Rasoul-Akhavan-Mahdavi).
+RSVP for the meetup [here](https://luma.com/FHE.org-087).
 
 # Never miss an update
 
