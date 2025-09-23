@@ -23,15 +23,55 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
 
 # Schedule
 
-* 1800 CEST: Flavio Bergamaschi (Optalysys) and Imon Kundu (Optalysys)
+<table>
+  <thead>
+    <tr>
+      <th data-sortas="case-insensitive">Time</th>
+      <th data-sortas="case-insensitive">Session Topic</th>
+      <th data-sortas="case-insensitive">Speakers</th>
+    </tr>
+  </thead>
 
-* 1830 CEST: Michiel van Beirendonck (Belfort)
+  <tr>
+    <td width=100px>1800 CEST</td>
+    <td width=400px>Hardware and Software Co-design of Fully Homomorphic Encryption accelerators using integrated photonics.</td>
+    <td>Flavio Bergamaschi (Optalysys) and Imon Kundu (Optalysys)</td>
+  </tr>
 
-* 1900 CET: Panel hosted by Nigel Smart (Zama), featuring: Ingrid Verbauwhede (Belfort), Paul Master (Cornami), and Rosario Cammarota (Intel)
+  <tr>
+    <td width=100px>1830 CEST</td>
+    <td width=400px>Belfort - From Theory to Throughput: Deploying FHE in the Cloud</td>
+    <td>Michiel Van Beirendonck (Belfort)</td>
+  </tr>
 
-* 2000 CEST: Jing-Jing Duflot (Zama)
+  <tr>
+    <td width=100px>1900 CEST</td>
+    <td width=400px>Panel on Hardware for FHE</td>
+    <td>Nigel Smart (Zama, Host), Ingrid Verbauwhede (Belfort), Paul Master (Cornami), and Rosario Cammarota (Intel Labs)  </td>
+  </tr>
 
-* 2030 CEST: Shruthi Gorantala (Google) and Wouter Legiest (KU Leuven)
+  <tr>
+    <td width=100px>2000 CEST</td>
+    <td width=400px>Homomorphic Processing Unit (HPU) on FPGA</td>
+    <td>Jing-Jing Duflot (Zama)</td>
+  </tr>
+
+  <tr>
+    <td width=100px>2030 CEST</td>
+    <td width=400px>HEIR, Hardware and Benchmarking</td>
+    <td>Shruthi Gorantala (Google) and Wouter Legiest (KU Leuven)</td>
+  </tr>
+
+  <tr>
+    <td width=100px>2100 CEST</td>
+    <td width=400px>FHE.org Announcements and Closing</td>
+    <td></td>
+  </tr>
+
+  </td>
+  </table>
+
+
 
 
 # Register for Hardware Day
