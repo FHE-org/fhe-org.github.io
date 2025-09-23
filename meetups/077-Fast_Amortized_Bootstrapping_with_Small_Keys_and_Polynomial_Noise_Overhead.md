@@ -6,23 +6,25 @@
 <hr/>
 <!-- /Main header navigation -->
 
-# InsPIRe: Communication-Efficient PIR with Silent Preprocessing
-#### by Rasoul Akhavan Mahdavi - 2025.10.09
-#### <a href="https://luma.com/FHE.org-087-Rasoul-Akhavan-Mahdavi">Register for meetup</a> (Lu.ma) | <a href="https://eprint.iacr.org/2025/1352">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+# Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead
+#### by Antonio Guimarães - 2025.07.17
+#### <a href="https://lu.ma/pgxj2q5l">Register for meetup</a> (Lu.ma) | <a href="https://github.com/user-attachments/files/21300428/Fast.Amortized.Bootstrapping.pdf"> Slides</a> (Github) | <a href="https://eprint.iacr.org/2025/686">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<a href="https://luma.com/FHE.org-087-Rasoul-Akhavan-Mahdavi"><img width="900" alt="Meetup 078" src="https://github.com/user-attachments/assets/4615ec23-0c56-4361-8fbd-7737a6c6f1b1" /></a>
+<a href="https://lu.ma/pgxj2q5l"><img width="900" alt="Meetup 077" src="https://github.com/user-attachments/assets/f1a9758e-3c9c-4dd1-a99c-bda85d4c6d5d" /></a>
 
 # Abstract
 
-We present InsPIRe that is the first private information retrieval (PIR) construction simultaneously obtaining both high-throughput and low query communication while using silent preprocessing (meaning no offline communication).
+Most homomorphic encryption (FHE) schemes exploit a technique called single-instruction multiple-data (SIMD) to process several messages in parallel. However, they base their security in somehow strong assumptions, such as the hardness of approximate lattice problems with superpolynomial approximation factor. On the other extreme of the spectrum, there are lightweight FHE schemes that have much faster bootstrapping but no SIMD capabilities. On the positive side, the security of these schemes is based on lattice problems with (low degree) polynomial approximation factor only, which is a much weaker security assumption. Aiming the best of those two options, Micciancio and Sorrell (ICALP'18) proposed a new amortized bootstrapping that can process many messages at once, yielding sublinear time complexity per message, and allowing one to construct FHE based on lattice problems with polynomial approximation factor. Some subsequent works on this line achieve near-optimal asymptotic performance, nevertheless, concrete efficiency remains mostly an open problem. The only existing implementation to date (GPV23, Asiacrypt 2023) requires keys of up to a hundred gigabytes while only providing gains for relatively large messages.
+
+In this paper, we introduce a new method for amortized bootstrapping where the number of homomorphic operations required per message is O(h) and the noise overhead is O(sqrt(h\lambda) log(\lambda)), where h is the Hamming weight of the LWE secret key and \lambda is the security parameter. This allows us to use much smaller parameters and to obtain faster running time. Our method is based on a new efficient homomorphic evaluation of sparse polynomial multiplication. We bootstrap 2 to 8-bit messages in 1.1 ms to 26.5 ms, respectively. Compared to TFHE-rs, this represents a performance improvement of 3.9 to 41.5 times while requiring bootstrapping keys up to 50.4 times smaller.
 
 # About the speaker
 
-Rasoul is a fourth-year PhD candidate at the University of Waterloo and a member of the CrySP lab. His research focuses on the design and implementation of secure and private computation protocols tailored for real-world applications. In particular, he works on applications of Homomorphic Encryption and Secure Multi-Party Computation, with a focus on Private Information Retrieval. He has also contributed to projects on Private Set Intersection and Differential Privacy. His work has been published in top-tier venues such as USENIX Security, IEEE S&P, and ACM CCS.
+Antonio Guimarães is a postdoctoral researcher at IMDEA Software Institute in Madrid, Spain. His research interests include all practical aspects of Fully Homomorphic Encryption (FHE), with particular focus on verifiable FHE, fast bootstrapping algorithms, and efficient homomorphic evaluation of cryptographic primitives.
 
 # Register for the meetup
 
-RSVP for the meetup [here](https://luma.com/FHE.org-087-Rasoul-Akhavan-Mahdavi).
+RSVP for the meetup [here](https://lu.ma/pgxj2q5l).
 
 # Never miss an update
 
