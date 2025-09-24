@@ -40,5 +40,26 @@
 - **Benjamin Curtis** *Zama, France*
 
 ## Program committee
-- TBA
-
+- **Andreea	Alexandru**	*Duality Technologies*
+- **Antonio	Guimarães**	*IMDEA Software Institute*
+- **Asra Ali** *Google*
+- **Chiara Marcolla** *Technology Innovation Institute*
+- **Christian	Mouchet**	*Plattner Institut (HPI)*
+- **Damien Stehlé** *CryptoLab*	
+- **Florent	Michel** *Optalysys*
+- **Frederik Vercauteren** *K.U.Leuven*
+- **Gabrielle	de Micheli** *LG Electronics USA, Inc*
+- **Hilder Vitor Lima Pereira**	*Universidade Estadual de Campinas (UNICAMP)*
+- **Ilaria Chillotti** *Desilo*
+- **Jaehyung Kim**	*Stanford University*
+- **Janmajaya	Mall**	*Phantom Zone*
+- **Jeongeun Park** *Norwegian University of Science and Technology (NTNU)*
+- **Jonathan Passerat-Palmbach** *Flashbots*	
+- **Miran	Kim**	*Hanyang University*
+- **Rachel Player**	*Royal Holloway, University of London*
+- **Sergiu Carpov**	*Arcium*
+- **Si Chen**	*Open Security Research*
+- **Song Bian** *Beihang University*
+- **Yang Yu**	*Tsinghua University*
+- **Yilei	Chen** *Tsinghua University*
+- **Yuriy	Polyakov** *Duality Technologies*
