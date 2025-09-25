@@ -21,6 +21,7 @@ The event will comprise four talks split into two sessions of two, and a separat
 
 For more information and link to RSVP, see the event page on Luma: https://lu.ma/2skte98w
 
+
 # Schedule
 
 <table>
