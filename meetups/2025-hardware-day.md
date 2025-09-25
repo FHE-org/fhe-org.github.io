@@ -68,8 +68,6 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
     <td width=400px>FHE.org Announcements and Closing</td>
     <td></td>
   </tr>
-
-  </td>
   </table>
 
 
