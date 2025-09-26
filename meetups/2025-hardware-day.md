@@ -52,6 +52,7 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
     <td width=100px>1900 CEST</td>
     <td width=400px>Panel on Hardware for FHE</td>
     <td>Nigel Smart (Zama, Host), Ingrid Verbauwhede (Belfort), Paul Master (Cornami), and Rosario Cammarota (Intel Labs)  </td>
+    <td></td>
   </tr>
 
   <tr>
