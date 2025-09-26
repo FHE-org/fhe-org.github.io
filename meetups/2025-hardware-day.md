@@ -30,6 +30,7 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
       <th data-sortas="case-insensitive">Time</th>
       <th data-sortas="case-insensitive">Session Topic</th>
       <th data-sortas="case-insensitive">Speakers</th>
+      <th data-sortas="case-insensitive">Resources</th>
     </tr>
   </thead>
 
@@ -37,12 +38,14 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
     <td width=100px>1800 CEST</td>
     <td width=400px>Hardware and Software Co-design of Fully Homomorphic Encryption accelerators using integrated photonics.</td>
     <td>Flavio Bergamaschi (Optalysys) and Imon Kundu (Optalysys)</td>
+    <td>Slides</td>
   </tr>
 
   <tr>
     <td width=100px>1830 CEST</td>
     <td width=400px>Belfort - From Theory to Throughput: Deploying FHE in the Cloud</td>
     <td>Michiel Van Beirendonck (Belfort)</td>
+    <td>Slides</td>
   </tr>
 
   <tr>
@@ -55,18 +58,21 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
     <td width=100px>2000 CEST</td>
     <td width=400px>Homomorphic Processing Unit (HPU) on FPGA</td>
     <td>Jing-Jing Duflot (Zama)</td>
+    <td><a href="https://github.com/user-attachments/files/22555779/25_09_25.FHE.hardware.day.-.Zama.pdf">Slides</a></td>
   </tr>
 
   <tr>
     <td width=100px>2030 CEST</td>
     <td width=400px>HEIR, Hardware and Benchmarking</td>
     <td>Shruthi Gorantala (Google) and Wouter Legiest (KU Leuven)</td>
+    <td>Slides</td>
   </tr>
 
   <tr>
     <td width=100px>2100 CEST</td>
     <td width=400px>FHE.org Announcements and Closing</td>
     <td></td>
+    <td><a href="https://github.com/user-attachments/files/22555705/closing-fhe-day-2025.pdf">Slides</a></td>
   </tr>
   </table>
 
