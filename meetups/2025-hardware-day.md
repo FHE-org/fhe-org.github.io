@@ -45,7 +45,7 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
     <td width=100px>1830 CEST</td>
     <td width=400px>Belfort - From Theory to Throughput: Deploying FHE in the Cloud</td>
     <td>Michiel Van Beirendonck (Belfort)</td>
-    <td>Slides</td>
+    <td><a href="https://github.com/user-attachments/files/22555948/20250925.FHE.org.Hardware.Day.-.Michiel.Van.Beirendonck.-.Belfort.pdf">Slides</a></td>
   </tr>
 
   <tr>
