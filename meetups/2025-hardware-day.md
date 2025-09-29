@@ -8,7 +8,7 @@
 
 # FHE.org Hardware Day 2025
 #### 2025.09.25
-#### <a href="https://lu.ma/2skte98w">Register for Hardware Day</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://lu.ma/2skte98w">Register for Hardware Day</a> (Lu.ma) | <a href="https://www.youtube.com/playlist?list=PLnbmMskCVh1fwb6XZu9zNu4qbDcazUQet">Recordings playlist</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 <a href="https://lu.ma/2skte98w"><img width="900" alt="FHE.org Hardware Day 2025" src="https://github.com/user-attachments/assets/fa217a60-08eb-4063-8839-fdf4e7f85ff7" /></a>
 
 # Description
