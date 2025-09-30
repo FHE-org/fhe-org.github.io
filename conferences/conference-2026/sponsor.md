@@ -36,12 +36,13 @@
 
 FHE.org 2026 gratefully acknowledges the financial support of <i>(in alphabetical order)</i>:
 
-
+<span style="padding-right:10px"><a href="https://belfortlabs.com/"><img src="https://github.com/user-attachments/assets/6e34bc19-a5e6-41ea-b171-f500474f5edd" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="150px"></a></span> 
+<span style="padding-right:10px"><a href="https://www.cryptolab.co.kr/en/home/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://www.olvid.io/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/9a62d077-fd7e-4cd7-8869-2ad0e7bd1e86" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://ostif.org"><img src="https://github.com/user-attachments/assets/cb23b5c0-a0d4-40ea-8d4d-7d87841416af" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
-<span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a>
+<span style="padding-right:10px"><a href="https://zama.ai"><img src="https://user-images.githubusercontent.com/5758427/185637978-55314bc6-ae80-4afd-9010-0c70f8cb963d.png" width="150px"></a></span>
 
 <br><br>
 
