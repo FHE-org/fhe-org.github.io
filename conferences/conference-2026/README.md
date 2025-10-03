@@ -48,6 +48,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **Conference date:** March 8, 2026
 
 ## Latest updates
+- **2025.09.26** Registrations are now open
 - **2025.09.08** FHE.org 2026 is accepted as a co-located event of Real World Cryptography 2026
 - **2025.08.20** The call for presentations is now online (see [here](https://fhe.org/2026/cfp))
 - **2025.08.13** Announced program chairs (Anamaria Costache and Junfeng Fan)
