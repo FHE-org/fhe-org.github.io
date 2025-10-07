@@ -33,11 +33,11 @@
 # FHE.org conference 2026 — Committees
 
 ## Program co-chairs
-- **Anamaria Costache** *NTNU, Norway*
-- **Junfeng Fan** *Open Security Research, China*
+- **Anamaria Costache** *Norwegian University of Science and Technology (NTNU)*
+- **Junfeng Fan** *Open Security Research*
 
 ## General chair
-- **Benjamin Curtis** *Zama, France*
+- **Benjamin Curtis** *Zama*
 
 ## Program committee
 - **Andreea	Alexandru**	*Duality Technologies*
@@ -45,21 +45,29 @@
 - **Asra Ali** *Google*
 - **Chiara Marcolla** *Technology Innovation Institute*
 - **Christian	Mouchet**	*Plattner Institut (HPI)*
-- **Damien Stehlé** *CryptoLab*	
+- **Damien Stehlé** *CryptoLab*
+- **Dan Boneh** *Stanford University*
+- **Emad Heydari Beni** *Nokia Bell Labs* & *KU Leuven*
 - **Florent	Michel** *Optalysys*
 - **Frederik Vercauteren** *K.U.Leuven*
 - **Gabrielle	de Micheli** *LG Electronics USA, Inc*
+- **Ghada	Almashaqbeh** *University of Connecticut*
 - **Hilder Vitor Lima Pereira**	*Universidade Estadual de Campinas (UNICAMP)*
 - **Ilaria Chillotti** *Desilo*
+- **Jean-Sebastien Coron** *University of Luxembourg*
 - **Jaehyung Kim**	*Stanford University*
 - **Janmajaya	Mall**	*Phantom Zone*
+- **Jiayi	Kang** *KU Leuven*
 - **Jeongeun Park** *Norwegian University of Science and Technology (NTNU)*
 - **Jonathan Passerat-Palmbach** *Flashbots*	
 - **Miran	Kim**	*Hanyang University*
+- **Meng Li** *Peking University*
+- **Pierrick	Méaux** *University of Luxembourg*
 - **Rachel Player**	*Royal Holloway, University of London*
 - **Sergiu Carpov**	*Arcium*
 - **Si Chen**	*Open Security Research*
 - **Song Bian** *Beihang University*
+- **Sujoy	Sinha Roy** *Graz University of Technology*
 - **Yang Yu**	*Tsinghua University*
 - **Yilei	Chen** *Tsinghua University*
 - **Yuriy	Polyakov** *Duality Technologies*
