@@ -41,33 +41,34 @@
 
 ## Program committee
 - **Andreea	Alexandru**	*Duality Technologies*
-- **Antonio	Guimarães**	*IMDEA Software Institute*
 - **Asra Ali** *Google*
-- **Chiara Marcolla** *Technology Innovation Institute*
-- **Christian	Mouchet**	*Plattner Institut (HPI)*
-- **Damien Stehlé** *CryptoLab*
-- **Dan Boneh** *Stanford University*
-- **Emad Heydari Beni** *Nokia Bell Labs* & *KU Leuven*
-- **Florent	Michel** *Optalysys*
-- **Frederik Vercauteren** *K.U.Leuven*
-- **Gabrielle	de Micheli** *LG Electronics USA, Inc*
 - **Ghada	Almashaqbeh** *University of Connecticut*
-- **Hilder Vitor Lima Pereira**	*Universidade Estadual de Campinas (UNICAMP)*
-- **Ilaria Chillotti** *Desilo*
-- **Jean-Sebastien Coron** *University of Luxembourg*
-- **Jaehyung Kim**	*Stanford University*
-- **Janmajaya	Mall**	*Phantom Zone*
-- **Jiayi	Kang** *KU Leuven*
-- **Jeongeun Park** *Norwegian University of Science and Technology (NTNU)*
-- **Jonathan Passerat-Palmbach** *Flashbots*	
-- **Miran	Kim**	*Hanyang University*
-- **Meng Li** *Peking University*
-- **Pierrick	Méaux** *University of Luxembourg*
-- **Rachel Player**	*Royal Holloway, University of London*
+- **Song Bian** *Beihang University*
+- **Dan Boneh** *Stanford University*
 - **Sergiu Carpov**	*Arcium*
 - **Si Chen**	*Open Security Research*
-- **Song Bian** *Beihang University*
-- **Sujoy	Sinha Roy** *Graz University of Technology*
-- **Yang Yu**	*Tsinghua University*
 - **Yilei	Chen** *Tsinghua University*
+- **Ilaria Chillotti** *Desilo*
+- **Jean-Sebastien Coron** *University of Luxembourg*
+- **Antonio	Guimarães**	*IMDEA Software Institute*
+- **Emad Heydari Beni** *Nokia Bell Labs* & *KU Leuven*
+- **Jiayi	Kang** *KU Leuven*
+- **Jaehyung Kim**	*Stanford University*
+- **Miran	Kim**	*Hanyang University*
+- **Meng Li** *Peking University*
+- **Chiara Marcolla** *Technology Innovation Institute*
+- **Janmajaya	Mall**	*Phantom Zone*
+- **Pierrick	Méaux** *University of Luxembourg*
+- **Florent	Michel** *Optalysys*
+- **Gabrielle	de Micheli** *LG Electronics USA, Inc*
+- **Christian	Mouchet**	*Plattner Institut (HPI)*
+- **Jean-Baptiste Orfila** *Zama*
+- **Jeongeun Park** *Norwegian University of Science and Technology (NTNU)*
+- **Jonathan Passerat-Palmbach** *Flashbots*	
+- **Hilder Vitor Lima Pereira**	*Universidade Estadual de Campinas (UNICAMP)*
+- **Rachel Player**	*Royal Holloway, University of London*
 - **Yuriy	Polyakov** *Duality Technologies*
+- **Sujoy	Sinha Roy** *Graz University of Technology*
+- **Damien Stehlé** *CryptoLab*
+- **Frederik Vercauteren** *K.U.Leuven*
+- **Yang Yu**	*Tsinghua University*
