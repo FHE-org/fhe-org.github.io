@@ -211,6 +211,7 @@
 
 - <a href="https://github.com/zama-ai/concrete" id="00118">Concrete</a> - Rust compiler for TFHE by **Zama**
 - <a href="https://github.com/zama-ai/concrete-ml" id="00119">Concrete ML</a> - Privacy Preserving ML framework built on top of Concrete by **Zama**
+- <a href="https://github.com/CAPS-UMU/FIDESlib" id="00180">FIDESlib</a> - A server-side CKKS GPU library fully interoperable with OpenFHE by **University of Murcia et al.**
 - <a href="https://heaan.it/" id="00120">HEaaN</a> - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
 - <a href="https://github.com/google/heir" id="00121">HEIR</a> - An MLIR-based compiler toolchain for FHE by **Google**
 - <a href="https://github.com/HomEnc/HElib" id="00122">HElib</a> - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
