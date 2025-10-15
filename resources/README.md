@@ -182,6 +182,7 @@
 - <a id="00165" href="https://www.microsoft.com/en-us/research/blog/password-monitor-safeguarding-passwords-in-microsoft-edge/"> Password Monitor: Safeguarding passwords in Microsoft Edge </a> by **Kristin Lauter** on **Jan 21st, 2021**
 - <a href="https://fhe.org/meetups/001-introduction-to-fhe" id="00100">Introduction to homomorphic encryption</a> by **Pascal Paillier** on **Nov 04, 2020**
 - <a href="https://www.youtube.com/watch?v=O8IvJAIvGJo" id="00159">Fully Homomorphic Encryption</a> by **Zvika Brakerski** on **July 15 2015**
+- <a href="https://www.youtube.com/watch?v=xlcb_G1_rzk" id="00180">Cryptography Bootcamp: Homomorphic Encryption (Part 1, SWHE)</a> by **Shai Halevi** on **May 18, 2015**
 - <a href="https://youtu.be/Y1TxCiOuoYY?si=r4udREAYVlXnDD7d" id="00179">Winter School on Cryptography: Fully Homomorphic Encryption</a> by **Craig Gentry** on **May 31, 2012**
 
 ## Influential Papers
