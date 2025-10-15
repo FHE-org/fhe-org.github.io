@@ -90,7 +90,7 @@
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis" id="00042">Sentiment analysis over encrypted data</a> by **Zama** on **Nov 17, 2022**
-[//]: # "- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
+- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
 - <a href="https://github.com/ldsec/lattigo-polls-demo" id="00044">Lattigo-polls: schedule meeting using Lattigo</a> by **Lattigo** on **Sept 2, 2022**
 - <a href="https://www.nature.com/articles/s41467-022-32168-5" id="00045">Human action recognition</a> by **Miran Kim, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, and Shayan Shams** on **Aug 15, 2022**
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X" id="00046">Ensuring security of artificial pancreas device system using homomorphic encryption</a> by **Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, and Artem Lenskiy** on **Jan 15, 2022**
@@ -109,6 +109,11 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a id="00185" href="https://fhe.org/meetups/078">InsPIRe: Communication-Efficient PIR with Silent Preprocessing</a> by **Rasoul Akhavan Mahdavi** on **Oct 9th, 2025**
+- <a id="00184" href="https://fhe.org/meetups/077">Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead</a> by **Antonio Guimarães** on **Jul 17th, 2025**
+- <a id="00183" href="https://fhe.org/meetups/076">Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys</a> by **Olivier Bernard** on **Jul 3rd, 2025**
+- <a id="00182" href="https://fhe.org/meetups/075">Somewhat Homomorphic Encryption from Sparse LPN</a> by **Alexandra Henzinger** on **Jun 19th, 2025**
+- <a id="00181" href="https://fhe.org/meetups/074">Oblivious Message Retrieval</a> by **Zeyu Liu** on **Jun 12th, 2025**
 - <a id="00175" href="https://ckks.org/blog/2025/threshold/">Low Communication Threshold Fully Homomorphic Encryption  </a> by **Alain Passelègue** on **July 13th, 2025**
 - <a id="00174" href="https://ckks.org/blog/2025/bootstrapping-discrete-data-with-ckks/">Bootstrapping Discrete Data with CKKS</a> by **Jaehyung Kim** on **Jun 8th, 2025**
 - <a id="00173" href="https://ckks.org/blog/2025/grafting/">Grafting: Improving Performance and Usability of Homomorphic Encryption </a> by **Johannes Mono** on **Jun 8th, 2025**
