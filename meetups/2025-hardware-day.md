@@ -66,7 +66,7 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
     <td width=100px>2030 CEST</td>
     <td width=400px>HEIR, Hardware and Benchmarking</td>
     <td>Shruthi Gorantala (Google) and Wouter Legiest (KU Leuven)</td>
-    <td>Slides</td>
+    <td><a href="https://github.com/user-attachments/files/22967771/fhe.org.HEIR.Hardware.and.Benchmarking.pdf">Slides</a></td>
   </tr>
 
   <tr>
