@@ -35,6 +35,7 @@
 
 ## March 8, 2026
 
+<center>
 <table>
   <thead>
     <tr>
@@ -132,3 +133,5 @@
     <td width=100px>4:30 PM</td>
     <td> After Party 🍻</td>
   </tr>
+  </table>
+</center>
