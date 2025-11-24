@@ -23,7 +23,9 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2025
-
+- [Proving Correct Execution of TFHE's Bootstrapping using plonky2](https://fhe.org/meetups/081) by **Louis Tremblay Thibault** on **Nov 20th, 2025**
+- [Accelerating NTT with RISC-V Vector Extension for Fully Homomorphic Encryption](https://fhe.org/meetups/080) by **Alexandre Rodrigues** on **Nov 6th, 2025**
+- [Encrypted Matrix Multiplication Using 3-Dimensional Rotations](https://fhe.org/meetups/079) by **Shane Kosieradzki and Hannah Mahon** on **Oct 23, 2025**
 - [InsPIRe: Communication-Efficient PIR with Silent Preprocessing](https://fhe.org/meetups/078) by **Rasoul Akhavan Mahdavi** on **Oct 9th, 2025**
 - [Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead](https://fhe.org/meetups/077) by **Antonio Guimarães** on **Jul 17th, 2025**
 - [Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys](https://fhe.org/meetups/076) by **Olivier Bernard** on **Jul 3, 2025**
