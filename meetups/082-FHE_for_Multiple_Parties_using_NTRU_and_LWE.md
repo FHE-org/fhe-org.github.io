@@ -14,13 +14,7 @@
 
 # Abstract
 
-In this work we demonstrate for the first time that a full FHE bootstrapping operation can be proven using a SNARK in practice. We do so by designing an arithmetic circuit for the bootstrapping operation and prove it using plonky2.
-
-​We are able to prove the circuit on an AWS Hpc7a instance in under 20 minutes. Proof size is about 200kB and verification takes less than 10ms.
-
-​As the basis of our bootstrapping operation we use TFHE's programmable bootstrapping and modify it in a few places to more efficiently represent it as an arithmetic circuit (while maintaining full functionality and security).
-
-​In order to achieve our results in a memory-efficient way, we take advantage of the structure of the computation and plonky2's ability to efficiently prove its own verification circuit to implement a recursion-based IVC scheme.
+When using FHE in the setting with multiple parties, a major consideration is key management. There are two main paths, either each party keeps their own key, called multikey FHE (MKFHE), or the parties use some key agreement procedure, often MPC, to agree on some common key, which can then be used as if this were the single key setting, called multiparty FHE (MPFHE). The first such work was based on the NTRU problem, which brought with it some major benefits in both efficiency and key size. It was later found to be insecure due to using overstretched parameters, after which nearly all work in FHE for all settings has been based on LWE. Recently, NTRU-based FHE has made a return due to FINAL. In this work, we expand FINAL to both the MKFHE and MPFHE settings, bringing the efficiency and key size benefits of NTRU to multiple parties, without using overstretched parameters.
 
 # About the speaker
 
