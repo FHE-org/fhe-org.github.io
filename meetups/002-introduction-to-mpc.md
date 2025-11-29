@@ -12,7 +12,7 @@
 
 #### <a href="https://www.youtube.com/watch?v=aDL_KScy6hA">Video recording</a> (Youtube) | <a href="https://cdn.fhe.org/slides/intrompc-zama-webinar-january-2021.pdf">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<img width="900" height="507" alt="Meetup 002" src="https://github.com/user-attachments/assets/700a7ff4-ce64-4019-9879-ab83ae66b987" />
+<img width="900" alt="Meetup 002" src="https://github.com/user-attachments/assets/700a7ff4-ce64-4019-9879-ab83ae66b987" />
 
 # Abstract
 In this virtual meetup, Yehuda Lindell from Unbound gives an introduction secure multiparty computation, including examples of how MPC is being used for in practice today.
