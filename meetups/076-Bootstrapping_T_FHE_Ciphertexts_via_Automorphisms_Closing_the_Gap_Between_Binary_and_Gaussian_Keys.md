@@ -24,10 +24,6 @@ In a typical setting, by utilizing additional key material, the LLW⁺ approach 
 
 Olivier Bernard is a cryptology researcher at Zama, whose research interests evolve around Post-Quantum Cryptography and Fully Homomorphic Encryption with a primary appetite for Cryptanalysis and Algorithmic Number Theory.
 
-# Register for the meetup
-
-RSVP for the meetup [here](https://lu.ma/5wo9zuow).
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
