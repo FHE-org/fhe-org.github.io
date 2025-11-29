@@ -12,7 +12,7 @@
 
 #### <a href="https://www.youtube.com/watch?v=G8idc7koqWs">Video recording</a> (Youtube) | <a href="https://cdn.fhe.org/slides/fhe_tools_slides_alex_viand.pdf">Slides</a> (Google Drive) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
-<img width="900" height="507" alt="Meetup 004" src="https://github.com/user-attachments/assets/331b452f-7f68-4a0f-9733-e03c4ebb0c3a" />
+<img width="900" alt="Meetup 004" src="https://github.com/user-attachments/assets/331b452f-7f68-4a0f-9733-e03c4ebb0c3a" />
 
 # Abstract
 In this talk, Alex walks through the inherent engineering challenges in developing FHE applications and discusses how tools like compilers that translate between standard programs and FHE implementations can step in to address some of these complexities.
