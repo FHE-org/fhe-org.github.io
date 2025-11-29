@@ -8,7 +8,7 @@
 
 #  Oblivious Message Retrieval
 #### by Zeyu Liu - 2025.06.12
-#### <a href="https://youtu.be/rAU5m8RtrxI">Presentation recording</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://youtu.be/rAU5m8RtrxI">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=MuZb-Uj8WFQ&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=5">Speaker interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://lu.ma/w6qnv4zz"><img width="900" alt="074 Meetup cover" src="https://github.com/user-attachments/assets/1af775be-54dc-4f87-9623-47ce29cecfdc" /></a>
 
