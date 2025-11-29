@@ -20,10 +20,6 @@ We present InsPIRe that is the first private information retrieval (PIR) constru
 
 Rasoul is a fourth-year PhD candidate at the University of Waterloo and a member of the CrySP lab. His research focuses on the design and implementation of secure and private computation protocols tailored for real-world applications. In particular, he works on applications of Homomorphic Encryption and Secure Multi-Party Computation, with a focus on Private Information Retrieval. He has also contributed to projects on Private Set Intersection and Differential Privacy. His work has been published in top-tier venues such as USENIX Security, IEEE S&P, and ACM CCS.
 
-# Register for the meetup
-
-RSVP for the meetup [here](https://luma.com/FHE.org-078).
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/

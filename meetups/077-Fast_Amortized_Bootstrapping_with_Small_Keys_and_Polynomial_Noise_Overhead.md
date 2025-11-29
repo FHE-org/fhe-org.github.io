@@ -22,10 +22,6 @@ In this paper, we introduce a new method for amortized bootstrapping where the n
 
 Antonio Guimarães is a postdoctoral researcher at IMDEA Software Institute in Madrid, Spain. His research interests include all practical aspects of Fully Homomorphic Encryption (FHE), with particular focus on verifiable FHE, fast bootstrapping algorithms, and efficient homomorphic evaluation of cryptographic primitives.
 
-# Register for the meetup
-
-RSVP for the meetup [here](https://lu.ma/pgxj2q5l).
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/

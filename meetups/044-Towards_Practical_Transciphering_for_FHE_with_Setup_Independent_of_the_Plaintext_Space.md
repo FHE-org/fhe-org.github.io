@@ -28,12 +28,6 @@ She has developed existing FHE schemes to handle multiple users securely and eff
 
 She also has designed efficient privacy preserving protocols such as PIR, machine learning algorithms as applications of FHE.
 
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/298732824/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/

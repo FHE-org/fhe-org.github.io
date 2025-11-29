@@ -23,7 +23,7 @@
 
 # Private and Secure Fuzzy Name Matching
 #### by Harsh Kasyap and Ugur Atmaca - 2024.10.10 5PM CES
-#### <a href="https://www.youtube.com/watch?v=psoAyKd3z84&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | Speaker interview (<a href="https://www.youtube.com/watch?v=0QoOrV_2NQw">Harsh</a> / <a href="https://www.youtube.com/watch?v=ZGu01GUyU5g">Ugur</a>) (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=psoAyKd3z84&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation Recording</a> (Youtube) | Speaker Interview (<a href="https://www.youtube.com/watch?v=0QoOrV_2NQw">Harsh</a> / <a href="https://www.youtube.com/watch?v=ZGu01GUyU5g">Ugur</a>) (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/303724680/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/7897dd12-c33e-407a-9f5e-b6dd1ee7e75c"></a>
 
@@ -34,10 +34,6 @@ Modern financial institutions rely on data for many operations, including a need
 # About the speakers
 
 Harsh and Ugur are post-doctoral research associates in the Alan Turing Institute London. Their research interests include private data sharing and privacy-preserving machine learning.
-
-# Register for meetup
-
-If you'd like to RSVP for the meetup via meetup.com, <a href="https://www.meetup.com/fhe-org/events/303724680/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link">click here</a>.
 
 # Never miss an update
 
