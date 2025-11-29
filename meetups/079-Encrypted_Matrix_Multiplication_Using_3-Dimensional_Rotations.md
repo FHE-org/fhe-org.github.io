@@ -22,10 +22,6 @@ Shane Kosieradzki is a Cryptographic Engineer at Crypto Asset Technology Labs, s
 
 Hannah Mahon is a Research Scientist at the Georgia Tech Research Institute. Her research interests include algebraic geometry, fully homomorphic encryption, and formal verification of software and hardware.
 
-# Register for the meetup
-
-RSVP for the meetup [here](https://luma.com/FHE.org-079).
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
