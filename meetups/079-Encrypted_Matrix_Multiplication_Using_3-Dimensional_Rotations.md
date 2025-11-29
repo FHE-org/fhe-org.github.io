@@ -8,7 +8,7 @@
 
 # Encrypted Matrix Multiplication Using 3-Dimensional Rotations
 #### by Shane Kosieradzki and Hannah Mahon - 2025.10.23
-#### <a href="youtube.com/watch?v=bnH41klkwr8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=2&pp=iAQB">Presentation Recording</a> (Youtube) | <a href="https://eprint.iacr.org/2025/1367">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=bnH41klkwr8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=2&pp=iAQB">Presentation Recording</a> (Youtube) | Speaker Interviews (<a href="https://www.youtube.com/watch?v=jTflU34dbxg&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=2">Shane</a> / <a href="https://www.youtube.com/watch?v=J-GcmESMwlM&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=2">Hannah</a>) | <a href="https://eprint.iacr.org/2025/1367">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://luma.com/FHE.org-079"><img width="900" alt="Meetup 079" src="https://github.com/user-attachments/assets/84890d08-07a5-43ae-a738-02af4babc458" /></a>
 
