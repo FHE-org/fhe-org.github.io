@@ -8,7 +8,7 @@
 
 # Proving Correct Execution of TFHE's Bootstrapping using plonky2
 #### by Louis Tremblay Thibault - 2025.11.20
-#### <a href="https://luma.com/FHE.org-081">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=CMJ94Hwy_zU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=uvxIWKnVV2s&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://luma.com/FHE.org-081"><img width="900" alt="Meetup 081" src="https://github.com/user-attachments/assets/815c8ad0-41f0-4b0c-8b66-af781a56ae80" /></a>
 
