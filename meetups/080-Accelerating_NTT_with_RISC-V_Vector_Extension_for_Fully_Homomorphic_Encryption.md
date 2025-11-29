@@ -8,7 +8,7 @@
 
 # Accelerating NTT with RISC-V Vector Extension for Fully Homomorphic Encryption
 #### by Alexandre Rodrigues - 2025.11.06
-#### <a href="https://www.youtube.com/watch?v=aYA0To-3pAU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation Recording</a> (Youtube) | <a href="https://tches.iacr.org/index.php/TCHES/article/view/12426">Paper</a> (tches) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=aYA0To-3pAU&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=cPrALysu-1A&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker Interview</a> (Youtube) | <a href="https://tches.iacr.org/index.php/TCHES/article/view/12426">Paper</a> (tches) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://luma.com/FHE.org-080"><img width="900" alt="Meetup 080" src="https://github.com/user-attachments/assets/d6d6f690-593d-40d5-9a99-cecbd41592b6" /></a>
 
