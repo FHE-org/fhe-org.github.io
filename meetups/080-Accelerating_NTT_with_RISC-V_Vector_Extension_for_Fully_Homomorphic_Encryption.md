@@ -34,10 +34,6 @@ Alexandre Rodrigues is currently pursuing a PhD in Computing from Instituto Supe
 
 His research interests include performance modelling, microarchitectural design and RISC-V.
 
-# Register for the meetup
-
-RSVP for the meetup [here](https://luma.com/FHE.org-080).
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
