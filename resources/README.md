@@ -177,6 +177,7 @@
 - <a href="https://fhe.org/meetups/017-Estimating_the_Difficulty_of_Breaking_Lattice_Based_Cryptography" id="00090">Estimating the Difficulty of Breaking Lattice-Based Cryptography</a> by **Martin Albrecht** on **Nov 22, 2022**
 - <a href="https://fhe.org/meetups/015-FHE_based_on_the_NTRU_problem" id="00091">FHE based on the NTRU problem: challenges and new constructions</a> by **Hilder Vitor Lima Pereira** on **Sept 27, 2022**
 - <a href="https://fhe.org/meetups/014-homomorphic-Large-Precision-Integers-Using-Concrete" id="00092">Homomorphic Large Precision Integers Using Concrete</a> by **Jean-Baptiste Orfila** on **Jul 07, 2022**
+- <a id="00186" href="https://www.youtube.com/watch?v=HIJad2TS1iM"> Fully Homomorphic Encryption, 10 Years Later: Definitions and Open Problems</a> by **Daniele Micciancio** on **May 26, 2022**
 - <a href="https://fhe.org/meetups/013-single-trace-side-channel-attack-on-seal-homomorphic-encryption-library" id="00093">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by **Furkan Aydin** on **April 28, 2022**
 - <a href="https://fhe.org/meetups/012-verifiable-computation-over-encrypted-data-snarks-and-more" id="00094">Verifiable Computation over Encrypted Data: SNARKs and more</a> by **Anca Nitulescu** on **Mar 29, 2022**
 - <a href="https://fhe.org/meetups/010-an-overview-of-hybrid-homomorphic-encryption" id="00095">An overview of Hybrid Homomorphic Encryption</a> by **Orel Cosseron and Clément Hoffmann** on **Jan 20, 2022**
