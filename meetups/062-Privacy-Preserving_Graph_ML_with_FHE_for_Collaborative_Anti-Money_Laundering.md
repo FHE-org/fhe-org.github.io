@@ -23,7 +23,7 @@
 
 # Privacy-Preserving Graph ML with FHE for Collaborative Anti-Money Laundering
 #### by Fabrianne Effendi - 2024.11.14 1PM CEST
-#### <a href="https://www.youtube.com/watch?v=EAVS6lWXCvM&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=ab4Wa79izvI&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=5">Speaker interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=EAVS6lWXCvM&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=ab4Wa79izvI&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=5">Speaker Interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.youtube.com/watch?v=EAVS6lWXCvM&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1"><img src="https://github.com/user-attachments/assets/a7ed2176-a178-4947-80ba-b813546c1eb5"></a>
 
