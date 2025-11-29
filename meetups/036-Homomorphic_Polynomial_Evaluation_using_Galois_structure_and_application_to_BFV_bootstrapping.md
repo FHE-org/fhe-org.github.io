@@ -21,10 +21,6 @@ In some FHE schemes, the plaintext space decomposes as a product of "plaintext s
 
 Simon Pohmann finished his Bachelor in Mathematics and Computer Science at the University of Passau (Germany) in 2020. In 2022, he then completed the Master program "Mathematics and Foundations of Computer Science" at Oxford University. Since then, he is a PhD Student at the Centre for Doctoral Training at Royal Holloway, University of London.
 
-# Register to attend
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
