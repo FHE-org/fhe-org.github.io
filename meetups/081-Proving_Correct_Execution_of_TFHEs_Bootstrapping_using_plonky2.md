@@ -26,10 +26,6 @@ In this work we demonstrate for the first time that a full FHE bootstrapping ope
 
 Louis Tremblay Thibault is a cryptography researcher at Zama and a PhD student at ÉTS Montréal. His research focuses on privacy-preserving verifiable computation.
 
-# Register for the meetup
-
-RSVP for the meetup [here](https://luma.com/FHE.org-081).
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
