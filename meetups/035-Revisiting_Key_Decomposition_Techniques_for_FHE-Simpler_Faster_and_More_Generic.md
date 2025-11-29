@@ -25,10 +25,6 @@ Nicolas Gama is principal privacy software engineer at SandboxAQ. He started his
 
 Since then, he has focused on developing tools and applications of privacy preserving computation, and concepts like Chimera or Manticore, that allow to bridge different FHE or MPC schemes, and provide fast arithmetic for a wide range of discrete and continuous computation models.
 
-# Register to attend
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/
