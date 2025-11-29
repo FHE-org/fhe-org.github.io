@@ -8,7 +8,7 @@
 
 # Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys
 #### by Olivier Bernard - 2025.07.03
-#### <a href="https://lu.ma/5wo9zuow">Register for meetup</a> (Lu.ma) | <a href="https://github.com/user-attachments/files/21040837/fhe_slides.1.pdf">Slides</a> (Github) | <a href="https://eprint.iacr.org/2025/163">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=rw9s56lr2Ro">Presentation Recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/21040837/fhe_slides.1.pdf">Slides</a> (Github) | <a href="https://eprint.iacr.org/2025/163">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://lu.ma/5wo9zuow"><img width="900" alt="FHE org Meetup covers(3)" src="https://github.com/user-attachments/assets/d3fbd62c-3326-4d97-afcc-42845c5c69bf" /></a>
 

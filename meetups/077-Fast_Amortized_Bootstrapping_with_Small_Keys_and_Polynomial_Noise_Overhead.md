@@ -8,7 +8,7 @@
 
 # Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead
 #### by Antonio Guimarães - 2025.07.17
-#### <a href="https://lu.ma/pgxj2q5l">Register for meetup</a> (Lu.ma) | <a href="https://github.com/user-attachments/files/21300428/Fast.Amortized.Bootstrapping.pdf"> Slides</a> (Github) | <a href="https://eprint.iacr.org/2025/686">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=DUCJQmLZOo4">Presentation Recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/21300428/Fast.Amortized.Bootstrapping.pdf"> Slides</a> (Github) | <a href="https://eprint.iacr.org/2025/686">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://lu.ma/pgxj2q5l"><img width="900" alt="Meetup 077" src="https://github.com/user-attachments/assets/f1a9758e-3c9c-4dd1-a99c-bda85d4c6d5d" /></a>
 
