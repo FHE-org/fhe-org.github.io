@@ -8,7 +8,7 @@
 
 # InsPIRe: Communication-Efficient PIR with Silent Preprocessing
 #### by Rasoul Akhavan Mahdavi - 2025.10.09
-#### <a href="https://www.youtube.com/watch?v=DtpD5rVm_uw">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=yMF-FdY8FnI">Speaker interview</a> | <a href="https://eprint.iacr.org/2025/1352">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=DtpD5rVm_uw">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=yMF-FdY8FnI">Speaker interview</a> (Youtube) | <a href="https://eprint.iacr.org/2025/1352">Paper</a> (eprint) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://luma.com/FHE.org-078"><img width="900" alt="Meetup 078" src="https://github.com/user-attachments/assets/4615ec23-0c56-4361-8fbd-7737a6c6f1b1" /></a>
 
