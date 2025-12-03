@@ -38,7 +38,7 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
     <td width=100px>1800 CEST</td>
     <td width=400px>Hardware and Software Co-design of Fully Homomorphic Encryption accelerators using integrated photonics.</td>
     <td>Flavio Bergamaschi (Optalysys) and Imon Kundu (Optalysys)</td>
-    <td>Slides</td>
+    <td><a href="https://github.com/user-attachments/files/23906686/Optalysys.-.FHE.org.Hardware.Day.2025.-.Final.pdf">Slides</a></td>
   </tr>
 
   <tr>
