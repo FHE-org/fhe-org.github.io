@@ -70,6 +70,7 @@ FHE.org 2026 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://enveil.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/87f3007c-1721-490d-98d0-cea5d7e9f9fd" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://leastauthority.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/3ae60557-35ca-408e-94ba-a8c80da21acb" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://www.olvid.io/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/9a62d077-fd7e-4cd7-8869-2ad0e7bd1e86" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://www.osr-tech.com/en.html"><img src="https://github.com/user-attachments/assets/97a548ca-43ca-442d-92d1-4d359c315b8b" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://ostif.org"><img src="https://github.com/user-attachments/assets/cb23b5c0-a0d4-40ea-8d4d-7d87841416af" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://symbolic.software/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7262cee7-f4bd-4f08-983e-03356ddda49c" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://the.engineer/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7b16bcd9-cdbe-4924-956d-caa3adf34697" width="150px"></a></span>
