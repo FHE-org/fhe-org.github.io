@@ -60,7 +60,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 FHE.org 2026 gratefully acknowledges the financial support of <i>(in alphabetical order)</i>:
 
-<span style="padding-right:10px"><a href="https://belfortlabs.com/"><img src="https://github.com/user-attachments/assets/6e34bc19-a5e6-41ea-b171-f500474f5edd" width="150px"></a></span>
+<span style="padding-right:10px"><a href="https://belfortlabs.com/"><img src="https://github.com/user-attachments/assets/175d6f49-6aa4-4d61-8ee9-435161307202" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://www.crecimiento.build/"><img src="https://github.com/user-attachments/assets/868159d1-5c22-43b0-9aa2-458ebe44de99" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="150px"></a></span> 
