@@ -30,6 +30,9 @@
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
+- <a href="https://www.youtube.com/watch?v=lD5xH4Sx0yE" id="00189"> Speedrunning TFHE-rs: Part 3</a> by **David Wong** on **Dec 6, 2025**
+- <a href="https://www.youtube.com/watch?v=o_xGuJFhzgQ" id="00188"> Speedrunning TFHE-rs: Part 2</a> by **David Wong** on **Dec 5, 2025**
+- <a href="https://www.youtube.com/watch?v=LV606ZmVsfE" id="00187"> Speedrunning TFHE-rs: Part 1</a> by **David Wong** on **Dec 5, 2025**
 - <a href="https://arxiv.org/abs/2503.05136" id="00177">The Beginner's Textbook for Fully Homomorphic Encryption</a> by **Ronny Ko** on **Sept 8, 2025**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2025-a-new-fhe-scheme-for-high-precision-arithmetic/" id="00170">A new FHE scheme for high-precision arithmetic</a> by **Robin Geelen** on **April 24, 2025**
 - <a href="https://research.ibm.com/blog/fhe-cc-security" id="00154">Protecting user data with fully homomorphic encryption and confidential computing</a> by **IBM** on **July 24, 2024**
