@@ -70,7 +70,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 </p>
 
 <p>
-  <img alt="Taipei Marriott Hotel Front" src="https://github.com/user-attachments/assets/3721d82c-5dff-4221-8910-4c15e215b3f3" />
+  <img alt="Taipei Marriott Hotel Front" src="https://github.com/user-attachments/assets/c88f6484-9357-42f0-beb9-0dc71569cc23" />
 </p>
 
 <p>
