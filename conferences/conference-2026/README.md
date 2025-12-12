@@ -43,7 +43,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 
 ## Important dates
-- **Submission deadline:** November 1, 2025 (23:59 AoE)
+- ~~**Submission deadline:** November 1, 2025 (23:59 AoE)~~
 - **Notification:** December 19, 2025
 - **Conference date:** March 8, 2026
 
@@ -54,6 +54,36 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **2025.08.20** The call for presentations is now online (see [here](https://fhe.org/2026/cfp))
 - **2025.08.13** Announced program chairs (Anamaria Costache and Junfeng Fan)
 - **2025.08.12** Announced conference venue (Taipei Marriott Hotel)
+
+
+## Venue
+
+<p>
+  <a href="https://maps.app.goo.gl/GNG2F6KYDEa55F4S8">  
+    <b>Taipei Marriott Hotel</b><br>
+    199 Lequn 2nd Road (Intersection With, Jinye 4th Road, Zhongshan District, Taipei City, Taiwan 10462<br><br> 
+  </a>
+</p>
+
+<p>
+  <img alt="Taipei Marriott Hotel Map" src="https://github.com/user-attachments/assets/e0b9fac7-8fba-4626-9139-d06c09e97cba" />
+</p>
+
+<p>
+  <img alt="Taipei Marriott Hotel Front" src="https://github.com/user-attachments/assets/3721d82c-5dff-4221-8910-4c15e215b3f3" />
+</p>
+
+<p>
+  An 11-minute walk from Jiannan road subway station, this upscale hotel is 7 km from both the National Palace Museum and the landmark Taipei 101 skyscraper.
+
+  Airy rooms with chic decor and city views feature flat-screens, desks and sitting areas, plus minibars and complimentary Wi-Fi. Upgraded rooms and suites add access to a club lounge; some have living rooms. Room service is available 24/7.
+
+  There are 4 restaurants, including a stylish 20th-floor grill and an international eatery with a terrace, as well as a lobby bar. There's also a spa, a gym and a sauna, plus a rooftop heated outdoor pool. Conference facilities are offered.
+</p>
+
+
+
+
 
 ## Sponsors
 *Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences just as our [2025 sponsors](https://fhe.org/conferences/conference-2025/sponsor) have. Reach out to us at contact@fhe.org.*
