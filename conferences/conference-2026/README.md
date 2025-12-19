@@ -44,10 +44,11 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 ## Important dates
 - ~~**Submission deadline:** November 1, 2025 (23:59 AoE)~~
-- **Notification:** December 19, 2025
+- ~~**Notification:** December 19, 2025~~
 - **Conference date:** March 8, 2026
 
 ## Latest updates
+- **2025.12.19** Accepted submissions have been announced. 10 talks and 23 posters have been accepted, check out the full list [here](https://fhe.org/conferences/conference-2026/program).
 - **2025.11.01** The submission server is now closed, 55 submissions were received
 - **2025.09.26** Registrations are now open
 - **2025.09.08** FHE.org 2026 is accepted as a co-located event of Real World Cryptography 2026
