@@ -33,6 +33,7 @@
 - <a href="https://www.youtube.com/watch?v=lD5xH4Sx0yE" id="00189"> Speedrunning TFHE-rs: Part 3</a> by **David Wong** on **Dec 6, 2025**
 - <a href="https://www.youtube.com/watch?v=o_xGuJFhzgQ" id="00188"> Speedrunning TFHE-rs: Part 2</a> by **David Wong** on **Dec 5, 2025**
 - <a href="https://www.youtube.com/watch?v=LV606ZmVsfE" id="00187"> Speedrunning TFHE-rs: Part 1</a> by **David Wong** on **Dec 5, 2025**
+- <a href="https://da1729.github.io/2025/12/04/Gentry-Lee-Encoding-for-Efficient-Matrix-FHE/" id="00190">Gentry-Lee Encoding for Efficient Matrix FHE</a> by **Daksh Pandey** on **Dec 4, 2025**
 - <a href="https://arxiv.org/abs/2503.05136" id="00177">The Beginner's Textbook for Fully Homomorphic Encryption</a> by **Ronny Ko** on **Sept 8, 2025**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2025-a-new-fhe-scheme-for-high-precision-arithmetic/" id="00170">A new FHE scheme for high-precision arithmetic</a> by **Robin Geelen** on **April 24, 2025**
 - <a href="https://research.ibm.com/blog/fhe-cc-security" id="00154">Protecting user data with fully homomorphic encryption and confidential computing</a> by **IBM** on **July 24, 2024**
@@ -110,6 +111,7 @@
 - <a href="https://fhe.org/meetups/020-Medha_Microcoded_Hardware_Accelerator_for_computing_on_Encrypted_Data" id="00055">Medha: Microcoded Hardware Accelerator for computing on Encrypted Data</a> by **Ahmet Can Mert and Aikata** on **Feb 16, 2023**
 - <a href="https://fhe.org/meetups/009-fhe-at-the-speed-of-light" id="00056">FHE at the speed of light</a> by **Florent Michel** on **Dec 21, 2021**
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
+
 
 ## Research
 - <a id="00185" href="https://fhe.org/meetups/078">InsPIRe: Communication-Efficient PIR with Silent Preprocessing</a> by **Rasoul Akhavan Mahdavi** on **Oct 9th, 2025**
