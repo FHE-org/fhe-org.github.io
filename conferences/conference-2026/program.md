@@ -41,32 +41,38 @@
     <tr>
       <th data-sortas="case-insensitive">Time</th>
       <th data-sortas="case-insensitive">Session Topic</th>
+      <th data-sortas="case-insensitive">Authors</th>
     </tr>
   </thead>
 
   <tr>
     <td width=100px>8:30 AM</td>
     <td width=400px>Registration</td>
+    <td widtg=400px></td>
   </tr>
 
   <tr>
     <td width=100px>9:00 AM</td>
     <td width=400px>Welcome and Opening Remarks</td>
+    <td width=400px></td>
   </tr>
 
   <tr>
     <td width=100px>9:10 AM</td>
-    <td>Talk 1</td>
+    <td>Fully Homomorphic Encryption for Matrix Arithmetic</td>
+    <td>Craig Gentry and Yongwoo Lee</td>
   </tr>
 
   <tr>
     <td width=100px>9:35 AM</td>
-    <td>Talk 2</td>
+    <td>GG-GSW: Chosen-Ciphertext Secure Leveled FHE From Gadget Trapdoors</td>
+    <td>Jérôme Nguyen and Mark Manulis</td>
   </tr>
 
   <tr>
     <td width=100px>10:00 AM</td>
-    <td>Talk 3</td>
+    <td>Why It Still Makes Sense to Talk About Average-Case Noise Analysis in FHE: The BGV Example</td>
+    <td>Beatrice Biasioli, Chiara Marcolla, Nadir Murru and Matilda Urani</td>
   </tr>
 
   <tr>
@@ -76,52 +82,62 @@
 
   <tr>
     <td width=100px>11:10 AM</td>
-    <td>Talk 4</td>
+    <td>Scaling up Privacy-Preserving ML: a CKKS Implementation of LLaMA-2-7B </td>
+    <td>Jaiyoung Park, Sejin Park, Jung Ho Ahn, Jung Hee Cheon, Guillaume Hanrot, Jung Woo Kim, Jai Hyun Park, Minje Park and Damien Stehlé</td>
   </tr>
 
   <tr>
     <td width=100px>11:35 AM</td>
-    <td>Talk 5</td>
+    <td>HEaaN2, a High-Performance CKKS Library</td>
+    <td>Seonghak Kim, Seongsu Jeon, Myeongjae Kim, Jaejin Lee, Jonghoo Lee, Taeyeong Noh, Erkhes Nyamsaikhan, Jaehyung Ju, Saebyeol Jung, Sangpyo Kim, Johannes Mono and Elias Suvanto</td>
   </tr>
 
   <tr>
     <td width=100px>12:00 PM</td>
     <td>Lunch Break 🍴</td>
+    <td> </td>
   </tr>
 
   <tr>
     <td width=100px>1:00 PM</td>
-    <td>Talk 6</td>
+    <td>Accelerating TFHE with Sorted Bootstrapping Techniques </td>
+    <td>Loris Bergerat, Jean-Baptiste Orfila, Adeline Roux-Langlois and Samuel Tap</td>
   </tr>
 
   <tr>
     <td width=100px>1:25 PM</td>
-    <td>Talk 7</td>
+    <td>Randomization in FHE and TFHE</td>
+    <td>Nigel Smart and Michael Walter</td>
   </tr>
 
   <tr>
     <td width=100px>1:50 PM</td>
-    <td> Talk 8 </td>
+    <td>Iterated Hash Functions over Encrypted Data: News from the Front </td>
+    <td>Olivier Bernard and Marc Joye</td>
   </tr>
 
   <tr>
     <td width=100px>2:15 PM</td>
     <td>Afternoon Break  ☕️</td>
+    <td> </td>
   </tr>
 
   <tr>
     <td width=100px>2:40 PM</td>
-    <td> Talk 9</td>
+    <td>Batch, Pack, and Prove: More Efficient Verifiable Computation for CKKS </td>
+    <td>Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães and Eduardo Soria-Vazquez</td>
   </tr>
 
   <tr>
     <td width=100px>3:05 PM</td>
-    <td> Talk 10</td>
+    <td>Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption </td>
+    <td>Intak Hwang, Hyeonbum Lee, Seonhong Min, Jinyeong Seo and Yongsoo Song</td>
   </tr>
 
   <tr>
     <td width=100px>3:30 PM</td>
     <td> Invited Talk </td>
+    <td> Shai Halevi </td>
   </tr>
 
   <tr>
@@ -132,23 +148,10 @@
   <tr>
     <td width=100px>4:30 PM</td>
     <td> After Party 🍻</td>
+    <td></td>
   </tr>
   </table>
 </center>
-
-
-## Accepted Talks
-
-* Nigel Smart and Michael Walter. **Randomization in FHE and TFHE** <br>
-* Jérôme Nguyen and Mark Manulis. **GG-GSW: Chosen-Ciphertext Secure Leveled FHE From Gadget Trapdoors**<br>
-* Craig Gentry and Yongwoo Lee. **Fully Homomorphic Encryption for Matrix Arithmetic**<br>
-* Seonghak Kim, Seongsu Jeon, Myeongjae Kim, Jaejin Lee, Jonghoo Lee, Taeyeong Noh, Erkhes Nyamsaikhan, Jaehyung Ju, Saebyeol Jung, Sangpyo Kim, Johannes Mono and Elias Suvanto. **HEaaN2, a High-Performance CKKS Library**<br>
-* Olivier Bernard and Marc Joye. **Iterated Hash Functions over Encrypted Data: News from the Front**<br>
-* Loris Bergerat, Jean-Baptiste Orfila, Adeline Roux-Langlois and Samuel Tap. **Accelerating TFHE with Sorted Bootstrapping Techniques**<br>
-* Beatrice Biasioli, Chiara Marcolla, Nadir Murru and Matilda Urani. **Why It Still Makes Sense to Talk About Average-Case Noise Analysis in FHE: The BGV Example**<br>
-* Jaiyoung Park, Sejin Park, Jung Ho Ahn, Jung Hee Cheon, Guillaume Hanrot, Jung Woo Kim, Jai Hyun Park, Minje Park and Damien Stehlé. **Scaling up Privacy-Preserving ML: a CKKS Implementation of LLaMA-2-7B**<br>
-* Intak Hwang, Hyeonbum Lee, Seonhong Min, Jinyeong Seo and Yongsoo Song. **Practical Zero-Knowledge PIOP for Maliciously Secure Multiparty Homomorphic Encryption**<br>
-* Ignacio Cascudo, Anamaria Costache, Daniele Cozzo, Dario Fiore, Antonio Guimarães and Eduardo Soria-Vazquez. **Batch, Pack, and Prove: More Efficient Verifiable Computation for CKKS**<br>
 
 
 ## Accepted Posters
