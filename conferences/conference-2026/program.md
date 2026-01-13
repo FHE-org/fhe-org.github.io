@@ -153,11 +153,78 @@
   </table>
 </center>
 
+## Accepted Posters
+
+<table>
+    <thead>
+        <tr>
+            <th data-sortas="case-insensitive">Poster</th>
+            <th data-sortas="case-insensitive">Presenters</th>
+        </tr>
+    </thead>  
+
+<tr>
+    <td>Evaluating Larger Lookup Tables using CKKS</td>
+    <td>Jules Dumezy, Andreea Alexandru, Yuriy Polyakov, Pierre-Emmanuel Clet, Olive Chakraborty and Aymen Boudguiga</td>
+</tr>
+
+<tr>
+    <td>Complex Elections via Threshold (Fully) Homomorphic Encryption</td>
+    <td>Charlotte Bonte, Georgio Nicolas and Nigel Smart</td>
+</tr>
+
+<tr>
+    <td>Peregrine: One-Shot Fine-Tuning for FHE Inference of General Deep CNNs</td>
+    <td>Huaming Ling, Ying Wang and Si Chen</td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td></td>
+</tr>
+
+
+
+</table>
+
+
 
 ## Accepted Posters
-* Jules Dumezy, Andreea Alexandru, Yuriy Polyakov, Pierre-Emmanuel Clet, Olive Chakraborty and Aymen Boudguiga. **Evaluating Larger Lookup Tables using CKKS** <br>
-* Charlotte Bonte, Georgio Nicolas and Nigel Smart. **Complex Elections via Threshold (Fully) Homomorphic Encryption** <br>
-* Huaming Ling, Ying Wang and Si Chen. **Peregrine: One-Shot Fine-Tuning for FHE Inference of General Deep CNNs** <br>
 * Hiroki Okada, Rachel Player and Simon Pohmann. **Fheanor: a new, modular FHE library for designing and optimising schemes** <br>
 * Jan-Pieter D'Anvers and Michiel Van Beirendonck. **From Leuven with Love: An overview of arithmetic advances in the TFHE space** <br>
 * Erin Hales, Thanh-Huyen Nguyen, Emmet Friel and Florent Michel. **Achieving 128-bits of Security on the Optalysys Accelerator for TFHE** <br>
