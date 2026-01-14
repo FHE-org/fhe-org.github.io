@@ -39,6 +39,7 @@
 - <a href="https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/" id="00147">Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption</a> by **Jeremy Kun** on **Sept 06, 2024**
 - <a href="https://www.jeremykun.com/2024/09/02/shift-networks/" id="00146">Shift Networks</a> by **Jeremy Kun** on **Sept 02, 2024**
 - <a href="https://www.jeremykun.com/2024/05/04/fhe-overview/" id="00142">A High-Level Technical Overview of Fully Homomorphic Encryption</a> by **Jeremy Kun** on **May 04, 2024**
+- <a href="https://github.com/openfheorg/aaai-2024-lab-materials" id="00191">AAAI 2024 Tutorial: Fully Homomorphic Encryption for Privacy-Preserving Machine Learning using the OpenFHE Library</a> by **Ian Quah, Yuriy Polyakov** and **Sukanya Mandal** on **February 20, 2024**
 - <a href="https://cryptographycaffe.sandboxaq.com/posts/fhe-01/" id="00001">Fully Homomorphic Encryption: Introduction and Use-Cases</a> by **Nicolas Gama** and **Sandra Guasch** on **Nov 18, 2023**
 - <a href="https://jeremykun.com/2023/09/18/encoding-schemes-in-fhe/" id="00002">Encoding Schemes in FHE</a> by **Jeremy Kun** on **September 18, 2023**
 - <a href="https://blog.sunscreen.tech/introducing-sunscreens-zkp-compiler/" id="00003">Introducing Sunscreen's ZKP compiler</a> by **Ravital Solomon** on **Aug 24, 2023**
