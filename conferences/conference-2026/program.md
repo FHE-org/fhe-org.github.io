@@ -77,7 +77,7 @@
 
   <tr>
     <td width=100px>10:25 AM</td>
-    <td width=400px>Poster Session and Morning Break</td>
+    <td width=400px>Poster Session 🪧 and Morning Break ☕️</td>
   </tr>
 
   <tr>
