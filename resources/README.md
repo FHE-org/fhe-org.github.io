@@ -67,6 +67,7 @@
 - <a href="https://www.zama.ai/post/tfhe-deep-dive-part-2" id="00025">TFHE deep-dive - part 2 - Encodings and linear leveled operations</a> by **Ilaria Chillotti** on **May 11, 2022**
 - <a href="https://www.zama.ai/post/tfhe-deep-dive-part-1" id="00026">TFHE deep-dive - part 1- Ciphertext types</a> by **Ilaria Chillotti** on **May 4, 2022**
 - <a href="https://fhe.org/meetups/011-single-server-private-information-retrieval-using-homomorphic-encryption" id="00027">Single-server private information retrieval using homomorphic encryption</a> by **Muhammad Haris** on **Feb 25, 2022**
+- <a href="https://www.youtube.com/watch?v=y3Mu3GSRoTA" id="00192">Introduction to fully homomorphic encryption</a> by **Jean-Sébastien Coron** on **Feb 9, 2022**
 - <a href="https://jeremykun.com/2021/12/11/the-gadget-decomposition-in-fhe/" id="00028">The Gadget Decomposition in FHE</a> by **Jeremy Kun** on **December 11, 2021**
 - <a href="https://www.zama.ai/post/homomorphic-encryption-101" id="00029">Homomorphic Encryption 101</a> by **Marc Joye** on **Dec 01, 2021**
 - <a href="https://www.ibm.com/support/z-content-solutions/fully-homomorphic-encryption" id="00030">Fully Homomorphic Encryption</a> by **IBM** on **September 23, 2021**
