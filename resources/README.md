@@ -11,6 +11,7 @@
 
 ## Table of Contents [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/resources/README.md)
 
+- [Table of Contents ](#table-of-contents-)
 - [Conference Resources](#conference-resources)
 - [Tutorials and Walkthroughs](#tutorials-and-walkthroughs)
 - [Use Cases and Demos](#use-cases-and-demos)
@@ -83,6 +84,7 @@
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
+- <a href="https://blog.openzeppelin.com/how-fully-homomorphic-encryption-enables-private-shared-state">Beyond Zero Knowledge: How Fully Homomorphic Encryption Enables Private Shared State</a> by **Samuel Wong** on **Aug 13, 2025**
 - <a id="00160" href="https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm">Suffragium: An Encrypted Onchain Voting System Leveraging ZK and FHE Using Zama's fhEVM</a> by **Alessandro Manfredi** on **Nov 6, 2024**
 - <a id="00152" href="https://machinelearning.apple.com/research/homomorphic-encryption">Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem</a> by **Apple** on **October 24, 2024**
 - <a id="00148" href="https://fhe.org/meetups/058">Concrete ML - Machine Learning on Encrypted Data</a> by **Andrei Stoian** on **Sept 26th, 2024 at 5PM CEST**
