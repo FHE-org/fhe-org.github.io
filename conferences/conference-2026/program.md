@@ -136,7 +136,7 @@
 
   <tr>
     <td width=100px>3:30 PM</td>
-    <td> Invited Talk </td>
+    <td> Invited Talk: To Search and Protect: An MPC/FHE Approach to Encrypted Search  </td>
     <td> Shai Halevi </td>
   </tr>
 
