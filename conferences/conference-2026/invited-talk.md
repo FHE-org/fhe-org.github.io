@@ -32,8 +32,7 @@
 # To Search and Protect: An MPC/FHE Approach to Encrypted Search
 #### by Shai Halevi - Invited Talk at FHE.org 2026
 
-
-<img width="2048" height="1152" alt="1768313008342" src="https://github.com/user-attachments/assets/a273b110-3133-466a-81b8-ed883d47564e" />
+![Invited Speaker 2026](https://github.com/user-attachments/assets/a273b110-3133-466a-81b8-ed883d47564e)
 
 
 # Abstract
