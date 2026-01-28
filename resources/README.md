@@ -82,6 +82,8 @@
 - <a href="https://www.microsoft.com/en-us/research/video/microsoft-seal/" id="00037">Microsoft SEAL</a> by **Kim Laine** on **December 02, 2019**
 - <a href="https://www.youtube.com/watch?v=pXb39wj5ShI" id="00151">How would you explain homomorphic encryption?</a> by **Craig Gentry** on **Jan 11, 2018**
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
+- <a href="https://www.youtube.com/watch?v=gWcjwXJWMKM" id="00193">Fully Homomorphic Encryption</a> by **Nigel Smart** on **March 6, 2012**
+
 
 ## Use Cases and Demos
 - <a id="00160" href="https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm">Suffragium: An Encrypted Onchain Voting System Leveraging ZK and FHE Using Zama's fhEVM</a> by **Alessandro Manfredi** on **Nov 6, 2024**
