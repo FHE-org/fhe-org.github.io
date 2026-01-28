@@ -39,6 +39,7 @@ FHE.org 2026 gratefully acknowledges the financial support of <i>(in alphabetica
 <span style="padding-right:10px"><a href="https://aws.amazon.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5b6eaaaf-d115-41ff-b2da-e3643bb06db1" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://belfortlabs.com/"><img src="https://github.com/user-attachments/assets/175d6f49-6aa4-4d61-8ee9-435161307202" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span>
+<span style="padding-right:10px"><a href="#"><img src="https://github.com/user-attachments/assets/17196bec-9154-4caa-803e-a295e753f414" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://www.crecimiento.build/"><img src="https://github.com/user-attachments/assets/868159d1-5c22-43b0-9aa2-458ebe44de99" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://cryptoexperts.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/7478150a-fe4e-4d79-b7fa-a28015dad6ec" width="150px"></a></span> 
 <span style="padding-right:10px"><a href="https://www.cryptolab.co.kr/en/home/"><img src="https://user-images.githubusercontent.com/5758427/216011474-c46580f9-e239-4582-ad21-7cc091cbff18.png" width="150px"></a></span>
