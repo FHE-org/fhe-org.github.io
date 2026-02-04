@@ -116,6 +116,7 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
+- <a id="00194" href="https://ckks.org/blog/2026/DPHE/">DPHE: Protecting Server Privacy in CKKS-based Protocols</a> by **Jinyeong Seo** on **Jan 5th, 2026**
 - <a id="00190" href="https://www.zama.ai/the-state-of-fhe-report">The State of FHE Report — Hardware Edition</a> by **Zama** on **Jan 1st, 2026**
 - <a id="00185" href="https://fhe.org/meetups/078">InsPIRe: Communication-Efficient PIR with Silent Preprocessing</a> by **Rasoul Akhavan Mahdavi** on **Oct 9th, 2025**
 - <a id="00184" href="https://fhe.org/meetups/077">Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead</a> by **Antonio Guimarães** on **Jul 17th, 2025**
