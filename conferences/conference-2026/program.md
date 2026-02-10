@@ -159,7 +159,7 @@
 * Charlotte Bonte, Georgio Nicolas and Nigel Smart. **Complex Elections via Threshold (Fully) Homomorphic Encryption** <br>
 * Huaming Ling, Ying Wang and Si Chen. **Peregrine: One-Shot Fine-Tuning for FHE Inference of General Deep CNNs** <br>
 * Hiroki Okada, Rachel Player and Simon Pohmann. **Fheanor: a new, modular FHE library for designing and optimising schemes** <br>
-* Jan-Pieter D'Anvers and Michiel Van Beirendonck. **From Leuven with Love: An overview of arithmetic advances in the TFHE space** <br>
+* Jan-Pieter D'Anvers, Thomas de Ruijter, and Michiel Van Beirendonck. **From Leuven with Love: An overview of arithmetic advances in the TFHE space** <br>
 * Erin Hales, Thanh-Huyen Nguyen, Emmet Friel and Florent Michel. **Achieving 128-bits of Security on the Optalysys Accelerator for TFHE** <br>
 * Pedro Geraldo M. R. Alves, Beka Barbakadze, Enzo Di Maria, Agnes Leroy and Guillermo Oyarzun. **Sub-Millisecond TFHE Bootstrapping on GPU** <br>
 * Robin Geelen and Frederik Vercauteren. **Better GBFV Bootstrapping and Faster Encrypted Edit Distance Computation** <br>
