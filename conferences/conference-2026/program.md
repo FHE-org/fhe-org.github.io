@@ -177,4 +177,4 @@
 * Asra Ali and Jeremy Kun. **HEIR: Fully Homomorphic Machine Learning with a Universal Compiler** <br>
 * Tim Seuré and Elias Suvanto. **Faster Homomorphic Evaluation of SHA3** <br>
 * Pierre Gardrat, Agnès Leroy, Arthur Meyre, Jean-Baptiste Orfila and Samuel Tap. **Let’s Talk: How TFHE Became Practical** <br> 
-* Daehyun Jang, Jaehee Kang, Hanee Rhee and Jung Hee Cheon. **Efficient Encrypted Embedding Lookup via Independent Vector Evaluation**
+* Daehyun Jang, Jaehee Kang, Hanee Rhee and Jung Hee Cheon. **Efficient Private Embedding Lookup via Independent Vector Evaluation**
