@@ -161,7 +161,7 @@
 * Hiroki Okada, Rachel Player and Simon Pohmann. **Fheanor: a new, modular FHE library for designing and optimising schemes** <br>
 * Jan-Pieter D'Anvers, Thomas de Ruijter, and Michiel Van Beirendonck. **From Leuven with Love: An overview of arithmetic advances in the TFHE space** <br>
 * Erin Hales, Thanh-Huyen Nguyen, Emmet Friel and Florent Michel. **Achieving 128-bits of Security on the Optalysys Accelerator for TFHE** <br>
-* Pedro Geraldo M. R. Alves, Beka Barbakadze, Enzo Di Maria, Agnes Leroy and Guillermo Oyarzun. **Sub-Millisecond TFHE Bootstrapping on GPU** <br>
+* Pedro Geraldo M. R. Alves, Beka Barbakadze, Enzo Di Maria, Jakub Klemsa, Agnes Leroy and Guillermo Oyarzun. **Sub-Millisecond TFHE Bootstrapping on GPU** <br>
 * Robin Geelen and Frederik Vercauteren. **Better GBFV Bootstrapping and Faster Encrypted Edit Distance Computation** <br>
 * Wouter Legiest, Asra Ali, Jeremy Kun and Ingrid Verbauwhede. **The First FPGA Backend for the HEIR Compiler: Evaluating Boolean vs. Arithmetic Pipelines for Practical FHE Acceleration** <br>
 * Kotaro Matsuoka and Takashi Sato. **YATA: Yet Another TFHE Accelerator with Key Compression and Radix-8 NTT** <br>
