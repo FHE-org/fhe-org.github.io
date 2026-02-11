@@ -30,6 +30,7 @@
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
+- <a href="https://drive.google.com/file/d/1Iz1rY7g0wyJnES7UN3_z0SrHFUGEobsY/view" id="00195">Tutorial: Accelerating Private Cloud Computing with FIDESlib</a> by **Carlos Agulló-Domingo, Óscar Vera-López, and José L. Abellán** on **Feb 1, 2026**
 - <a href="https://www.youtube.com/watch?v=lD5xH4Sx0yE" id="00189"> Speedrunning TFHE-rs: Part 3</a> by **David Wong** on **Dec 6, 2025**
 - <a href="https://www.youtube.com/watch?v=o_xGuJFhzgQ" id="00188"> Speedrunning TFHE-rs: Part 2</a> by **David Wong** on **Dec 5, 2025**
 - <a href="https://www.youtube.com/watch?v=LV606ZmVsfE" id="00187"> Speedrunning TFHE-rs: Part 1</a> by **David Wong** on **Dec 5, 2025**
