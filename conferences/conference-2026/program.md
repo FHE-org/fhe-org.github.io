@@ -163,7 +163,7 @@
 * Erin Hales, Thanh-Huyen Nguyen, Emmet Friel and Florent Michel. **Achieving 128-bits of Security on the Optalysys Accelerator for TFHE** <br>
 * Pedro Geraldo M. R. Alves, Beka Barbakadze, Enzo Di Maria, Jakub Klemsa, Agnes Leroy and Guillermo Oyarzun. **Sub-Millisecond TFHE Bootstrapping on GPU** <br>
 * Robin Geelen and Frederik Vercauteren. **Better GBFV Bootstrapping and Faster Encrypted Edit Distance Computation** <br>
-* Wouter Legiest, Thomas de Rujiter, Asra Ali, Jeremy Kun and Ingrid Verbauwhede. **The First FPGA Backend for the HEIR Compiler: Evaluating Boolean vs. Arithmetic Pipelines for Practical FHE Acceleration** <br>
+* Wouter Legiest, Thomas de Ruijter, Asra Ali, Jeremy Kun and Ingrid Verbauwhede. **The First FPGA Backend for the HEIR Compiler: Evaluating Boolean vs. Arithmetic Pipelines for Practical FHE Acceleration** <br>
 * Kotaro Matsuoka and Takashi Sato. **YATA: Yet Another TFHE Accelerator with Key Compression and Radix-8 NTT** <br>
 * Michael Walter, Louis Tremblay Thibault and Jiapeng Zhang. **Practical SNARGs for Matrix Multiplications over Encrypted Data** <br>
 * Ganyuan Cao, Sylvain Chatel and Christian Knabenhans. **HE-based On-the-Fly MPC, Revisited: Universal Composability, Approximate and Imperfect Computation, Circuit Privacy** <br>
