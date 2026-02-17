@@ -22,6 +22,9 @@ As a part of the meetups, we interview presenters (and other community members) 
 
 FHE.org meetups archive, latest first.
 
+### 2026
+- [Low Communication Threshold FHE from Standard (Module-)LWE](https://fhe.org/meetups/083) by **Hiroki Okada** on **Feb 5th, 2026**
+
 ### 2025
 - [FHE for Multiple Parties using NTRU and LWE](https://fhe.org/meetups/082) by **Oliver Zajonc** on **Dec 4th, 2025**
 - [Proving Correct Execution of TFHE's Bootstrapping using plonky2](https://fhe.org/meetups/081) by **Louis Tremblay Thibault** on **Nov 20th, 2025**
