@@ -37,6 +37,7 @@
 FHE.org 2026 gratefully acknowledges the financial support of <i>(in alphabetical order)</i>:
 
 <span style="padding-right:10px"><a href="https://aws.amazon.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/5b6eaaaf-d115-41ff-b2da-e3643bb06db1" width="150px"></a></span> 
+<span style="padding-right:10px"><a href="https://apple.com/"><img src="https://github.com/user-attachments/assets/935b4afd-a789-4212-b0a6-fc02be40bf46" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://belfortlabs.com/"><img src="https://github.com/user-attachments/assets/175d6f49-6aa4-4d61-8ee9-435161307202" width="150px"></a></span>
 <span style="padding-right:10px"><a href="https://brside.com/"><img src="https://github.com/FHE-org/fhe-org.github.io/assets/37557436/6f4f7bd1-1e13-4671-912a-26035131310f" width="150px"></a></span>
 <span style="padding-right:10px"><a href="#"><img src="https://github.com/user-attachments/assets/5b62ae77-d5e4-40ed-b7e8-d57b7279982b" width="150px"></a></span>
@@ -81,7 +82,6 @@ Sponsors may use the opportunity to increase their brand recognition, to get in 
 Reach out to us at contact @ fhe.org to get started!
 
 <br><br><br><br>
-
 
 
 
