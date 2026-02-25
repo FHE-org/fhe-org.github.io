@@ -8,7 +8,7 @@
 
 # Efficient Homomorphic Matrix Computation for Secure Transformer Inference
 #### by Miran Kim - 2026.02.19
-#### <a href="https://luma.com/FHE.org-084">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://luma.com/FHE.org-084">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord) | <a href="https://github.com/user-attachments/files/25547794/260219%40fhe.org.pdf">Slides</a> (Github)
 
 <a href="https://luma.com/FHE.org-084"><img width="900" alt="Meetup 084" src="https://github.com/user-attachments/assets/3e350008-542b-4875-be03-02dbb04ddcb6" /></a>
 
