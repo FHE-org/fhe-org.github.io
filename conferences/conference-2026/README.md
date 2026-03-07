@@ -34,8 +34,7 @@
 
 # FHE.org 2026 conference
 
-The 5th Annual FHE.org Conference on Fully Homomorphic Encryption is a co-located event of [Real World Crypto 2026](https://rwc.iacr.org/2026/) and takes place in cooperation with [IACR](https://iacr.org/) (ICW-IACR). The conference will be held at the 
-Taipei Marriott Hotel in Taipei, Taiwan, on March 8th 2026.
+The 5th Annual FHE.org Conference on Fully Homomorphic Encryption is a co-located event of [Real World Crypto 2026](https://rwc.iacr.org/2026/) and takes place in cooperation with [IACR](https://iacr.org/) (ICW-IACR). The conference will be held on the 5th floor of the Taipei Marriott Hotel in Taipei, Taiwan, on March 8th 2026.
 
 The conference will feature presentation sessions, poster sessions, invited speakers, and a DJ'ed party with cocktails. 
 
@@ -61,7 +60,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 <p>
   <a href="https://maps.app.goo.gl/GNG2F6KYDEa55F4S8">  
-    <b>Taipei Marriott Hotel</b><br>
+    <b>Taipei Marriott Hotel (5th floor)</b><br>
     199 Lequn 2nd Road (Intersection With, Jinye 4th Road, Zhongshan District, Taipei City, Taiwan 10462<br><br> 
   </a>
 </p>
