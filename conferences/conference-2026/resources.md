@@ -52,7 +52,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/0910_Lee.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=VA9s6I9KmA0">
         Video
+      </a>
    </td>
 </tr>
 
@@ -63,7 +65,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/0935_Nguyen.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=SgbbEtQNL_Q">
         Video
+      </a>
    </td>
 </tr>
 
@@ -74,7 +78,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1000_Urani.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=c7slPwneVJc">
         Video
+      </a>
    </td>
 </tr>
 
@@ -85,7 +91,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1110_Park.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=rhp4Uq9jCu0">
         Video
+      </a>
    </td>
 </tr>
 
@@ -96,7 +104,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1135_Kim.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=YXpAMDTr9U8">
         Video
+      </a>
    </td>
 </tr>
 
@@ -107,7 +117,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1300_Bergerat.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=faKCOkA-qDg">
         Video
+      </a>
    </td>
 </tr>
 
@@ -118,7 +130,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1325_Smart.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=dwpCEXWB5Mo">
         Video
+      </a>
    </td>
 </tr>
 
@@ -129,7 +143,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1350_Joye.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=xoS8HtKaK7M">
         Video
+      </a>
    </td>
 </tr>
 
@@ -140,7 +156,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1440_Guimaraes.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=4srSjRyNl_Q">
         Video
+      </a>
    </td>
 </tr>
 
@@ -151,7 +169,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1505_Hwang.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=-UuO8p08CnI">
         Video
+      </a>
    </td>
 </tr>
 
@@ -162,7 +182,9 @@
       <a href="https://fhe.org/conferences/conference-2026/resources/slides/1525_Halevi.pdf">
         Slides
       </a> /
+      <a href="https://www.youtube.com/watch?v=Bpp8bLzJBIQ">
         Video
+      </a>
    </td>
 </tr>
 
