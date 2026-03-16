@@ -53,7 +53,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -65,7 +64,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -77,7 +75,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -89,7 +86,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -101,7 +97,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -113,7 +108,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -125,7 +119,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -137,7 +130,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -149,7 +141,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -161,7 +152,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
@@ -173,7 +163,6 @@
         Slides
       </a> /
         Video
-      </a>
    </td>
 </tr>
 
