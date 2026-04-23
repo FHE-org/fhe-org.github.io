@@ -194,6 +194,7 @@
 - <a href="https://fhe.org/meetups/013-single-trace-side-channel-attack-on-seal-homomorphic-encryption-library" id="00093">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by **Furkan Aydin** on **April 28, 2022**
 - <a href="https://fhe.org/meetups/012-verifiable-computation-over-encrypted-data-snarks-and-more" id="00094">Verifiable Computation over Encrypted Data: SNARKs and more</a> by **Anca Nitulescu** on **Mar 29, 2022**
 - <a href="https://fhe.org/meetups/010-an-overview-of-hybrid-homomorphic-encryption" id="00095">An overview of Hybrid Homomorphic Encryption</a> by **Orel Cosseron and Clément Hoffmann** on **Jan 20, 2022**
+- <a id="00200" href="https://www.youtube.com/watch?v=487AjvFW1lk">A Decade (or so) of fully homomorphic encryption</a> by **Craig Gentry** on **Oct 19, 2021**  
 - <a href="https://fhe.org/meetups/005-google-c++-to-fhe-transpiler" id="00096">Google's C++ to FHE compiler</a> **Shruthi Gorantala and Rob Springer** on **Aug 26, 2021**
 - <a href="https://fhe.org/meetups/004-fhe-development-tools" id="00097">Developer Tools & Compilers</a> by **Alexander Viand** on **May 20, 2021**
 - <a href="https://fhe.org/meetups/003-tfhe-deep-dive" id="00098">TFHE deep dive</a> by **Ilaria Chillotti** on **Apr 15, 2021**
