@@ -25,12 +25,14 @@
 - [Projects](#projects)
 
 ## Conference Resources
+
 - [FHE.org Sofia 2025 Conference Resources](https://fhe-org.github.io/conferences/conference-2025/resources) by **FHE.org** on **Mar 25, 2025**
 - [FHE.org Toronto 2024 Conference Resources](https://fhe-org.github.io/conferences/conference-2024/resources) by **FHE.org** on **Mar 24, 2024**
 - [FHE.org Tokyo 2023 Conference Resources](https://fhe-org.github.io/conferences/conference-2023/resources) by **FHE.org** on **Mar 26, 2023**
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
+
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2025-a-new-fhe-scheme-for-high-precision-arithmetic/" id="00170">A new FHE scheme for high-precision arithmetic</a> by **Robin Geelen** on **April 24, 2025**
 - <a href="https://research.ibm.com/blog/fhe-cc-security" id="00154">Protecting user data with fully homomorphic encryption and confidential computing</a> by **IBM** on **July 24, 2024**
 - <a href="https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/" id="00147">Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption</a> by **Jeremy Kun** on **Sept 06, 2024**
@@ -79,7 +81,8 @@
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
 
 ## Use Cases and Demos
-- <a href="https://blog.openzeppelin.com/how-fully-homomorphic-encryption-enables-private-shared-state">Beyond Zero Knowledge: How Fully Homomorphic Encryption Enables Private Shared State</a> by **Samuel Wong** on **Aug 13, 2025**
+
+- <a id="00202" href="https://blog.openzeppelin.com/how-fully-homomorphic-encryption-enables-private-shared-state">Beyond Zero Knowledge: How Fully Homomorphic Encryption Enables Private Shared State</a> by **Samuel Wong** on **Aug 13, 2025**
 - <a id="00160" href="https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm">Suffragium: An Encrypted Onchain Voting System Leveraging ZK and FHE Using Zama's fhEVM</a> by **Alessandro Manfredi** on **Nov 6, 2024**
 - <a id="00152" href="https://machinelearning.apple.com/research/homomorphic-encryption">Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem</a> by **Apple** on **October 24, 2024**
 - <a id="00148" href="https://fhe.org/meetups/058">Concrete ML - Machine Learning on Encrypted Data</a> by **Andrei Stoian** on **Sept 26th, 2024 at 5PM CEST**
@@ -91,7 +94,7 @@
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis" id="00042">Sentiment analysis over encrypted data</a> by **Zama** on **Nov 17, 2022**
-[//]: # "- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
+  [//]: # "- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
 - <a href="https://github.com/ldsec/lattigo-polls-demo" id="00044">Lattigo-polls: schedule meeting using Lattigo</a> by **Lattigo** on **Sept 2, 2022**
 - <a href="https://www.nature.com/articles/s41467-022-32168-5" id="00045">Human action recognition</a> by **Miran Kim, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, and Shayan Shams** on **Aug 15, 2022**
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X" id="00046">Ensuring security of artificial pancreas device system using homomorphic encryption</a> by **Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, and Artem Lenskiy** on **Jan 15, 2022**
@@ -101,6 +104,7 @@
 - <a href="https://fhe.org/meetups/006-running-numpy-programs-homomorphically" id="00050">Homomorphic Machine Learning using Numpy & Concrete</a> **Rand Hindi, Ayoub Benaissa and Samuel Tap** on **Sept 30, 2021**
 
 ## Hardware
+
 - <a href="https://www.youtube.com/watch?v=-12xxt5BqUU&list=PLnbmMskCVh1fZy00EZQnFSezctvwYmlRM&index=8" id="00051">BASALISC: Integrated Hardware Acceleration for BGV, CKKS, and BFV FHE</a> by **David Archer, Robin Geelen, and Michiel Van Beirendonck** on **March 24, 2024**
 - <a href="https://github.com/KULeuven-COSIC/fpt-demo" id="00052">FPT: a Fixed-Point Accelerator for Torus Fully Homomorphic Encryption</a> by **Michiel Van Beirendonck, Jan-Pieter D'Anvers, Furkan Turan, and Ingrid Verbauwhede** on **Nov 29, 2023**
 - <a href="https://fhe.org/meetups/027-An_Optical_Hardware_Accelerator_for_FHE" id="00053">An Optical Hardware Accelerator for FHE</a> by **Joseph Wilson** on **June 15, 2023**
@@ -110,7 +114,8 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
-- <a id="00175" href="https://ckks.org/blog/2025/threshold/">Low Communication Threshold Fully Homomorphic Encryption  </a> by **Alain Passelègue** on **July 13th, 2025**
+
+- <a id="00175" href="https://ckks.org/blog/2025/threshold/">Low Communication Threshold Fully Homomorphic Encryption </a> by **Alain Passelègue** on **July 13th, 2025**
 - <a id="00174" href="https://ckks.org/blog/2025/bootstrapping-discrete-data-with-ckks/">Bootstrapping Discrete Data with CKKS</a> by **Jaehyung Kim** on **Jun 8th, 2025**
 - <a id="00173" href="https://ckks.org/blog/2025/grafting/">Grafting: Improving Performance and Usability of Homomorphic Encryption </a> by **Johannes Mono** on **Jun 8th, 2025**
 - <a id="00172" href="https://fhe.org/meetups/073">Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices</a> by **Jai Hyun Park** on **Jun 5th, 2025**
@@ -126,7 +131,7 @@
 - <a id="00151" href="https://fhe.org/meetups/061">Faster NTRU-based Bootstrapping in less than 4 ms</a> by **Zhihao Li** on **Nov 24th, 2024**
 - <a id="00150" href="https://fhe.org/meetups/060">Designing a General-Purpose 8-bit (T)FHE Processor Abstraction</a> by **Daphné Trama** on **Nov 17th, 2024**
 - <a id="00149" href="https://fhe.org/meetups/059">Private and Secure Fuzzy Name Matching</a> by **Harsh Kasyap and Ugur Atmaca** on **Oct 10th, 2024**
-- <a id="00161" href="https://csrc.nist.gov/Events/2024/wpec2024">  NIST Workshop on Privacy-Enhancing Cryptography 2024 (slide decks)</a> by **NIST** on **Sept 25, 2024**
+- <a id="00161" href="https://csrc.nist.gov/Events/2024/wpec2024"> NIST Workshop on Privacy-Enhancing Cryptography 2024 (slide decks)</a> by **NIST** on **Sept 25, 2024**
 - <a id="00156" href="https://www.esat.kuleuven.be/cosic/blog/ches-2024-fast-transciphering-via-reconfigurable-and-batched-lut-evaluation/">Fast Transciphering Via Reconfigurable And Batched LUT Evaluation</a> by **Leonard Schild** on **Sept 25, 2024**
 - <a id="00144" href="https://fhe.org/meetups/057">New Secret Keys for Enhanced Performance in (T)FHE</a> by **Loris Bergerat** on **Sept 12th, 2024**
 - <a id="00139" href="https://fhe.org/meetups/056">Practical q-IND-CPA-D-Secure Approximate Homomorphic Encryption</a> by **Lea Nürnberger** on **Jul 18th, 2024**
