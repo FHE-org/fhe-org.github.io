@@ -30,7 +30,7 @@
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
-- <a href="https://github.com/Hexens/awesome-fhe-attacks/" id="00200">Awesome FHE Attacks: A curated list of research, articles, tools, and resources focused on attacks against FHE</a> by **Hexens** on **April 23, 2026**
+- <a href="https://github.com/Hexens/awesome-fhe-attacks/" id="00201">Awesome FHE Attacks: A curated list of research, articles, tools, and resources focused on attacks against FHE</a> by **Hexens** on **April 23, 2026**
 - <a href="https://securitynotionszoo.com/" id="00199">Security Notions Zoo: A taxonomy site for cryptography security notions for FHE</a> by **Jules Dumezy and Marc Renard** on **April 15, 2026**
 - <a href="https://drive.google.com/file/d/1Iz1rY7g0wyJnES7UN3_z0SrHFUGEobsY/view" id="00195">Tutorial: Accelerating Private Cloud Computing with FIDESlib</a> by **Carlos Agulló-Domingo, Óscar Vera-López, and José L. Abellán** on **Feb 1, 2026**
 - <a href="https://www.youtube.com/watch?v=lD5xH4Sx0yE" id="00189"> Speedrunning TFHE-rs: Part 3</a> by **David Wong** on **Dec 6, 2025**
