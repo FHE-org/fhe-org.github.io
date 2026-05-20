@@ -36,7 +36,7 @@ You can follow news and announcements from FHE.org and the community via the off
 
 - <a href="https://twitter.com/fhe_org" target="_blank">Twitter</a> - `@fhe_org`
 - <a href="https://reddit.com/r/FHE" target="_blank">Reddit</a> - `/r/fhe`
-- <a href="https://ioc.exchange/FHE" target="_blank">Mastodon</a> - `@fhe@ioc.exchange`
+- <a href="https://ioc.exchange/@fhe" target="_blank">Mastodon</a> - `@fhe@ioc.exchange`
 - <a href="https://www.linkedin.com/company/fhe-org/" target="_blank">Linkedin</a> - `fhe-org`
 - <a href="https://fheorg.substack.com/" target="_blank">Newsletter</a> `fheorg.substack.com`
 

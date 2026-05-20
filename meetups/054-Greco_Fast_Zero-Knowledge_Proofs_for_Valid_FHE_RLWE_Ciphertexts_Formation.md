@@ -9,7 +9,7 @@
 
 # Greco: Fast Zero-Knowledge Proofs for Valid FHE RLWE Ciphertexts Formation
 #### by Enrico Bottazzi - 2024.06.27
-#### <a href="https://www.youtube.com/watch?v=UeV1zhbdVPI&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=mwrXXtJv0uw&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=3">Speaker interview</a> (Youtube) | <a href="https://github.com/user-attachments/files/16033480/Greco_FHE_org.pdf">Slides</a> (github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UeV1zhbdVPI&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=mwrXXtJv0uw&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=3">Speaker Interview</a> (Youtube) | <a href="https://github.com/user-attachments/files/16033480/Greco_FHE_org.pdf">Slides</a> (github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 
 
@@ -28,12 +28,6 @@ The presentation aims to describe:
 # About the speaker
 
 Enrico is a researcher at PSE.  His earliest contributions were in identity-related privacy-preserving applications such as [designated verifier proof](https://github.com/enricobottazzi/designated-verifier-proof) and [zk-sbt](https://github.com/enricobottazzi/ZK-SBT).  He led the creation of [summa](https://github.com/summa-dev/summa-solvency), a production-ready proof of solvency solution for custodians. Lately, his research has focused on applications powered by Secure Multi-Party Computation. His first contribution to the space is Greco.
-
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/301465187/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
 
 # Never miss an update
 

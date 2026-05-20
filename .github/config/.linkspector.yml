@@ -5,6 +5,7 @@ aliveStatusCodes:
   - 206
   - 400
   - 503
+  - 429
 dirs:
   - .
 useGitIgnore: true

@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2026/">Home</a>
   —
-  Register
+  <a href="https://luma.com/fhe-org-conference-2026-tickets">Register</a>
   —
-  Program
+  <a href="https://fhe-org.github.io/conferences/conference-2026/program">Program</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/call-for-presentations"><b>Call for presentations</b></a>
   —
@@ -23,9 +23,9 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/contact">Contact</a>
   —
-  Sponsor
+  <a href="https://fhe-org.github.io/conferences/conference-2026/sponsor">Sponsor</a>  
   —
-  Resources
+  <a href="https://fhe-org.github.io/conferences/conference-2026/resources">Resources</a>
 </p>
 <hr/>
 <!-- /Header conference 2025 links -->

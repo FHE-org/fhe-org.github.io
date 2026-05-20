@@ -20,12 +20,6 @@ This talk covers recent work on enumerating the risks involved with deploying ap
 
 Hunter recently defended his thesis at the University of Maryland under the supervision of Professor Dana Dachman-Soled. His research interests have mainly focused on the security of lattice problems under partial information leakage. He will be joining Samsung Research America in June to contribute to the next generation of the Knox security suite.
 
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/300633812/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/

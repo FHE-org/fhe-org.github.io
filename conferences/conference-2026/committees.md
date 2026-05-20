@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2026/">Home</a>
   —
-  Register
+  <a href="https://luma.com/fhe-org-conference-2026-tickets">Register</a>
   —
-  Program
+  <a href="https://fhe-org.github.io/conferences/conference-2026/program">Program</a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/call-for-presentations">Call for presentations</a>
   —
@@ -23,9 +23,9 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2026/contact">Contact</a>
   —
-  Sponsor
+  <a href="https://fhe-org.github.io/conferences/conference-2026/sponsor">Sponsor</a>
   —
-  Resources
+  <a href="https://fhe-org.github.io/conferences/conference-2026/resources">Resources</a>
 </p>
 <hr/>
 <!-- /Header conference 2025 links -->
@@ -33,12 +33,42 @@
 # FHE.org conference 2026 — Committees
 
 ## Program co-chairs
-- **Anamaria Costache** *NTNU, Norway*
-- **Junfeng Fan** *Open Security Research, China*
+- **Anamaria Costache** *Norwegian University of Science and Technology (NTNU)*
+- **Junfeng Fan** *Open Security Research*
 
 ## General chair
-- **Benjamin Curtis** *Zama, France*
+- **Benjamin Curtis** *Zama*
 
 ## Program committee
-- TBA
-
+- **Andreea	Alexandru**	*Duality Technologies*
+- **Asra Ali** *Google*
+- **Ghada	Almashaqbeh** *University of Connecticut*
+- **Song Bian** *Beihang University*
+- **Dan Boneh** *Stanford University*
+- **Sergiu Carpov**	*Arcium*
+- **Si Chen**	*Open Security Research*
+- **Yilei	Chen** *Tsinghua University*
+- **Ilaria Chillotti** *Desilo*
+- **Jean-Sebastien Coron** *University of Luxembourg*
+- **Antonio	Guimarães**	*IMDEA Software Institute*
+- **Emad Heydari Beni** *Nokia Bell Labs* & *KU Leuven*
+- **Jiayi	Kang** *KU Leuven*
+- **Jaehyung Kim**	*Stanford University*
+- **Miran	Kim**	*Hanyang University*
+- **Meng Li** *Peking University*
+- **Chiara Marcolla** *Technology Innovation Institute*
+- **Janmajaya	Mall**	*Phantom Zone*
+- **Pierrick	Méaux** *University of Luxembourg*
+- **Florent	Michel** *Optalysys*
+- **Gabrielle	de Micheli** *LG Electronics USA, Inc*
+- **Christian	Mouchet**	*Plattner Institut (HPI)*
+- **Jean-Baptiste Orfila** *Zama*
+- **Jeongeun Park** *Norwegian University of Science and Technology (NTNU)*
+- **Jonathan Passerat-Palmbach** *Flashbots*	
+- **Hilder Vitor Lima Pereira**	*Universidade Estadual de Campinas (UNICAMP)*
+- **Rachel Player**	*Royal Holloway, University of London*
+- **Yuriy	Polyakov** *Duality Technologies*
+- **Sujoy	Sinha Roy** *Graz University of Technology*
+- **Damien Stehlé** *CryptoLab*
+- **Frederik Vercauteren** *K.U.Leuven*
+- **Yang Yu**	*Tsinghua University*

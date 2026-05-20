@@ -8,7 +8,7 @@
 
 # FHE.org Hardware Day 2025
 #### 2025.09.25
-#### <a href="https://lu.ma/2skte98w">Register for Hardware Day</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://lu.ma/2skte98w">Register for Hardware Day</a> (Lu.ma) | <a href="https://www.youtube.com/playlist?list=PLnbmMskCVh1fwb6XZu9zNu4qbDcazUQet">Recordings playlist</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 <a href="https://lu.ma/2skte98w"><img width="900" alt="FHE.org Hardware Day 2025" src="https://github.com/user-attachments/assets/fa217a60-08eb-4063-8839-fdf4e7f85ff7" /></a>
 
 # Description
@@ -21,17 +21,63 @@ The event will comprise four talks split into two sessions of two, and a separat
 
 For more information and link to RSVP, see the event page on Luma: https://lu.ma/2skte98w
 
+
 # Schedule
 
-* 1800 CEST: Flavio Bergamaschi (Optalysys) and Imon Kundu (Optalysys)
+<table>
+  <thead>
+    <tr>
+      <th data-sortas="case-insensitive">Time</th>
+      <th data-sortas="case-insensitive">Session Topic</th>
+      <th data-sortas="case-insensitive">Speakers</th>
+      <th data-sortas="case-insensitive">Resources</th>
+    </tr>
+  </thead>
 
-* 1830 CEST: Michiel van Beirendonck (Belfort)
+  <tr>
+    <td width=100px>1800 CEST</td>
+    <td width=400px>Hardware and Software Co-design of Fully Homomorphic Encryption accelerators using integrated photonics.</td>
+    <td>Flavio Bergamaschi (Optalysys) and Imon Kundu (Optalysys)</td>
+    <td><a href="https://github.com/user-attachments/files/23906686/Optalysys.-.FHE.org.Hardware.Day.2025.-.Final.pdf">Slides</a></td>
+  </tr>
 
-* 1900 CET: Panel hosted by Nigel Smart (Zama), featuring: Ingrid Verbauwhede (Belfort), Paul Master (Cornami), Rosario Cammarota (Intel)
+  <tr>
+    <td width=100px>1830 CEST</td>
+    <td width=400px>Belfort - From Theory to Throughput: Deploying FHE in the Cloud</td>
+    <td>Michiel Van Beirendonck (Belfort)</td>
+    <td><a href="https://github.com/user-attachments/files/22555948/20250925.FHE.org.Hardware.Day.-.Michiel.Van.Beirendonck.-.Belfort.pdf">Slides</a></td>
+  </tr>
 
-* 2000 CEST: Jing-Jing Duflot (Zama)
+  <tr>
+    <td width=100px>1900 CEST</td>
+    <td width=400px>Panel on Hardware for FHE</td>
+    <td>Nigel Smart (Zama, Host), Ingrid Verbauwhede (Belfort), Paul Master (Cornami), and Rosario Cammarota (Intel Labs)  </td>
+    <td></td>
+  </tr>
 
-* 2030 CEST: Shruthi Gorantala (Google) and Wouter Legiest (KU Leuven)
+  <tr>
+    <td width=100px>2000 CEST</td>
+    <td width=400px>Homomorphic Processing Unit (HPU) on FPGA</td>
+    <td>Jing-Jing Duflot (Zama)</td>
+    <td><a href="https://github.com/user-attachments/files/22555779/25_09_25.FHE.hardware.day.-.Zama.pdf">Slides</a></td>
+  </tr>
+
+  <tr>
+    <td width=100px>2030 CEST</td>
+    <td width=400px>HEIR, Hardware and Benchmarking</td>
+    <td>Shruthi Gorantala (Google) and Wouter Legiest (KU Leuven)</td>
+    <td><a href="https://github.com/user-attachments/files/22967771/fhe.org.HEIR.Hardware.and.Benchmarking.pdf">Slides</a></td>
+  </tr>
+
+  <tr>
+    <td width=100px>2100 CEST</td>
+    <td width=400px>FHE.org Announcements and Closing</td>
+    <td></td>
+    <td><a href="https://github.com/user-attachments/files/22555705/closing-fhe-day-2025.pdf">Slides</a></td>
+  </tr>
+  </table>
+
+
 
 
 # Register for Hardware Day

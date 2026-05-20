@@ -26,12 +26,6 @@ This is joint work with M. Bolboceanu, A. Costache, R. Player, M. Rosca, R. Titi
 
 Erin is a final year PhD student at Royal Holloway, University of London. She works on homomorphic encryption, and in particular security assumptions and parameter choices.
 
-# Register to attend
-
-Visit FHE.org's [meetup.com](https://www.meetup.com/fhe-org/events/298454749/) event page to attend.
-
-After the event has finished, resources *(including any slides, video, papers, etc)* will be added to this resource page.
-
 # Never miss an update
 
 The newsletter where we post community announcements: https://fheorg.substack.com/

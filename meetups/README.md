@@ -22,8 +22,16 @@ As a part of the meetups, we interview presenters (and other community members) 
 
 FHE.org meetups archive, latest first.
 
-### 2025
+### 2026
+- [Low Communication Threshold FHE from Standard (Module-)LWE](https://fhe.org/meetups/083) by **Hiroki Okada** on **Feb 5th, 2026**
 
+### 2025
+- [FHE for Multiple Parties using NTRU and LWE](https://fhe.org/meetups/082) by **Oliver Zajonc** on **Dec 4th, 2025**
+- [Proving Correct Execution of TFHE's Bootstrapping using plonky2](https://fhe.org/meetups/081) by **Louis Tremblay Thibault** on **Nov 20th, 2025**
+- [Accelerating NTT with RISC-V Vector Extension for Fully Homomorphic Encryption](https://fhe.org/meetups/080) by **Alexandre Rodrigues** on **Nov 6th, 2025**
+- [FHE.org Hardware Day 2025](https://fhe.org/meetups/2025-hardware-day) by *(in order of presentation appearance)* **Flavio Bergamaschi and Imon Kundu (Optalysys), Michiel Van Beirendonck (Belfort), Nigel Smart (Zama), Ingrid Verbauwhede (Belfort), Paul Master (Cornami), Rosario Cammarota (Intel Labs), Jing-Jing Duflot (Zama), Shruthi Gorantala (Google), and Wouter Legiest (KU Leuven)** on **Sept 25th, 2025**
+- [Encrypted Matrix Multiplication Using 3-Dimensional Rotations](https://fhe.org/meetups/079) by **Shane Kosieradzki and Hannah Mahon** on **Oct 23, 2025**
+- [InsPIRe: Communication-Efficient PIR with Silent Preprocessing](https://fhe.org/meetups/078) by **Rasoul Akhavan Mahdavi** on **Oct 9th, 2025**
 - [Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead](https://fhe.org/meetups/077) by **Antonio Guimarães** on **Jul 17th, 2025**
 - [Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys](https://fhe.org/meetups/076) by **Olivier Bernard** on **Jul 3, 2025**
 - [Somewhat Homomorphic Encryption from Sparse LPN](https://fhe.org/meetups/075) by **Alexandra Henzinger** on **Jun 19, 2025**
@@ -74,7 +82,7 @@ FHE.org meetups archive, latest first.
 - [Homomorphic Polynomial Evaluation using Galois structure and application to BFV bootstrapping](https://fhe.org/meetups/036-Homomorphic_Polynomial_Evaluation_using_Galois_structure_and_application_to_BFV_bootstrapping) by **Simon Pohmann** on **Oct 5th, 2023**
 - [Revisiting Key Decomposition Techniques for FHE: Simpler, Faster and More Generic](https://fhe.org/meetups/035-Revisiting_Key_Decomposition_Techniques_for_FHE-Simpler_Faster_and_More_Generic) by **Nicolas Gama** on **Sept 28, 2023**
 - [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://fhe.org/meetups/034-fhEVM-Confidential_EVM_Smart_Contracts_using_Fully_Homomorphic_Encryption) by **Morten Dahl** on **Sept 21, 2023**
-- [Faster TFHE Bootstrapping with Block Binary Keys](https://github.com/FHE-org/fhe-org.github.io/blob/main/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys.md) by **Seonghong Min** on **Sep 14, 2023**
+- [Faster TFHE Bootstrapping with Block Binary Keys](https://fhe.org/meetups/033-Faster_TFHE_Bootstrapping_with_Block_Binary_Keys) by **Seonghong Min** on **Sep 14, 2023**
 - [A Fast Convolution Algorithm for Accelerating Private Model Inference](https://fhe.org/meetups/032-A_Fast_Convolution_Algorithm_for_Accelerating_Private_Model_Inference) by **Huan-Chih Wang** on **July 27, 2023**
 - [PARMESAN: Parallel ARithMEticS over ENcrypted data](https://fhe.org/meetups/031-PARMESAN_Parallel_ARithMEticS_over_ENcrypted_data) by **Jakub Klemsa** on **July 20, 2023**
 - [TFHE functional bootstrapping over multiple inputs](https://fhe.org/meetups/030-TFHE_functional_bootstrapping_over_multiple_inputs) by **Pierre-Emmanuel Clet** on **July 6, 2023**

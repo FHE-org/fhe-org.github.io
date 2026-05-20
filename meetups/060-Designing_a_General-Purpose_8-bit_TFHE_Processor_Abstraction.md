@@ -23,7 +23,7 @@
 
 # Designing a General-Purpose 8-bit (T)FHE Processor Abstraction
 #### by Daphné Trama - 2024.10.17 4PM CEST
-#### <a href="https://www.youtube.com/watch?v=UCksDHiCxls&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=2">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=n4DlY4dXnNw&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Presenter interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UCksDHiCxls&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=2">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=n4DlY4dXnNw&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Presenter Interview</a> (Youtube) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/303999913/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/45a37307-2183-42d9-9ae2-9bd5735169c4"></a>
 

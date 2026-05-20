@@ -23,13 +23,13 @@
 
 # A Fast Heuristic for Mapping Boolean Circuits to Functional Bootstrapping
 #### by Sergiu Carpov - 2024.11.21 4PM CEST
-#### <a href="https://www.youtube.com/watch?v=1gS5TdLpeKw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=FNd-l8JcHA0&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker interview</a> (Youtube) | <a href="https://github.com/user-attachments/files/17916901/Boolean_circuit_mapping_to_functional_bootstrapping.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=1gS5TdLpeKw&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation Recording</a> (Youtube) | <a href="https://www.youtube.com/watch?v=FNd-l8JcHA0&list=PLnbmMskCVh1e3EGYBGrAg1q-cVE5fM6O4&index=1">Speaker Interview</a> (Youtube) | <a href="https://github.com/user-attachments/files/17916901/Boolean_circuit_mapping_to_functional_bootstrapping.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://www.meetup.com/fhe-org/events/304521997/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link"><img src="https://github.com/user-attachments/assets/9baba8bd-21b3-4b25-a04c-86e5f12f12bd"></a>
 
 # Abstract
 
-This presentation aims to highlight some of the recent advances in tools fof automatic Boolean circuit mapping to TFHE functional bootstrapping (FBS). One approach to using FBS is to map Boolean circuits to generic k-input LUTs, which is a straightforward method and extensive tools from the circuit synthesis field are available for this. However, manual optimisations may be necessary to fully leverage the potential of FBS. A fast and automatic method to perform this task will be presented together with empirical results on a set of representative benchmark circuits.
+This presentation aims to highlight some of the recent advances in tools for automatic Boolean circuit mapping to TFHE functional bootstrapping (FBS). One approach to using FBS is to map Boolean circuits to generic k-input LUTs, which is a straightforward method and extensive tools from the circuit synthesis field are available for this. However, manual optimisations may be necessary to fully leverage the potential of FBS. A fast and automatic method to perform this task will be presented together with empirical results on a set of representative benchmark circuits.
 
 # About the speaker
 

@@ -8,7 +8,7 @@
 
 # Exploring General Cyclotomic Rings in Torus-Based Fully Homomorphic Encryption: Part I - Prime Power Instances
 #### by Mohammed Lemou - 2025.04.17
-#### <a href="https://www.youtube.com/watch?v=UMLeO_-0Mk8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/19869100/lemou-FheOrg-04-17-25.pdf">Slides </a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=UMLeO_-0Mk8&list=PLnbmMskCVh1chnSM8Jjy6Nk3IH6fpn7MM&index=1">Presentation Recording</a> (Youtube) | <a href="https://github.com/user-attachments/files/19869100/lemou-FheOrg-04-17-25.pdf">Slides </a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 ![071 Meetup cover](https://github.com/user-attachments/assets/ec2e018d-c3fd-4e95-aad2-e6f36409084b)
 

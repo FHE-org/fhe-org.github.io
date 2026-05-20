@@ -32,12 +32,19 @@
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
-
+- <a href="https://github.com/Hexens/awesome-fhe-attacks/" id="00201">Awesome FHE Attacks: A curated list of research, articles, tools, and resources focused on attacks against FHE</a> by **Hexens** on **April 23, 2026**
+- <a href="https://securitynotionszoo.com/" id="00199">Security Notions Zoo: A taxonomy site for cryptography security notions for FHE</a> by **Jules Dumezy and Marc Renard** on **April 15, 2026**
+- <a href="https://drive.google.com/file/d/1Iz1rY7g0wyJnES7UN3_z0SrHFUGEobsY/view" id="00195">Tutorial: Accelerating Private Cloud Computing with FIDESlib</a> by **Carlos Agulló-Domingo, Óscar Vera-López, and José L. Abellán** on **Feb 1, 2026**
+- <a href="https://www.youtube.com/watch?v=lD5xH4Sx0yE" id="00189"> Speedrunning TFHE-rs: Part 3</a> by **David Wong** on **Dec 6, 2025**
+- <a href="https://www.youtube.com/watch?v=o_xGuJFhzgQ" id="00188"> Speedrunning TFHE-rs: Part 2</a> by **David Wong** on **Dec 5, 2025**
+- <a href="https://www.youtube.com/watch?v=LV606ZmVsfE" id="00187"> Speedrunning TFHE-rs: Part 1</a> by **David Wong** on **Dec 5, 2025**
+- <a href="https://arxiv.org/abs/2503.05136" id="00177">The Beginner's Textbook for Fully Homomorphic Encryption</a> by **Ronny Ko** on **Sept 8, 2025**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/eurocrypt-2025-a-new-fhe-scheme-for-high-precision-arithmetic/" id="00170">A new FHE scheme for high-precision arithmetic</a> by **Robin Geelen** on **April 24, 2025**
 - <a href="https://research.ibm.com/blog/fhe-cc-security" id="00154">Protecting user data with fully homomorphic encryption and confidential computing</a> by **IBM** on **July 24, 2024**
 - <a href="https://www.jeremykun.com/2024/09/06/packing-matrix-vector-multiplication-in-fhe/" id="00147">Packing Matrix-Vector Multiplication in Fully Homomorphic Encryption</a> by **Jeremy Kun** on **Sept 06, 2024**
 - <a href="https://www.jeremykun.com/2024/09/02/shift-networks/" id="00146">Shift Networks</a> by **Jeremy Kun** on **Sept 02, 2024**
 - <a href="https://www.jeremykun.com/2024/05/04/fhe-overview/" id="00142">A High-Level Technical Overview of Fully Homomorphic Encryption</a> by **Jeremy Kun** on **May 04, 2024**
+- <a href="https://github.com/openfheorg/aaai-2024-lab-materials" id="00191">AAAI 2024 Tutorial: Fully Homomorphic Encryption for Privacy-Preserving Machine Learning using the OpenFHE Library</a> by **Ian Quah, Yuriy Polyakov** and **Sukanya Mandal** on **February 20, 2024**
 - <a href="https://cryptographycaffe.sandboxaq.com/posts/fhe-01/" id="00001">Fully Homomorphic Encryption: Introduction and Use-Cases</a> by **Nicolas Gama** and **Sandra Guasch** on **Nov 18, 2023**
 - <a href="https://jeremykun.com/2023/09/18/encoding-schemes-in-fhe/" id="00002">Encoding Schemes in FHE</a> by **Jeremy Kun** on **September 18, 2023**
 - <a href="https://blog.sunscreen.tech/introducing-sunscreens-zkp-compiler/" id="00003">Introducing Sunscreen's ZKP compiler</a> by **Ravital Solomon** on **Aug 24, 2023**
@@ -65,6 +72,7 @@
 - <a href="https://www.zama.ai/post/tfhe-deep-dive-part-2" id="00025">TFHE deep-dive - part 2 - Encodings and linear leveled operations</a> by **Ilaria Chillotti** on **May 11, 2022**
 - <a href="https://www.zama.ai/post/tfhe-deep-dive-part-1" id="00026">TFHE deep-dive - part 1- Ciphertext types</a> by **Ilaria Chillotti** on **May 4, 2022**
 - <a href="https://fhe.org/meetups/011-single-server-private-information-retrieval-using-homomorphic-encryption" id="00027">Single-server private information retrieval using homomorphic encryption</a> by **Muhammad Haris** on **Feb 25, 2022**
+- <a href="https://www.youtube.com/watch?v=y3Mu3GSRoTA" id="00192">Introduction to fully homomorphic encryption</a> by **Jean-Sébastien Coron** on **Feb 9, 2022**
 - <a href="https://jeremykun.com/2021/12/11/the-gadget-decomposition-in-fhe/" id="00028">The Gadget Decomposition in FHE</a> by **Jeremy Kun** on **December 11, 2021**
 - <a href="https://www.zama.ai/post/homomorphic-encryption-101" id="00029">Homomorphic Encryption 101</a> by **Marc Joye** on **Dec 01, 2021**
 - <a href="https://www.ibm.com/support/z-content-solutions/fully-homomorphic-encryption" id="00030">Fully Homomorphic Encryption</a> by **IBM** on **September 23, 2021**
@@ -72,6 +80,7 @@
 - <a href="https://blog.sunscreen.tech/an-intro-to-fully-homomorphic-encryption-for-engineers/" id="00032">An Intro to Fully Homomorphic Encryption for Engineers</a> by **Ravital Solomon** on **Aug 30, 2021**
 - <a href="https://www.openfhe.org/portfolio-item/homomorphic-encryption-for-palisade-users/" id="00158">Introduction to Approximate Homomorphic Encryption</a> by **Yuriy Polyakov** on **March 26, 2021**
 - <a href="https://www.youtube.com/watch?v=9Fa6rFUyQ_w" id="00164"> Introduction to Multiparty Homomorphic Encryption</a> by **Yuriy Polyakov** on **Oct 31, 2020**
+- <a href="https://www.youtube.com/watch?v=sSSRkzvI2Sk" id="00196">Exploring Fully Homomorphic Encryption </a> by **Vitalik Buterin** on **May 09, 2020**
 - <a href="https://www.microsoft.com/en-us/research/video/introduction-to-ckks-approximate-homomorphic-encryption/" id="00033">Introduction to CKKS (Approximate Homomorphic Encryption)</a> by **Yongsoo Song** on **Jan 07, 2020**
 - <a href="https://www.microsoft.com/en-us/research/video/building-applications-with-microsoft-seal/" id="00034">Building Applications with Microsoft SEAL</a> by **Wei Dai** on **December 03, 2019**
 - <a href="https://www.microsoft.com/en-us/research/video/private-ai-bootcamp-techniques-in-ppml/" id="00035">Techniques in PPML</a> by **Hao Chen** on **December 02, 2019**
@@ -79,6 +88,8 @@
 - <a href="https://www.microsoft.com/en-us/research/video/microsoft-seal/" id="00037">Microsoft SEAL</a> by **Kim Laine** on **December 02, 2019**
 - <a href="https://www.youtube.com/watch?v=pXb39wj5ShI" id="00151">How would you explain homomorphic encryption?</a> by **Craig Gentry** on **Jan 11, 2018**
 - <a href="https://martinralbrecht.wordpress.com/2016/03/03/gsw13-3rd-generation-homomorphic-encryption-from-learning-with-errors/" id="00038">GSW13: 3rd Generation Homomorphic Encryption from Learning with Errors</a> by **Martin Albrecht** on **March 3, 2016**
+- <a href="https://www.youtube.com/watch?v=gWcjwXJWMKM" id="00193">Fully Homomorphic Encryption</a> by **Nigel Smart** on **March 6, 2012**
+
 
 ## Use Cases and Demos
 
@@ -94,7 +105,7 @@
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering" id="00039">Encrypted image filtering</a> by **Zama** on **Feb 23, 2023**
 - <a href="https://playground.blyss.dev/passwords" id="00041">Private password checker</a> by **Blyss** on **Feb 21, 2023** [Requires sign-up]
 - <a href="https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis" id="00042">Sentiment analysis over encrypted data</a> by **Zama** on **Nov 17, 2022**
-  [//]: # "- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
+- <a href="https://btc.usespiral.com/" id="00043">Private bitcoin balance</a> by **Blyss** on **Sept 15, 2022**"
 - <a href="https://github.com/ldsec/lattigo-polls-demo" id="00044">Lattigo-polls: schedule meeting using Lattigo</a> by **Lattigo** on **Sept 2, 2022**
 - <a href="https://www.nature.com/articles/s41467-022-32168-5" id="00045">Human action recognition</a> by **Miran Kim, Xiaoqian Jiang, Kristin Lauter, Elkhan Ismayilzada, and Shayan Shams** on **Aug 15, 2022**
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S174680942200516X" id="00046">Ensuring security of artificial pancreas device system using homomorphic encryption</a> by **Haotian Weng, Chirath Hettiarachchi, Christopher Nolan, Hanna Suominen, and Artem Lenskiy** on **Jan 15, 2022**
@@ -114,8 +125,15 @@
 - <a href="https://fhe.org/meetups/008-why-we-need-revolutionary-hardware-for-fhe" id="00057">Why we need revolutionary hardware for FHE</a> by **Rosario Cammarota** on **Nov 23, 2021**
 
 ## Research
-
-- <a id="00175" href="https://ckks.org/blog/2025/threshold/">Low Communication Threshold Fully Homomorphic Encryption </a> by **Alain Passelègue** on **July 13th, 2025**
+- <a id="00198" href="https://www.youtube.com/watch?v=NNl8ooy3dSo">Efficient Homomorphic Integer Computer from CKKS </a> by **Jaehyung Kim** on **Feb 28th, 2026**
+- <a id="00194" href="https://ckks.org/blog/2026/DPHE/">DPHE: Protecting Server Privacy in CKKS-based Protocols</a> by **Jinyeong Seo** on **Jan 5th, 2026**
+- <a id="00190" href="https://www.zama.ai/the-state-of-fhe-report">The State of FHE Report — Hardware Edition</a> by **Zama** on **Jan 1st, 2026**
+- <a id="00185" href="https://fhe.org/meetups/078">InsPIRe: Communication-Efficient PIR with Silent Preprocessing</a> by **Rasoul Akhavan Mahdavi** on **Oct 9th, 2025**
+- <a id="00184" href="https://fhe.org/meetups/077">Fast Amortized Bootstrapping with Small Keys and Polynomial Noise Overhead</a> by **Antonio Guimarães** on **Jul 17th, 2025**
+- <a id="00183" href="https://fhe.org/meetups/076">Bootstrapping (T)FHE Ciphertexts via Automorphisms: Closing the Gap Between Binary and Gaussian Keys</a> by **Olivier Bernard** on **Jul 3rd, 2025**
+- <a id="00182" href="https://fhe.org/meetups/075">Somewhat Homomorphic Encryption from Sparse LPN</a> by **Alexandra Henzinger** on **Jun 19th, 2025**
+- <a id="00181" href="https://fhe.org/meetups/074">Oblivious Message Retrieval</a> by **Zeyu Liu** on **Jun 12th, 2025**
+- <a id="00175" href="https://ckks.org/blog/2025/threshold/">Low Communication Threshold Fully Homomorphic Encryption  </a> by **Alain Passelègue** on **July 13th, 2025**
 - <a id="00174" href="https://ckks.org/blog/2025/bootstrapping-discrete-data-with-ckks/">Bootstrapping Discrete Data with CKKS</a> by **Jaehyung Kim** on **Jun 8th, 2025**
 - <a id="00173" href="https://ckks.org/blog/2025/grafting/">Grafting: Improving Performance and Usability of Homomorphic Encryption </a> by **Johannes Mono** on **Jun 8th, 2025**
 - <a id="00172" href="https://fhe.org/meetups/073">Ciphertext-Ciphertext Matrix Multiplication: Fast for Large Matrices</a> by **Jai Hyun Park** on **Jun 5th, 2025**
@@ -178,16 +196,21 @@
 - <a href="https://fhe.org/meetups/017-Estimating_the_Difficulty_of_Breaking_Lattice_Based_Cryptography" id="00090">Estimating the Difficulty of Breaking Lattice-Based Cryptography</a> by **Martin Albrecht** on **Nov 22, 2022**
 - <a href="https://fhe.org/meetups/015-FHE_based_on_the_NTRU_problem" id="00091">FHE based on the NTRU problem: challenges and new constructions</a> by **Hilder Vitor Lima Pereira** on **Sept 27, 2022**
 - <a href="https://fhe.org/meetups/014-homomorphic-Large-Precision-Integers-Using-Concrete" id="00092">Homomorphic Large Precision Integers Using Concrete</a> by **Jean-Baptiste Orfila** on **Jul 07, 2022**
+- <a id="00186" href="https://www.youtube.com/watch?v=HIJad2TS1iM"> Fully Homomorphic Encryption, 10 Years Later: Definitions and Open Problems</a> by **Daniele Micciancio** on **May 26, 2022**
 - <a href="https://fhe.org/meetups/013-single-trace-side-channel-attack-on-seal-homomorphic-encryption-library" id="00093">Single-Trace Side-Channel Attack on SEAL Homomorphic Encryption Library</a> by **Furkan Aydin** on **April 28, 2022**
 - <a href="https://fhe.org/meetups/012-verifiable-computation-over-encrypted-data-snarks-and-more" id="00094">Verifiable Computation over Encrypted Data: SNARKs and more</a> by **Anca Nitulescu** on **Mar 29, 2022**
 - <a href="https://fhe.org/meetups/010-an-overview-of-hybrid-homomorphic-encryption" id="00095">An overview of Hybrid Homomorphic Encryption</a> by **Orel Cosseron and Clément Hoffmann** on **Jan 20, 2022**
+- <a id="00200" href="https://www.youtube.com/watch?v=487AjvFW1lk">A Decade (or so) of fully homomorphic encryption</a> by **Craig Gentry** on **Oct 19, 2021**  
 - <a href="https://fhe.org/meetups/005-google-c++-to-fhe-transpiler" id="00096">Google's C++ to FHE compiler</a> **Shruthi Gorantala and Rob Springer** on **Aug 26, 2021**
 - <a href="https://fhe.org/meetups/004-fhe-development-tools" id="00097">Developer Tools & Compilers</a> by **Alexander Viand** on **May 20, 2021**
 - <a href="https://fhe.org/meetups/003-tfhe-deep-dive" id="00098">TFHE deep dive</a> by **Ilaria Chillotti** on **Apr 15, 2021**
 - <a href="https://fhe.org/meetups/002-introduction-to-mpc" id="00099">Introduction to MPC</a> by **Yehuda Lindell** on **Jan 27, 2021**
 - <a id="00165" href="https://www.microsoft.com/en-us/research/blog/password-monitor-safeguarding-passwords-in-microsoft-edge/"> Password Monitor: Safeguarding passwords in Microsoft Edge </a> by **Kristin Lauter** on **Jan 21st, 2021**
 - <a href="https://fhe.org/meetups/001-introduction-to-fhe" id="00100">Introduction to homomorphic encryption</a> by **Pascal Paillier** on **Nov 04, 2020**
+- <a href="https://youtu.be/PeE4C7Opcsw?si=Viqxk1TUmjzD-D3v" id="00197">Guide to Applications of Homomorphic Encryption</a> by **Miran Kim** on **Aug 11, 2016**
 - <a href="https://www.youtube.com/watch?v=O8IvJAIvGJo" id="00159">Fully Homomorphic Encryption</a> by **Zvika Brakerski** on **July 15 2015**
+- <a href="https://www.youtube.com/watch?v=xlcb_G1_rzk" id="00180">Cryptography Bootcamp: Homomorphic Encryption (Part 1, SWHE)</a> by **Shai Halevi** on **May 18, 2015**
+- <a href="https://youtu.be/Y1TxCiOuoYY?si=r4udREAYVlXnDD7d" id="00179">Winter School on Cryptography: Fully Homomorphic Encryption</a> by **Craig Gentry** on **May 31, 2012**
 
 ## Influential Papers
 
@@ -216,6 +239,7 @@
 
 - <a href="https://github.com/zama-ai/concrete" id="00118">Concrete</a> - Rust compiler for TFHE by **Zama**
 - <a href="https://github.com/zama-ai/concrete-ml" id="00119">Concrete ML</a> - Privacy Preserving ML framework built on top of Concrete by **Zama**
+- <a href="https://fhe.desilo.dev/latest/" id="00200">Desilo FHE</a> - A C++ library supporting the RNS-CKKS and GL schemes with CUDA GPU support by **Desilo** 
 - <a href="https://heaan.it/" id="00120">HEaaN</a> - C++ FHE library implementing CKKS scheme that supports bootstrapping and GPU-acceleration by **Crypto Lab**
 - <a href="https://github.com/google/heir" id="00121">HEIR</a> - An MLIR-based compiler toolchain for FHE by **Google**
 - <a href="https://github.com/HomEnc/HElib" id="00122">HElib</a> - BGV scheme with bootstrapping and the Approximate Number CKKS scheme by **IBM**
@@ -236,7 +260,7 @@
 
 ## Textbooks
 
-- <a id="00177" href="https://link.springer.com/book/10.1007/978-3-031-65494-7" id="00178">Homomorphic Encryption for Data Science (HE4DS)</a> by **IBM** in **2024**
+- <a href="https://link.springer.com/book/10.1007/978-3-031-65494-7" id="00178">Homomorphic Encryption for Data Science (HE4DS)</a> by **IBM** in **2024**
 
 ## Projects
 
