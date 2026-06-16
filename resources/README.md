@@ -189,6 +189,7 @@
 - <a href="https://fhe.org/meetups/025-Efficient_TFHE_Bootstrapping_in_the_Multiparty_Setting" id="00082">Efficient TFHE Bootstrapping in the Multiparty Setting</a> by **Sergi Rovira** on **June 1, 2023**
 - <a href="https://fhe.org/meetups/023-Circuit_Privacy_for_FHEW-TFHE-Style_Fully_Homomorphic_Encryption_in_Practice" id="00083">Circuit Privacy for FHEW/TFHE-Style Fully Homomorphic Encryption in Practice</a> by **Kamil Kluczniak** on **May 11, 2023**
 - <a href="https://fhe.org/meetups/022-TT-TFHE_Torus_Fully_Homomorphic_Encryption-Friendly_Neural_Network_Architecture" id="00084">TT-TFHE: Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture</a> by **Adrien Benamira** on **Apr 27, 2023**
+- <a id="00204" href="https://cknabs.github.io/post/vfhe/">Verifiable Fully Homomorphic Encryption </a> by **Christian Knabenhans** on **Apr 23rd, 2023**
 - <a href="https://www.esat.kuleuven.be/cosic/blog/stap23-on-the-history-of-fhempczk-friendly-symmetric-crypto/" id="00085">On the history of FHEMPCZK-friendly symmetric crypto</a> by **Erik Pohle** on **April 23, 2023**
 - <a href="https://www.youtube.com/watch?v=Q3glyMsaWIE&t=47s" id="00086">The Path to Real World FHE: Navigating the Ciphertext Space</a> by **Shruthi Gorantala** on **March 28, 2023**
 - <a href="https://fhe.org/meetups/021-Faster_Amortized_FHE_bootstrapping_using_Ring_Automorphisms" id="00087">Faster Amortized FHEW bootstrapping using Ring Automorphisms</a> by **Duhyeong Kim and Gabrielle De Micheli** on **Feb 28, 2023**
