@@ -93,7 +93,7 @@
 
 
 ## Use Cases and Demos
-
+- <a id="00205" href="https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe/">End-to-end encrypted ML inference with Amazon SageMaker AI and FHE</a> by **Jonathan Herzog and Ruben Merz** on **June 8th, 2026**
 - <a id="00203" href="https://blog.openzeppelin.com/how-fully-homomorphic-encryption-enables-private-shared-state">Beyond Zero Knowledge: How Fully Homomorphic Encryption Enables Private Shared State</a> by **Samuel Wong** on **Aug 13, 2025**
 - <a id="00160" href="https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm">Suffragium: An Encrypted Onchain Voting System Leveraging ZK and FHE Using Zama's fhEVM</a> by **Alessandro Manfredi** on **Nov 6, 2024**
 - <a id="00152" href="https://machinelearning.apple.com/research/homomorphic-encryption">Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem</a> by **Apple** on **October 24, 2024**
