@@ -14,10 +14,22 @@ Have a suggestion for our next digest? Let us know on the FHE.org <a href="https
 # FHE.org Digest [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
 
 ## Latest FHE.org Digest Issue
-
-- <a href="https://fheorg.substack.com/p/fheorg-digest-27-conference-upcoming" id="00027">FHE.org Digest - Issue 27</a> by **FHE.org** on **Feb 28, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-40-academic-conferences" id="00040">FHE.org Digest - Issue 40</a> by **FHE.org** on **Jun 30, 2026**<br>
 
 ## Previous FHE.org Digest Issues
+- <a href="https://fheorg.substack.com/p/fheorg-digest-39-academic-conferences" id="00039">FHE.org Digest - Issue 39</a> by **FHE.org** on **May 29, 2026**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-38-fheorg-2026-conference" id="00038">FHE.org Digest - Issue 38</a> by **FHE.org** on **Jan 30, 2026**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-37-2025-one-year-review" id="00037">FHE.org Digest - Issue 37</a> by **FHE.org** on **Dec 17, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-36-fhe-at-devconnect" id="00036">FHE.org Digest - Issue 36</a> by **FHE.org** on **Nov 28, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-35-conference-submission" id="00035">FHE.org Digest - Issue 35</a> by **FHE.org** on **Oct 31, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-34-fhe-hardware-day" id="00034">FHE.org Digest - Issue 34</a> by **FHE.org** on **Sep 30, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-34-call-for-presentations" id="00033">FHE.org Digest - Issue 33</a> by **FHE.org** on **Aug 29, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-32-fhe-hardware-day" id="00032">FHE.org Digest - Issue 32</a> by **FHE.org** on **Jul 31, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-31-hardware-conferences" id="00031">FHE.org Digest - Issue 31</a> by **FHE.org** on **Jun 30, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-30-fhe-at-eurocrypt" id="00030">FHE.org Digest - Issue 30</a> by **FHE.org** on **Jun 2, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-29-academic-conferences" id="00029">FHE.org Digest - Issue 29</a> by **FHE.org** on **Apr 30, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-28" id="00028">FHE.org Digest - Issue 28</a> by **FHE.org** on **Mar 31, 2025**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-27-conference-upcoming" id="00027">FHE.org Digest - Issue 27</a> by **FHE.org** on **Feb 28, 2025**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-26-conference-updates" id="00026">FHE.org Digest - Issue 26</a> by **FHE.org** on **Jan 31, 2025**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-25-2024-one-year-review" id="00025">FHE.org Digest - Issue 25</a> by **FHE.org** on **Dec 30, 2024**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-24-fheorg-2025-submissions" id="00024">FHE.org Digest - Issue 24</a> by **FHE.org** on **Nov 29, 2024**<br>
