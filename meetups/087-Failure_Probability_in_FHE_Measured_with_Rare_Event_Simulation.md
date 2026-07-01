@@ -8,7 +8,7 @@
 
 # Failure Probability in FHE Measured with Rare Event Simulation
 #### by Mathieu Ballandras - 2026.04.02
-#### <a href="https://luma.com/FHE.org-087">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://www.youtube.com/watch?v=FKYSJprR9og">Presentation Recording</a> (YouTube) | <a href="https://github.com/user-attachments/files/29542774/p_fail_meetup.pdf">Slides</a> (Github) | <a href="https://luma.com/FHE.org-087">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://luma.com/FHE.org-087"><img width="900" height="507" alt="FHE.org 087" src="https://github.com/user-attachments/assets/212d6e41-7d1f-425a-bb15-cb64ccdbcd14" /></a>
 
