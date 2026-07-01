@@ -33,13 +33,13 @@
 
 # FHE.org 2027 conference
 
-The 6th Annual FHE.org Conference on Fully Homomorphic Encryption will take place in Seattle, USA, on April 4th 2026. The conference will feature presentation sessions, poster sessions, invited speakers, and our usual after party.
+The 6th Annual FHE.org Conference on Fully Homomorphic Encryption will take place in Seattle, USA, on April 4th 2027. The conference will feature presentation sessions, poster sessions, invited speakers, and our usual after party.
 
 For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.substack.com/).
 
 
 ## Important dates
-- **Conference date:** March 8, 2026
+- **Conference date:** April 4, 2027
 
 ## Latest updates
 - **2025.01.07:** Conference website online
