@@ -23,6 +23,10 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2026
+- [Failure Probability in FHE Measured with Rare Event Simulation](https://fhe.org/meetups/087) by **Mathieu Ballandras** on **Apr 2nd, 2026**
+- [Evaluating Larger Lookup Tables using CKKS](https://fhe.org/meetups/086) by **Jules Dumezy** on **Mar 19th, 2026**
+- [FHE in Production](https://fhe.org/meetups/085) by **Rotem Tsabary** on **Feb 26th, 2026**
+- [Efficient Homomorphic Matrix Computation for Secure Transformer Inference](https://fhe.org/meetups/084) by **Miran Kim** on **Feb 19th, 2026**
 - [Low Communication Threshold FHE from Standard (Module-)LWE](https://fhe.org/meetups/083) by **Hiroki Okada** on **Feb 5th, 2026**
 
 ### 2025
