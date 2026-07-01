@@ -7,9 +7,9 @@
 <!-- /Main header navigation -->
 
 
-
 ## FHE.org conference pages
-- <a href="https://fhe-org.github.io/conferences/conference-2026/">2026</a>
+- <a href="https://fhe-org.github.io/conferences/conference-2027">2027</a>
+- <a href="https://fhe-org.github.io/conferences/conference-2026/resources">2026</a>
 - <a href="https://fhe-org.github.io/conferences/conference-2025/resources">2025</a>
 - <a href="https://fhe-org.github.io/conferences/conference-2024/resources">2024</a>
 - <a href="https://fhe-org.github.io/conferences/conference-2023/resources">2023</a>
