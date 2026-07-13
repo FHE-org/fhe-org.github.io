@@ -42,8 +42,8 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **Conference date:** April 4, 2027
 
 ## Latest updates
-- **2025.01.07:** Conference website online
-- **2025.08.07:** Program Chairs announced (David Archer and Rachel Player)
+- **2025.07.01:** Conference website online
+- **2025.07.08:** Program Chairs announced (David Archer and Rachel Player)
 
 ## Sponsors
 *Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences just as our [2026 sponsors](https://fhe.org/conferences/conference-2026/sponsor) have. Reach out to us at contact@fhe.org.*
