@@ -117,6 +117,7 @@ We humbly thank the FHE community for their contributions in various forms inclu
 * <a href="https://k-miran.github.io/">Miran Kim</a>
 * <a href="https://mortendahl.github.io/">Morten Dahl</a>
 * <a href="https://dl.acm.org/profile/99659306354">Muhammad Haris</a>
+* Neal Wright
 * <a href="http://gama.nicolas.free.fr/index.php">Nicolas Gama</a>
 * <a href="https://www.esat.kuleuven.be/cosic/people/nigel-smart/">Nigel Smart</a>
 * <a href="https://researcher.draco.res.ibm.com/researcher/view.php?person=ibm-Nir.Drucker">Nir Drucker</a>
