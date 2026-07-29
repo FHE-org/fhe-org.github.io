@@ -8,7 +8,7 @@
 
 
 <p align="center">
-Save the date! <a href="https://fhe-org.github.io/conferences/conference-2026/">FHE.org Taipei 2026</a> is officially announced and is co-locating with Real World Crypto 2026 on March 8th 2026.
+Save the date! <a href="https://fhe-org.github.io/conferences/conference-2027/">FHE.org Seattle 2027</a> is officially announced and will be held in Seattle, USA, on April 4th, 2027.
 </p>
 <hr/>
 
@@ -25,13 +25,17 @@ The desired outcome of the advisory board program is to:
 - Promote a fair playing ground for all companies
 - Maximize adoption of FHE
 
-The advisory board meets once per quarter, online, to discuss these issues and any other outstanding points-of-order. The advisory board can be contacted via: advisory_board@fhe.org. 
+The advisory board meets online, to discuss these issues and any other outstanding points-of-order. The advisory board can be contacted via: advisory_board@fhe.org. 
 
 #### Members
 - Shruthi Gorantala, Google 
 - Pascal Paillier, Zama [Chair]
-- Damien Stehle, CryptoLab
-- Ingrid Verbauwhede, KU Leuven
+- Miran Kim, Hanyang University
+- Ingrid Verbauwhede, KU Leuven and Belfort
+
+#### Previous Members
+We also thank our previous advisory board members for their efforts.
+- Damien Stehlé, CryptoLab [2023-2026]
 
 
 
