@@ -56,7 +56,9 @@ The 2027 FHE.org Program Committee is particularly seeking talks and posters tha
 
 ## Call for contributed talks and posters
 
-Authors are invited to submit proposals for presentation as a talk or poster using the submission form located at  [https://easychair.org/conferences/?conf=fheorg2027](https://easychair.org/conferences/?conf=fheorg2027). Submissions must be in PDF format and written in English and should be in the form of an extended abstract of 2 to 4 pages (not including references). Whether the proposal is for a talk or poster should be clearly indicated in the submission. Submission implies the willingness of at least one of the authors to register and present the contribution in person at the conference venue. Every year, we receive many proposals for presentations of great quality, and it is not always possible to accept all of them as talks. A submission for a talk may instead be accepted as a poster.
+Authors are invited to submit proposals for presentation as a talk or poster using the submission form located at [https://easychair.org/conferences/?conf=fheorg2027](https://easychair.org/conferences/?conf=fheorg2027). 
+
+Submissions must be in PDF format and written in English and should be in the form of an extended abstract of 2 to 4 pages (not including references). Whether the proposal is for a talk or poster should be clearly indicated in the submission. Submission implies the willingness of at least one of the authors to register and present the contribution in person at the conference venue. Every year, we receive many proposals for presentations of great quality, and it is not always possible to accept all of them as talks. A submission for a talk may instead be accepted as a poster.
 
 FHE.org follows the spirit of the Real World Cryptography conference, and so submissions are single-blind. All submissions will be refereed by the program committee who will be asked to consider both (1) the relevance of the submission to the goals of the conference and (2), in the case of a talk proposal, the quality of the presentation. **For a proposal for a talk, the author who will present the talk should be identified.**
 
