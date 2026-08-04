@@ -17,9 +17,9 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2027/call-for-presentations">Call for presentations</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2027/committees"><b>Committees</b></a>
+  <a href="https://fhe-org.github.io/conferences/conference-2027/committees">Committees</a>
   —
-  <a href="https://fhe-org.github.io/conferences/conference-2027/submissions">Submissions</a>
+  <a href="https://fhe-org.github.io/conferences/conference-2027/submissions"><b>Submissions</b></a>
   —
   <a href="https://fhe-org.github.io/conferences/conference-2027/contact">Contact</a>
   —
@@ -31,9 +31,5 @@
 <!-- /Header conference 2027 links -->
 
 
-# FHE.org conference 2027 — Committees
-
-## Program co-chairs
-- **David Archer** *Niobium*
-- **Rachel Player** *Royal Holloway, University of London*
-
+# FHE.org conference 2027
+Submissions can be made via the easychair server here: [https://easychair.org/conferences/?conf=fheorg2027](https://easychair.org/conferences/?conf=fheorg2027)

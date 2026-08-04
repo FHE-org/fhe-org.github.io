@@ -19,9 +19,9 @@
   —
   <a href="https://fhe-org.github.io/conferences/conference-2027/committees">Committees</a>
   —
-  Submissions
+  <a href="https://fhe-org.github.io/conferences/conference-2027/submissions">Submissions</a>
   —
-  Contact
+  <a href="https://fhe-org.github.io/conferences/conference-2027/contact">Contact</a>
   —
   Sponsor
   —
