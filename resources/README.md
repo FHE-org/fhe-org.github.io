@@ -32,6 +32,7 @@
 - [FHE.org Trondheim 2022 Conference Resources](https://fhe-org.github.io/conferences/conference-2022/resources) by **FHE.org** on **May 29, 2022**
 
 ## Tutorials and Walkthroughs
+- <a href="https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ id=00207"> How Google is Making Private AI Practical with Homomorphic Encryption</a> by **Jeremy Kun** on **August 14, 2026**
 - <a href="https://jdumezy.com/blog/bivariate-ckks/" id="00202">Bivariate CKKS</a> by **Jules Dumezy** on **May 23, 2026**
 - <a href="https://github.com/Hexens/awesome-fhe-attacks/" id="00201">Awesome FHE Attacks: A curated list of research, articles, tools, and resources focused on attacks against FHE</a> by **Hexens** on **April 23, 2026**
 - <a href="https://securitynotionszoo.com/" id="00199">Security Notions Zoo: A taxonomy site for cryptography security notions for FHE</a> by **Jules Dumezy and Marc Renard** on **April 15, 2026**
