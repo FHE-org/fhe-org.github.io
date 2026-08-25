@@ -14,9 +14,10 @@ Have a suggestion for our next digest? Let us know on the FHE.org <a href="https
 # FHE.org Digest [<img src="https://img.shields.io/badge/Edit%20this%20page%20on-Github-lightgrey?style=flat-square">](https://github.com/FHE-org/fhe-org.github.io/blob/main/digest/README.md)
 
 ## Latest FHE.org Digest Issue
-- <a href="https://fheorg.substack.com/p/fheorg-digest-40-academic-conferences" id="00040">FHE.org Digest - Issue 40</a> by **FHE.org** on **Jun 30, 2026**<br>
+- <a href="https://fheorg.substack.com/p/fheorg-digest-41-fheorg-2027-program" id="00040">FHE.org Digest - Issue 41</a> by **FHE.org** on **July 31, 2026**<br>
 
 ## Previous FHE.org Digest Issues
+- <a href="https://fheorg.substack.com/p/fheorg-digest-40-academic-conferences" id="00040">FHE.org Digest - Issue 40</a> by **FHE.org** on **Jun 30, 2026**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-39-academic-conferences" id="00039">FHE.org Digest - Issue 39</a> by **FHE.org** on **May 29, 2026**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-38-fheorg-2026-conference" id="00038">FHE.org Digest - Issue 38</a> by **FHE.org** on **Jan 30, 2026**<br>
 - <a href="https://fheorg.substack.com/p/fheorg-digest-37-2025-one-year-review" id="00037">FHE.org Digest - Issue 37</a> by **FHE.org** on **Dec 17, 2025**<br>
