@@ -7,7 +7,7 @@
 <!-- /Main header navigation -->
 
 # FHE.org Software Day 2026
-#### 2026.09.24
+#### 2026.09.24, 1800-2100 CEST
 #### <a href="https://luma.com/e3w9jklp">Register for Software Day</a> | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 <a href="https://luma.com/e3w9jklp"><img width="900" alt="FHE.org Software Day 2026" src="https://github.com/user-attachments/assets/11b21e81-9264-409b-8d12-0a3fe08adb49" /></a>
 
@@ -24,13 +24,20 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
 
 # Schedule
 
-TBD
+1800-2100 CEST
 
+# Confirmed Speakers
+
+### Kim Laine, Microsoft
+
+**Ten Years of SEAL: What I Learned from Building an FHE Library**
+
+Microsoft SEAL was started more than a decade ago as my internship project at Microsoft Research. It propelled my career at Microsoft into an incredible journey of countless collaborators, rewarding research projects, endless engineering challenges, sweet successes, and deep disappointments. In this talk I will share some highlights from this
 
 
 # Register for Software Day
 
-RSVP for the meetup [here](https://luma.com/e3w9jklp).
+RSVP for the event [here](https://luma.com/e3w9jklp).
 
 # Never miss an update
 
