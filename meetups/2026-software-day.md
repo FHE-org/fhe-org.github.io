@@ -28,11 +28,19 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
 
 # Confirmed Speakers
 
-### Kim Laine, Microsoft
+### Kim Laine (Microsoft)
 
 **Ten Years of SEAL: What I Learned from Building an FHE Library**
 
 Microsoft SEAL was started more than a decade ago as my internship project at Microsoft Research. It propelled my career at Microsoft into an incredible journey of countless collaborators, rewarding research projects, endless engineering challenges, sweet successes, and deep disappointments. In this talk I will share some highlights from this
+
+### Andreea Alexandru (Duality) and Shruthi Gorantala (Google)
+
+**FHE Benchmarking Suite**
+
+Homomorphic encryption has advanced quickly, but because measurement conditions differ from one result to the next, systematic, objective comparison of real progress has remained out of reach. The FHE Use Cases and Benchmarking effort of HomomorphicEncryption.org provides standardized, end-to-end workloads for measuring the cost of computing on encrypted data, enabling application developers to assess feasibility and implementers to compare solutions on equal footing across hardware platforms. The framework accommodates open-source, closed-source, and hardware-accelerated backends alike.
+
+In this talk, we present the latest status of the benchmark suite and highlight newly integrated workloads. Drawing from initial submission rounds, we analyze insights on hardware acceleration, memory bottlenecks, and deployment trade-offs and discuss opportunities for community collaboration to shape the next generation of benchmarks.
 
 
 # Register for Software Day
