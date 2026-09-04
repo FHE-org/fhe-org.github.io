@@ -32,7 +32,7 @@ For more information and link to RSVP, see the event page on Luma: https://lu.ma
 
 **Ten Years of SEAL: What I Learned from Building an FHE Library**
 
-Microsoft SEAL was started more than a decade ago as my internship project at Microsoft Research. It propelled my career at Microsoft into an incredible journey of countless collaborators, rewarding research projects, endless engineering challenges, sweet successes, and deep disappointments. In this talk I will share some highlights from this
+Microsoft SEAL was started more than a decade ago as my internship project at Microsoft Research. It propelled my career at Microsoft into an incredible journey of countless collaborators, rewarding research projects, endless engineering challenges, sweet successes, and deep disappointments. In this talk I will share some highlights from this journey and some of my most valuable learnings.
 
 ### Andreea Alexandru (Duality) and Shruthi Gorantala (Google)
 
