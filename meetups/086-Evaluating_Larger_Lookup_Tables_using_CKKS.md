@@ -1,4 +1,4 @@
-<!-- Main header navigation -->
+[Slides_Evaluating_Large_LUTs_CKKS_Handout.pdf](https://github.com/user-attachments/files/31999241/Slides_Evaluating_Large_LUTs_CKKS_Handout.pdf)<!-- Main header navigation -->
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/5758427/180978488-db825482-5a58-4c7c-9589-c494a6f0be04.png"><br/>
   <a href="https://fhe-org.github.io">Home</a> | <a href="https://fhe-org.github.io/resources">Resources</a> | <a href="https://fhe-org.github.io/meetups/">Meetups</a> | <a href="https://fhe-org.github.io/conferences/conference-2027/">Conference 2027</a> | <a href="https://fhe-org.github.io/community">Join the community</a>
@@ -8,7 +8,7 @@
 
 # Evaluating Larger Lookup Tables using CKKS
 #### by Jules Dumezy - 2026.03.19
-#### <a href="https://luma.com/FHE.org-086">Register for meetup</a> (Lu.ma) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
+#### <a href="https://github.com/user-attachments/files/31999212/Slides_Evaluating_Large_LUTs_CKKS_Handout.pdf">Slides</a> (Github) | <a href="https://discord.fhe.org">Join the discussion</a> (Discord)
 
 <a href="https://luma.com/FHE.org-086"><img width="900" height="507" alt="FHE.org 086" src="https://github.com/user-attachments/assets/4917be0f-3c04-4fab-a2e1-b41c67114f7a" /></a>
 
