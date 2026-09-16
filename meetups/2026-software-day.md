@@ -19,7 +19,7 @@ The focus will be around topics in FHE Software.
 
 The event will comprise four talks split into two sessions of two, and a separate panel session. Each talk will be 25 minutes, with a short time for questions. The panel session will be guided with some initial questions from the host, before moving to an audience-based question and answer session.
 
-For more information and link to RSVP, see the event page on Luma: https://lu.ma/2skte98w
+For more information and link to RSVP, see the <a href="https://luma.com/softwareday2026">event page on Luma.</a>
 
 
 # Schedule
