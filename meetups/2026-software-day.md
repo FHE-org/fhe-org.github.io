@@ -42,6 +42,18 @@ Homomorphic encryption has advanced quickly, but because measurement conditions 
 
 In this talk, we present the latest status of the benchmark suite and highlight newly integrated workloads. Drawing from initial submission rounds, we analyze insights on hardware acceleration, memory bottlenecks, and deployment trade-offs and discuss opportunities for community collaboration to shape the next generation of benchmarks.
 
+### Guillaume Hanrot (CryptoLab)
+
+**Sylph: Scaling CKKS Inference for Llama-3-8B** 
+
+CKKS's design, which jointly offers high-throughput SIMD computation and real-number arithmetic, makes it especially well suited to privacy-preserving evaluation of AI primitives. Over the past decade, progress in CKKS algorithms and implementations has moved the target of encrypted inference from small neural networks to modern CNNs and, more recently, to LLMs with billions of parameters.
+
+In this talk, we present Sylph, CryptoLab's end-to-end homomorphic implementation of Llama-3-8B, built on the HEaaN2 library. On eight NVIDIA RTX PRO 6000 GPUs, Sylph processes a fully encrypted 128-token
+prompt in 20 seconds. This compares with a previously reported prefill time of 134 seconds on eight B200 GPUs for the same 128-token setting. Sylph also handles heterogeneous prompts, in which a long public context is followed by a short sensitive suffix. With 3968 public tokens and 128 encrypted tokens, prefill takes 64 seconds.
+
+At the model level, Sylph uses sink-token prefixing and orthogonal rotations to mitigate activation outliers without retraining. At the cryptographic level, Sylph optimizes state-of-the-art homomorphic algorithms for linear algebra. For long contexts, a dedicated one-level plaintext-ciphertext matrix multiplication and a shallow
+Softmax design keep the attention phase almost bootstrapping-free, which is key to its efficiency.
+
 
 # Register for Software Day
 
