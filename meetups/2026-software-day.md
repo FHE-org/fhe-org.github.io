@@ -24,7 +24,52 @@ For more information and link to RSVP, see the <a href="https://luma.com/softwar
 
 # Schedule
 
-1800-2100 CEST
+<table>
+  <thead>
+    <tr>
+      <th data-sortas="case-insensitive">Time</th>
+      <th data-sortas="case-insensitive">Session Topic</th>
+      <th data-sortas="case-insensitive">Speakers</th>
+      <th data-sortas="case-insensitive">Resources</th>
+    </tr>
+  </thead>
+  <tr>
+    <td width=100px>1800 CEST</td>
+    <td width=400px>Ten Years of SEAL: What I Learned from Building an FHE Library</td>
+    <td>Kim Laine (Microsoft)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width=100px>1830 CEST</td>
+    <td width=400px>Sylph: Scaling CKKS Inference for Llama-3-8B</td>
+    <td>Guillaume Hanrot (CryptoLab)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width=100px>1900 CEST</td>
+    <td width=400px>Panel: Developing with FHE: Insights, Challenges, and
+    <td>Arthur Meyre (Zama), David Archer (Niobium), and Yuriy Polyakov (Duality)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width=100px>2000 CEST</td>
+    <td width=400px>How TFHE became practical</td>
+    <td>Jean-Baptiste Orfila (Zama)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width=100px>2030 CEST</td>
+    <td width=400px>FHE Benchmarking Suite</td>
+    <td>Andreea Alexandru (Duality) and Shruthi Gorantala (Google)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width=100px>2100 CEST</td>
+    <td width=400px>FHE.org Announcements and Closing</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 # Confirmed Speakers
 
@@ -53,6 +98,12 @@ prompt in 20 seconds. This compares with a previously reported prefill time of 1
 
 At the model level, Sylph uses sink-token prefixing and orthogonal rotations to mitigate activation outliers without retraining. At the cryptographic level, Sylph optimizes state-of-the-art homomorphic algorithms for linear algebra. For long contexts, a dedicated one-level plaintext-ciphertext matrix multiplication and a shallow
 Softmax design keep the attention phase almost bootstrapping-free, which is key to its efficiency.
+
+### Jean-Baptiste Orfila (Zama)
+
+**How TFHE became practical**
+
+FHE has moved from research curiosity to production. Its historical blocker, execution time, has been overcome not only through cryptographic advances, but also by aligning the implementation of FHE primitives with the hardware that runs them. Focusing on TFHE, we show how its core primitive, bootstrapping, has been adapted to three very different platforms (CPUs, GPUs, and FPGAs), reaching sub-millisecond latency, and what it takes to make all three easily accessible through a single library, TFHE-rs. Beyond performance, we highlight other deployment challenges, from meeting security requirements in practice to fitting FHE into concrete use cases. 
 
 
 # Register for Software Day
