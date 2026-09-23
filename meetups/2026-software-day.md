@@ -24,52 +24,17 @@ For more information and link to RSVP, see the <a href="https://luma.com/softwar
 
 # Schedule
 
-<table>
-  <thead>
-    <tr>
-      <th data-sortas="case-insensitive">Time</th>
-      <th data-sortas="case-insensitive">Session Topic</th>
-      <th data-sortas="case-insensitive">Speakers</th>
-      <th data-sortas="case-insensitive">Resources</th>
-    </tr>
-  </thead>
-  <tr>
-    <td width=100px>1800 CEST</td>
-    <td width=400px>Ten Years of SEAL: What I Learned from Building an FHE Library</td>
-    <td>Kim Laine (Microsoft)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td width=100px>1830 CEST</td>
-    <td width=400px>Sylph: Scaling CKKS Inference for Llama-3-8B</td>
-    <td>Guillaume Hanrot (CryptoLab)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td width=100px>1900 CEST</td>
-    <td width=400px>Panel: Developing with FHE: Insights, Challenges, and
-    <td>Arthur Meyre (Zama), David Archer (Niobium), and Yuriy Polyakov (Duality)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td width=100px>2000 CEST</td>
-    <td width=400px>How TFHE became practical</td>
-    <td>Jean-Baptiste Orfila (Zama)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td width=100px>2030 CEST</td>
-    <td width=400px>FHE Benchmarking Suite</td>
-    <td>Andreea Alexandru (Duality) and Shruthi Gorantala (Google)</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td width=100px>2100 CEST</td>
-    <td width=400px>FHE.org Announcements and Closing</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+​18:00: Kim Laine (Microsoft): Ten Years of SEAL: What I Learned from Building an FHE Library
+
+​18:30: Guillaume Hanrot (CryptoLab): Sylph: Scaling CKKS Inference for Llama-3-8B
+
+​19:00: Panel: Developing with FHE, with Arthur Meyre (Zama), David Archer (Niobium), Yuriy Polyakov (Duality)
+
+​20:00: Jean-Baptiste Orfila (Zama): How TFHE became practical
+
+​20:30: Andreea Alexandru (Duality) & Shruthi Gorantala (Google): FHE Benchmarking Suite
+
+​21:00: FHE.org Announcements and Closing
 
 # Confirmed Speakers
 
