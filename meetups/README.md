@@ -23,6 +23,7 @@ As a part of the meetups, we interview presenters (and other community members) 
 FHE.org meetups archive, latest first.
 
 ### 2026
+- [FHE.org Software Day 2026](https://fhe.org/meetups/2026-software-day) by *(in order of presentation appearance)* **Kim Laine (Microsoft), Guillaume Hanrot (CryptoLab), Arthur Meyre (Zama), David Archer (Niobium), Yuriy Polyakov (Duality Technologies), Jean-Baptiste Orfila (Zama), Andreea Alexandru (Duality), and Shruthi Gorantala (Google)** on **Sept 24th, 2026**
 - [Failure Probability in FHE Measured with Rare Event Simulation](https://fhe.org/meetups/087) by **Mathieu Ballandras** on **Apr 2nd, 2026**
 - [Evaluating Larger Lookup Tables using CKKS](https://fhe.org/meetups/086) by **Jules Dumezy** on **Mar 19th, 2026**
 - [FHE in Production](https://fhe.org/meetups/085) by **Rotem Tsabary** on **Feb 26th, 2026**
