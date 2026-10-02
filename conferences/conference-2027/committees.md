@@ -37,7 +37,38 @@
 - **David Archer** *Niobium*
 - **Rachel Player** *Royal Holloway, University of London*
 
+## General chair
+- **Benjamin Curtis** *Zama*
+
 ## Program committee
-TBA
+- **Andreea Alexandru** *Duality Technologies*
+- **Asra Ali** *Freedom of the Press Foundation*
+- **Daniel Apon** *Anduril*
+- **Song Bian** *Beihang University*
+- **Fabian Boemer** *Apple*
+- **Sergiu Carpov** *Arcium*
+- **Anamaria Costache** *Ecole Polytechnique*
+- **Gabrielle De Micheli** *LG Electronics USA, Inc.*
+- **Jules Dumezy** *University of Paris-Saclay, CEA-List*
+- **Robin Geelen** *COSIC KU Leuven*
+- **Antonio Guimarães** *IMDEA Software Institute*
+- **Guillaume Hanrot** *CryptoLab*
+- **Emad Heydari Beni** *Nokia Bell Labs & KU Leuven*
+- **Intak Hwang** *Seoul National University*
+- **Jiayi Kang** *Monash University*
+- **Jaehyung Kim** *Stanford University*
+- **Miran Kim** *Hanyang University*
+- **Damien Ligier** *Desilo*
+- **Hilder Vitor Lima Pereira** *Universidade Estadual de Campinas (UNICAMP)*
+- **Zeyu Liu** *Yale University*
+- **Chiara Marcolla** *Technology Innovation Institute*
+- **Florent Michel** *Optalysys*
+- **Christian Mouchet** *Independent researcher*
+- **Jean-Baptiste Orfila** *Zama*
+- **Jeongeun Park** *Norwegian University of Science and Technology (NTNU)*
+- **Sujoy Sinha Roy** *Graz University of Technology*
+- **Ravital Solomon** *Fhenix*
+- **Binwu Xiang** *East China Normal University, Shanghai*
+- **Hongren Zheng** *Tsinghua University*
 
 
