@@ -50,7 +50,7 @@
 - **Anamaria Costache** *Ecole Polytechnique*
 - **Gabrielle De Micheli** *LG Electronics USA, Inc.*
 - **Jules Dumezy** *University of Paris-Saclay, CEA-List*
-- **Robin Geelen** *COSIC KU Leuven*
+- **Robin Geelen** *Belfort and KU Leuven*
 - **Antonio Guimarães** *IMDEA Software Institute*
 - **Guillaume Hanrot** *CryptoLab*
 - **Emad Heydari Beni** *Nokia Bell Labs & KU Leuven*
