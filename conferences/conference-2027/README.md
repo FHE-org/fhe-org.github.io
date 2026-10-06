@@ -55,6 +55,6 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 
 ## ICW-IACR
 
-FHE.org 2027 is held in cooperation with [IACR](https://iacr.org/) (ICW-IACR).
+FHE.org 2027 is held in Cooperation with [IACR](https://iacr.org/) (ICW-IACR).
 
 <a href="https://iacr.org/"><img src="https://github.com/user-attachments/assets/7789fe65-87ec-4368-bf3c-7af71254b9bf" width="150px"></a>
