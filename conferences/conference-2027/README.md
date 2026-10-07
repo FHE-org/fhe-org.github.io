@@ -50,7 +50,7 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **2026.08.04:** Call for presentations posted
 
 ## Sponsors
-*Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences just as our [2026 sponsors](https://fhe.org/conferences/conference-2026/sponsor) have. Reach out to us at contact@fhe.org.*
+*Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences just as our [2026 sponsors](https://fhe.org/conferences/conference-2026/sponsor) have. Reach out to us at [contact@fhe.org](mailto:contact@fhe.org).*
 
 
 ## ICW-IACR
