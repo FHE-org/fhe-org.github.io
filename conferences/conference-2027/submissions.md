@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2027/">Home</a>
   —
-  Register
+  <a href="https://luma.com/fhe-org-conference-2027-tickets">Register</a>
   —
   Program
   —

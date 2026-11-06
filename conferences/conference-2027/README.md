@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://fhe-org.github.io/conferences/conference-2027/"><b>Home</b></a>
   —
-  Register
+  <a href="https://luma.com/fhe-org-conference-2027-tickets">Register</a>
   —
   Program
   —
@@ -37,11 +37,15 @@ The 6th Annual FHE.org Conference on Fully Homomorphic Encryption is a co-locate
 
 The conference will feature presentation sessions, poster sessions, invited speakers, and our usual after party.
 
+### [Register here](https://luma.com/fhe-org-conference-2027-tickets)
+
+Students are admitted for free: select "Student ticket" and register with your academic email address, and the FHE.org team will approve your registration after verification. Note that this is an onsite-only event with no livestream; as usual, selected resources will be shared after the conference.
+
 For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.substack.com/).
 
 
 ## Important dates
-- **Submission deadline:** November 1, 2026 (23:59 AoE)
+- ~~**Submission deadline:** November 1, 2026 (23:59 AoE)~~
 - **Notification:** December 18, 2026
 - **Conference date:** April 4, 2027
 
@@ -50,6 +54,8 @@ For updates, make sure to subscribe to the [FHE.org newsletter](https://fheorg.s
 - **2026.07.08:** Program Chairs announced (David Archer and Rachel Player)
 - **2026.07.31:** Submission deadline and notification date posted
 - **2026.08.04:** Call for presentations posted
+- **2026.10.15:** Registrations are now open ([register here](https://luma.com/fhe-org-conference-2027-tickets))
+- **2026.11.01:** The submission server is now closed, 69 submissions were received
 
 ## Sponsors
 *Interested in showing your support for FHE research and development through your company? Consider sponsoring this or future conferences just as our [2026 sponsors](https://fhe.org/conferences/conference-2026/sponsor) have. Reach out to us at [contact@fhe.org](mailto:contact@fhe.org).*
